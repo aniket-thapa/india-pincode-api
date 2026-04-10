@@ -1,0 +1,36 @@
+{
+    "state": "TELANGANA",
+    "district": "MANCHERIAL",
+    "offices": [
+        {
+            "officeName": "Devapur Cement Works S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Adilabad Division",
+            "latitude": 19.031052,
+            "longitude": 79.35165
+        },
+        {
+            "officeName": "Sonapur  B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Adilabad Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Tirmalapur",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Adilabad Division",
+            "latitude": 19.098823,
+            "longitude": 79.372186
+        }
+    ]
+}

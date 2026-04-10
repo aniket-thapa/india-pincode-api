@@ -1,0 +1,56 @@
+{
+    "state": "BIHAR",
+    "district": "BHOJPUR",
+    "offices": [
+        {
+            "officeName": "Kayamnagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhojpur Division",
+            "latitude": 25.5587222,
+            "longitude": 84.6674722
+        },
+        {
+            "officeName": "Birampur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhojpur Division",
+            "latitude": 25.593051,
+            "longitude": 84.725305
+        },
+        {
+            "officeName": "Sripalpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhojpur Division",
+            "latitude": 25.73724,
+            "longitude": 84.464385
+        },
+        {
+            "officeName": "Bishunpur Dumaria BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhojpur Division",
+            "latitude": 25.564876,
+            "longitude": 84.596913
+        },
+        {
+            "officeName": "Gidha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhojpur Division",
+            "latitude": 25.589084,
+            "longitude": 84.741561
+        }
+    ]
+}

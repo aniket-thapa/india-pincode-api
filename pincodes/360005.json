@@ -1,0 +1,46 @@
+{
+    "state": "GUJARAT",
+    "district": "RAJKOT",
+    "offices": [
+        {
+            "officeName": "Kankot BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Rajkot Division",
+            "latitude": 22.241552,
+            "longitude": 70.7334603
+        },
+        {
+            "officeName": "Rajkot Sau Uni Area SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Rajkot Division",
+            "latitude": 22.2757222,
+            "longitude": 70.7548889
+        },
+        {
+            "officeName": "Mota Mava SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Rajkot Division",
+            "latitude": 22.2665113,
+            "longitude": 70.7421153
+        },
+        {
+            "officeName": "Raiya NDT SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Rajkot Division",
+            "latitude": 22.299775,
+            "longitude": 70.748198
+        }
+    ]
+}

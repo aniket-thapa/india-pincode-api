@@ -1,0 +1,76 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "JABALPUR",
+    "offices": [
+        {
+            "officeName": "Adhartal S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Jabalpur Division",
+            "latitude": 23.2043056,
+            "longitude": 79.9528611
+        },
+        {
+            "officeName": "Maharajpur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Jabalpur Division",
+            "latitude": 23.228925,
+            "longitude": 79.963205
+        },
+        {
+            "officeName": "Amkhera B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Jabalpur Division",
+            "latitude": 23.213063,
+            "longitude": 79.932083
+        },
+        {
+            "officeName": "Khajri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Jabalpur Division",
+            "latitude": 23.242004,
+            "longitude": 79.943054
+        },
+        {
+            "officeName": "Kanchanpur S.O (Jabalpur)",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Jabalpur Division",
+            "latitude": 23.200448,
+            "longitude": 79.963346
+        },
+        {
+            "officeName": "Subhash Nagar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Jabalpur Division",
+            "latitude": 23.196442,
+            "longitude": 79.943028
+        },
+        {
+            "officeName": "Anand Nagar S.O (Jabalpur)",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Jabalpur Division",
+            "latitude": 23.196411,
+            "longitude": 79.943032
+        }
+    ]
+}

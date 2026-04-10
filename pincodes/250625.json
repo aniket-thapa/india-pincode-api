@@ -1,0 +1,56 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "BAGHPAT",
+    "offices": [
+        {
+            "officeName": "Gangnauli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Baghpat Division",
+            "latitude": 29.20414,
+            "longitude": 77.3275
+        },
+        {
+            "officeName": "Mozizabad Nangal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Baghpat Division",
+            "latitude": 29.1812,
+            "longitude": 77.3324
+        },
+        {
+            "officeName": "Nirpura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Baghpat Division",
+            "latitude": 29.231,
+            "longitude": 77.3979
+        },
+        {
+            "officeName": "Sujti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Baghpat Division",
+            "latitude": 29.227,
+            "longitude": 77.3301
+        },
+        {
+            "officeName": "Tikri SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Baghpat Division",
+            "latitude": 29.2307,
+            "longitude": 77.35181
+        }
+    ]
+}

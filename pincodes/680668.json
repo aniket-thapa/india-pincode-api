@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "THRISSUR",
+    "offices": [
+        {
+            "officeName": "Kothaparamba SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Irinjalakuda Division",
+            "latitude": 10.5020556,
+            "longitude": 76.2025278
+        },
+        {
+            "officeName": "Santhipuram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Irinjalakuda Division",
+            "latitude": 10.28,
+            "longitude": 76.19
+        },
+        {
+            "officeName": "Pathazhakkad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Irinjalakuda Division",
+            "latitude": 10.28,
+            "longitude": 76.16
+        }
+    ]
+}

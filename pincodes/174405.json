@@ -1,0 +1,36 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "HAMIRPUR",
+    "offices": [
+        {
+            "officeName": "Gahli Kohlwin BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hamirpur Division",
+            "latitude": 31.5923,
+            "longitude": 76.4595
+        },
+        {
+            "officeName": "Mair BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hamirpur Division",
+            "latitude": 31.6861,
+            "longitude": 76.5213
+        },
+        {
+            "officeName": "Hareta SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hamirpur Division",
+            "latitude": 31.6082,
+            "longitude": 76.484222
+        }
+    ]
+}

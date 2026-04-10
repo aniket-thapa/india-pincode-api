@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "RAIGAD",
+    "offices": [
+        {
+            "officeName": "Mazgaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Navi Mumbai Division",
+            "latitude": 18.36,
+            "longitude": 72.93
+        },
+        {
+            "officeName": "Patalganga S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Navi Mumbai Division",
+            "latitude": 18.8848056,
+            "longitude": 73.1736667
+        },
+        {
+            "officeName": "Vashivali B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Navi Mumbai Division",
+            "latitude": 18.36,
+            "longitude": 72.93
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "HAMIRPUR",
+    "offices": [
+        {
+            "officeName": "Mundkhar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hamirpur Division",
+            "latitude": 31.6028,
+            "longitude": 76.6939
+        },
+        {
+            "officeName": "Karohta BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hamirpur Division",
+            "latitude": 31.5951,
+            "longitude": 76.6607
+        }
+    ]
+}

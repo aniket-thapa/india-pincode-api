@@ -1,0 +1,26 @@
+{
+    "state": "DELHI",
+    "district": "South East",
+    "offices": [
+        {
+            "officeName": "Dargah Sharif SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South Division",
+            "latitude": 28.5912222,
+            "longitude": 77.2423333
+        },
+        {
+            "officeName": "Hazrat Nizamuddin SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South Division",
+            "latitude": 28.58775,
+            "longitude": 77.2505833
+        }
+    ]
+}

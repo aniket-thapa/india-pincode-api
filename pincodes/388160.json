@@ -1,0 +1,36 @@
+{
+    "state": "GUJARAT",
+    "district": "ANAND",
+    "offices": [
+        {
+            "officeName": "Amod BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Kheda Division",
+            "latitude": 22.476645,
+            "longitude": 72.799206
+        },
+        {
+            "officeName": "Khadana BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Kheda Division",
+            "latitude": 22.4577389,
+            "longitude": 72.7509429
+        },
+        {
+            "officeName": "Pandoli SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Kheda Division",
+            "latitude": 22.5591944,
+            "longitude": 72.9641389
+        }
+    ]
+}

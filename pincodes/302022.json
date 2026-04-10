@@ -1,0 +1,46 @@
+{
+    "state": "RAJASTHAN",
+    "district": "JAIPUR",
+    "offices": [
+        {
+            "officeName": "Goner BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur City Division",
+            "latitude": 26.886463,
+            "longitude": 75.834122
+        },
+        {
+            "officeName": "Bilwa B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur City Division",
+            "latitude": 26.730041,
+            "longitude": 75.83887
+        },
+        {
+            "officeName": "Sitapura Industrial Area S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur City Division",
+            "latitude": 26.7791667,
+            "longitude": 75.8383333
+        },
+        {
+            "officeName": "Vidhani BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur City Division",
+            "latitude": 26.774535,
+            "longitude": 75.879538
+        }
+    ]
+}

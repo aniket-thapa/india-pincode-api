@@ -1,0 +1,26 @@
+{
+    "state": "JAMMU AND KASHMIR",
+    "district": "KATHUA",
+    "offices": [
+        {
+            "officeName": "Rajpura SO Kathua",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Jammu Division",
+            "latitude": 32.485561,
+            "longitude": 75.182262
+        },
+        {
+            "officeName": "Chiliari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Jammu Division",
+            "latitude": 34.699214,
+            "longitude": 74.235614
+        }
+    ]
+}

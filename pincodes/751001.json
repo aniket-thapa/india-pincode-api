@@ -1,0 +1,46 @@
+{
+    "state": "ODISHA",
+    "district": "KHORDHA",
+    "offices": [
+        {
+            "officeName": "A G S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhubaneswar Division",
+            "latitude": 20.2680556,
+            "longitude": 85.8288333
+        },
+        {
+            "officeName": "Odisha  Assembly S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhubaneswar Division",
+            "latitude": 20.2732066,
+            "longitude": 85.8314149
+        },
+        {
+            "officeName": "Bhubaneswar Secretariate S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhubaneswar Division",
+            "latitude": 20.2696111,
+            "longitude": 85.8313056
+        },
+        {
+            "officeName": "Bhubaneswar G.P.O.",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhubaneswar Division",
+            "latitude": 20.2723056,
+            "longitude": 85.8339722
+        }
+    ]
+}

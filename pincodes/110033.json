@@ -1,0 +1,66 @@
+{
+    "state": "DELHI",
+    "district": "NORTH",
+    "offices": [
+        {
+            "officeName": "Jahangir Puri H Block SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7271389,
+            "longitude": 77.1749722
+        },
+        {
+            "officeName": "Adrash Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7164722,
+            "longitude": 77.175
+        },
+        {
+            "officeName": "Jahangir Puri D Block SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7305,
+            "longitude": 77.1754722
+        },
+        {
+            "officeName": "Jahangir Puri A Block SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.72775,
+            "longitude": 77.1636111
+        },
+        {
+            "officeName": "Bhalaswa BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.72775,
+            "longitude": 77.1636111
+        },
+        {
+            "officeName": "NSMandi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7126944,
+            "longitude": 77.1733333
+        }
+    ]
+}

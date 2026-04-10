@@ -1,0 +1,66 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "AURANGABAD",
+    "offices": [
+        {
+            "officeName": "Pimpalwadi (Pirachi) B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Chhatrapati Sambhajinagar Division",
+            "latitude": 19.5310552,
+            "longitude": 75.3805567
+        },
+        {
+            "officeName": "Narayangaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Chhatrapati Sambhajinagar Division",
+            "latitude": 19.5354981,
+            "longitude": 75.4169808
+        },
+        {
+            "officeName": "Wahegaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Chhatrapati Sambhajinagar Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Paithan Sakhar Karkhana S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Chhatrapati Sambhajinagar Division",
+            "latitude": 19.545871,
+            "longitude": 75.378904
+        },
+        {
+            "officeName": "Issarwadi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Chhatrapati Sambhajinagar Division",
+            "latitude": 19.56145,
+            "longitude": 75.43761
+        },
+        {
+            "officeName": "Katpur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Chhatrapati Sambhajinagar Division",
+            "latitude": 19.56145,
+            "longitude": 75.43761
+        }
+    ]
+}

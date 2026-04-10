@@ -1,0 +1,36 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "KANNAUJ",
+    "offices": [
+        {
+            "officeName": "Rohili BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Fatehgarh Division",
+            "latitude": 27.205325,
+            "longitude": 79.579566
+        },
+        {
+            "officeName": "Tera Jaket BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Fatehgarh Division",
+            "latitude": 27.205325,
+            "longitude": 79.579566
+        },
+        {
+            "officeName": "Sarai Prayag SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Fatehgarh Division",
+            "latitude": 27.1245833,
+            "longitude": 79.0
+        }
+    ]
+}

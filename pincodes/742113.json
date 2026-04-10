@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "MURSHIDABAD",
+    "offices": [
+        {
+            "officeName": "Dalelpara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Murshidabad Division",
+            "latitude": 24.1923,
+            "longitude": 88.2688
+        },
+        {
+            "officeName": "Rampur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Murshidabad Division",
+            "latitude": 24.1343,
+            "longitude": 87.9194
+        },
+        {
+            "officeName": "Debipur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Murshidabad Division",
+            "latitude": 24.3833333,
+            "longitude": 89.05
+        }
+    ]
+}

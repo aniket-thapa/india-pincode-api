@@ -1,0 +1,46 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "KOLHAPUR",
+    "offices": [
+        {
+            "officeName": "Takali S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Kolhapur Division",
+            "latitude": 16.614612,
+            "longitude": 74.6219036
+        },
+        {
+            "officeName": "Takaliwadi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Kolhapur Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Khidrapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Kolhapur Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Rajapurwadi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Kolhapur Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

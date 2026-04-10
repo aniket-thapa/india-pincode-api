@@ -1,0 +1,46 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "SANGLI",
+    "offices": [
+        {
+            "officeName": "Kanchanpur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "SANGLI DIVISION",
+            "latitude": 16.81,
+            "longitude": 74.64
+        },
+        {
+            "officeName": "Upalavi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "SANGLI DIVISION",
+            "latitude": 16.98,
+            "longitude": 74.67
+        },
+        {
+            "officeName": "Kumatha B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "SANGLI DIVISION",
+            "latitude": 16.95,
+            "longitude": 74.65
+        },
+        {
+            "officeName": "Kavalapur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "SANGLI DIVISION",
+            "latitude": 16.9267323,
+            "longitude": 74.6131969
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "GUJARAT",
+    "district": "ANAND",
+    "offices": [
+        {
+            "officeName": "Vadod SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Anand Division",
+            "latitude": 22.5136,
+            "longitude": 72.9878
+        },
+        {
+            "officeName": "Gopalpura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Anand Division",
+            "latitude": 22.5244,
+            "longitude": 72.9949
+        }
+    ]
+}

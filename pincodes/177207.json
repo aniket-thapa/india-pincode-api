@@ -1,0 +1,36 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "UNA",
+    "offices": [
+        {
+            "officeName": "Khad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Una Division",
+            "latitude": 31.529274,
+            "longitude": 76.160417
+        },
+        {
+            "officeName": "Ispur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Una Division",
+            "latitude": 31.503034,
+            "longitude": 76.179563
+        },
+        {
+            "officeName": "Pandogha SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Una Division",
+            "latitude": 31.5040833,
+            "longitude": 76.1518611
+        }
+    ]
+}

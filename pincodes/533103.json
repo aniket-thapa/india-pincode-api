@@ -1,0 +1,26 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "EAST GODAVARI",
+    "offices": [
+        {
+            "officeName": "Danavaipeta S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Rajahmundry Division",
+            "latitude": 17.0051667,
+            "longitude": 81.7856944
+        },
+        {
+            "officeName": "Syamalanagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Rajahmundry Division",
+            "latitude": 17.01375,
+            "longitude": 81.7998611
+        }
+    ]
+}

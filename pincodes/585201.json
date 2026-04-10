@@ -1,0 +1,26 @@
+{
+    "state": "KARNATAKA",
+    "district": "YADGIR",
+    "offices": [
+        {
+            "officeName": "Yadgiri Town S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "YADGIRI DIVISION",
+            "latitude": 17.4,
+            "longitude": 76.21
+        },
+        {
+            "officeName": "Yadgiri H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "YADGIRI DIVISION",
+            "latitude": 16.7615556,
+            "longitude": 77.1353056
+        }
+    ]
+}

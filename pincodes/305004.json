@@ -1,0 +1,66 @@
+{
+    "state": "RAJASTHAN",
+    "district": "AJMER",
+    "offices": [
+        {
+            "officeName": "Regional College Ajmer S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Ajmer Division",
+            "latitude": 26.4816667,
+            "longitude": 74.4425
+        },
+        {
+            "officeName": "Vaishali Nagar Ajmer S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Ajmer Division",
+            "latitude": 26.4847222,
+            "longitude": 74.6183333
+        },
+        {
+            "officeName": "Chorsiawas B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Ajmer Division",
+            "latitude": 26.5705,
+            "longitude": 74.6744
+        },
+        {
+            "officeName": "Makarwali B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Ajmer Division",
+            "latitude": 26.5393,
+            "longitude": 74.6378
+        },
+        {
+            "officeName": "B.K.Kaul Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Ajmer Division",
+            "latitude": 26.4641,
+            "longitude": 74.6087
+        },
+        {
+            "officeName": "Panchsheel Nagar  S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Ajmer Division",
+            "latitude": 26.4913423,
+            "longitude": 74.6204066
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "DINDIGUL",
+    "offices": [
+        {
+            "officeName": "Angunagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Dindigul Division",
+            "latitude": 10.3783333,
+            "longitude": 77.9547222
+        },
+        {
+            "officeName": "Pandianagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Dindigul Division",
+            "latitude": 10.3704444,
+            "longitude": 77.9830278
+        },
+        {
+            "officeName": "Dindigul HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Dindigul Division",
+            "latitude": 10.363107,
+            "longitude": 77.981923
+        },
+        {
+            "officeName": "Dindigul Fort SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Dindigul Division",
+            "latitude": 10.3665833,
+            "longitude": 77.9683056
+        }
+    ]
+}

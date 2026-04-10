@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "PERAMBALUR",
+    "offices": [
+        {
+            "officeName": "Kolathur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Srirangam Division",
+            "latitude": 11.11,
+            "longitude": 78.98
+        },
+        {
+            "officeName": "Sathanur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Srirangam Division",
+            "latitude": 11.15,
+            "longitude": 78.98
+        },
+        {
+            "officeName": "Garudamangalam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Srirangam Division",
+            "latitude": 11.08,
+            "longitude": 78.92
+        },
+        {
+            "officeName": "Kolakkanatham S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Srirangam Division",
+            "latitude": 11.23,
+            "longitude": 78.86
+        }
+    ]
+}

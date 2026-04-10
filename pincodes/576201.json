@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "UDUPI",
+    "offices": [
+        {
+            "officeName": "Gandhimaidan SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Udupi Division",
+            "latitude": 13.623189,
+            "longitude": 74.691222
+        },
+        {
+            "officeName": "Kundapura Market SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Udupi Division",
+            "latitude": 13.63175,
+            "longitude": 74.6918333
+        },
+        {
+            "officeName": "Kundapura HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Udupi Division",
+            "latitude": 13.63175,
+            "longitude": 74.6918333
+        }
+    ]
+}

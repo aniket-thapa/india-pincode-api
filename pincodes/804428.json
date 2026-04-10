@@ -1,0 +1,26 @@
+{
+    "state": "BIHAR",
+    "district": "ARWAL",
+    "offices": [
+        {
+            "officeName": "Devkund B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "AurangabadBihar Division",
+            "latitude": 25.9591,
+            "longitude": 84.7811
+        },
+        {
+            "officeName": "Usari S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "AurangabadBihar Division",
+            "latitude": 25.24374,
+            "longitude": 84.663
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "GADAG",
+    "offices": [
+        {
+            "officeName": "Belhod B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Gadag Division",
+            "latitude": 15.582946,
+            "longitude": 75.5503784
+        },
+        {
+            "officeName": "Hombal S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Gadag Division",
+            "latitude": 15.5156977,
+            "longitude": 75.5573843
+        },
+        {
+            "officeName": "Lingdhal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Gadag Division",
+            "latitude": 15.5156977,
+            "longitude": 75.5573843
+        }
+    ]
+}

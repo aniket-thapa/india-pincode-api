@@ -1,0 +1,26 @@
+{
+    "state": "ODISHA",
+    "district": "GANJAM",
+    "offices": [
+        {
+            "officeName": "Industrial Estates S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Berhampur Division",
+            "latitude": 19.3029433,
+            "longitude": 84.8194683
+        },
+        {
+            "officeName": "Lanjipalli S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Berhampur Division",
+            "latitude": 19.3004183,
+            "longitude": 84.8040833
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "KARNATAKA",
+    "district": "BENGALURU URBAN",
+    "offices": [
+        {
+            "officeName": "Chikkalasandra S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Bengaluru South Division",
+            "latitude": 12.9089031,
+            "longitude": 77.5491803
+        },
+        {
+            "officeName": "Subramanyapura S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Bengaluru South Division",
+            "latitude": 12.8990862,
+            "longitude": 77.5441485
+        }
+    ]
+}

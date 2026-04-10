@@ -1,0 +1,56 @@
+{
+    "state": "TAMIL NADU",
+    "district": "KANNIYAKUMARI",
+    "offices": [
+        {
+            "officeName": "Mulachel B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kanniyakumari Division",
+            "latitude": 8.26,
+            "longitude": 77.31
+        },
+        {
+            "officeName": "Mettukadai S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kanniyakumari Division",
+            "latitude": 8.2448333,
+            "longitude": 77.3165
+        },
+        {
+            "officeName": "Padmanabhapuram Fort S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kanniyakumari Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Thuckalay H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kanniyakumari Division",
+            "latitude": 8.2415833,
+            "longitude": 77.3220833
+        },
+        {
+            "officeName": "Puliyurkurichi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kanniyakumari Division",
+            "latitude": 8.24,
+            "longitude": 77.34
+        }
+    ]
+}

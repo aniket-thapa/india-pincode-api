@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "KOLKATA",
+    "offices": [
+        {
+            "officeName": "Bowbazar SO Kolkata",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata Central Division",
+            "latitude": 22.5727778,
+            "longitude": 88.3475
+        },
+        {
+            "officeName": "Yogayog Bhawan SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata Central Division",
+            "latitude": 22.5686111,
+            "longitude": 88.3577778
+        },
+        {
+            "officeName": "Sankaritola SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata East Division",
+            "latitude": 22.5671389,
+            "longitude": 88.3649722
+        }
+    ]
+}

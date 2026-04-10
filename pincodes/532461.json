@@ -1,0 +1,76 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "SRIKAKULAM",
+    "offices": [
+        {
+            "officeName": "Talagam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Parvathipuram Division",
+            "latitude": 83.6011,
+            "longitude": 18.6475
+        },
+        {
+            "officeName": "Rajulagumada B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Parvathipuram Division",
+            "latitude": 83.5782,
+            "longitude": 18.6337
+        },
+        {
+            "officeName": "Vangara B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Parvathipuram Division",
+            "latitude": 83.6082,
+            "longitude": 18.6185
+        },
+        {
+            "officeName": "Seetharampuram Inam S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Parvathipuram Division",
+            "latitude": 18.6327222,
+            "longitude": 83.5971944
+        },
+        {
+            "officeName": "Rushingi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Parvathipuram Division",
+            "latitude": 83.586,
+            "longitude": 18.6592
+        },
+        {
+            "officeName": "Kottisa B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Parvathipuram Division",
+            "latitude": 83.5782,
+            "longitude": 18.6337
+        },
+        {
+            "officeName": "Sivvam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Parvathipuram Division",
+            "latitude": 83.62,
+            "longitude": 18.6274
+        }
+    ]
+}

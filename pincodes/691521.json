@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "KOLLAM",
+    "offices": [
+        {
+            "officeName": "Kulakkadathazham BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Quilon Division",
+            "latitude": 9.08,
+            "longitude": 76.73
+        },
+        {
+            "officeName": "Kulakkada East BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Quilon Division",
+            "latitude": 9.08,
+            "longitude": 76.74
+        },
+        {
+            "officeName": "Kulakada SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Quilon Division",
+            "latitude": 9.08,
+            "longitude": 76.75
+        }
+    ]
+}

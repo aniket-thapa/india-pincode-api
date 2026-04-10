@@ -1,0 +1,46 @@
+{
+    "state": "PUNJAB",
+    "district": "LUDHIANA",
+    "offices": [
+        {
+            "officeName": "Sihala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ludhiana Moffusil Division",
+            "latitude": 33.544072,
+            "longitude": 73.196911
+        },
+        {
+            "officeName": "Kotala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ludhiana Moffusil Division",
+            "latitude": 13.592359,
+            "longitude": 79.281759
+        },
+        {
+            "officeName": "Kakrala Kalan SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ludhiana Moffusil Division",
+            "latitude": 30.8491111,
+            "longitude": 76.3008888
+        },
+        {
+            "officeName": "Nanowal Kalan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ludhiana Moffusil Division",
+            "latitude": 31.852939,
+            "longitude": 75.499644
+        }
+    ]
+}

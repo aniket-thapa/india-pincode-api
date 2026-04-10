@@ -1,0 +1,66 @@
+{
+    "state": "TAMIL NADU",
+    "district": "ERODE",
+    "offices": [
+        {
+            "officeName": "Arasur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Erode Division",
+            "latitude": 11.455706,
+            "longitude": 77.276359
+        },
+        {
+            "officeName": "Kasipalayam SO Erode",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Erode Division",
+            "latitude": 11.459614,
+            "longitude": 77.331702
+        },
+        {
+            "officeName": "Odayagoundenpalayam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Erode Division",
+            "latitude": 11.441629,
+            "longitude": 77.301765
+        },
+        {
+            "officeName": "Akkaraikodiveri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Erode Division",
+            "latitude": 11.4605772,
+            "longitude": 77.30708
+        },
+        {
+            "officeName": "Gudakkarai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Erode Division",
+            "latitude": 11.396311,
+            "longitude": 77.270179
+        },
+        {
+            "officeName": "Kadathur Gobi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Erode Division",
+            "latitude": 11.423685,
+            "longitude": 77.285285
+        }
+    ]
+}

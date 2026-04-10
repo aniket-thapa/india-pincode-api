@@ -1,0 +1,46 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "GUNA",
+    "offices": [
+        {
+            "officeName": "Kherai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Guna Division",
+            "latitude": 24.4,
+            "longitude": 77.26
+        },
+        {
+            "officeName": "Ramnagar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Guna Division",
+            "latitude": 24.34,
+            "longitude": 77.18
+        },
+        {
+            "officeName": "Awan B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Guna Division",
+            "latitude": 24.4,
+            "longitude": 77.14
+        },
+        {
+            "officeName": "Raghogarh S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Guna Division",
+            "latitude": 24.66526,
+            "longitude": 77.360686
+        }
+    ]
+}

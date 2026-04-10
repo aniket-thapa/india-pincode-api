@@ -1,0 +1,46 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "SHIMLA",
+    "offices": [
+        {
+            "officeName": "Kiari SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Shimla Division",
+            "latitude": 31.1461389,
+            "longitude": 77.5462222
+        },
+        {
+            "officeName": "Galeha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Shimla Division",
+            "latitude": 31.0886325,
+            "longitude": 77.1290423
+        },
+        {
+            "officeName": "Panog BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Shimla Division",
+            "latitude": 30.91345,
+            "longitude": 77.12956
+        },
+        {
+            "officeName": "Deori Khaneti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Shimla Division",
+            "latitude": 31.2102,
+            "longitude": 77.1293
+        }
+    ]
+}

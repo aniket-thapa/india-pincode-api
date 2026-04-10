@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "VISAKHAPATANAM",
+    "offices": [
+        {
+            "officeName": "Yarada B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Visakhapatnam Division",
+            "latitude": 17.6631,
+            "longitude": 83.278028
+        },
+        {
+            "officeName": "Gandhigram S.O (Visakhapatnam)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Visakhapatnam Division",
+            "latitude": 17.704025,
+            "longitude": 83.296394
+        },
+        {
+            "officeName": "Nausenabagh S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Visakhapatnam Division",
+            "latitude": 17.682768,
+            "longitude": 83.252082
+        }
+    ]
+}

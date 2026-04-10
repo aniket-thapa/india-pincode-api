@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "COIMBATORE",
+    "offices": [
+        {
+            "officeName": "Nallamudi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Pollachi Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Mudis S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Pollachi Division",
+            "latitude": 10.2775,
+            "longitude": 76.9267
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "HARYANA",
+    "district": "PANIPAT",
+    "offices": [
+        {
+            "officeName": "Hathwala S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Karnal Division",
+            "latitude": 29.2262222,
+            "longitude": 77.1155556
+        },
+        {
+            "officeName": "Raksera B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Karnal Division",
+            "latitude": 29.5902777,
+            "longitude": 76.1099166
+        }
+    ]
+}

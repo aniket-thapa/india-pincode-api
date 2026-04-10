@@ -1,0 +1,56 @@
+{
+    "state": "CHANDIGARH",
+    "district": "CHANDIGARH",
+    "offices": [
+        {
+            "officeName": "Vidhansadan SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chandigarh Division",
+            "latitude": 30.7602777,
+            "longitude": 76.8024722
+        },
+        {
+            "officeName": "Khuda Ali Sher",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chandigarh Division",
+            "latitude": 30.74,
+            "longitude": 76.78
+        },
+        {
+            "officeName": "High Court SO Chandigarh",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chandigarh Division",
+            "latitude": 30.7573,
+            "longitude": 76.8066
+        },
+        {
+            "officeName": "Kaimbwala B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chandigarh Division",
+            "latitude": 25.7,
+            "longitude": 94.1
+        },
+        {
+            "officeName": "New Sectt Chandigarh SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chandigarh Division",
+            "latitude": 30.7333,
+            "longitude": 76.7794
+        }
+    ]
+}

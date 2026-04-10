@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "SOLAPUR",
+    "offices": [
+        {
+            "officeName": "Manegaon S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Solapur Division",
+            "latitude": 17.988878,
+            "longitude": 75.652544
+        },
+        {
+            "officeName": "Degaon  ( Valuj ) B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Solapur Division",
+            "latitude": 18.0295849,
+            "longitude": 75.508267
+        },
+        {
+            "officeName": "Khairao B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Solapur Division",
+            "latitude": 18.02,
+            "longitude": 75.63935
+        }
+    ]
+}

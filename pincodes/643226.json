@@ -1,0 +1,56 @@
+{
+    "state": "TAMIL NADU",
+    "district": "THE NILGIRIS",
+    "offices": [
+        {
+            "officeName": "Yellamalai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Nilgiris Division",
+            "latitude": 11.440304,
+            "longitude": 76.451247
+        },
+        {
+            "officeName": "Newhope S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Nilgiris Division",
+            "latitude": 11.34945,
+            "longitude": 76.802858
+        },
+        {
+            "officeName": "Glenvans B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Nilgiris Division",
+            "latitude": 11.421292,
+            "longitude": 76.475109
+        },
+        {
+            "officeName": "Seaforth BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Nilgiris Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Periashola B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Nilgiris Division",
+            "latitude": 11.45,
+            "longitude": 76.45
+        }
+    ]
+}

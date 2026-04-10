@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "offices": [
+        {
+            "officeName": "Mantralaya SO Mumbai",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City South Division",
+            "latitude": 18.928414,
+            "longitude": 72.826561
+        },
+        {
+            "officeName": "Secretariate SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City South Division",
+            "latitude": 18.928493,
+            "longitude": 72.830215
+        },
+        {
+            "officeName": "High Court Building SO Mumbai",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City South Division",
+            "latitude": 72.8302,
+            "longitude": 18.9311
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "SANGLI",
+    "offices": [
+        {
+            "officeName": "Padali B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "SANGLI DIVISION",
+            "latitude": 17.03,
+            "longitude": 75.6
+        },
+        {
+            "officeName": "Khalsa Dhamni B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "SANGLI DIVISION",
+            "latitude": 17.08,
+            "longitude": 74.62
+        },
+        {
+            "officeName": "Hatnoli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "SANGLI DIVISION",
+            "latitude": 17.03,
+            "longitude": 74.6
+        },
+        {
+            "officeName": "Visapur S.O (Sangli)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "SANGLI DIVISION",
+            "latitude": 17.1177127,
+            "longitude": 74.5869229
+        },
+        {
+            "officeName": "Hatnur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "SANGLI DIVISION",
+            "latitude": 17.08,
+            "longitude": 74.62
+        }
+    ]
+}

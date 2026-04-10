@@ -1,0 +1,46 @@
+{
+    "state": "RAJASTHAN",
+    "district": "CHURU",
+    "offices": [
+        {
+            "officeName": "Molisar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Churu Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Satra S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Churu Division",
+            "latitude": 28.4628889,
+            "longitude": 75.064
+        },
+        {
+            "officeName": "Binasar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Churu Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Raipuria B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Churu Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

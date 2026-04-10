@@ -1,0 +1,26 @@
+{
+    "state": "BIHAR",
+    "district": "SUPAUL",
+    "offices": [
+        {
+            "officeName": "Saheban BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Saharsa Division",
+            "latitude": 26.131709,
+            "longitude": 86.610711
+        },
+        {
+            "officeName": "Bhimnagar Bairrage SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Saharsa Division",
+            "latitude": 26.6299,
+            "longitude": 86.36399
+        }
+    ]
+}

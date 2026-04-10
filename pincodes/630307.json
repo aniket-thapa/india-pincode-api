@@ -1,0 +1,56 @@
+{
+    "state": "TAMIL NADU",
+    "district": "SIVAGANGA",
+    "offices": [
+        {
+            "officeName": "Kovilur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Karaikudi Division",
+            "latitude": 10.081679,
+            "longitude": 78.745792
+        },
+        {
+            "officeName": "Patharakudi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Karaikudi Division",
+            "latitude": 10.091837,
+            "longitude": 78.724145
+        },
+        {
+            "officeName": "Alangudi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Karaikudi Division",
+            "latitude": 10.0326594,
+            "longitude": 78.693608
+        },
+        {
+            "officeName": "Kuthalur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Karaikudi Division",
+            "latitude": 10.036489,
+            "longitude": 78.706052
+        },
+        {
+            "officeName": "Managiri S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Karaikudi Division",
+            "latitude": 10.066677,
+            "longitude": 78.723111
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "GUJARAT",
+    "district": "BANAS KANTHA",
+    "offices": [
+        {
+            "officeName": "Shri Amirgadh SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Banaskantha Division",
+            "latitude": 24.407992,
+            "longitude": 72.639148
+        },
+        {
+            "officeName": "Dabhela BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Banaskantha Division",
+            "latitude": 24.435807,
+            "longitude": 72.636629
+        },
+        {
+            "officeName": "Kidotar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Banaskantha Division",
+            "latitude": 24.398833,
+            "longitude": 72.608857
+        }
+    ]
+}

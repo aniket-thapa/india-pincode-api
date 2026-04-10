@@ -1,0 +1,36 @@
+{
+    "state": "CHANDIGARH",
+    "district": "CHANDIGARH",
+    "offices": [
+        {
+            "officeName": "Ind Area Chandigarh SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chandigarh Division",
+            "latitude": 30.6903611,
+            "longitude": 76.7942222
+        },
+        {
+            "officeName": "Hallomajra BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chandigarh Division",
+            "latitude": 30.692051,
+            "longitude": 76.69841
+        },
+        {
+            "officeName": "Ram Darbar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chandigarh Division",
+            "latitude": 30.6923611,
+            "longitude": 76.7909167
+        }
+    ]
+}

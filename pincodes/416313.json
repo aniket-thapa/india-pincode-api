@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "SANGLI",
+    "offices": [
+        {
+            "officeName": "Nagthane B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "SANGLI DIVISION",
+            "latitude": 16.49,
+            "longitude": 74.23
+        },
+        {
+            "officeName": "Walwa S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "SANGLI DIVISION",
+            "latitude": 17.0234665,
+            "longitude": 74.3690244
+        },
+        {
+            "officeName": "Junekhed B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "SANGLI DIVISION",
+            "latitude": 16.49,
+            "longitude": 74.23
+        }
+    ]
+}

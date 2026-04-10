@@ -1,0 +1,26 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "offices": [
+        {
+            "officeName": "Virbhadra SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehradun Division",
+            "latitude": 30.0766389,
+            "longitude": 78.2642222
+        },
+        {
+            "officeName": "Nirmal Block BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehradun Division",
+            "latitude": 30.06,
+            "longitude": 78.27
+        }
+    ]
+}

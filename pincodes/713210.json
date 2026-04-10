@@ -1,0 +1,26 @@
+{
+    "state": "WEST BENGAL",
+    "district": "PASCHIM BARDHAMAN",
+    "offices": [
+        {
+            "officeName": "Durgapur Heavy Engg Plant SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Asansol Division",
+            "latitude": 23.519945,
+            "longitude": 87.327404
+        },
+        {
+            "officeName": "V K Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Asansol Division",
+            "latitude": 23.529389,
+            "longitude": 87.323627
+        }
+    ]
+}

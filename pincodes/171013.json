@@ -1,0 +1,26 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "SHIMLA",
+    "offices": [
+        {
+            "officeName": "Beolia BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Shimla Division",
+            "latitude": 31.11765,
+            "longitude": 77.45277
+        },
+        {
+            "officeName": "Mehli SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Shimla Division",
+            "latitude": 31.40487,
+            "longitude": 77.601913
+        }
+    ]
+}

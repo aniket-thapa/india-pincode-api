@@ -1,0 +1,46 @@
+{
+    "state": "KARNATAKA",
+    "district": "KODAGU",
+    "offices": [
+        {
+            "officeName": "Maroor B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Kodagu Division",
+            "latitude": 12.2262563,
+            "longitude": 76.0159049
+        },
+        {
+            "officeName": "Thithimathi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Kodagu Division",
+            "latitude": 12.22361111,
+            "longitude": 76.00241667
+        },
+        {
+            "officeName": "Nokya B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Kodagu Division",
+            "latitude": 12.2079314,
+            "longitude": 76.0059915
+        },
+        {
+            "officeName": "Bhadragola B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Kodagu Division",
+            "latitude": 12.2266103,
+            "longitude": 75.9623036
+        }
+    ]
+}

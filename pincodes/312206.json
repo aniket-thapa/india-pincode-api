@@ -1,0 +1,66 @@
+{
+    "state": "RAJASTHAN",
+    "district": "CHITTORGARH",
+    "offices": [
+        {
+            "officeName": "Nevaria B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Chittorgarh Division",
+            "latitude": 25.162383,
+            "longitude": 74.517131
+        },
+        {
+            "officeName": "Pahuna S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Chittorgarh Division",
+            "latitude": 24.6301944,
+            "longitude": 74.28525
+        },
+        {
+            "officeName": "Sihana B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Chittorgarh Division",
+            "latitude": 25.161016,
+            "longitude": 74.493591
+        },
+        {
+            "officeName": "Bhalotan Ki Kheri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Chittorgarh Division",
+            "latitude": 25.124161,
+            "longitude": 74.493656
+        },
+        {
+            "officeName": "Rewara B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Chittorgarh Division",
+            "latitude": 25.136902,
+            "longitude": 74.376341
+        },
+        {
+            "officeName": "Lasadiaya Kalan B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Chittorgarh Division",
+            "latitude": 25.16252,
+            "longitude": 74.399798
+        }
+    ]
+}

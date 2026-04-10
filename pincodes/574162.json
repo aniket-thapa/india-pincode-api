@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "DAKSHINA KANNADA",
+    "offices": [
+        {
+            "officeName": "Iruvail B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Mangaluru Division",
+            "latitude": 12.9937348,
+            "longitude": 75.0081026
+        },
+        {
+            "officeName": "Kolavoor B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Mangaluru Division",
+            "latitude": 12.9566344,
+            "longitude": 74.9866127
+        },
+        {
+            "officeName": "Kuppepadavu S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Mangaluru Division",
+            "latitude": 12.973913,
+            "longitude": 74.990913
+        }
+    ]
+}

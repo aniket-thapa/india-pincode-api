@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "BAREILLY",
+    "offices": [
+        {
+            "officeName": "Rithora BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Bareilly Division",
+            "latitude": 28.787157,
+            "longitude": 79.024587
+        },
+        {
+            "officeName": "Bhandsar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Bareilly Division",
+            "latitude": 28.3874445,
+            "longitude": 79.29191
+        },
+        {
+            "officeName": "Mundia Ahamad Nagar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Bareilly Division",
+            "latitude": 28.11678,
+            "longitude": 79.79871
+        },
+        {
+            "officeName": "Airforce Station",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Bareilly Division",
+            "latitude": 28.38825,
+            "longitude": 79.40225
+        }
+    ]
+}

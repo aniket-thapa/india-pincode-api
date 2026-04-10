@@ -1,0 +1,36 @@
+{
+    "state": "ODISHA",
+    "district": "DHENKANAL",
+    "offices": [
+        {
+            "officeName": "Karnapal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Dhenkanal Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Pabitranagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Dhenkanal Division",
+            "latitude": 21.130935,
+            "longitude": 85.168192
+        },
+        {
+            "officeName": "Arkil B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Dhenkanal Division",
+            "latitude": 21.1956641,
+            "longitude": 85.1277201
+        }
+    ]
+}

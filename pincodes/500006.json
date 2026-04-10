@@ -1,0 +1,26 @@
+{
+    "state": "TELANGANA",
+    "district": "HYDERABAD",
+    "offices": [
+        {
+            "officeName": "Karwan Sahu S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Hyderabad City Division",
+            "latitude": 17.36888,
+            "longitude": 78.456528
+        },
+        {
+            "officeName": "Kulsumpura S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Hyderabad City Division",
+            "latitude": 17.6325,
+            "longitude": 78.91213889
+        }
+    ]
+}

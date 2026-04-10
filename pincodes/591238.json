@@ -1,0 +1,46 @@
+{
+    "state": "KARNATAKA",
+    "district": "BELAGAVI",
+    "offices": [
+        {
+            "officeName": "Walki B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Chikodi Division",
+            "latitude": 16.3791846,
+            "longitude": 74.4485619
+        },
+        {
+            "officeName": "Dhulaganwadi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Chikodi Division",
+            "latitude": 16.4066289,
+            "longitude": 74.4801584
+        },
+        {
+            "officeName": "Nainglaj B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Chikodi Division",
+            "latitude": 16.3820706,
+            "longitude": 74.4907799
+        },
+        {
+            "officeName": "Pattankudi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Chikodi Division",
+            "latitude": 16.396989,
+            "longitude": 74.431598
+        }
+    ]
+}

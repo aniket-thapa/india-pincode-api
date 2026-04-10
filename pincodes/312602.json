@@ -1,0 +1,56 @@
+{
+    "state": "RAJASTHAN",
+    "district": "CHITTORGARH",
+    "offices": [
+        {
+            "officeName": "Bhalundi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Chittorgarh Division",
+            "latitude": 24.672121,
+            "longitude": 74.530216
+        },
+        {
+            "officeName": "Bhadesar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Chittorgarh Division",
+            "latitude": 24.6821667,
+            "longitude": 74.5090278
+        },
+        {
+            "officeName": "Asawara B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Chittorgarh Division",
+            "latitude": 24.622174,
+            "longitude": 74.491382
+        },
+        {
+            "officeName": "Potlajagir B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Chittorgarh Division",
+            "latitude": 24.690843,
+            "longitude": 74.471941
+        },
+        {
+            "officeName": "Dheerji Ka Khera B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Chittorgarh Division",
+            "latitude": 24.721711,
+            "longitude": 74.506777
+        }
+    ]
+}

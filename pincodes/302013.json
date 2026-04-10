@@ -1,0 +1,46 @@
+{
+    "state": "RAJASTHAN",
+    "district": "JAIPUR",
+    "offices": [
+        {
+            "officeName": "Harmada S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur City Division",
+            "latitude": 26.8820556,
+            "longitude": 72.8154722
+        },
+        {
+            "officeName": "Vishwakarma Industrial Area S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur City Division",
+            "latitude": 26.9890833,
+            "longitude": 75.7885278
+        },
+        {
+            "officeName": "Akhepura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur City Division",
+            "latitude": 27.029594,
+            "longitude": 75.82289
+        },
+        {
+            "officeName": "Road No 5 Vkia S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur City Division",
+            "latitude": 26.9785278,
+            "longitude": 75.7748889
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "KOLLAM",
+    "offices": [
+        {
+            "officeName": "Eravipuram SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Quilon Division",
+            "latitude": 8.86,
+            "longitude": 76.62
+        },
+        {
+            "officeName": "Valathungal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Quilon Division",
+            "latitude": 8.86,
+            "longitude": 76.63
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "PUNE",
+    "offices": [
+        {
+            "officeName": "Velhe S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune Moffusil Division",
+            "latitude": 18.293074,
+            "longitude": 73.637768
+        },
+        {
+            "officeName": "Kodapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune Moffusil Division",
+            "latitude": 18.2962759,
+            "longitude": 73.637425
+        },
+        {
+            "officeName": "Pabe B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune Moffusil Division",
+            "latitude": 18.321069,
+            "longitude": 73.66613
+        },
+        {
+            "officeName": "Varoti BK B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune Moffusil Division",
+            "latitude": 18.30624,
+            "longitude": 73.6605
+        },
+        {
+            "officeName": "Antroli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune Moffusil Division",
+            "latitude": 18.2962759,
+            "longitude": 73.637425
+        }
+    ]
+}

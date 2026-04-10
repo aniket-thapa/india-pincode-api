@@ -1,0 +1,26 @@
+{
+    "state": "KARNATAKA",
+    "district": "BELAGAVI",
+    "offices": [
+        {
+            "officeName": "Belagavi Vishweswaraih Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Belagavi Division",
+            "latitude": 15.873542,
+            "longitude": 74.508477
+        },
+        {
+            "officeName": "Belagavi Doordarshan Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Belagavi Division",
+            "latitude": 15.8770833,
+            "longitude": 74.5006111
+        }
+    ]
+}

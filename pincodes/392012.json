@@ -1,0 +1,26 @@
+{
+    "state": "GUJARAT",
+    "district": "BHARUCH",
+    "offices": [
+        {
+            "officeName": "Argama BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bharuch Division",
+            "latitude": 21.793951,
+            "longitude": 72.90168
+        },
+        {
+            "officeName": "Maktampur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bharuch Division",
+            "latitude": 21.710142,
+            "longitude": 73.022061
+        }
+    ]
+}

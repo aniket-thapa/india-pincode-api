@@ -1,0 +1,26 @@
+{
+    "state": "WEST BENGAL",
+    "district": "DARJEELING",
+    "offices": [
+        {
+            "officeName": "Rajbari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Darjeeling Division",
+            "latitude": 27.0331,
+            "longitude": 88.2561
+        },
+        {
+            "officeName": "Jalapahar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Darjeeling Division",
+            "latitude": 27.01124,
+            "longitude": 88.253196
+        }
+    ]
+}

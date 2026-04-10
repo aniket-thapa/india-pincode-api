@@ -1,0 +1,26 @@
+{
+    "state": "JAMMU AND KASHMIR",
+    "district": "JAMMU",
+    "offices": [
+        {
+            "officeName": "New University Campus SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Jammu Division",
+            "latitude": 32.71937,
+            "longitude": 74.868063
+        },
+        {
+            "officeName": "Qilla Bahu SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Jammu Division",
+            "latitude": 32.726302,
+            "longitude": 74.880134
+        }
+    ]
+}

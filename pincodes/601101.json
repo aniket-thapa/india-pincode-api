@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "THIRUVALLUR",
+    "offices": [
+        {
+            "officeName": "Pondavakkam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 13.331,
+            "longitude": 80.069
+        },
+        {
+            "officeName": "Panayancheri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 13.297,
+            "longitude": 80.05
+        },
+        {
+            "officeName": "Rallapadi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 13.316,
+            "longitude": 80.041
+        },
+        {
+            "officeName": "Arni CPT SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 13.3386111,
+            "longitude": 80.2513611
+        }
+    ]
+}

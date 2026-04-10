@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "VIRUDHUNAGAR",
+    "offices": [
+        {
+            "officeName": "Puthur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Virudhunagar Division",
+            "latitude": 9.35,
+            "longitude": 77.5
+        },
+        {
+            "officeName": "Pottalpatti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Virudhunagar Division",
+            "latitude": 9.36,
+            "longitude": 77.49
+        },
+        {
+            "officeName": "Muhavur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Virudhunagar Division",
+            "latitude": 9.4,
+            "longitude": 77.49
+        },
+        {
+            "officeName": "Meenakshipuram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Virudhunagar Division",
+            "latitude": 9.35,
+            "longitude": 77.53
+        }
+    ]
+}

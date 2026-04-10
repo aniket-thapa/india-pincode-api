@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "KOLKATA",
+    "offices": [
+        {
+            "officeName": "Belgachia Road SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata North Division",
+            "latitude": 22.608757,
+            "longitude": 88.38936
+        },
+        {
+            "officeName": "Northern Avenue SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata North Division",
+            "latitude": 22.6118889,
+            "longitude": 22.3861944
+        },
+        {
+            "officeName": "Belgachia SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata North Division",
+            "latitude": 22.606,
+            "longitude": 88.3837778
+        }
+    ]
+}

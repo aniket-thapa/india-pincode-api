@@ -1,0 +1,46 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "SOLAN",
+    "offices": [
+        {
+            "officeName": "Barog RSBO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Solan Division",
+            "latitude": 30.890262,
+            "longitude": 77.072202
+        },
+        {
+            "officeName": "Ghatti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Solan Division",
+            "latitude": 30.9044857,
+            "longitude": 77.0967357
+        },
+        {
+            "officeName": "Deothi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Solan Division",
+            "latitude": 30.9410762,
+            "longitude": 77.0651701
+        },
+        {
+            "officeName": "Saproon SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Solan Division",
+            "latitude": 30.9081389,
+            "longitude": 77.0889722
+        }
+    ]
+}

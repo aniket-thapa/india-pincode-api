@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "RATNAGIRI",
+    "offices": [
+        {
+            "officeName": "Vetoshi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "RATNAGIRI DIVISION",
+            "latitude": 17.0864,
+            "longitude": 73.351
+        },
+        {
+            "officeName": "Kotawada S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "RATNAGIRI DIVISION",
+            "latitude": 17.089099,
+            "longitude": 73.315746
+        },
+        {
+            "officeName": "Pirandavane B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "RATNAGIRI DIVISION",
+            "latitude": 17.0864,
+            "longitude": 73.351
+        }
+    ]
+}

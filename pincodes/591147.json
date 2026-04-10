@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "BELAGAVI",
+    "offices": [
+        {
+            "officeName": "Mattikoppa B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Belagavi Division",
+            "latitude": 15.88,
+            "longitude": 74.75
+        },
+        {
+            "officeName": "Sutgatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Belagavi Division",
+            "latitude": 15.88,
+            "longitude": 74.72
+        },
+        {
+            "officeName": "Deshnur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Belagavi Division",
+            "latitude": 15.8523889,
+            "longitude": 74.5108056
+        }
+    ]
+}

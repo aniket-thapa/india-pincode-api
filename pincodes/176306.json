@@ -1,0 +1,46 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "CHAMBA",
+    "offices": [
+        {
+            "officeName": "Sherpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamba Division",
+            "latitude": 32.58542,
+            "longitude": 75.95503
+        },
+        {
+            "officeName": "Goli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamba Division",
+            "latitude": 32.57951,
+            "longitude": 75.98841
+        },
+        {
+            "officeName": "Dradha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamba Division",
+            "latitude": 32.57146,
+            "longitude": 75.98171
+        },
+        {
+            "officeName": "BATHRI BAZAR SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamba Division",
+            "latitude": 32.57371,
+            "longitude": 75.97964
+        }
+    ]
+}

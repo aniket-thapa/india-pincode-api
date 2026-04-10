@@ -1,0 +1,56 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "RAE BARELI",
+    "offices": [
+        {
+            "officeName": "Jawahar Vihar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Rae Bareilly Division",
+            "latitude": 26.22,
+            "longitude": 81.25
+        },
+        {
+            "officeName": "Maliak Mau Aima BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Rae Bareilly Division",
+            "latitude": 25.69,
+            "longitude": 81.92
+        },
+        {
+            "officeName": "Rahi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Rae Bareilly Division",
+            "latitude": 26.2351,
+            "longitude": 81.29
+        },
+        {
+            "officeName": "Rupamau BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Rae Bareilly Division",
+            "latitude": 26.23012,
+            "longitude": 81.32
+        },
+        {
+            "officeName": "ITI SO Raebareli",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Rae Bareilly Division",
+            "latitude": 26.234946,
+            "longitude": 81.241008
+        }
+    ]
+}

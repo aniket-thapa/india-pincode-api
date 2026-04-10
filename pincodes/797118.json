@@ -1,0 +1,36 @@
+{
+    "state": "NAGALAND",
+    "district": "DIMAPUR",
+    "offices": [
+        {
+            "officeName": "Signal Village",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Nagaland Division",
+            "latitude": 25.6707778,
+            "longitude": 94.1075833
+        },
+        {
+            "officeName": "Thahekhu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Nagaland Division",
+            "latitude": 25.8829239,
+            "longitude": 93.7214707
+        },
+        {
+            "officeName": "Rangapahar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Nagaland Division",
+            "latitude": 25.8553552,
+            "longitude": 93.7104961
+        }
+    ]
+}

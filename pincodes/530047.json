@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "VISAKHAPATANAM",
+    "offices": [
+        {
+            "officeName": "Chintalaagaraharam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Visakhapatnam Division",
+            "latitude": 17.784833,
+            "longitude": 83.19973
+        },
+        {
+            "officeName": "Vepagunta S.O (Visakhapatnam)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Visakhapatnam Division",
+            "latitude": 17.778479,
+            "longitude": 83.212953
+        },
+        {
+            "officeName": "Porlupalem B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Visakhapatnam Division",
+            "latitude": 17.773688,
+            "longitude": 83.195241
+        }
+    ]
+}

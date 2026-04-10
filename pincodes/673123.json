@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "WAYANAD",
+    "offices": [
+        {
+            "officeName": "Chundale SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Calicut Division",
+            "latitude": 11.5728858,
+            "longitude": 76.0569201
+        },
+        {
+            "officeName": "Kunnambetta BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Calicut Division",
+            "latitude": 11.57,
+            "longitude": 76.11
+        }
+    ]
+}

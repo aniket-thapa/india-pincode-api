@@ -1,0 +1,36 @@
+{
+    "state": "NAGALAND",
+    "district": "ZUNHEBOTO",
+    "offices": [
+        {
+            "officeName": "Aizuto B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Nagaland Division",
+            "latitude": 26.1489953,
+            "longitude": 94.5254485
+        },
+        {
+            "officeName": "Lumami S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Nagaland Division",
+            "latitude": 26.163016,
+            "longitude": 94.541679
+        },
+        {
+            "officeName": "Akuluto B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Nagaland Division",
+            "latitude": 26.1667116,
+            "longitude": 94.4881372
+        }
+    ]
+}

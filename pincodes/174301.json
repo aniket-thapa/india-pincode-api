@@ -1,0 +1,56 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "UNA",
+    "offices": [
+        {
+            "officeName": "Santokhgarh SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Una Division",
+            "latitude": 31.3514722,
+            "longitude": 76.31675
+        },
+        {
+            "officeName": "Ajauli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Una Division",
+            "latitude": 31.375498,
+            "longitude": 76.338014
+        },
+        {
+            "officeName": "Sanouli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Una Division",
+            "latitude": 31.3491987,
+            "longitude": 76.3402507
+        },
+        {
+            "officeName": "Chhatarpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Una Division",
+            "latitude": 31.3704585,
+            "longitude": 76.3274156
+        },
+        {
+            "officeName": "Khanpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Una Division",
+            "latitude": 31.3530388,
+            "longitude": 76.3426798
+        }
+    ]
+}

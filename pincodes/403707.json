@@ -1,0 +1,36 @@
+{
+    "state": "GOA",
+    "district": "SOUTH GOA",
+    "offices": [
+        {
+            "officeName": "Talaulim B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Goa Division",
+            "latitude": 72.09,
+            "longitude": 15.92
+        },
+        {
+            "officeName": "Navelim S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Goa Division",
+            "latitude": 15.2574597,
+            "longitude": 73.966597148
+        },
+        {
+            "officeName": "Davorlim B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Goa Division",
+            "latitude": 73.99,
+            "longitude": 15.24
+        }
+    ]
+}

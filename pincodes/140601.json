@@ -1,0 +1,56 @@
+{
+    "state": "PUNJAB",
+    "district": "PATIALA",
+    "offices": [
+        {
+            "officeName": "Jhansla BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patiala Division",
+            "latitude": 30.53,
+            "longitude": 76.66
+        },
+        {
+            "officeName": "Karala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patiala Division",
+            "latitude": 30.5,
+            "longitude": 76.8
+        },
+        {
+            "officeName": "Ramgarh BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patiala Division",
+            "latitude": 30.64,
+            "longitude": 76.88
+        },
+        {
+            "officeName": "Banur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patiala Division",
+            "latitude": 30.553986,
+            "longitude": 76.716726
+        },
+        {
+            "officeName": "Nagal Charbar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patiala Division",
+            "latitude": 30.55,
+            "longitude": 76.69
+        }
+    ]
+}

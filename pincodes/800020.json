@@ -1,0 +1,66 @@
+{
+    "state": "BIHAR",
+    "district": "PATNA",
+    "offices": [
+        {
+            "officeName": "LOHIA NAGAR H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "PATNA SAHIB DIVISION",
+            "latitude": 25.5980094,
+            "longitude": 85.155186
+        },
+        {
+            "officeName": "K. SECTOR SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "PATNA SAHIB DIVISION",
+            "latitude": 25.5933333,
+            "longitude": 85.1708333
+        },
+        {
+            "officeName": "ASHOK NAGAR SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "PATNA SAHIB DIVISION",
+            "latitude": 25.5940947,
+            "longitude": 85.1375645
+        },
+        {
+            "officeName": "C G NAGAR SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "PATNA SAHIB DIVISION",
+            "latitude": 28.6032222,
+            "longitude": 85.1631389
+        },
+        {
+            "officeName": "RMS COLONY SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "PATNA SAHIB DIVISION",
+            "latitude": 25.6225,
+            "longitude": 85.1769444
+        },
+        {
+            "officeName": "WEST LOHIA NAGAR SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "PATNA SAHIB DIVISION",
+            "latitude": 25.6003056,
+            "longitude": 85.14725
+        }
+    ]
+}

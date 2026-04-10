@@ -1,0 +1,46 @@
+{
+    "state": "WEST BENGAL",
+    "district": "BIRBHUM",
+    "offices": [
+        {
+            "officeName": "Rampurhat HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Birbhum Division",
+            "latitude": 24.1761667,
+            "longitude": 87.7843056
+        },
+        {
+            "officeName": "Mahajanpatty SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Birbhum Division",
+            "latitude": 23.4558583,
+            "longitude": 88.06275
+        },
+        {
+            "officeName": "Nischintapur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Birbhum Division",
+            "latitude": 23.4558583,
+            "longitude": 88.06275
+        },
+        {
+            "officeName": "Railpar SO Birbhum",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Birbhum Division",
+            "latitude": 24.186201,
+            "longitude": 87.781985
+        }
+    ]
+}

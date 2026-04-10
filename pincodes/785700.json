@@ -1,0 +1,56 @@
+{
+    "state": "ASSAM",
+    "district": "JORHAT",
+    "offices": [
+        {
+            "officeName": "Dhekiakhowa B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Sibsagar Division",
+            "latitude": 26.4744,
+            "longitude": 94.1914
+        },
+        {
+            "officeName": "Lahdoigarh Chariali S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Sibsagar Division",
+            "latitude": 26.4744,
+            "longitude": 94.1914
+        },
+        {
+            "officeName": "Meleng Te B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Sibsagar Division",
+            "latitude": 26.4744,
+            "longitude": 94.1914
+        },
+        {
+            "officeName": "Hulalbari B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Sibsagar Division",
+            "latitude": 26.4744,
+            "longitude": 94.1914
+        },
+        {
+            "officeName": "Kopradhara B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Sibsagar Division",
+            "latitude": 26.4744,
+            "longitude": 94.1914
+        }
+    ]
+}

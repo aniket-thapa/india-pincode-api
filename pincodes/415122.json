@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "SATARA",
+    "offices": [
+        {
+            "officeName": "Yeravale B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Karad Division",
+            "latitude": 18.1162,
+            "longitude": 73.88921
+        },
+        {
+            "officeName": "Wing S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Karad Division",
+            "latitude": 17.2416169,
+            "longitude": 74.1186739
+        },
+        {
+            "officeName": "Chachegaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Karad Division",
+            "latitude": 18.1162,
+            "longitude": 73.88921
+        }
+    ]
+}

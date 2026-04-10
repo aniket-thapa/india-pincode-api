@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "VIRUDHUNAGAR",
+    "offices": [
+        {
+            "officeName": "Dharmam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Virudhunagar Division",
+            "latitude": 9.63,
+            "longitude": 78.36
+        },
+        {
+            "officeName": "Viracholan SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Virudhunagar Division",
+            "latitude": 9.5882882,
+            "longitude": 78.3652063
+        },
+        {
+            "officeName": "Peruvelangudi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Virudhunagar Division",
+            "latitude": 9.61,
+            "longitude": 78.38
+        },
+        {
+            "officeName": "Irunjirai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Virudhunagar Division",
+            "latitude": 9.63,
+            "longitude": 78.33
+        }
+    ]
+}

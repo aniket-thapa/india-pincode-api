@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "NAGAPATTINAM",
+    "offices": [
+        {
+            "officeName": "Nagapattinam Collectorate S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.7603056,
+            "longitude": 79.8465278
+        },
+        {
+            "officeName": "Palpannaichery B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.82,
+            "longitude": 79.83
+        }
+    ]
+}

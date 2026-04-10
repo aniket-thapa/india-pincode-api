@@ -1,0 +1,46 @@
+{
+    "state": "KERALA",
+    "district": "PALAKKAD",
+    "offices": [
+        {
+            "officeName": "Etapalam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Ottapalam Division",
+            "latitude": 11.2905,
+            "longitude": 75.7923
+        },
+        {
+            "officeName": "Nedungottur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Ottapalam Division",
+            "latitude": 15.5934,
+            "longitude": 75.7923
+        },
+        {
+            "officeName": "Naduvattom SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Ottapalam Division",
+            "latitude": 10.869135,
+            "longitude": 76.152355
+        },
+        {
+            "officeName": "Kaipuram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Ottapalam Division",
+            "latitude": 11.2905,
+            "longitude": 75.7923
+        }
+    ]
+}

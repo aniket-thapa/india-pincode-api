@@ -1,0 +1,26 @@
+{
+    "state": "PUNJAB",
+    "district": "RUPNAGAR",
+    "offices": [
+        {
+            "officeName": "Agampur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chandigarh Division",
+            "latitude": 30.692051,
+            "longitude": 76.69841
+        },
+        {
+            "officeName": "Anand Pur Sahib SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chandigarh Division",
+            "latitude": 31.23625,
+            "longitude": 76.4968611
+        }
+    ]
+}

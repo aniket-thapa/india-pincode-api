@@ -1,0 +1,36 @@
+{
+    "state": "ASSAM",
+    "district": "JORHAT",
+    "offices": [
+        {
+            "officeName": "Neamatighat S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Sibsagar Division",
+            "latitude": 26.502,
+            "longitude": 94.1444
+        },
+        {
+            "officeName": "Purani Gohaingaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Sibsagar Division",
+            "latitude": 26.502,
+            "longitude": 94.1444
+        },
+        {
+            "officeName": "Fakalapather B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Sibsagar Division",
+            "latitude": 26.502,
+            "longitude": 94.1444
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "THIRUVARUR",
+    "offices": [
+        {
+            "officeName": "Abivirthiswaram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Kumbakonam Division",
+            "latitude": 10.79,
+            "longitude": 79.47
+        },
+        {
+            "officeName": "Ilaiyur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Kumbakonam Division",
+            "latitude": 10.84,
+            "longitude": 79.47
+        },
+        {
+            "officeName": "Barakadabad B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Kumbakonam Division",
+            "latitude": 10.83,
+            "longitude": 79.45
+        },
+        {
+            "officeName": "Sellur S.O (Tiruvarur)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Kumbakonam Division",
+            "latitude": 10.82,
+            "longitude": 79.45
+        }
+    ]
+}

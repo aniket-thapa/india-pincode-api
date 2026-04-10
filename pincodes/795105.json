@@ -1,0 +1,26 @@
+{
+    "state": "MANIPUR",
+    "district": "SENAPATI",
+    "offices": [
+        {
+            "officeName": "Ngari Khullen B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Manipur Division",
+            "latitude": 25.343958,
+            "longitude": 94.323883
+        },
+        {
+            "officeName": "Maram S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Manipur Division",
+            "latitude": 25.325855,
+            "longitude": 94.12465
+        }
+    ]
+}

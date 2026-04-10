@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "NAGAPATTINAM",
+    "offices": [
+        {
+            "officeName": "Pillali B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.84,
+            "longitude": 79.7
+        },
+        {
+            "officeName": "Tirupugalur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.88,
+            "longitude": 79.7
+        },
+        {
+            "officeName": "Tiruchenkattangudi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.86,
+            "longitude": 79.72
+        },
+        {
+            "officeName": "Tirukannapuram S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.72,
+            "longitude": 79.5
+        }
+    ]
+}

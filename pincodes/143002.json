@@ -1,0 +1,26 @@
+{
+    "state": "PUNJAB",
+    "district": "AMRITSAR",
+    "offices": [
+        {
+            "officeName": "Khalsa College SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.63,
+            "longitude": 74.84
+        },
+        {
+            "officeName": "JFMill SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.626,
+            "longitude": 74.84
+        }
+    ]
+}

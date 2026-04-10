@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "WEST GODAVARI",
+    "offices": [
+        {
+            "officeName": "Ilaparru B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Bhimavaram Division",
+            "latitude": 16.652237,
+            "longitude": 81.810822
+        },
+        {
+            "officeName": "Nadipudi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Bhimavaram Division",
+            "latitude": 16.648766,
+            "longitude": 81.834049
+        },
+        {
+            "officeName": "Sidhantam S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Bhimavaram Division",
+            "latitude": 16.67216667,
+            "longitude": 81.80216667
+        }
+    ]
+}

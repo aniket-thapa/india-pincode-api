@@ -1,0 +1,26 @@
+{
+    "state": "RAJASTHAN",
+    "district": "HANUMANGARH",
+    "offices": [
+        {
+            "officeName": "Talwara Jheel S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sriganganagar Division",
+            "latitude": 29.515,
+            "longitude": 74.5888611
+        },
+        {
+            "officeName": "Silwala Kalan B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sriganganagar Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

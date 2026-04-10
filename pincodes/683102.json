@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "ERNAKULAM",
+    "offices": [
+        {
+            "officeName": "Union Christian College SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Alwaye Division",
+            "latitude": 10.122926,
+            "longitude": 76.335609
+        },
+        {
+            "officeName": "Desom BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Alwaye Division",
+            "latitude": 10.129653,
+            "longitude": 76.34754
+        }
+    ]
+}

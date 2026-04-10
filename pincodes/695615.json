@@ -1,0 +1,56 @@
+{
+    "state": "KERALA",
+    "district": "THIRUVANANTHAPURAM",
+    "offices": [
+        {
+            "officeName": "Kuthirakulam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Trivandrum North Division",
+            "latitude": 8.6,
+            "longitude": 76.94
+        },
+        {
+            "officeName": "Moonnanakuzhy BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Trivandrum North Division",
+            "latitude": 8.66,
+            "longitude": 76.97
+        },
+        {
+            "officeName": "Cheeranikkara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Trivandrum North Division",
+            "latitude": 8.64,
+            "longitude": 76.96
+        },
+        {
+            "officeName": "Vembayam SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Trivandrum North Division",
+            "latitude": 8.631149,
+            "longitude": 76.93699
+        },
+        {
+            "officeName": "Konchira BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Trivandrum North Division",
+            "latitude": 8.63,
+            "longitude": 76.93
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "RAJASTHAN",
+    "district": "JODHPUR",
+    "offices": [
+        {
+            "officeName": "Nandanwan SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Jodhpur Division",
+            "latitude": 26.266259,
+            "longitude": 72.979108
+        },
+        {
+            "officeName": "Subhash Nagar Jodhpur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Jodhpur Division",
+            "latitude": 26.2501,
+            "longitude": 72.9779
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "WEST BENGAL",
+    "district": "DARJEELING",
+    "offices": [
+        {
+            "officeName": "Gulma BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Darjeeling Division",
+            "latitude": 26.8031969,
+            "longitude": 88.4041396
+        },
+        {
+            "officeName": "Simulbari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Darjeeling Division",
+            "latitude": 21.9325,
+            "longitude": 87.7505
+        },
+        {
+            "officeName": "New Chumta BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Darjeeling Division",
+            "latitude": 26.84952,
+            "longitude": 88.44081
+        },
+        {
+            "officeName": "Sukna SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Darjeeling Division",
+            "latitude": 26.789483,
+            "longitude": 88.363714
+        }
+    ]
+}

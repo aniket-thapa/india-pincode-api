@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "KOLHAPUR",
+    "offices": [
+        {
+            "officeName": "Ambavade B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Kolhapur Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Rakshi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Kolhapur Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Panhala S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Kolhapur Division",
+            "latitude": 16.8077079,
+            "longitude": 74.1112159
+        }
+    ]
+}

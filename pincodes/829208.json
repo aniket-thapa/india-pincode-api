@@ -1,0 +1,56 @@
+{
+    "state": "JHARKHAND",
+    "district": "RANCHI",
+    "offices": [
+        {
+            "officeName": "Lapra B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Palamau Division",
+            "latitude": 23.64986,
+            "longitude": 84.94403
+        },
+        {
+            "officeName": "Mc Cluskiganj SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Palamau Division",
+            "latitude": 25.5991,
+            "longitude": 84.4367
+        },
+        {
+            "officeName": "Nindra BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Palamau Division",
+            "latitude": 25.5991,
+            "longitude": 84.4367
+        },
+        {
+            "officeName": "Hesalong",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Palamau Division",
+            "latitude": 23.589942,
+            "longitude": 84.862299
+        },
+        {
+            "officeName": "Nawadih BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Palamau Division",
+            "latitude": 25.5991,
+            "longitude": 84.4367
+        }
+    ]
+}

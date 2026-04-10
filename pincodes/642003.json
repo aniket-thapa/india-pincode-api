@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "COIMBATORE",
+    "offices": [
+        {
+            "officeName": "Makkinaicken Patti S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Pollachi Division",
+            "latitude": 10.6561,
+            "longitude": 77.034
+        },
+        {
+            "officeName": "Kanjampatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Pollachi Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Unjavelampatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Pollachi Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

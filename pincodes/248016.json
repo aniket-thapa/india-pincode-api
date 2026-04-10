@@ -1,0 +1,26 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "offices": [
+        {
+            "officeName": "Jollygrant SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehradun Division",
+            "latitude": 30.3249444,
+            "longitude": 78.0416667
+        },
+        {
+            "officeName": "Bichli Jolly BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehradun Division",
+            "latitude": 30.1949,
+            "longitude": 78.192
+        }
+    ]
+}

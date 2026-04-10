@@ -1,0 +1,36 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "LAHUL AND SPITI",
+    "offices": [
+        {
+            "officeName": "Thirot BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Mandi Division",
+            "latitude": 32.6609,
+            "longitude": 76.7814
+        },
+        {
+            "officeName": "Mooring BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Mandi Division",
+            "latitude": 32.6489,
+            "longitude": 76.8201
+        },
+        {
+            "officeName": "Jahalman SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Mandi Division",
+            "latitude": 32.6371667,
+            "longitude": 76.8474722
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "TELANGANA",
+    "district": "HYDERABAD",
+    "offices": [
+        {
+            "officeName": "Golconda Chowrastha S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Secunderabad Division",
+            "latitude": 17.68647222,
+            "longitude": 78.83097222
+        },
+        {
+            "officeName": "Ashoknagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Secunderabad Division",
+            "latitude": 17.407,
+            "longitude": 78.4887
+        },
+        {
+            "officeName": "Musheerabad (D) S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Secunderabad Division",
+            "latitude": 17.4223522,
+            "longitude": 78.5056434
+        },
+        {
+            "officeName": "Zamistanpur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Secunderabad Division",
+            "latitude": 17.41355556,
+            "longitude": 78.50508333
+        }
+    ]
+}

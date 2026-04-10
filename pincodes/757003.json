@@ -1,0 +1,76 @@
+{
+    "state": "ODISHA",
+    "district": "MAYURBHANJ",
+    "offices": [
+        {
+            "officeName": "Takatpur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Mayurbhanj Division",
+            "latitude": 21.89315,
+            "longitude": 86.69885
+        },
+        {
+            "officeName": "Damodar Pur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Mayurbhanj Division",
+            "latitude": 21.9652883,
+            "longitude": 86.73606
+        },
+        {
+            "officeName": "Dakoipodadiha B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Mayurbhanj Division",
+            "latitude": 21.9912792,
+            "longitude": 86.7652952
+        },
+        {
+            "officeName": "Goudadiha B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Mayurbhanj Division",
+            "latitude": 21.9096283,
+            "longitude": 86.7384666
+        },
+        {
+            "officeName": "Raikad Jharan B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Mayurbhanj Division",
+            "latitude": 21.986745,
+            "longitude": 86.7491759
+        },
+        {
+            "officeName": "Sripad Ganja B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Mayurbhanj Division",
+            "latitude": 21.9243941,
+            "longitude": 86.7408941
+        },
+        {
+            "officeName": "Baghra Road B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Mayurbhanj Division",
+            "latitude": 21.9413883,
+            "longitude": 86.7401849
+        }
+    ]
+}

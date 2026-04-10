@@ -1,0 +1,56 @@
+{
+    "state": "GUJARAT",
+    "district": "VALSAD",
+    "offices": [
+        {
+            "officeName": "Tembhi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Valsad Division",
+            "latitude": 20.185101,
+            "longitude": 72.791526
+        },
+        {
+            "officeName": "Sanjan Bandar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Valsad Division",
+            "latitude": 20.192113,
+            "longitude": 72.817944
+        },
+        {
+            "officeName": "Vankas BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Valsad Division",
+            "latitude": 20.228614,
+            "longitude": 72.830869
+        },
+        {
+            "officeName": "Sanjan SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Valsad Division",
+            "latitude": 20.195058,
+            "longitude": 72.818713
+        },
+        {
+            "officeName": "Tumb BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Valsad Division",
+            "latitude": 20.215691,
+            "longitude": 72.84564
+        }
+    ]
+}

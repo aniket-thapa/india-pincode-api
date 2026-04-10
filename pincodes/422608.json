@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "AHMEDNAGAR",
+    "offices": [
+        {
+            "officeName": "Sangamner SK S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Shrirampur Division",
+            "latitude": 19.60798029755143,
+            "longitude": 74.19011315020444
+        },
+        {
+            "officeName": "Maldad B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Shrirampur Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

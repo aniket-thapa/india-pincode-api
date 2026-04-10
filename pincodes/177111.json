@@ -1,0 +1,46 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "KANGRA",
+    "offices": [
+        {
+            "officeName": "Behar Kuthera BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehra Gopipur Division",
+            "latitude": 31.90569,
+            "longitude": 76.142079
+        },
+        {
+            "officeName": "Qusba Kotla SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehra Gopipur Division",
+            "latitude": 31.881138,
+            "longitude": 76.998555
+        },
+        {
+            "officeName": "Gural Dhar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehra Gopipur Division",
+            "latitude": 31.8838,
+            "longitude": 75.9957
+        },
+        {
+            "officeName": "Khanpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehra Gopipur Division",
+            "latitude": 31.856414,
+            "longitude": 75.995667
+        }
+    ]
+}

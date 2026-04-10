@@ -1,0 +1,26 @@
+{
+    "state": "KARNATAKA",
+    "district": "CHIKKAMAGALURU",
+    "offices": [
+        {
+            "officeName": "Santaveri S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Chikkamagaluru Division",
+            "latitude": 13.5186718,
+            "longitude": 75.8048896
+        },
+        {
+            "officeName": "Togarihankal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Chikkamagaluru Division",
+            "latitude": 13.4783743,
+            "longitude": 75.8058981
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "PUNE",
+    "offices": [
+        {
+            "officeName": "Bajirao Road S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune City West Division",
+            "latitude": 18.5140278,
+            "longitude": 73.8536389
+        },
+        {
+            "officeName": "Nana Peth S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune City West Division",
+            "latitude": 18.515017,
+            "longitude": 73.870997
+        },
+        {
+            "officeName": "Pune City H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune City West Division",
+            "latitude": 18.5153889,
+            "longitude": 73.8567778
+        },
+        {
+            "officeName": "Raviwar Peth S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune City West Division",
+            "latitude": 18.5153056,
+            "longitude": 73.8567778
+        },
+        {
+            "officeName": "Shukrawar Peth S.O (Pune)",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune City West Division",
+            "latitude": 18.508778,
+            "longitude": 73.858146
+        }
+    ]
+}

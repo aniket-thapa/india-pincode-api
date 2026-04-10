@@ -1,0 +1,36 @@
+{
+    "state": "ASSAM",
+    "district": "TINSUKIA",
+    "offices": [
+        {
+            "officeName": "Makum Pathar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Tinsukia Division",
+            "latitude": 27.3,
+            "longitude": 95.23
+        },
+        {
+            "officeName": "Agbandha Bengali Gaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Tinsukia Division",
+            "latitude": 27.31,
+            "longitude": 95.64
+        },
+        {
+            "officeName": "Makumkilla B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Tinsukia Division",
+            "latitude": 27.31,
+            "longitude": 95.64
+        }
+    ]
+}

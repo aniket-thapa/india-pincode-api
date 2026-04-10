@@ -1,0 +1,46 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "ANUPPUR",
+    "offices": [
+        {
+            "officeName": "Bhad B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Shahdol Division",
+            "latitude": 23.18,
+            "longitude": 81.92
+        },
+        {
+            "officeName": "Malga B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Shahdol Division",
+            "latitude": 23.16,
+            "longitude": 82.08
+        },
+        {
+            "officeName": "Amadand S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Shahdol Division",
+            "latitude": 23.155887,
+            "longitude": 82.070675
+        },
+        {
+            "officeName": "Chukan B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Shahdol Division",
+            "latitude": 23.12,
+            "longitude": 82.05
+        }
+    ]
+}

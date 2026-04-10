@@ -1,0 +1,26 @@
+{
+    "state": "TELANGANA",
+    "district": "NAGARKURNOOL",
+    "offices": [
+        {
+            "officeName": "Watwarlapalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Wanaparthy Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Srisailam Dam  S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Wanaparthy Division",
+            "latitude": 16.0742222,
+            "longitude": 78.0315556
+        }
+    ]
+}

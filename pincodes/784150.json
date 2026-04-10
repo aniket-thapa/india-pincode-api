@@ -1,0 +1,46 @@
+{
+    "state": "ASSAM",
+    "district": "SONITPUR",
+    "offices": [
+        {
+            "officeName": "Da Besseria B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.67625,
+            "longitude": 92.69155
+        },
+        {
+            "officeName": "Dipota B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.620828,
+            "longitude": 92.799014
+        },
+        {
+            "officeName": "Da Parbatia B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.67625,
+            "longitude": 92.69155
+        },
+        {
+            "officeName": "Besseria S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.67625,
+            "longitude": 92.69155
+        }
+    ]
+}

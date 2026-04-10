@@ -1,0 +1,46 @@
+{
+    "state": "ASSAM",
+    "district": "BONGAIGAON",
+    "offices": [
+        {
+            "officeName": "Malegarh B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Pachania B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Jogighopa S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 26.1354,
+            "longitude": 90.3413
+        },
+        {
+            "officeName": "Barjana B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

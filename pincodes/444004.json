@@ -1,0 +1,46 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "AKOLA",
+    "offices": [
+        {
+            "officeName": "Malkapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Akola Division",
+            "latitude": 20.67,
+            "longitude": 77.03
+        },
+        {
+            "officeName": "Chandur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Akola Division",
+            "latitude": 20.66,
+            "longitude": 77.01
+        },
+        {
+            "officeName": "Gandhinagar Akola S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Akola Division",
+            "latitude": 20.7061111,
+            "longitude": 77.0025
+        },
+        {
+            "officeName": "Kaulkhed S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Akola Division",
+            "latitude": 20.6772778,
+            "longitude": 77.0126944
+        }
+    ]
+}

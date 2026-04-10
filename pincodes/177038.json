@@ -1,0 +1,46 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "HAMIRPUR",
+    "offices": [
+        {
+            "officeName": "Sera SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hamirpur Division",
+            "latitude": 31.738967,
+            "longitude": 76.335762
+        },
+        {
+            "officeName": "Majhiar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hamirpur Division",
+            "latitude": 31.6861,
+            "longitude": 76.5213
+        },
+        {
+            "officeName": "Kitpal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hamirpur Division",
+            "latitude": 31.713,
+            "longitude": 76.3415
+        },
+        {
+            "officeName": "Bhiambi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hamirpur Division",
+            "latitude": 31.6854,
+            "longitude": 76.3403
+        }
+    ]
+}

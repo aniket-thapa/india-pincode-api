@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "KOLLAM",
+    "offices": [
+        {
+            "officeName": "Adichanallur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Quilon Division",
+            "latitude": 8.88,
+            "longitude": 76.71
+        },
+        {
+            "officeName": "Velichikala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Quilon Division",
+            "latitude": 8.89,
+            "longitude": 76.73
+        },
+        {
+            "officeName": "Kummallur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Quilon Division",
+            "latitude": 8.88,
+            "longitude": 76.73
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "JHARKHAND",
+    "district": "DHANBAD",
+    "offices": [
+        {
+            "officeName": "Bowakalan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dhanbad Division",
+            "latitude": 23.795662,
+            "longitude": 86.430376
+        },
+        {
+            "officeName": "Bhuli SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dhanbad Division",
+            "latitude": 23.804019,
+            "longitude": 86.394511
+        }
+    ]
+}

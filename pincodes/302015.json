@@ -1,0 +1,26 @@
+{
+    "state": "RAJASTHAN",
+    "district": "JAIPUR",
+    "offices": [
+        {
+            "officeName": "Tonk Road SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur City Division",
+            "latitude": 26.886748,
+            "longitude": 75.802484
+        },
+        {
+            "officeName": "Gandhi Nagar S.O (Jaipur)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur City Division",
+            "latitude": 26.873427,
+            "longitude": 75.799251
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "VISAKHAPATANAM",
+    "offices": [
+        {
+            "officeName": "Gayatri Engg College B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Visakhapatnam Division",
+            "latitude": 17.82146,
+            "longitude": 83.341113
+        },
+        {
+            "officeName": "Marikavalasa B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Visakhapatnam Division",
+            "latitude": 17.828636,
+            "longitude": 83.370238
+        },
+        {
+            "officeName": "Kommadi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Visakhapatnam Division",
+            "latitude": 17.830053,
+            "longitude": 83.336856
+        },
+        {
+            "officeName": "Madhurawada S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Visakhapatnam Division",
+            "latitude": 17.8175,
+            "longitude": 83.3551389
+        }
+    ]
+}

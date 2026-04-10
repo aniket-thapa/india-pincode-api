@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "TENKASI",
+    "offices": [
+        {
+            "officeName": "ACHANPUTHUR B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kovilpatti Division",
+            "latitude": 9.0241,
+            "longitude": 77.2775
+        },
+        {
+            "officeName": "Kanakkupillaivalasai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kovilpatti Division",
+            "latitude": 8.9908,
+            "longitude": 77.2519
+        },
+        {
+            "officeName": "Kuthukalvalasai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kovilpatti Division",
+            "latitude": 8.9788,
+            "longitude": 77.2674
+        },
+        {
+            "officeName": "Elathur S.O (Tirunelveli)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kovilpatti Division",
+            "latitude": 9.0011,
+            "longitude": 77.2604
+        }
+    ]
+}

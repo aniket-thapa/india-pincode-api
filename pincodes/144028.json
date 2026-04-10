@@ -1,0 +1,26 @@
+{
+    "state": "PUNJAB",
+    "district": "JALANDHAR",
+    "offices": [
+        {
+            "officeName": "Chitti SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Jalandhar Division",
+            "latitude": 31.23570365,
+            "longitude": 75.47466472
+        },
+        {
+            "officeName": "Lallian BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Jalandhar Division",
+            "latitude": 31.3524,
+            "longitude": 75.6171
+        }
+    ]
+}

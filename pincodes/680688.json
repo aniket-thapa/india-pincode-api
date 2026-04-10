@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "THRISSUR",
+    "offices": [
+        {
+            "officeName": "Aripalam SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Irinjalakuda Division",
+            "latitude": 10.2860556,
+            "longitude": 76.1974444
+        },
+        {
+            "officeName": "Edakulam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Irinjalakuda Division",
+            "latitude": 10.33,
+            "longitude": 76.22
+        },
+        {
+            "officeName": "Padiyur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Irinjalakuda Division",
+            "latitude": 10.31,
+            "longitude": 76.17
+        }
+    ]
+}

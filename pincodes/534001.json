@@ -1,0 +1,26 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Eluru",
+    "offices": [
+        {
+            "officeName": "Benerjipeta S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Eluru Division",
+            "latitude": 16.7128056,
+            "longitude": 81.1186944
+        },
+        {
+            "officeName": "Eluru H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Eluru Division",
+            "latitude": 16.7050833,
+            "longitude": 81.1061389
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "CHENNAI",
+    "offices": [
+        {
+            "officeName": "Hindi Prachar Sabha S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City Central Division",
+            "latitude": 13.0342222,
+            "longitude": 80.2394722
+        },
+        {
+            "officeName": "Thygarayanagar North ND S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City Central Division",
+            "latitude": 13.0497,
+            "longitude": 80.2402
+        },
+        {
+            "officeName": "Thygarayanagar H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City Central Division",
+            "latitude": 13.0453611,
+            "longitude": 80.2376111
+        },
+        {
+            "officeName": "Thygarayanagar South NDS.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City Central Division",
+            "latitude": 13.0405,
+            "longitude": 80.2331
+        }
+    ]
+}

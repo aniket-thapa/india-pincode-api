@@ -1,0 +1,66 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "KANGRA",
+    "offices": [
+        {
+            "officeName": "Balakrupi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dharamsala Division",
+            "latitude": 31.863092,
+            "longitude": 76.486097
+        },
+        {
+            "officeName": "Alampur SO Kangra",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dharamsala Division",
+            "latitude": 31.846402,
+            "longitude": 76.506401
+        },
+        {
+            "officeName": "Jagrup Nagar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dharamsala Division",
+            "latitude": 31.855899,
+            "longitude": 76.515583
+        },
+        {
+            "officeName": "Bheri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dharamsala Division",
+            "latitude": 32.03139,
+            "longitude": 76.460647
+        },
+        {
+            "officeName": "Jangal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dharamsala Division",
+            "latitude": 31.865206,
+            "longitude": 76.498237
+        },
+        {
+            "officeName": "Sakoh BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dharamsala Division",
+            "latitude": 31.864358,
+            "longitude": 76.515583
+        }
+    ]
+}

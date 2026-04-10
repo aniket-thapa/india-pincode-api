@@ -1,0 +1,76 @@
+{
+    "state": "ODISHA",
+    "district": "BALESHWAR",
+    "offices": [
+        {
+            "officeName": "Mirjapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhadrak Division",
+            "latitude": 21.2291649,
+            "longitude": 86.5234566
+        },
+        {
+            "officeName": "Antara B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhadrak Division",
+            "latitude": 21.1651133,
+            "longitude": 86.4779116
+        },
+        {
+            "officeName": "Barada B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhadrak Division",
+            "latitude": 21.1743499,
+            "longitude": 86.443035
+        },
+        {
+            "officeName": "Chandarpada B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhadrak Division",
+            "latitude": 21.19348,
+            "longitude": 86.5461816
+        },
+        {
+            "officeName": "Garasang B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhadrak Division",
+            "latitude": 21.1895316,
+            "longitude": 86.4757316
+        },
+        {
+            "officeName": "Ada S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhadrak Division",
+            "latitude": 21.1931389,
+            "longitude": 86.5230556
+        },
+        {
+            "officeName": "Jalanga Gandibed B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhadrak Division",
+            "latitude": 21.1986583,
+            "longitude": 86.4938616
+        }
+    ]
+}

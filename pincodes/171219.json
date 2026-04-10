@@ -1,0 +1,46 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "SHIMLA",
+    "offices": [
+        {
+            "officeName": "Anandpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Shimla Division",
+            "latitude": 31.121,
+            "longitude": 77.198
+        },
+        {
+            "officeName": "Dhari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Shimla Division",
+            "latitude": 31.041,
+            "longitude": 77.119
+        },
+        {
+            "officeName": "Salana BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Shimla Division",
+            "latitude": 31.021,
+            "longitude": 77.123
+        },
+        {
+            "officeName": "Shoghi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Shimla Division",
+            "latitude": 31.0415556,
+            "longitude": 77.1260833
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "WEST BENGAL",
+    "district": "KOLKATA",
+    "offices": [
+        {
+            "officeName": "Kolkata University SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata Central Division",
+            "latitude": 22.3426,
+            "longitude": 88.2144
+        },
+        {
+            "officeName": "Tiretta Bazar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata Central Division",
+            "latitude": 22.3456,
+            "longitude": 88.2128
+        },
+        {
+            "officeName": "Chittaranjan Avenue SO Kolkata",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata Central Division",
+            "latitude": 22.5727778,
+            "longitude": 88.3475
+        },
+        {
+            "officeName": "Pollock Street SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata Central Division",
+            "latitude": 22.3456,
+            "longitude": 88.2128
+        },
+        {
+            "officeName": "Colootala  SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata Central Division",
+            "latitude": 22.3436,
+            "longitude": 88.2135
+        }
+    ]
+}

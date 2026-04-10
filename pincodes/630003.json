@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "SIVAGANGA",
+    "offices": [
+        {
+            "officeName": "Alagappapuram S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Karaikudi Division",
+            "latitude": 10.0779985,
+            "longitude": 78.783248
+        },
+        {
+            "officeName": "Cecri Campus S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Karaikudi Division",
+            "latitude": 10.085092,
+            "longitude": 78.794534
+        },
+        {
+            "officeName": "Ae.College S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Karaikudi Division",
+            "latitude": 10.074791,
+            "longitude": 78.783248
+        }
+    ]
+}

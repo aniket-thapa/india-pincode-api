@@ -1,0 +1,46 @@
+{
+    "state": "ASSAM",
+    "district": "NALBARI",
+    "offices": [
+        {
+            "officeName": "Burinagar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nalbari Division",
+            "latitude": 26.2135,
+            "longitude": 91.2642
+        },
+        {
+            "officeName": "Balikaria B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nalbari Division",
+            "latitude": 26.2135,
+            "longitude": 91.2642
+        },
+        {
+            "officeName": "Kendukuchi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nalbari Division",
+            "latitude": 26.2135,
+            "longitude": 91.2642
+        },
+        {
+            "officeName": "Kazipara S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nalbari Division",
+            "latitude": 26.2652,
+            "longitude": 91.2603
+        }
+    ]
+}

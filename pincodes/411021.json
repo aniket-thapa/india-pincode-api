@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "PUNE",
+    "offices": [
+        {
+            "officeName": "Sus B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune City West Division",
+            "latitude": 18.536729,
+            "longitude": 73.814499
+        },
+        {
+            "officeName": "Armament S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune City West Division",
+            "latitude": 18.5372222,
+            "longitude": 73.7950556
+        }
+    ]
+}

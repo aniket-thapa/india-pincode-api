@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "NAGPUR",
+    "offices": [
+        {
+            "officeName": "Mominpura S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur City Division",
+            "latitude": 21.15736111,
+            "longitude": 79.09708333
+        },
+        {
+            "officeName": "Ganjipeth S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur City Division",
+            "latitude": 21.1513175,
+            "longitude": 79.0991502
+        },
+        {
+            "officeName": "Mahatma Fule Bazar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur City Division",
+            "latitude": 21.14566667,
+            "longitude": 79.0905
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "JHARKHAND",
+    "district": "DHANBAD",
+    "offices": [
+        {
+            "officeName": "Merrah BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dhanbad Division",
+            "latitude": 23.71363,
+            "longitude": 86.79823
+        },
+        {
+            "officeName": "Dumarkunda BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dhanbad Division",
+            "latitude": 23.7956631,
+            "longitude": 86.4303759
+        },
+        {
+            "officeName": "Chanchpottery BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dhanbad Division",
+            "latitude": 23.7956661,
+            "longitude": 86.4303729
+        },
+        {
+            "officeName": "Sarsapahari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dhanbad Division",
+            "latitude": 23.795664,
+            "longitude": 86.4303749
+        },
+        {
+            "officeName": "Chirkunda SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dhanbad Division",
+            "latitude": 23.7368056,
+            "longitude": 86.8022222
+        }
+    ]
+}

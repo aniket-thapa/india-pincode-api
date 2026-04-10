@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "Tirupathur",
+    "offices": [
+        {
+            "officeName": "Kilmurungai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupattur Division",
+            "latitude": 12.844366,
+            "longitude": 78.782409
+        },
+        {
+            "officeName": "Vengili B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupattur Division",
+            "latitude": 12.849655,
+            "longitude": 78.801109
+        },
+        {
+            "officeName": "Vadapudupet S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupattur Division",
+            "latitude": 12.834463,
+            "longitude": 78.781089
+        }
+    ]
+}

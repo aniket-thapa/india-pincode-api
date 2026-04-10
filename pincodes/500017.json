@@ -1,0 +1,26 @@
+{
+    "state": "TELANGANA",
+    "district": "HYDERABAD",
+    "offices": [
+        {
+            "officeName": "Lallaguda S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Secunderabad Division",
+            "latitude": 17.43925,
+            "longitude": 78.53130556
+        },
+        {
+            "officeName": "Lallapet S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Secunderabad Division",
+            "latitude": 17.43402778,
+            "longitude": 78.54016667
+        }
+    ]
+}

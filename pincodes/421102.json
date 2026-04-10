@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "THANE",
+    "offices": [
+        {
+            "officeName": "Atali B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Thane Division",
+            "latitude": 19.27405,
+            "longitude": 73.2195
+        },
+        {
+            "officeName": "Manivali B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Thane Division",
+            "latitude": 19.27405,
+            "longitude": 19.2531659
+        },
+        {
+            "officeName": "Mohone S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Thane Division",
+            "latitude": 19.2654722,
+            "longitude": 73.173
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "NAGAPATTINAM",
+    "offices": [
+        {
+            "officeName": "Tirukuvalai S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.63,
+            "longitude": 79.72
+        },
+        {
+            "officeName": "Tiruvoimur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.6,
+            "longitude": 79.73
+        },
+        {
+            "officeName": "Ettukudi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.61,
+            "longitude": 79.72
+        },
+        {
+            "officeName": "Melavazhakarai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.64,
+            "longitude": 79.74
+        }
+    ]
+}

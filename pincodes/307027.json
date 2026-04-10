@@ -1,0 +1,56 @@
+{
+    "state": "RAJASTHAN",
+    "district": "SIROHI",
+    "offices": [
+        {
+            "officeName": "Sheoganj S.O (Sirohi)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 24.8852778,
+            "longitude": 72.8530556
+        },
+        {
+            "officeName": "Kesharpura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 25.125367,
+            "longitude": 73.062973
+        },
+        {
+            "officeName": "Badgaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 25.137558,
+            "longitude": 73.069368
+        },
+        {
+            "officeName": "Dhurbana B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 25.137113,
+            "longitude": 73.069368
+        },
+        {
+            "officeName": "Jetpura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 25.097913,
+            "longitude": 73.042004
+        }
+    ]
+}

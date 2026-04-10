@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "BANKURA",
+    "offices": [
+        {
+            "officeName": "Panchmura SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Bankura Division",
+            "latitude": 23.2113888,
+            "longitude": 87.1502013
+        },
+        {
+            "officeName": "Bhutsahar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Bankura Division",
+            "latitude": 22.9269593,
+            "longitude": 87.0971777
+        },
+        {
+            "officeName": "Mandalgram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Bankura Division",
+            "latitude": 22.9875,
+            "longitude": 87.14365
+        }
+    ]
+}

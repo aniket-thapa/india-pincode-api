@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "PALGHAR",
+    "offices": [
+        {
+            "officeName": "Papdi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Palghar Division",
+            "latitude": 19.3536944,
+            "longitude": 72.8144167
+        },
+        {
+            "officeName": "Naigaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Palghar Division",
+            "latitude": 19.3429113,
+            "longitude": 72.8234835
+        }
+    ]
+}

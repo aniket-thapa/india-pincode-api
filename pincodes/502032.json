@@ -1,0 +1,56 @@
+{
+    "state": "TELANGANA",
+    "district": "SANGAREDDY",
+    "offices": [
+        {
+            "officeName": "Tellapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Sangareddy Division",
+            "latitude": 17.467539,
+            "longitude": 78.282811
+        },
+        {
+            "officeName": "Admn. Bldgs S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Sangareddy Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Ramachandrapuram He S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Sangareddy Division",
+            "latitude": 17.494634740069984,
+            "longitude": 78.304364170165
+        },
+        {
+            "officeName": "A.I.E. R.C.puram S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Sangareddy Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Mig Colony S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Sangareddy Division",
+            "latitude": 17.4822222,
+            "longitude": 78.3021944
+        }
+    ]
+}

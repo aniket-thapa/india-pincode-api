@@ -1,0 +1,56 @@
+{
+    "state": "KERALA",
+    "district": "KOLLAM",
+    "offices": [
+        {
+            "officeName": "Kanjiracode BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Quilon Division",
+            "latitude": 8.97,
+            "longitude": 76.67
+        },
+        {
+            "officeName": "Ambipoika BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Quilon Division",
+            "latitude": 8.95,
+            "longitude": 76.69
+        },
+        {
+            "officeName": "Kundara East SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Quilon Division",
+            "latitude": 8.97,
+            "longitude": 76.69
+        },
+        {
+            "officeName": "Nedumpaikulam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Quilon Division",
+            "latitude": 8.98,
+            "longitude": 76.7
+        },
+        {
+            "officeName": "Kundara SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Quilon Division",
+            "latitude": 8.96,
+            "longitude": 76.67
+        }
+    ]
+}

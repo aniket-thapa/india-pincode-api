@@ -1,0 +1,26 @@
+{
+    "state": "CHHATTISGARH",
+    "district": "DURG",
+    "offices": [
+        {
+            "officeName": "Smriti Nagar Bhilai SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Durg Division",
+            "latitude": 21.12989,
+            "longitude": 81.19112
+        },
+        {
+            "officeName": "Motilal Nehru Nagr Bhilai SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Durg Division",
+            "latitude": 21.211806,
+            "longitude": 81.385672
+        }
+    ]
+}

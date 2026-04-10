@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Bapatla",
+    "offices": [
+        {
+            "officeName": "Thotavaripalem B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Prakasam Division",
+            "latitude": 15.842086,
+            "longitude": 80.392128
+        },
+        {
+            "officeName": "Gavinivaripalem B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Prakasam Division",
+            "latitude": 15.841657,
+            "longitude": 80.431261
+        },
+        {
+            "officeName": "Ipurupalem S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Prakasam Division",
+            "latitude": 15.84825,
+            "longitude": 80.3839444
+        }
+    ]
+}

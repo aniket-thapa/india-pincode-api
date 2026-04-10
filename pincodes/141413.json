@@ -1,0 +1,36 @@
+{
+    "state": "PUNJAB",
+    "district": "LUDHIANA",
+    "offices": [
+        {
+            "officeName": "Dhamote SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ludhiana Moffusil Division",
+            "latitude": 30.6917777,
+            "longitude": 75.0311388
+        },
+        {
+            "officeName": "Nizampur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ludhiana Moffusil Division",
+            "latitude": 31.652761,
+            "longitude": 74.991742
+        },
+        {
+            "officeName": "Sihaura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ludhiana Moffusil Division",
+            "latitude": 30.655883,
+            "longitude": 76.005824
+        }
+    ]
+}

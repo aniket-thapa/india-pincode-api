@@ -1,0 +1,56 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "BAHRAICH",
+    "offices": [
+        {
+            "officeName": "Chhwani Bazar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Bahraich Division",
+            "latitude": 27.5761389,
+            "longitude": 81.5964167
+        },
+        {
+            "officeName": "Qanoongopura SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Bahraich Division",
+            "latitude": 27.5731111,
+            "longitude": 81.5998056
+        },
+        {
+            "officeName": "Bahraich HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Bahraich Division",
+            "latitude": 27.568357,
+            "longitude": 81.592884
+        },
+        {
+            "officeName": "Gudari Bazar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Bahraich Division",
+            "latitude": 27.5743333,
+            "longitude": 81.5874167
+        },
+        {
+            "officeName": "Bahraich City SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Bahraich Division",
+            "latitude": 27.5788611,
+            "longitude": 81.5961111
+        }
+    ]
+}

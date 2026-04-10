@@ -1,0 +1,76 @@
+{
+    "state": "TELANGANA",
+    "district": "PEDDAPALLI",
+    "offices": [
+        {
+            "officeName": "Maredpak B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Peddapalli Division",
+            "latitude": 18.6852945,
+            "longitude": 79.5193409
+        },
+        {
+            "officeName": "Maidpalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Peddapalli Division",
+            "latitude": 18.783395,
+            "longitude": 79.4810433
+        },
+        {
+            "officeName": "Mustyala B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Peddapalli Division",
+            "latitude": 18.737938,
+            "longitude": 79.571802
+        },
+        {
+            "officeName": "Sundilla B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Peddapalli Division",
+            "latitude": 18.7689283,
+            "longitude": 79.5234681
+        },
+        {
+            "officeName": "Jangaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Peddapalli Division",
+            "latitude": 18.7832158,
+            "longitude": 79.4812184
+        },
+        {
+            "officeName": "Scab S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Peddapalli Division",
+            "latitude": 18.7465833,
+            "longitude": 79.5142778
+        },
+        {
+            "officeName": "Godavarikhani S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Peddapalli Division",
+            "latitude": 18.7501389,
+            "longitude": 79.5066111
+        }
+    ]
+}

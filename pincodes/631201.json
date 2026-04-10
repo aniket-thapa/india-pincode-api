@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "THIRUVALLUR",
+    "offices": [
+        {
+            "officeName": "Nemili B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Kanchipuram Division",
+            "latitude": 12.827,
+            "longitude": 79.6873
+        },
+        {
+            "officeName": "Arungolam S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Kanchipuram Division",
+            "latitude": 13.23109,
+            "longitude": 79.67407
+        },
+        {
+            "officeName": "Chivada B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Kanchipuram Division",
+            "latitude": 12.827,
+            "longitude": 79.6873
+        }
+    ]
+}

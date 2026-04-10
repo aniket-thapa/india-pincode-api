@@ -1,0 +1,76 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "GONDA",
+    "offices": [
+        {
+            "officeName": "Pandri Kirpal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gonda Division",
+            "latitude": 27.178397,
+            "longitude": 81.997336
+        },
+        {
+            "officeName": "Bargaon Gonda SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gonda Division",
+            "latitude": 27.1289167,
+            "longitude": 81.9433056
+        },
+        {
+            "officeName": "Dadua Bazar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gonda Division",
+            "latitude": 27.16784,
+            "longitude": 81.98621
+        },
+        {
+            "officeName": "Bahlol Pur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gonda Division",
+            "latitude": 27.11416,
+            "longitude": 82.01616
+        },
+        {
+            "officeName": "Imliya Gurdayal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gonda Division",
+            "latitude": 27.14297,
+            "longitude": 81.9
+        },
+        {
+            "officeName": "Babhani Kanoongo BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gonda Division",
+            "latitude": 27.13229,
+            "longitude": 81.99673
+        },
+        {
+            "officeName": "Burha Dewar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gonda Division",
+            "latitude": 27.14267,
+            "longitude": 81.9903
+        }
+    ]
+}

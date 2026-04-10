@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "PUNE",
+    "offices": [
+        {
+            "officeName": "Baramati MIDC S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Baramati Division",
+            "latitude": 18.1775106,
+            "longitude": 74.6069193
+        },
+        {
+            "officeName": "Katfal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Baramati Division",
+            "latitude": 18.2288095,
+            "longitude": 74.5836679
+        },
+        {
+            "officeName": "Saval B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Baramati Division",
+            "latitude": 18.10683,
+            "longitude": 75.77747
+        }
+    ]
+}

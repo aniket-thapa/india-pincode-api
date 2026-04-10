@@ -1,0 +1,26 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "VISAKHAPATANAM",
+    "offices": [
+        {
+            "officeName": "VM Steel Projrct Town Ship S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Visakhapatnam Division",
+            "latitude": 17.650187,
+            "longitude": 83.138095
+        },
+        {
+            "officeName": "Ukkunagaram S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Visakhapatnam Division",
+            "latitude": 17.65725,
+            "longitude": 83.1493611
+        }
+    ]
+}

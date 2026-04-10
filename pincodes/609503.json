@@ -1,0 +1,86 @@
+{
+    "state": "TAMIL NADU",
+    "district": "THIRUVARUR",
+    "offices": [
+        {
+            "officeName": "Agarathirumalam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Mayiladuthurai Division",
+            "latitude": 10.93,
+            "longitude": 79.67
+        },
+        {
+            "officeName": "Sarabojirajapuram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Mayiladuthurai Division",
+            "latitude": 10.95,
+            "longitude": 79.59
+        },
+        {
+            "officeName": "Koothanur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Mayiladuthurai Division",
+            "latitude": 10.93,
+            "longitude": 79.65
+        },
+        {
+            "officeName": "Maruduvancheri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Mayiladuthurai Division",
+            "latitude": 10.94,
+            "longitude": 79.62
+        },
+        {
+            "officeName": "Punthottam S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Mayiladuthurai Division",
+            "latitude": 10.7663611,
+            "longitude": 79.6371389
+        },
+        {
+            "officeName": "Manandakudi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Mayiladuthurai Division",
+            "latitude": 10.94,
+            "longitude": 79.62
+        },
+        {
+            "officeName": "Ambal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Mayiladuthurai Division",
+            "latitude": 10.92,
+            "longitude": 79.68
+        },
+        {
+            "officeName": "Sembiyanallur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Mayiladuthurai Division",
+            "latitude": 10.93,
+            "longitude": 79.7
+        }
+    ]
+}

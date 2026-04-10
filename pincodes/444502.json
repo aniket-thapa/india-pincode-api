@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "AKOLA",
+    "offices": [
+        {
+            "officeName": "Degaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Akola Division",
+            "latitude": 20.62,
+            "longitude": 76.86
+        },
+        {
+            "officeName": "Vadegaon S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Akola Division",
+            "latitude": 20.5793056,
+            "longitude": 76.8505
+        }
+    ]
+}

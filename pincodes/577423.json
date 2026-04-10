@@ -1,0 +1,46 @@
+{
+    "state": "KARNATAKA",
+    "district": "SHIVAMOGGA",
+    "offices": [
+        {
+            "officeName": "Thuppur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Shivamogga Division",
+            "latitude": 14.08,
+            "longitude": 75.31
+        },
+        {
+            "officeName": "Chordi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Shivamogga Division",
+            "latitude": 14.07,
+            "longitude": 75.35
+        },
+        {
+            "officeName": "Balekoppa B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Shivamogga Division",
+            "latitude": 14.46,
+            "longitude": 74.9
+        },
+        {
+            "officeName": "Kumsi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Shivamogga Division",
+            "latitude": 14.0554167,
+            "longitude": 75.4006667
+        }
+    ]
+}

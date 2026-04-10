@@ -1,0 +1,76 @@
+{
+    "state": "WEST BENGAL",
+    "district": "KOLKATA",
+    "offices": [
+        {
+            "officeName": "Alipore Dist Board S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "South Kolkata Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Chetla SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "South Kolkata Division",
+            "latitude": 22.5175,
+            "longitude": 88.3352222
+        },
+        {
+            "officeName": "Alipore HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "South Kolkata Division",
+            "latitude": 22.52575,
+            "longitude": 88.3377222
+        },
+        {
+            "officeName": "Alipore Civil Court SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "South Kolkata Division",
+            "latitude": 22.5218888,
+            "longitude": 88.3336388
+        },
+        {
+            "officeName": "Alipore Bodyguard Line SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "South Kolkata Division",
+            "latitude": 22.5350277,
+            "longitude": 88.3280555
+        },
+        {
+            "officeName": "Natioinal Library SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "South Kolkata Division",
+            "latitude": 22.5350833,
+            "longitude": 88.3332222
+        },
+        {
+            "officeName": "Mominpur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "South Kolkata Division",
+            "latitude": 22.5256111,
+            "longitude": 88.3253333
+        }
+    ]
+}

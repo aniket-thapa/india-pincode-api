@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "VELLORE",
+    "offices": [
+        {
+            "officeName": "Mordhana B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupattur Division",
+            "latitude": 13.03403,
+            "longitude": 78.785681
+        },
+        {
+            "officeName": "Sempalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupattur Division",
+            "latitude": 12.986448,
+            "longitude": 78.810454
+        },
+        {
+            "officeName": "Agraharam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupattur Division",
+            "latitude": 12.96316,
+            "longitude": 78.831376
+        },
+        {
+            "officeName": "Erthangal S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupattur Division",
+            "latitude": 12.950968,
+            "longitude": 78.824401
+        }
+    ]
+}

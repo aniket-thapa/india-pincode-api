@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "THANJAVUR",
+    "offices": [
+        {
+            "officeName": "Ammaiyandi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Pattukottai Division",
+            "latitude": 10.3,
+            "longitude": 79.16
+        },
+        {
+            "officeName": "Enathikarambai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Pattukottai Division",
+            "latitude": 10.31,
+            "longitude": 79.14
+        },
+        {
+            "officeName": "Paingal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Pattukottai Division",
+            "latitude": 10.28,
+            "longitude": 79.13
+        },
+        {
+            "officeName": "Avanam S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Pattukottai Division",
+            "latitude": 10.328108,
+            "longitude": 79.135052
+        }
+    ]
+}

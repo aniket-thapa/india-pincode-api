@@ -1,0 +1,56 @@
+{
+    "state": "ODISHA",
+    "district": "KANDHAMAL",
+    "offices": [
+        {
+            "officeName": "Talarimaha B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Phulbani Division",
+            "latitude": 20.2103733,
+            "longitude": 84.3924666
+        },
+        {
+            "officeName": "Kalinga S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Phulbani Division",
+            "latitude": 20.16579,
+            "longitude": 84.4133983
+        },
+        {
+            "officeName": "Kurmingia B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Phulbani Division",
+            "latitude": 20.1288333,
+            "longitude": 84.41878
+        },
+        {
+            "officeName": "Balumaha B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Phulbani Division",
+            "latitude": 20.2014016,
+            "longitude": 84.40217
+        },
+        {
+            "officeName": "Duguripadi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Phulbani Division",
+            "latitude": 20.1560033,
+            "longitude": 84.4117483
+        }
+    ]
+}

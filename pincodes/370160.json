@@ -1,0 +1,26 @@
+{
+    "state": "GUJARAT",
+    "district": "KACHCHH",
+    "offices": [
+        {
+            "officeName": "Padampar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Kutch Division",
+            "latitude": 23.504908,
+            "longitude": 70.828358
+        },
+        {
+            "officeName": "Bhimasar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Kutch Division",
+            "latitude": 23.2469444,
+            "longitude": 69.6731944
+        }
+    ]
+}

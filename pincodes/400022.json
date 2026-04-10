@@ -1,0 +1,46 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "offices": [
+        {
+            "officeName": "Raoli Camp SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North East Division",
+            "latitude": 19.035528,
+            "longitude": 72.866802
+        },
+        {
+            "officeName": "Sion SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North East Division",
+            "latitude": 19.044426,
+            "longitude": 72.863721
+        },
+        {
+            "officeName": "Chunabhatti SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North East Division",
+            "latitude": 19.055744,
+            "longitude": 72.872235
+        },
+        {
+            "officeName": "Transit Camp SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North East Division",
+            "latitude": 19.087691,
+            "longitude": 72.833477
+        }
+    ]
+}

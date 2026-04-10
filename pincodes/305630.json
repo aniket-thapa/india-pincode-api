@@ -1,0 +1,56 @@
+{
+    "state": "RAJASTHAN",
+    "district": "AJMER",
+    "offices": [
+        {
+            "officeName": "Begliawas B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Beawar Division",
+            "latitude": 26.09,
+            "longitude": 74.61
+        },
+        {
+            "officeName": "Jhipian B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Beawar Division",
+            "latitude": 26.09,
+            "longitude": 74.63
+        },
+        {
+            "officeName": "Satawaria B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Beawar Division",
+            "latitude": 26.12,
+            "longitude": 74.64
+        },
+        {
+            "officeName": "Lamba Kund Ka B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Beawar Division",
+            "latitude": 26.05,
+            "longitude": 74.61
+        },
+        {
+            "officeName": "Jamola S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Beawar Division",
+            "latitude": 26.1092222,
+            "longitude": 74.5482222
+        }
+    ]
+}

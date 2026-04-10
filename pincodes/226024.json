@@ -1,0 +1,36 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "LUCKNOW",
+    "offices": [
+        {
+            "officeName": "Aliganj SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Lucknow Division",
+            "latitude": 26.9004194,
+            "longitude": 80.9484125
+        },
+        {
+            "officeName": "Aliganj Extension SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Lucknow Division",
+            "latitude": 26.9002222,
+            "longitude": 80.9466666
+        },
+        {
+            "officeName": "Chandganj SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Lucknow Division",
+            "latitude": 26.8795833,
+            "longitude": 80.9426111
+        }
+    ]
+}

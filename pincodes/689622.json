@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "ALAPPUZHA",
+    "offices": [
+        {
+            "officeName": "Eramathoor BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Mavelikara Division",
+            "latitude": 9.307115,
+            "longitude": 76.528446
+        },
+        {
+            "officeName": "Mannar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Mavelikara Division",
+            "latitude": 9.320264,
+            "longitude": 76.533918
+        },
+        {
+            "officeName": "Pavukara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Mavelikara Division",
+            "latitude": 9.322662,
+            "longitude": 76.516328
+        }
+    ]
+}

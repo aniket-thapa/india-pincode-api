@@ -1,0 +1,46 @@
+{
+    "state": "HARYANA",
+    "district": "SIRSA",
+    "offices": [
+        {
+            "officeName": "Mauju Khera BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hissar Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Bahaudin SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hissar Division",
+            "latitude": 29.5461389,
+            "longitude": 75.2148333
+        },
+        {
+            "officeName": "Baruwalii BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hissar Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Patli Dabar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hissar Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

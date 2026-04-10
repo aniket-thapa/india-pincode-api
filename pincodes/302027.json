@@ -1,0 +1,86 @@
+{
+    "state": "RAJASTHAN",
+    "district": "JAIPUR",
+    "offices": [
+        {
+            "officeName": "Indergarh B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur City Division",
+            "latitude": 25.728291,
+            "longitude": 76.232836
+        },
+        {
+            "officeName": "Langariyawas B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur City Division",
+            "latitude": 25.728283,
+            "longitude": 76.232988
+        },
+        {
+            "officeName": "Saipura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur City Division",
+            "latitude": 26.987974,
+            "longitude": 75.937615
+        },
+        {
+            "officeName": "Rahori B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur City Division",
+            "latitude": 26.96502,
+            "longitude": 75.995667
+        },
+        {
+            "officeName": "Roopwas B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur City Division",
+            "latitude": 26.973791,
+            "longitude": 75.982607
+        },
+        {
+            "officeName": "Jaisinghpura Khore S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur City Division",
+            "latitude": 26.91925,
+            "longitude": 75.7196389
+        },
+        {
+            "officeName": "Saiwar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur City Division",
+            "latitude": 27.010615,
+            "longitude": 75.947776
+        },
+        {
+            "officeName": "Crpf Campus  Lalwas S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur City Division",
+            "latitude": 26.9666111,
+            "longitude": 75.8820556
+        }
+    ]
+}

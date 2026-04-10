@@ -1,0 +1,76 @@
+{
+    "state": "ODISHA",
+    "district": "BHADRAK",
+    "offices": [
+        {
+            "officeName": "Bodakpatna B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhadrak Division",
+            "latitude": 21.119695,
+            "longitude": 86.392925
+        },
+        {
+            "officeName": "Odanga B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhadrak Division",
+            "latitude": 21.1299916,
+            "longitude": 86.3803733
+        },
+        {
+            "officeName": "Olanga B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhadrak Division",
+            "latitude": 21.0951066,
+            "longitude": 86.4520733
+        },
+        {
+            "officeName": "Kadabaranga B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhadrak Division",
+            "latitude": 21.1471466,
+            "longitude": 86.39548
+        },
+        {
+            "officeName": "Saramara B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhadrak Division",
+            "latitude": 21.1416699,
+            "longitude": 86.3586299
+        },
+        {
+            "officeName": "Badabarchikayan B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhadrak Division",
+            "latitude": 21.1634399,
+            "longitude": 86.4020216
+        },
+        {
+            "officeName": "Randiahat S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhadrak Division",
+            "latitude": 21.0666666,
+            "longitude": 86.4658333
+        }
+    ]
+}

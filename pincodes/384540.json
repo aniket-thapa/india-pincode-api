@@ -1,0 +1,36 @@
+{
+    "state": "GUJARAT",
+    "district": "MAHESANA",
+    "offices": [
+        {
+            "officeName": "Mandali BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Mahesana Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Kharod BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Mahesana Division",
+            "latitude": 23.664943,
+            "longitude": 72.683091
+        },
+        {
+            "officeName": "Ladol SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Mahesana Division",
+            "latitude": 23.622014,
+            "longitude": 72.735107
+        }
+    ]
+}

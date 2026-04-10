@@ -1,0 +1,46 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "YAVATMAL",
+    "offices": [
+        {
+            "officeName": "Palsi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Yeotmal Division",
+            "latitude": 19.6830277,
+            "longitude": 77.5628055
+        },
+        {
+            "officeName": "Taroda B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Yeotmal Division",
+            "latitude": 19.6830277,
+            "longitude": 77.5628055
+        },
+        {
+            "officeName": "Dhanaj BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Yeotmal Division",
+            "latitude": 19.7457785,
+            "longitude": 77.5455709
+        },
+        {
+            "officeName": "Mulawa S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Yeotmal Division",
+            "latitude": 19.68302778,
+            "longitude": 77.56280556
+        }
+    ]
+}

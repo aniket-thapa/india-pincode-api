@@ -1,0 +1,26 @@
+{
+    "state": "PUNJAB",
+    "district": "Tarn Taran",
+    "offices": [
+        {
+            "officeName": "Tarn Taran HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.457758,
+            "longitude": 74.918607
+        },
+        {
+            "officeName": "New Judicial Court Complex S.o",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

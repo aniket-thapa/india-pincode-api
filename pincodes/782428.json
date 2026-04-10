@@ -1,0 +1,56 @@
+{
+    "state": "ASSAM",
+    "district": "HOJAI",
+    "offices": [
+        {
+            "officeName": "Jungle Block B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Nagaon Division",
+            "latitude": 26.1069,
+            "longitude": 92.7456
+        },
+        {
+            "officeName": "Jamunamukh S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Nagaon Division",
+            "latitude": 26.1069,
+            "longitude": 92.7456
+        },
+        {
+            "officeName": "Barapatia B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Nagaon Division",
+            "latitude": 26.1069,
+            "longitude": 92.7456
+        },
+        {
+            "officeName": "Dumaihagi Dapara B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Nagaon Division",
+            "latitude": 26.1069,
+            "longitude": 92.7456
+        },
+        {
+            "officeName": "Garukhunda B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Nagaon Division",
+            "latitude": 26.1069,
+            "longitude": 92.7456
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "THANJAVUR",
+    "offices": [
+        {
+            "officeName": "Vembakudi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Thanjavur Division",
+            "latitude": 10.88,
+            "longitude": 79.22
+        },
+        {
+            "officeName": "Vadakkumangudi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Thanjavur Division",
+            "latitude": 10.7789167,
+            "longitude": 79.1400556
+        },
+        {
+            "officeName": "Agaramangudi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Thanjavur Division",
+            "latitude": 10.88,
+            "longitude": 79.23
+        },
+        {
+            "officeName": "Kavalur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Thanjavur Division",
+            "latitude": 10.86,
+            "longitude": 79.22
+        }
+    ]
+}

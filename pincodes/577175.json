@@ -1,0 +1,26 @@
+{
+    "state": "KARNATAKA",
+    "district": "CHIKKAMAGALURU",
+    "offices": [
+        {
+            "officeName": "Devanur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Chikkamagaluru Division",
+            "latitude": 13.4274767,
+            "longitude": 76.0917465
+        },
+        {
+            "officeName": "Nagaralu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Chikkamagaluru Division",
+            "latitude": 13.4190117,
+            "longitude": 76.0556761
+        }
+    ]
+}

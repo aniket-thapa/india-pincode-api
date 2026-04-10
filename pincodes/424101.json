@@ -1,0 +1,46 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "JALGAON",
+    "offices": [
+        {
+            "officeName": "Chalisgaon Town S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Jalgaon Division",
+            "latitude": 20.456823,
+            "longitude": 75.003053
+        },
+        {
+            "officeName": "Chalisgaon Adarsha Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Jalgaon Division",
+            "latitude": 20.4613641,
+            "longitude": 74.9898334
+        },
+        {
+            "officeName": "Chalisgaon R S S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Jalgaon Division",
+            "latitude": 20.456822,
+            "longitude": 75.003054
+        },
+        {
+            "officeName": "Chalisgaon H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Jalgaon Division",
+            "latitude": 20.460336,
+            "longitude": 75.011102
+        }
+    ]
+}

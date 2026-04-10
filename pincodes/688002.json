@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "ALAPPUZHA",
+    "offices": [
+        {
+            "officeName": "Thiruvampady Junction SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Alleppey Division",
+            "latitude": 9.48159,
+            "longitude": 76.33711
+        },
+        {
+            "officeName": "Vattayal Ward BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Alleppey Division",
+            "latitude": 9.495,
+            "longitude": 76.331
+        }
+    ]
+}

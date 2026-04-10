@@ -1,0 +1,56 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "BIJNOR",
+    "offices": [
+        {
+            "officeName": "Badhapur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Bijnor Division",
+            "latitude": 29.3735278,
+            "longitude": 78.1348056
+        },
+        {
+            "officeName": "Barkhera BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Bijnor Division",
+            "latitude": 19.2895,
+            "longitude": 78.4385
+        },
+        {
+            "officeName": "Tanda Shahuwala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Bijnor Division",
+            "latitude": 19.2895,
+            "longitude": 78.4385
+        },
+        {
+            "officeName": "Rampur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Bijnor Division",
+            "latitude": 29.561389,
+            "longitude": 78.576832
+        },
+        {
+            "officeName": "Ganga Ramwala B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Bijnor Division",
+            "latitude": 29.594762,
+            "longitude": 75.539024
+        }
+    ]
+}

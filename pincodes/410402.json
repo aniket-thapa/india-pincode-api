@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "PUNE",
+    "offices": [
+        {
+            "officeName": "Kurwande B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune Moffusil Division",
+            "latitude": 18.73278,
+            "longitude": 73.376127
+        },
+        {
+            "officeName": "Ins Shivaji Lonavale S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune Moffusil Division",
+            "latitude": 18.720677,
+            "longitude": 73.376563
+        }
+    ]
+}

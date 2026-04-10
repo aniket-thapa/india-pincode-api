@@ -1,0 +1,56 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "AKOLA",
+    "offices": [
+        {
+            "officeName": "Adgaon KD B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Akola Division",
+            "latitude": 21.13,
+            "longitude": 76.94
+        },
+        {
+            "officeName": "Pimpri Kd B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Akola Division",
+            "latitude": 21.16,
+            "longitude": 76.97
+        },
+        {
+            "officeName": "Adgaon Bk S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Akola Division",
+            "latitude": 21.1173611,
+            "longitude": 76.9411389
+        },
+        {
+            "officeName": "Sirsoli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Akola Division",
+            "latitude": 21.07,
+            "longitude": 76.95
+        },
+        {
+            "officeName": "Jalgaon Nahate B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Akola Division",
+            "latitude": 21.09,
+            "longitude": 77.0
+        }
+    ]
+}

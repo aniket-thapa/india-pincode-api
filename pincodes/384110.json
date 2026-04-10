@@ -1,0 +1,36 @@
+{
+    "state": "GUJARAT",
+    "district": "PATAN",
+    "offices": [
+        {
+            "officeName": "Der BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Patan Division",
+            "latitude": 23.8178,
+            "longitude": 72.2575
+        },
+        {
+            "officeName": "Balisana SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Patan Division",
+            "latitude": 23.81575,
+            "longitude": 72.271431
+        },
+        {
+            "officeName": "Kani BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Patan Division",
+            "latitude": 15.5934,
+            "longitude": 73.0844
+        }
+    ]
+}

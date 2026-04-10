@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "SIVAGANGA",
+    "offices": [
+        {
+            "officeName": "A.Thekkur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Karaikudi Division",
+            "latitude": 10.1891111,
+            "longitude": 78.5288611
+        },
+        {
+            "officeName": "Vanjinipatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Karaikudi Division",
+            "latitude": 10.18,
+            "longitude": 78.55
+        }
+    ]
+}

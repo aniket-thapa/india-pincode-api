@@ -1,0 +1,26 @@
+{
+    "state": "NAGALAND",
+    "district": "MOKOKCHUNG",
+    "offices": [
+        {
+            "officeName": "Chantongia S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Nagaland Division",
+            "latitude": 26.322074,
+            "longitude": 94.51448
+        },
+        {
+            "officeName": "Yaongyimsen B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Nagaland Division",
+            "latitude": 26.5710803,
+            "longitude": 94.6911123
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "GUJARAT",
+    "district": "VADODARA",
+    "offices": [
+        {
+            "officeName": "Dhanora BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Vadodara West Division",
+            "latitude": 22.3735,
+            "longitude": 73.0966
+        },
+        {
+            "officeName": "Padmala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Vadodara West Division",
+            "latitude": 15.59,
+            "longitude": 73.46
+        },
+        {
+            "officeName": "Ranoli SO Vadodara",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Vadodara West Division",
+            "latitude": 22.3980964,
+            "longitude": 73.129244
+        },
+        {
+            "officeName": "Sankarda BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Vadodara West Division",
+            "latitude": 15.59,
+            "longitude": 73.71
+        }
+    ]
+}

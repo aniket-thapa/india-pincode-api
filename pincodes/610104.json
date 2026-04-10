@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "THIRUVARUR",
+    "offices": [
+        {
+            "officeName": "ELVANGARGUDI B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.78,
+            "longitude": 79.62
+        },
+        {
+            "officeName": "Manakkal Ayyampet S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.82,
+            "longitude": 79.57
+        },
+        {
+            "officeName": "Tirukannamangai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.8,
+            "longitude": 79.59
+        },
+        {
+            "officeName": "Kattur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.79,
+            "longitude": 79.6
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "offices": [
+        {
+            "officeName": "Kalbadevi H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City South Division",
+            "latitude": 18.945166,
+            "longitude": 72.828526
+        },
+        {
+            "officeName": "Thakurdwar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City South Division",
+            "latitude": 18.9600833,
+            "longitude": 72.8284722
+        },
+        {
+            "officeName": "S. C. Court S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City South Division",
+            "latitude": 18.9455278,
+            "longitude": 72.8287222
+        }
+    ]
+}

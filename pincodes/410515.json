@@ -1,0 +1,46 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "PUNE",
+    "offices": [
+        {
+            "officeName": "Chas B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune Moffusil Division",
+            "latitude": 19.041294,
+            "longitude": 73.914759
+        },
+        {
+            "officeName": "Kalamb S.O (Pune)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune Moffusil Division",
+            "latitude": 19.0416799,
+            "longitude": 73.9541673
+        },
+        {
+            "officeName": "Sakore B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune Moffusil Division",
+            "latitude": 19.03609,
+            "longitude": 73.917612
+        },
+        {
+            "officeName": "Mahalunge Padwal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune Moffusil Division",
+            "latitude": 18.7496572,
+            "longitude": 73.800718
+        }
+    ]
+}

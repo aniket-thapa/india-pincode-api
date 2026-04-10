@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "DAVANGERE",
+    "offices": [
+        {
+            "officeName": "Siramagondanahalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "DAVANAGERE DIVISION",
+            "latitude": 12.955817,
+            "longitude": 77.740916
+        },
+        {
+            "officeName": "Sks Nagar Davanagere S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "DAVANAGERE DIVISION",
+            "latitude": 40.465292,
+            "longitude": 74.265201
+        },
+        {
+            "officeName": "Bapuji Vidyanagara S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "DAVANAGERE DIVISION",
+            "latitude": 14.4387778,
+            "longitude": 75.9180833
+        }
+    ]
+}

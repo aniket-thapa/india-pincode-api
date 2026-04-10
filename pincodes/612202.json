@@ -1,0 +1,56 @@
+{
+    "state": "TAMIL NADU",
+    "district": "THANJAVUR",
+    "offices": [
+        {
+            "officeName": "Poundarigapuram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Kumbakonam Division",
+            "latitude": 10.96,
+            "longitude": 79.45
+        },
+        {
+            "officeName": "Thandanthottam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Kumbakonam Division",
+            "latitude": 10.94,
+            "longitude": 79.46
+        },
+        {
+            "officeName": "Murukkangudi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Kumbakonam Division",
+            "latitude": 10.96,
+            "longitude": 79.46
+        },
+        {
+            "officeName": "Ammangudi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Kumbakonam Division",
+            "latitude": 10.95,
+            "longitude": 79.5
+        },
+        {
+            "officeName": "Rendankattalai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Kumbakonam Division",
+            "latitude": 10.94,
+            "longitude": 79.47
+        }
+    ]
+}

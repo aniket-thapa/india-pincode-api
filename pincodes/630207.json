@@ -1,0 +1,56 @@
+{
+    "state": "TAMIL NADU",
+    "district": "SIVAGANGA",
+    "offices": [
+        {
+            "officeName": "Kambanur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Karaikudi Division",
+            "latitude": 10.075832,
+            "longitude": 78.658042
+        },
+        {
+            "officeName": "Siravayal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Karaikudi Division",
+            "latitude": 10.105823,
+            "longitude": 78.659817
+        },
+        {
+            "officeName": "Athikaram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Karaikudi Division",
+            "latitude": 10.0963,
+            "longitude": 78.645547
+        },
+        {
+            "officeName": "Pillayarpatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Karaikudi Division",
+            "latitude": 10.120052,
+            "longitude": 78.668617
+        },
+        {
+            "officeName": "Nachiapuram S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Karaikudi Division",
+            "latitude": 10.0796667,
+            "longitude": 78.6701944
+        }
+    ]
+}

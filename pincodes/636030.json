@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "SALEM",
+    "offices": [
+        {
+            "officeName": "Sarkar Kollapatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Salem West Division",
+            "latitude": 11.672056,
+            "longitude": 78.079281
+        },
+        {
+            "officeName": "Maramangalathupatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Salem West Division",
+            "latitude": 11.671766,
+            "longitude": 78.054294
+        },
+        {
+            "officeName": "Mohan Nagar S.O (Salem)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Salem West Division",
+            "latitude": 11.667196,
+            "longitude": 78.050066
+        }
+    ]
+}

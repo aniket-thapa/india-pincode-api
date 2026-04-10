@@ -1,0 +1,56 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "CHANDRAPUR",
+    "offices": [
+        {
+            "officeName": "Shengaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Chandrapur Division",
+            "latitude": 19.934497,
+            "longitude": 79.163786
+        },
+        {
+            "officeName": "BELSANI B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Chandrapur Division",
+            "latitude": 19.97,
+            "longitude": 79.12
+        },
+        {
+            "officeName": "Dhanora Pipri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Chandrapur Division",
+            "latitude": 20.3846739,
+            "longitude": 78.6883146
+        },
+        {
+            "officeName": "Mhatardevi",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Chandrapur Division",
+            "latitude": 19.9507821,
+            "longitude": 79.1238069
+        },
+        {
+            "officeName": "Ghugus Colliery S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Chandrapur Division",
+            "latitude": 19.9405833,
+            "longitude": 79.12025
+        }
+    ]
+}

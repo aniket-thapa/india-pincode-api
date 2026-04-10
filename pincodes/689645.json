@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "PATHANAMTHITTA",
+    "offices": [
+        {
+            "officeName": "Makkankunnu SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pathanamthitta Division",
+            "latitude": 9.06,
+            "longitude": 76.92
+        },
+        {
+            "officeName": "Pathanamthitta HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pathanamthitta Division",
+            "latitude": 9.2642778,
+            "longitude": 76.78725
+        }
+    ]
+}

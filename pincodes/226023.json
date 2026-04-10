@@ -1,0 +1,26 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "LUCKNOW",
+    "offices": [
+        {
+            "officeName": "32 Bn PAC SO Lucknow",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Lucknow Division",
+            "latitude": 26.8447,
+            "longitude": 80.945626
+        },
+        {
+            "officeName": "MANAS NAGAR SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Lucknow Division",
+            "latitude": 26.797033,
+            "longitude": 80.884898
+        }
+    ]
+}

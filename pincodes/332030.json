@@ -1,0 +1,46 @@
+{
+    "state": "RAJASTHAN",
+    "district": "SIKAR",
+    "offices": [
+        {
+            "officeName": "Singrawat SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sikar Division",
+            "latitude": 27.4332222,
+            "longitude": 74.877
+        },
+        {
+            "officeName": "Mordunga BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sikar Division",
+            "latitude": 27.4668581,
+            "longitude": 74.825125
+        },
+        {
+            "officeName": "Sarwari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sikar Division",
+            "latitude": 27.4631951,
+            "longitude": 74.9150313
+        },
+        {
+            "officeName": "Sujanpura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sikar Division",
+            "latitude": 27.4898189,
+            "longitude": 74.8448648
+        }
+    ]
+}

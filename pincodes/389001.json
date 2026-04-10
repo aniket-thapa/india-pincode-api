@@ -1,0 +1,36 @@
+{
+    "state": "GUJARAT",
+    "district": "PANCH MAHALS",
+    "offices": [
+        {
+            "officeName": "Bamroli Road SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Panchmahals Division",
+            "latitude": 22.767442,
+            "longitude": 73.637297
+        },
+        {
+            "officeName": "Godhra HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Panchmahals Division",
+            "latitude": 22.77675,
+            "longitude": 73.6124444
+        },
+        {
+            "officeName": "Godhra Civil Lines SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Panchmahals Division",
+            "latitude": 22.768,
+            "longitude": 73.6217
+        }
+    ]
+}

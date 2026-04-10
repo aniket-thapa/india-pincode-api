@@ -1,0 +1,66 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "NAGPUR",
+    "offices": [
+        {
+            "officeName": "Khare Town S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur City Division",
+            "latitude": 21.14130556,
+            "longitude": 79.06263889
+        },
+        {
+            "officeName": "Giripeth S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur City Division",
+            "latitude": 21.14583333,
+            "longitude": 79.06472222
+        },
+        {
+            "officeName": "Shankar Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur City Division",
+            "latitude": 21.13336111,
+            "longitude": 79.06038889
+        },
+        {
+            "officeName": "Abhyankar Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur City Division",
+            "latitude": 21.12566667,
+            "longitude": 79.05777778
+        },
+        {
+            "officeName": "V R C E S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur City Division",
+            "latitude": 21.12430556,
+            "longitude": 79.05180556
+        },
+        {
+            "officeName": "Gokulpeth S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur City Division",
+            "latitude": 21.144,
+            "longitude": 79.05933333
+        }
+    ]
+}

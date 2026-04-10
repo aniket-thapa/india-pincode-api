@@ -1,0 +1,46 @@
+{
+    "state": "ODISHA",
+    "district": "JAGATSINGHAPUR",
+    "offices": [
+        {
+            "officeName": "Patenigaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Cuttack South Division",
+            "latitude": 20.3560933,
+            "longitude": 86.2000516
+        },
+        {
+            "officeName": "Jaipur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Cuttack South Division",
+            "latitude": 20.3385466,
+            "longitude": 86.2629116
+        },
+        {
+            "officeName": "Nuapada B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Cuttack South Division",
+            "latitude": 20.3250183,
+            "longitude": 86.2813849
+        },
+        {
+            "officeName": "Tarpur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Cuttack South Division",
+            "latitude": 20.371894,
+            "longitude": 86.144649
+        }
+    ]
+}

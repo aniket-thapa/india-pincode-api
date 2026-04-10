@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "PALGHAR",
+    "offices": [
+        {
+            "officeName": "Kelwa Road B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Palghar Division",
+            "latitude": 19.6247486,
+            "longitude": 72.791038
+        },
+        {
+            "officeName": "Kelwa S.O (Thane)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Palghar Division",
+            "latitude": 19.1993056,
+            "longitude": 72.9793333
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "KANNIYAKUMARI",
+    "offices": [
+        {
+            "officeName": "Udayamarthandam S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kanniyakumari Division",
+            "latitude": 8.20675,
+            "longitude": 77.2165278
+        },
+        {
+            "officeName": "Mangalakunnu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kanniyakumari Division",
+            "latitude": 8.31,
+            "longitude": 77.24
+        }
+    ]
+}

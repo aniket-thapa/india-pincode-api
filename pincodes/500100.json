@@ -1,0 +1,46 @@
+{
+    "state": "TELANGANA",
+    "district": "MEDCHAL MALKAJGIRI",
+    "offices": [
+        {
+            "officeName": "Doolapalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Secunderabad Division",
+            "latitude": 17.5534,
+            "longitude": 78.4435
+        },
+        {
+            "officeName": "MALLAREDDY UNIVERSITY CAMPUS SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Secunderabad Division",
+            "latitude": 17.563119,
+            "longitude": 78.44373
+        },
+        {
+            "officeName": "Pochampally B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Secunderabad Division",
+            "latitude": 17.3461,
+            "longitude": 78.8122
+        },
+        {
+            "officeName": "Kompally S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Secunderabad Division",
+            "latitude": 17.544921140044067,
+            "longitude": 78.49042082421323
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "KULLU",
+    "offices": [
+        {
+            "officeName": "Prini BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Mandi Division",
+            "latitude": 32.22,
+            "longitude": 77.19
+        },
+        {
+            "officeName": "Khakhnal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Mandi Division",
+            "latitude": 32.17,
+            "longitude": 77.19
+        },
+        {
+            "officeName": "Jagatsukh SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Mandi Division",
+            "latitude": 32.199727,
+            "longitude": 77.200857
+        }
+    ]
+}

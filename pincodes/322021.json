@@ -1,0 +1,36 @@
+{
+    "state": "RAJASTHAN",
+    "district": "SAWAI MADHOPUR",
+    "offices": [
+        {
+            "officeName": "Alanpur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sawaimadhopur Division",
+            "latitude": 26.0000833,
+            "longitude": 75.3631111
+        },
+        {
+            "officeName": "Sawaimadhopur Town SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sawaimadhopur Division",
+            "latitude": 25.9919444,
+            "longitude": 76.3852778
+        },
+        {
+            "officeName": "Sawaimadhopur Bazar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sawaimadhopur Division",
+            "latitude": 25.9943056,
+            "longitude": 76.3848611
+        }
+    ]
+}

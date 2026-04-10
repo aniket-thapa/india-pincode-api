@@ -1,0 +1,56 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "RAIGAD",
+    "offices": [
+        {
+            "officeName": "Ambavade BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Raigad Division",
+            "latitude": 18.0124052,
+            "longitude": 73.1811002
+        },
+        {
+            "officeName": "Pangari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Raigad Division",
+            "latitude": 17.9392051,
+            "longitude": 73.3965554
+        },
+        {
+            "officeName": "Vinhere SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Raigad Division",
+            "latitude": 17.91875,
+            "longitude": 73.3895833
+        },
+        {
+            "officeName": "Kavale BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Raigad Division",
+            "latitude": 17.9231941,
+            "longitude": 73.4085965
+        },
+        {
+            "officeName": "Tamhane BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Raigad Division",
+            "latitude": 19.403953,
+            "longitude": 72.904713
+        }
+    ]
+}

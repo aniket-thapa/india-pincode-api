@@ -1,0 +1,46 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Tirupati",
+    "offices": [
+        {
+            "officeName": "Pernadu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Gudur Division",
+            "latitude": 14.17225,
+            "longitude": 79.8648
+        },
+        {
+            "officeName": "Sriharikota Range S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Gudur Division",
+            "latitude": 13.7183056,
+            "longitude": 80.1670833
+        },
+        {
+            "officeName": "Phase II B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Gudur Division",
+            "latitude": 14.17225,
+            "longitude": 79.8648
+        },
+        {
+            "officeName": "Venadu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Gudur Division",
+            "latitude": 14.17225,
+            "longitude": 79.8648
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "AKOLA",
+    "offices": [
+        {
+            "officeName": "Gudadhi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Akola Division",
+            "latitude": 20.73,
+            "longitude": 77.08
+        },
+        {
+            "officeName": "Jatharpeth Akola S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Akola Division",
+            "latitude": 20.71875,
+            "longitude": 77.0175833
+        },
+        {
+            "officeName": "Umari B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Akola Division",
+            "latitude": 20.72,
+            "longitude": 77.03
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "state": "TAMIL NADU",
+    "district": "CHENNAI",
+    "offices": [
+        {
+            "officeName": "Govt Stanley Hospital S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City North Division",
+            "latitude": 13.105137,
+            "longitude": 80.284371
+        },
+        {
+            "officeName": "Chennai G.P.O.",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai GPO Division",
+            "latitude": 13.0929722,
+            "longitude": 80.2915
+        },
+        {
+            "officeName": "Mannady S.O (Chennai)",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City North Division",
+            "latitude": 13.096617,
+            "longitude": 80.287884
+        },
+        {
+            "officeName": "Flower Bazaar",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City North Division",
+            "latitude": 13.088093,
+            "longitude": 80.281965
+        },
+        {
+            "officeName": "Mint Building S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City North Division",
+            "latitude": 13.103702,
+            "longitude": 80.277675
+        },
+        {
+            "officeName": "Sowcarpet NDSO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City North Division",
+            "latitude": 13.088093,
+            "longitude": 80.281965
+        }
+    ]
+}

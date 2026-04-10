@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "MADURAI",
+    "offices": [
+        {
+            "officeName": "Lalapuram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Madurai Division",
+            "latitude": 9.623212,
+            "longitude": 77.903284
+        },
+        {
+            "officeName": "Chitoor BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Madurai Division",
+            "latitude": 9.658208,
+            "longitude": 77.965937
+        },
+        {
+            "officeName": "MPuliyankulam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Madurai Division",
+            "latitude": 9.663212,
+            "longitude": 77.906284
+        },
+        {
+            "officeName": "Villur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Madurai Division",
+            "latitude": 9.9511944,
+            "longitude": 78.0798889
+        }
+    ]
+}

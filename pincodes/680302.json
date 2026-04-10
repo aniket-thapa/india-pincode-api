@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "THRISSUR",
+    "offices": [
+        {
+            "officeName": "Vattanathara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Irinjalakuda Division",
+            "latitude": 10.43,
+            "longitude": 76.3
+        },
+        {
+            "officeName": "Varakara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Irinjalakuda Division",
+            "latitude": 10.42,
+            "longitude": 76.31
+        },
+        {
+            "officeName": "Alagappanagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Irinjalakuda Division",
+            "latitude": 10.4338611,
+            "longitude": 76.2726667
+        }
+    ]
+}

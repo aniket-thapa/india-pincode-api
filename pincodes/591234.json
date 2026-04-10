@@ -1,0 +1,46 @@
+{
+    "state": "KARNATAKA",
+    "district": "BELAGAVI",
+    "offices": [
+        {
+            "officeName": "Lokur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Chikodi Division",
+            "latitude": 16.7170046,
+            "longitude": 74.7915934
+        },
+        {
+            "officeName": "Navalihal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Chikodi Division",
+            "latitude": 16.746608,
+            "longitude": 74.9150428
+        },
+        {
+            "officeName": "Kempwad B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Chikodi Division",
+            "latitude": 16.7622524,
+            "longitude": 74.9046858
+        },
+        {
+            "officeName": "Mangsuli S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Chikodi Division",
+            "latitude": 16.73295,
+            "longitude": 74.835097
+        }
+    ]
+}

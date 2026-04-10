@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "TIRUCHIRAPPALLI",
+    "offices": [
+        {
+            "officeName": "R.Valavanur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Srirangam Division",
+            "latitude": 10.93,
+            "longitude": 78.78
+        },
+        {
+            "officeName": "Purathakudi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Srirangam Division",
+            "latitude": 10.93,
+            "longitude": 78.79
+        },
+        {
+            "officeName": "Neikuppai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Srirangam Division",
+            "latitude": 10.92,
+            "longitude": 78.79
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "RAJASTHAN",
+    "district": "UDAIPUR",
+    "offices": [
+        {
+            "officeName": "Nathara B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Udaipur Division",
+            "latitude": 24.22,
+            "longitude": 73.82
+        },
+        {
+            "officeName": "Katanwara B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Udaipur Division",
+            "latitude": 24.18,
+            "longitude": 73.8
+        },
+        {
+            "officeName": "Chawand S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Udaipur Division",
+            "latitude": 24.1875278,
+            "longitude": 73.8098889
+        },
+        {
+            "officeName": "Dayli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Udaipur Division",
+            "latitude": 24.21,
+            "longitude": 73.82
+        },
+        {
+            "officeName": "Thana B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Udaipur Division",
+            "latitude": 24.22,
+            "longitude": 73.83
+        }
+    ]
+}

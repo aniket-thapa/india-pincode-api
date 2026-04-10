@@ -1,0 +1,66 @@
+{
+    "state": "KARNATAKA",
+    "district": "UDUPI",
+    "offices": [
+        {
+            "officeName": "Padur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Udupi Division",
+            "latitude": 13.2270273,
+            "longitude": 74.7775082
+        },
+        {
+            "officeName": "Uliyaragoli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Udupi Division",
+            "latitude": 13.2496652,
+            "longitude": 74.7340243
+        },
+        {
+            "officeName": "Mallar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Udupi Division",
+            "latitude": 13.2252571,
+            "longitude": 74.759634
+        },
+        {
+            "officeName": "Kaup SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Udupi Division",
+            "latitude": 13.2361389,
+            "longitude": 74.7459167
+        },
+        {
+            "officeName": "Kalathur South BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Udupi Division",
+            "latitude": 13.1998297,
+            "longitude": 74.7922926
+        },
+        {
+            "officeName": "Majur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Udupi Division",
+            "latitude": 13.2278642,
+            "longitude": 74.7700088
+        }
+    ]
+}

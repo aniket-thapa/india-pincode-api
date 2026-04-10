@@ -1,0 +1,46 @@
+{
+    "state": "PUNJAB",
+    "district": "LUDHIANA",
+    "offices": [
+        {
+            "officeName": "Dhaipai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ludhiana Moffusil Division",
+            "latitude": 30.779544,
+            "longitude": 75.724065
+        },
+        {
+            "officeName": "Jodhan SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ludhiana Moffusil Division",
+            "latitude": 30.7951111,
+            "longitude": 75.7563611
+        },
+        {
+            "officeName": "Dholan Kalan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ludhiana Moffusil Division",
+            "latitude": 30.801989,
+            "longitude": 75.786565
+        },
+        {
+            "officeName": "Mansuran BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ludhiana Moffusil Division",
+            "latitude": 30.80594,
+            "longitude": 75.758952
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "KERALA",
+    "district": "ERNAKULAM",
+    "offices": [
+        {
+            "officeName": "Karumalloor BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Alwaye Division",
+            "latitude": 11.1654857,
+            "longitude": 75.9334297
+        },
+        {
+            "officeName": "Neericode BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Alwaye Division",
+            "latitude": 10.1178318,
+            "longitude": 76.2852382
+        },
+        {
+            "officeName": "West Veliyathunad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Alwaye Division",
+            "latitude": 10.1337866,
+            "longitude": 76.3109958
+        },
+        {
+            "officeName": "Panaikulam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Alwaye Division",
+            "latitude": 15.5934,
+            "longitude": 76.291
+        },
+        {
+            "officeName": "Alangad SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Alwaye Division",
+            "latitude": 10.129278,
+            "longitude": 76.300253
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "KARNATAKA",
+    "district": "KODAGU",
+    "offices": [
+        {
+            "officeName": "Devanur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Kodagu Division",
+            "latitude": 12.1602612,
+            "longitude": 76.0728064
+        },
+        {
+            "officeName": "Kottageri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Kodagu Division",
+            "latitude": 12.1231394,
+            "longitude": 76.0323587
+        },
+        {
+            "officeName": "Nittur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Kodagu Division",
+            "latitude": 12.1231394,
+            "longitude": 76.0576573
+        },
+        {
+            "officeName": "Balele S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Kodagu Division",
+            "latitude": 12.13619444,
+            "longitude": 76.05286111
+        }
+    ]
+}

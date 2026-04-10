@@ -1,0 +1,46 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Bapatla",
+    "offices": [
+        {
+            "officeName": "Amartaluru S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Tenali Division",
+            "latitude": 16.10733333,
+            "longitude": 80.68816667
+        },
+        {
+            "officeName": "Govada B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Tenali Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Pedapudi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Tenali Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Panchalavaram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Tenali Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

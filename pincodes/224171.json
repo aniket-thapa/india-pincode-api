@@ -1,0 +1,66 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "AYODHYA",
+    "offices": [
+        {
+            "officeName": "Deogarh BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Faizabad Division",
+            "latitude": 24.526371,
+            "longitude": 78.237647
+        },
+        {
+            "officeName": "Srai Rasi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Faizabad Division",
+            "latitude": 26.720283,
+            "longitude": 82.241422
+        },
+        {
+            "officeName": "Purah SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Faizabad Division",
+            "latitude": 26.699875,
+            "longitude": 82.272445
+        },
+        {
+            "officeName": "Janapur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Faizabad Division",
+            "latitude": 26.664531,
+            "longitude": 82.250142
+        },
+        {
+            "officeName": "Madna BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Faizabad Division",
+            "latitude": 26.773248,
+            "longitude": 82.144164
+        },
+        {
+            "officeName": "Gyanpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Faizabad Division",
+            "latitude": 26.773248,
+            "longitude": 82.144164
+        }
+    ]
+}

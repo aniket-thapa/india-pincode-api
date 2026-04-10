@@ -1,0 +1,26 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "SIRMAUR",
+    "offices": [
+        {
+            "officeName": "Dhualakuan",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Solan Division",
+            "latitude": 30.502136,
+            "longitude": 77.474731
+        },
+        {
+            "officeName": "Girinagar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Solan Division",
+            "latitude": 30.849989,
+            "longitude": 77.299414
+        }
+    ]
+}

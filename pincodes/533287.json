@@ -1,0 +1,76 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "EAST GODAVARI",
+    "offices": [
+        {
+            "officeName": "Purushottapatnam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Rajahmundry Division",
+            "latitude": 17.6701,
+            "longitude": 80.9111
+        },
+        {
+            "officeName": "Ramachandrapuram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Rajahmundry Division",
+            "latitude": 17.2067,
+            "longitude": 81.6623
+        },
+        {
+            "officeName": "Muggulla B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Rajahmundry Division",
+            "latitude": 17.1479,
+            "longitude": 81.7062
+        },
+        {
+            "officeName": "Raghudevapuram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Rajahmundry Division",
+            "latitude": 17.1684,
+            "longitude": 81.7062
+        },
+        {
+            "officeName": "Sithanagaram S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Rajahmundry Division",
+            "latitude": 17.1766389,
+            "longitude": 81.6925
+        },
+        {
+            "officeName": "Vangalapudi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Rajahmundry Division",
+            "latitude": 17.1986,
+            "longitude": 81.6727
+        },
+        {
+            "officeName": "Chinakondepudi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Rajahmundry Division",
+            "latitude": 17.1868,
+            "longitude": 81.6932
+        }
+    ]
+}

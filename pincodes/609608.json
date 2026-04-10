@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "THIRUVARUR",
+    "offices": [
+        {
+            "officeName": "Menangudi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.96,
+            "longitude": 79.71
+        },
+        {
+            "officeName": "Kollapuram S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.96,
+            "longitude": 79.71
+        },
+        {
+            "officeName": "Kurungulam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.96,
+            "longitude": 79.68
+        },
+        {
+            "officeName": "Ubayavedanthapuram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.93,
+            "longitude": 79.71
+        }
+    ]
+}

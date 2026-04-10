@@ -1,0 +1,56 @@
+{
+    "state": "JHARKHAND",
+    "district": "DHANBAD",
+    "offices": [
+        {
+            "officeName": "Baghmara Bazar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dhanbad Division",
+            "latitude": 23.76215,
+            "longitude": 86.22536
+        },
+        {
+            "officeName": "Pochari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dhanbad Division",
+            "latitude": 23.795653,
+            "longitude": 86.430385
+        },
+        {
+            "officeName": "Khario BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dhanbad Division",
+            "latitude": 23.795659,
+            "longitude": 86.4303799
+        },
+        {
+            "officeName": "Nawagarh SO Dhanbad",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dhanbad Division",
+            "latitude": 23.7966944,
+            "longitude": 86.4339167
+        },
+        {
+            "officeName": "Ramakunda BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dhanbad Division",
+            "latitude": 23.795662,
+            "longitude": 86.430376
+        }
+    ]
+}

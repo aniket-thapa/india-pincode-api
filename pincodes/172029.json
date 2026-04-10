@@ -1,0 +1,46 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "SHIMLA",
+    "offices": [
+        {
+            "officeName": "Kumarsain SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rampur Bushahr Division",
+            "latitude": 31.317613,
+            "longitude": 77.44815
+        },
+        {
+            "officeName": "Sharambal Camp BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rampur Bushahr Division",
+            "latitude": 31.307,
+            "longitude": 77.457
+        },
+        {
+            "officeName": "Jar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rampur Bushahr Division",
+            "latitude": 31.3182739,
+            "longitude": 77.4458121
+        },
+        {
+            "officeName": "Pharal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rampur Bushahr Division",
+            "latitude": 31.3182769,
+            "longitude": 77.4458091
+        }
+    ]
+}

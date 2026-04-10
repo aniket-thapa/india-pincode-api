@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "KOLAR",
+    "offices": [
+        {
+            "officeName": "Beml Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Kolar Division",
+            "latitude": 12.9822222,
+            "longitude": 78.2339444
+        },
+        {
+            "officeName": "Beml Nagar Colony S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Kolar Division",
+            "latitude": 12.9714722,
+            "longitude": 78.2421667
+        },
+        {
+            "officeName": "Bharathnagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Kolar Division",
+            "latitude": 12.9956944,
+            "longitude": 78.2421667
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "VARANASI",
+    "offices": [
+        {
+            "officeName": "Ram Nagar Pac SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Varanasi East Division",
+            "latitude": 25.2777778,
+            "longitude": 83.0313056
+        },
+        {
+            "officeName": "Kateshar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Varanasi East Division",
+            "latitude": 25.281,
+            "longitude": 83.119
+        },
+        {
+            "officeName": "Ramnagar SO Varanasi",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Varanasi East Division",
+            "latitude": 25.2909575,
+            "longitude": 83.0339506
+        }
+    ]
+}

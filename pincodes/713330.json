@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "PASCHIM BARDHAMAN",
+    "offices": [
+        {
+            "officeName": "Charanpur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Asansol Division",
+            "latitude": 23.696012,
+            "longitude": 87.072461
+        },
+        {
+            "officeName": "Majhiara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Asansol Division",
+            "latitude": 23.673945,
+            "longitude": 86.952395
+        },
+        {
+            "officeName": "Shivpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Asansol Division",
+            "latitude": 23.673945,
+            "longitude": 86.952395
+        }
+    ]
+}

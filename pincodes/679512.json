@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "PALAKKAD",
+    "offices": [
+        {
+            "officeName": "Ambalapara SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Ottapalam Division",
+            "latitude": 10.833335,
+            "longitude": 76.4114033
+        },
+        {
+            "officeName": "Cherumundasseri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Ottapalam Division",
+            "latitude": 10.918,
+            "longitude": 76.4236
+        }
+    ]
+}

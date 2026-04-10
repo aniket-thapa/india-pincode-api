@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "SANGLI",
+    "offices": [
+        {
+            "officeName": "Bhose B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "SANGLI DIVISION",
+            "latitude": 16.81,
+            "longitude": 74.64
+        },
+        {
+            "officeName": "Dhulgaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "SANGLI DIVISION",
+            "latitude": 16.91,
+            "longitude": 74.61
+        },
+        {
+            "officeName": "Soni S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "SANGLI DIVISION",
+            "latitude": 16.9530255,
+            "longitude": 74.6905288
+        }
+    ]
+}

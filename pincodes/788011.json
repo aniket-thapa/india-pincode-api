@@ -1,0 +1,36 @@
+{
+    "state": "ASSAM",
+    "district": "CACHAR",
+    "offices": [
+        {
+            "officeName": "Harinetilla B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Cachar Division",
+            "latitude": 24.69,
+            "longitude": 92.75
+        },
+        {
+            "officeName": "Irongmara Bazar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Cachar Division",
+            "latitude": 24.69,
+            "longitude": 92.75
+        },
+        {
+            "officeName": "Assam University S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Cachar Division",
+            "latitude": 24.823637,
+            "longitude": 92.801827
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "ASSAM",
+    "district": "CACHAR",
+    "offices": [
+        {
+            "officeName": "Dilkhush T E B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Cachar Division",
+            "latitude": 24.59,
+            "longitude": 92.84
+        },
+        {
+            "officeName": "Hmarkhawlin B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Cachar Division",
+            "latitude": 24.59,
+            "longitude": 92.84
+        },
+        {
+            "officeName": "Fulertal S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Cachar Division",
+            "latitude": 24.823637,
+            "longitude": 92.801827
+        },
+        {
+            "officeName": "Lileanpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Cachar Division",
+            "latitude": 24.833269,
+            "longitude": 92.778881
+        }
+    ]
+}

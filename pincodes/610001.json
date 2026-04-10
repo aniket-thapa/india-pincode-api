@@ -1,0 +1,76 @@
+{
+    "state": "TAMIL NADU",
+    "district": "THIRUVARUR",
+    "offices": [
+        {
+            "officeName": "New Street B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.78,
+            "longitude": 79.63
+        },
+        {
+            "officeName": "Tiruvarur North S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.77,
+            "longitude": 79.63
+        },
+        {
+            "officeName": "Dakshinamurthi Mutt B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.78,
+            "longitude": 79.63
+        },
+        {
+            "officeName": "Meiporul Nagar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.78,
+            "longitude": 79.62
+        },
+        {
+            "officeName": "Tiruvarur H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.7663611,
+            "longitude": 79.6371389
+        },
+        {
+            "officeName": "Madapuram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.65,
+            "longitude": 79.61
+        },
+        {
+            "officeName": "Kodikalpalayam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.78,
+            "longitude": 79.65
+        }
+    ]
+}

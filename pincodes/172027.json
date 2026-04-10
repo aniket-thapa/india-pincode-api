@@ -1,0 +1,36 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "SHIMLA",
+    "offices": [
+        {
+            "officeName": "Shiwan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rampur Bushahr Division",
+            "latitude": 31.31268,
+            "longitude": 77.36185
+        },
+        {
+            "officeName": "Teshan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rampur Bushahr Division",
+            "latitude": 31.3182769,
+            "longitude": 77.4458091
+        },
+        {
+            "officeName": "Baragaon SO Shimla",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rampur Bushahr Division",
+            "latitude": 31.344097,
+            "longitude": 77.374162
+        }
+    ]
+}

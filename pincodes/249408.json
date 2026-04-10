@@ -1,0 +1,46 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "offices": [
+        {
+            "officeName": "Missarpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehradun Division",
+            "latitude": 29.8854,
+            "longitude": 78.1351
+        },
+        {
+            "officeName": "Kankhal SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehradun Division",
+            "latitude": 28.9252778,
+            "longitude": 78.1472222
+        },
+        {
+            "officeName": "Shyampur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehradun Division",
+            "latitude": 29.8654,
+            "longitude": 78.1821
+        },
+        {
+            "officeName": "Ahamadpur Chiriya",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehradun Division",
+            "latitude": 29.9271,
+            "longitude": 78.1436
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "GUJARAT",
+    "district": "MAHESANA",
+    "offices": [
+        {
+            "officeName": "Katosan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Mahesana Division",
+            "latitude": 23.458558,
+            "longitude": 72.219353
+        },
+        {
+            "officeName": "Santhal SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Mahesana Division",
+            "latitude": 23.483851,
+            "longitude": 72.256391
+        },
+        {
+            "officeName": "Martoli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Mahesana Division",
+            "latitude": 23.491029,
+            "longitude": 72.208249
+        },
+        {
+            "officeName": "Virsoda BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Mahesana Division",
+            "latitude": 23.442675,
+            "longitude": 72.194183
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "ASSAM",
+    "district": "Biswanath",
+    "offices": [
+        {
+            "officeName": "Nagsankar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.620828,
+            "longitude": 92.799014
+        },
+        {
+            "officeName": "Karsontala S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.620828,
+            "longitude": 92.799014
+        }
+    ]
+}

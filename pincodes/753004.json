@@ -1,0 +1,36 @@
+{
+    "state": "ODISHA",
+    "district": "CUTTACK",
+    "offices": [
+        {
+            "officeName": "O M P B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Cuttack City Division",
+            "latitude": 20.4580995,
+            "longitude": 85.9050358
+        },
+        {
+            "officeName": "Chauliaganj S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Cuttack City Division",
+            "latitude": 20.4572938,
+            "longitude": 85.9089992
+        },
+        {
+            "officeName": "Nayabazar S.O (Cuttack)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Cuttack City Division",
+            "latitude": 20.4541636,
+            "longitude": 85.9121985
+        }
+    ]
+}

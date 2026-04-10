@@ -1,0 +1,56 @@
+{
+    "state": "TAMIL NADU",
+    "district": "ERODE",
+    "offices": [
+        {
+            "officeName": "Kuthambi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Erode Division",
+            "latitude": 11.347561,
+            "longitude": 77.49311
+        },
+        {
+            "officeName": "Pappampalayam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Erode Division",
+            "latitude": 11.30267,
+            "longitude": 77.485127
+        },
+        {
+            "officeName": "Tingalur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Erode Division",
+            "latitude": 11.319318,
+            "longitude": 77.487985
+        },
+        {
+            "officeName": "Nichampalayam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Erode Division",
+            "latitude": 11.366498,
+            "longitude": 77.522524
+        },
+        {
+            "officeName": "Vettayankinar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Erode Division",
+            "latitude": 11.316551,
+            "longitude": 77.462705
+        }
+    ]
+}

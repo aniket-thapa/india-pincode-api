@@ -1,0 +1,26 @@
+{
+    "state": "ASSAM",
+    "district": "BARPETA",
+    "offices": [
+        {
+            "officeName": "Barpeta H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nalbari Division",
+            "latitude": 26.3291389,
+            "longitude": 91.01025
+        },
+        {
+            "officeName": "Thakurbazar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nalbari Division",
+            "latitude": 26.31787,
+            "longitude": 91.01029
+        }
+    ]
+}

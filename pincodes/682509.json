@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "ERNAKULAM",
+    "offices": [
+        {
+            "officeName": "Nayarambalam SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Ernakulam Division",
+            "latitude": 10.05813889,
+            "longitude": 76.21505556
+        },
+        {
+            "officeName": "Nedungad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Ernakulam Division",
+            "latitude": 10.0744098,
+            "longitude": 76.2189421
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "SALEM",
+    "offices": [
+        {
+            "officeName": "Aturbazaar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Salem East Division",
+            "latitude": 11.5985556,
+            "longitude": 78.6019444
+        },
+        {
+            "officeName": "Atur H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Salem East Division",
+            "latitude": 11.598,
+            "longitude": 78.595
+        }
+    ]
+}

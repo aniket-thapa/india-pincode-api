@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "RATNAGIRI",
+    "offices": [
+        {
+            "officeName": "Chafavali B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "RATNAGIRI DIVISION",
+            "latitude": 17.33626,
+            "longitude": 74.03393
+        },
+        {
+            "officeName": "Meghi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "RATNAGIRI DIVISION",
+            "latitude": 17.33626,
+            "longitude": 74.03393
+        },
+        {
+            "officeName": "Devale S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "RATNAGIRI DIVISION",
+            "latitude": 16.988907,
+            "longitude": 73.583558
+        }
+    ]
+}

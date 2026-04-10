@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "KANNIYAKUMARI",
+    "offices": [
+        {
+            "officeName": "Peyankuzhi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kanniyakumari Division",
+            "latitude": 7.1,
+            "longitude": 8.2
+        },
+        {
+            "officeName": "Karankad S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kanniyakumari Division",
+            "latitude": 8.2007222,
+            "longitude": 77.3477222
+        }
+    ]
+}

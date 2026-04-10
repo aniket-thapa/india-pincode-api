@@ -1,0 +1,56 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "AURAIYA",
+    "offices": [
+        {
+            "officeName": "Piprauli Shiv BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Etawah Division",
+            "latitude": 26.7768018,
+            "longitude": 79.6983003
+        },
+        {
+            "officeName": "Yakubpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Etawah Division",
+            "latitude": 26.7650006,
+            "longitude": 79.7161102
+        },
+        {
+            "officeName": "Jalalpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Etawah Division",
+            "latitude": 26.7571069,
+            "longitude": 79.6698474
+        },
+        {
+            "officeName": "Marhadaspur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Etawah Division",
+            "latitude": 26.7856135,
+            "longitude": 79.7474384
+        },
+        {
+            "officeName": "Malhosi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Etawah Division",
+            "latitude": 26.798732,
+            "longitude": 79.6719616
+        }
+    ]
+}

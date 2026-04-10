@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "NAGPUR",
+    "offices": [
+        {
+            "officeName": "Indl.Area Nagpur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur Moffusil Division",
+            "latitude": 21.1166667,
+            "longitude": 78.0022222
+        },
+        {
+            "officeName": "SRPF S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur City Division",
+            "latitude": 18.50205556,
+            "longitude": 73.9085
+        },
+        {
+            "officeName": "MIDC Nagpur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur Moffusil Division",
+            "latitude": 21.1255556,
+            "longitude": 79.0080556
+        }
+    ]
+}

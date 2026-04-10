@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "IDUKKI",
+    "offices": [
+        {
+            "officeName": "Kottamala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Idukki Division",
+            "latitude": 9.71329,
+            "longitude": 76.92739
+        },
+        {
+            "officeName": "Pullikkanam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Idukki Division",
+            "latitude": 9.73344,
+            "longitude": 76.8675
+        },
+        {
+            "officeName": "Vagamon SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Idukki Division",
+            "latitude": 9.68479,
+            "longitude": 76.90497
+        }
+    ]
+}

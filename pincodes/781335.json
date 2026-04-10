@@ -1,0 +1,36 @@
+{
+    "state": "ASSAM",
+    "district": "NALBARI",
+    "offices": [
+        {
+            "officeName": "Nalbari H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nalbari Division",
+            "latitude": 26.4447778,
+            "longitude": 91.438
+        },
+        {
+            "officeName": "Bidyapur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nalbari Division",
+            "latitude": 26.264,
+            "longitude": 91.2546
+        },
+        {
+            "officeName": "Khatabari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nalbari Division",
+            "latitude": 26.2648,
+            "longitude": 91.2646
+        }
+    ]
+}

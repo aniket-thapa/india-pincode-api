@@ -1,0 +1,26 @@
+{
+    "state": "GOA",
+    "district": "NORTH GOA",
+    "offices": [
+        {
+            "officeName": "Anjuna S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Goa Division",
+            "latitude": 15.5834426,
+            "longitude": 73.7491526
+        },
+        {
+            "officeName": "Caisua B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Goa Division",
+            "latitude": 73.29,
+            "longitude": 15.85
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "PUNE",
+    "offices": [
+        {
+            "officeName": "Hingangaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Baramati Division",
+            "latitude": 18.102174,
+            "longitude": 75.095159
+        },
+        {
+            "officeName": "Kalthan B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Baramati Division",
+            "latitude": 18.172989,
+            "longitude": 75.019494
+        },
+        {
+            "officeName": "Vadapuri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Baramati Division",
+            "latitude": 18.11577,
+            "longitude": 75.02722
+        },
+        {
+            "officeName": "Indapur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Baramati Division",
+            "latitude": 18.1119599,
+            "longitude": 75.0256405
+        },
+        {
+            "officeName": "Bijawadi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Baramati Division",
+            "latitude": 18.145788,
+            "longitude": 74.95887
+        },
+        {
+            "officeName": "Kalashi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Baramati Division",
+            "latitude": 18.113073,
+            "longitude": 75.026954
+        },
+        {
+            "officeName": "Indapur Bazar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Baramati Division",
+            "latitude": 18.1204444,
+            "longitude": 75.0317778
+        }
+    ]
+}

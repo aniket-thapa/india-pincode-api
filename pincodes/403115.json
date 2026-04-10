@@ -1,0 +1,26 @@
+{
+    "state": "GOA",
+    "district": "SOUTH GOA",
+    "offices": [
+        {
+            "officeName": "Cundaim I.E. S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Goa Division",
+            "latitude": 15.4647458,
+            "longitude": 73.9717797
+        },
+        {
+            "officeName": "Cundaim B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Goa Division",
+            "latitude": 73.07,
+            "longitude": 16.14
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "RAJASTHAN",
+    "district": "JALORE",
+    "offices": [
+        {
+            "officeName": "Thalwad B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 25.233078,
+            "longitude": 72.351357
+        },
+        {
+            "officeName": "Unri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 25.235786,
+            "longitude": 72.250443
+        },
+        {
+            "officeName": "Dhansa S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 25.216812,
+            "longitude": 72.393265
+        },
+        {
+            "officeName": "Pantheri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 25.200302,
+            "longitude": 72.270428
+        }
+    ]
+}

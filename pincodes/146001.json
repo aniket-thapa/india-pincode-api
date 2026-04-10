@@ -1,0 +1,66 @@
+{
+    "state": "PUNJAB",
+    "district": "HOSHIARPUR",
+    "offices": [
+        {
+            "officeName": "Hoshiarpur City SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Hoshiarpur Division",
+            "latitude": 31.535157,
+            "longitude": 75.915203
+        },
+        {
+            "officeName": "Model Town SO Hoshiarpur",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Hoshiarpur Division",
+            "latitude": 31.533858,
+            "longitude": 75.898984
+        },
+        {
+            "officeName": "Hoshiarpur HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Hoshiarpur Division",
+            "latitude": 31.528927,
+            "longitude": 75.924148
+        },
+        {
+            "officeName": "Bahadurpur Chowk SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Hoshiarpur Division",
+            "latitude": 31.533758,
+            "longitude": 75.898684
+        },
+        {
+            "officeName": "Mini Sectt SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Hoshiarpur Division",
+            "latitude": 31.31113,
+            "longitude": 75.55332
+        },
+        {
+            "officeName": "Railway Road SO Hoshiarpur",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Hoshiarpur Division",
+            "latitude": 31.532784,
+            "longitude": 75.912144
+        }
+    ]
+}

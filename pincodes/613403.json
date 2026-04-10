@@ -1,0 +1,56 @@
+{
+    "state": "TAMIL NADU",
+    "district": "THANJAVUR",
+    "offices": [
+        {
+            "officeName": "Chennampatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Thanjavur Division",
+            "latitude": 10.7,
+            "longitude": 79.04
+        },
+        {
+            "officeName": "Pillaiyarpatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Thanjavur Division",
+            "latitude": 10.74,
+            "longitude": 79.08
+        },
+        {
+            "officeName": "Vallam TJ S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Thanjavur Division",
+            "latitude": 10.71825,
+            "longitude": 79.0614444
+        },
+        {
+            "officeName": "Ravusapatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Thanjavur Division",
+            "latitude": 10.71,
+            "longitude": 79.1
+        },
+        {
+            "officeName": "Vallam East S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Thanjavur Division",
+            "latitude": 10.729224,
+            "longitude": 79.072199
+        }
+    ]
+}

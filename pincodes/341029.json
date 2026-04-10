@@ -1,0 +1,56 @@
+{
+    "state": "RAJASTHAN",
+    "district": "NAGAUR",
+    "offices": [
+        {
+            "officeName": "Pipasar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Nagaur Division",
+            "latitude": 27.55,
+            "longitude": 73.666
+        },
+        {
+            "officeName": "Chiloo B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Nagaur Division",
+            "latitude": 27.5407,
+            "longitude": 73.6708
+        },
+        {
+            "officeName": "Sewari B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Nagaur Division",
+            "latitude": 27.5044,
+            "longitude": 73.6544
+        },
+        {
+            "officeName": "Hanuman Nagar",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Nagaur Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Sribalaji S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Nagaur Division",
+            "latitude": 27.5578611,
+            "longitude": 74.9216111
+        }
+    ]
+}

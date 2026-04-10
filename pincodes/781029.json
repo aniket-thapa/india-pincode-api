@@ -1,0 +1,26 @@
+{
+    "state": "MEGHALAYA",
+    "district": "RI BHOI",
+    "offices": [
+        {
+            "officeName": "Pillangkata B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Guwahati Division",
+            "latitude": 26.11241,
+            "longitude": 91.79844
+        },
+        {
+            "officeName": "Basistha S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Guwahati Division",
+            "latitude": 26.1124167,
+            "longitude": 91.7984444
+        }
+    ]
+}

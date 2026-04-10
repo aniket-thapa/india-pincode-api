@@ -1,0 +1,36 @@
+{
+    "state": "JHARKHAND",
+    "district": "SARAIKELA KHARSAWAN",
+    "offices": [
+        {
+            "officeName": "Hudu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Singhbhum Division",
+            "latitude": 22.81465,
+            "longitude": 86.02845
+        },
+        {
+            "officeName": "Dumra B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Singhbhum Division",
+            "latitude": 22.852,
+            "longitude": 86.0508
+        },
+        {
+            "officeName": "Kandra SO Seraikelakharsawan",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Singhbhum Division",
+            "latitude": 22.85397,
+            "longitude": 86.05078
+        }
+    ]
+}

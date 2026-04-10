@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "THRISSUR",
+    "offices": [
+        {
+            "officeName": "Konathukunnu SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Irinjalakuda Division",
+            "latitude": 10.2692778,
+            "longitude": 76.2021944
+        },
+        {
+            "officeName": "Karumathra BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Irinjalakuda Division",
+            "latitude": 10.27,
+            "longitude": 76.23
+        },
+        {
+            "officeName": "Vallivattam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Irinjalakuda Division",
+            "latitude": 10.28,
+            "longitude": 76.19
+        }
+    ]
+}

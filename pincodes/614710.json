@@ -1,0 +1,66 @@
+{
+    "state": "TAMIL NADU",
+    "district": "THIRUVARUR",
+    "offices": [
+        {
+            "officeName": "Terkunanallur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Thanjavur Division",
+            "latitude": 10.53,
+            "longitude": 79.52
+        },
+        {
+            "officeName": "Mangudi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Thanjavur Division",
+            "latitude": 10.51,
+            "longitude": 79.63
+        },
+        {
+            "officeName": "Tirukalar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Thanjavur Division",
+            "latitude": 10.58,
+            "longitude": 79.6
+        },
+        {
+            "officeName": "Naduvakalappal S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Thanjavur Division",
+            "latitude": 10.7663611,
+            "longitude": 79.6371389
+        },
+        {
+            "officeName": "Marudavanam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Thanjavur Division",
+            "latitude": 10.53,
+            "longitude": 79.59
+        },
+        {
+            "officeName": "Naruvelikalappal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Thanjavur Division",
+            "latitude": 10.55,
+            "longitude": 79.55
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "NAGAPATTINAM",
+    "offices": [
+        {
+            "officeName": "Sannanallur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.88,
+            "longitude": 79.65
+        },
+        {
+            "officeName": "Panangudi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.86,
+            "longitude": 79.63
+        },
+        {
+            "officeName": "Thuthukudi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.88,
+            "longitude": 79.63
+        }
+    ]
+}

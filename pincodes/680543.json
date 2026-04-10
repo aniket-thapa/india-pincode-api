@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "THRISSUR",
+    "offices": [
+        {
+            "officeName": "Kadavallur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Trichur Division",
+            "latitude": 10.7141393,
+            "longitude": 76.0643165
+        },
+        {
+            "officeName": "Korattikkara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Trichur Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

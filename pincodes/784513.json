@@ -1,0 +1,26 @@
+{
+    "state": "ASSAM",
+    "district": "UDALGURI",
+    "offices": [
+        {
+            "officeName": "Bhairakunda B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.474,
+            "longitude": 91.97855
+        },
+        {
+            "officeName": "Sapangaon S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.474,
+            "longitude": 91.97855
+        }
+    ]
+}

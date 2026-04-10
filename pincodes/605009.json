@@ -1,0 +1,46 @@
+{
+    "state": "PUDUCHERRY",
+    "district": "PONDICHERRY",
+    "offices": [
+        {
+            "officeName": "Mouttoupalayam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Pondicherry Division",
+            "latitude": 11.94,
+            "longitude": 79.79
+        },
+        {
+            "officeName": "Moutrepalayam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Pondicherry Division",
+            "latitude": 11.94,
+            "longitude": 79.77
+        },
+        {
+            "officeName": "Thattanchavady SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Pondicherry Division",
+            "latitude": 11.9470556,
+            "longitude": 79.80575
+        },
+        {
+            "officeName": "Vimacoundanpalayam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Pondicherry Division",
+            "latitude": 11.94,
+            "longitude": 79.8
+        }
+    ]
+}

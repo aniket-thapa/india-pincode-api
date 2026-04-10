@@ -1,0 +1,66 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "MEERUT",
+    "offices": [
+        {
+            "officeName": "Dadri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Meerut Division",
+            "latitude": 29.21182,
+            "longitude": 77.7167
+        },
+        {
+            "officeName": "Kapsad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Meerut Division",
+            "latitude": 29.19871,
+            "longitude": 77.6773
+        },
+        {
+            "officeName": "Sakoti Tanda SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Meerut Division",
+            "latitude": 29.1913333,
+            "longitude": 77.7168333
+        },
+        {
+            "officeName": "Kailii BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Meerut Division",
+            "latitude": 29.21874,
+            "longitude": 77.6959
+        },
+        {
+            "officeName": "Ruhasa BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Meerut Division",
+            "latitude": 29.18,
+            "longitude": 77.69
+        },
+        {
+            "officeName": "Mandora BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Meerut Division",
+            "latitude": 29.18,
+            "longitude": 77.77
+        }
+    ]
+}

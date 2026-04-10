@@ -1,0 +1,36 @@
+{
+    "state": "GUJARAT",
+    "district": "VADODARA",
+    "offices": [
+        {
+            "officeName": "Makarpura SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Vadodara East Division",
+            "latitude": 22.3035833,
+            "longitude": 73.1976944
+        },
+        {
+            "officeName": "Dhaniavi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Vadodara East Division",
+            "latitude": 22.5635,
+            "longitude": 72.9091
+        },
+        {
+            "officeName": "Jambua BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Vadodara East Division",
+            "latitude": 15.5934,
+            "longitude": 72.9091
+        }
+    ]
+}

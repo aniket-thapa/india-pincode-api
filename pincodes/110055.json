@@ -1,0 +1,56 @@
+{
+    "state": "DELHI",
+    "district": "CENTRAL",
+    "offices": [
+        {
+            "officeName": "SRT NAGAR EXTENSION COUNTER",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi Central Division",
+            "latitude": 28.6123,
+            "longitude": 77.17
+        },
+        {
+            "officeName": "AKMarket SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi Central Division",
+            "latitude": 28.6448889,
+            "longitude": 77.2020556
+        },
+        {
+            "officeName": "Swami Ram Tirth Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi Central Division",
+            "latitude": 28.6460833,
+            "longitude": 77.2025278
+        },
+        {
+            "officeName": "Pahar Ganj SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi Central Division",
+            "latitude": 28.6401667,
+            "longitude": 77.2129167
+        },
+        {
+            "officeName": "Multani Dhanda SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi Central Division",
+            "latitude": 28.6461111,
+            "longitude": 77.2094167
+        }
+    ]
+}

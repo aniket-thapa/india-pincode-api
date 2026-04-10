@@ -1,0 +1,56 @@
+{
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "offices": [
+        {
+            "officeName": "Laxmi Bai Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South West Division",
+            "latitude": 28.5784167,
+            "longitude": 77.20925
+        },
+        {
+            "officeName": "Sarojini Nagar HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South West Division",
+            "latitude": 28.575476,
+            "longitude": 77.199648
+        },
+        {
+            "officeName": "Kidwai Nagar East SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South West Division",
+            "latitude": 28.5719444,
+            "longitude": 77.2176944
+        },
+        {
+            "officeName": "Netaji Nagar SO South West Delhi",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South West Division",
+            "latitude": 28.58,
+            "longitude": 77.19
+        },
+        {
+            "officeName": "Kidwai Nagar West SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South West Division",
+            "latitude": 28.5712778,
+            "longitude": 77.2051667
+        }
+    ]
+}

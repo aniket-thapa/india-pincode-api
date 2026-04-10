@@ -1,0 +1,46 @@
+{
+    "state": "BIHAR",
+    "district": "BHOJPUR",
+    "offices": [
+        {
+            "officeName": "Gunari SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhojpur Division",
+            "latitude": 25.5587222,
+            "longitude": 84.6674722
+        },
+        {
+            "officeName": "Saraiyan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhojpur Division",
+            "latitude": 25.634817,
+            "longitude": 84.661332
+        },
+        {
+            "officeName": "Daulatpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhojpur Division",
+            "latitude": 25.594743,
+            "longitude": 84.692755
+        },
+        {
+            "officeName": "Krishnagarh BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhojpur Division",
+            "latitude": 25.658608,
+            "longitude": 84.610978
+        }
+    ]
+}

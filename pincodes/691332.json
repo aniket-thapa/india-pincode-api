@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "KOLLAM",
+    "offices": [
+        {
+            "officeName": "Punalur Paper Mills SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pathanamthitta Division",
+            "latitude": 9.0148611,
+            "longitude": 76.9368889
+        },
+        {
+            "officeName": "Kariyara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pathanamthitta Division",
+            "latitude": 9.04,
+            "longitude": 76.88
+        }
+    ]
+}

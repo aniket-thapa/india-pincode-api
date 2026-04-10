@@ -1,0 +1,46 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "PAURI GARHWAL",
+    "offices": [
+        {
+            "officeName": "Uragi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pauri Division",
+            "latitude": 30.06705,
+            "longitude": 78.821275
+        },
+        {
+            "officeName": "Paidul SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pauri Division",
+            "latitude": 30.0672778,
+            "longitude": 78.7806111
+        },
+        {
+            "officeName": "Molthi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pauri Division",
+            "latitude": 30.06705,
+            "longitude": 78.821275
+        },
+        {
+            "officeName": "Sikukhal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pauri Division",
+            "latitude": 30.06705,
+            "longitude": 78.821275
+        }
+    ]
+}

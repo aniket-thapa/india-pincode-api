@@ -1,0 +1,26 @@
+{
+    "state": "TELANGANA",
+    "district": "MEDCHAL MALKAJGIRI",
+    "offices": [
+        {
+            "officeName": "Ramanthapur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Hyderabad South East Division",
+            "latitude": 17.39925,
+            "longitude": 78.5364722
+        },
+        {
+            "officeName": "Amberpet S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Hyderabad South East Division",
+            "latitude": 17.392148,
+            "longitude": 78.519636
+        }
+    ]
+}

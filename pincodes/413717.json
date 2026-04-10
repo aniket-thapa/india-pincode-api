@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "AHMEDNAGAR",
+    "offices": [
+        {
+            "officeName": "Matapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Shrirampur Division",
+            "latitude": 19.57729,
+            "longitude": 74.707369
+        },
+        {
+            "officeName": "Karegaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Shrirampur Division",
+            "latitude": 19.558806,
+            "longitude": 74.753457
+        },
+        {
+            "officeName": "Karegaon Factory S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Shrirampur Division",
+            "latitude": 19.591986581057856,
+            "longitude": 74.70710338741465
+        }
+    ]
+}

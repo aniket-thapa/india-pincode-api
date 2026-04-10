@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "PATHANAMTHITTA",
+    "offices": [
+        {
+            "officeName": "Thalachira Eram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pathanamthitta Division",
+            "latitude": 9.31,
+            "longitude": 76.83
+        },
+        {
+            "officeName": "Chengara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pathanamthitta Division",
+            "latitude": 9.27,
+            "longitude": 76.86
+        },
+        {
+            "officeName": "Malayalapuzha Eram SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pathanamthitta Division",
+            "latitude": 9.77,
+            "longitude": 76.76
+        }
+    ]
+}

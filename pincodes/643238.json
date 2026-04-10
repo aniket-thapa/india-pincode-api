@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "THE NILGIRIS",
+    "offices": [
+        {
+            "officeName": "Pilloormattam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Nilgiris Division",
+            "latitude": 11.296282,
+            "longitude": 76.776044
+        },
+        {
+            "officeName": "Nonsuch S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Nilgiris Division",
+            "latitude": 11.320881,
+            "longitude": 76.79427
+        }
+    ]
+}

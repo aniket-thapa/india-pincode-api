@@ -1,0 +1,26 @@
+{
+    "state": "ASSAM",
+    "district": "KAMRUP METRO",
+    "offices": [
+        {
+            "officeName": "Patharquerry S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Guwahati Division",
+            "latitude": 26.16935,
+            "longitude": 91.82668
+        },
+        {
+            "officeName": "Udayan Vihar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Guwahati Division",
+            "latitude": 26.16496,
+            "longitude": 91.83547
+        }
+    ]
+}

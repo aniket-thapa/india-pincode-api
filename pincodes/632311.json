@@ -1,0 +1,66 @@
+{
+    "state": "TAMIL NADU",
+    "district": "TIRUVANNAMALAI",
+    "offices": [
+        {
+            "officeName": "Kalasamudram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tiruvannamalai Division",
+            "latitude": 13.109,
+            "longitude": 79.6262
+        },
+        {
+            "officeName": "Kuppam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tiruvannamalai Division",
+            "latitude": 13.466,
+            "longitude": 80.1045
+        },
+        {
+            "officeName": "Kannamangalam Bazaar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tiruvannamalai Division",
+            "latitude": 13.109,
+            "longitude": 79.6262
+        },
+        {
+            "officeName": "Kulathur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tiruvannamalai Division",
+            "latitude": 13.109,
+            "longitude": 79.6262
+        },
+        {
+            "officeName": "Vallam Kannamangalam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tiruvannamalai Division",
+            "latitude": 13.109,
+            "longitude": 79.6262
+        },
+        {
+            "officeName": "Kannamangalam SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tiruvannamalai Division",
+            "latitude": 12.45266,
+            "longitude": 79.9707
+        }
+    ]
+}

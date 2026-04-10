@@ -1,0 +1,26 @@
+{
+    "state": "JHARKHAND",
+    "district": "DHANBAD",
+    "offices": [
+        {
+            "officeName": "Bhowra SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dhanbad Division",
+            "latitude": 23.711347,
+            "longitude": 86.399739
+        },
+        {
+            "officeName": "Amlabad Colliery BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dhanbad Division",
+            "latitude": 23.685133,
+            "longitude": 86.3978404
+        }
+    ]
+}

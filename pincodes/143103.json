@@ -1,0 +1,66 @@
+{
+    "state": "PUNJAB",
+    "district": "AMRITSAR",
+    "offices": [
+        {
+            "officeName": "Kamalpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.36,
+            "longitude": 74.8
+        },
+        {
+            "officeName": "Gaure Nangal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.88,
+            "longitude": 74.88
+        },
+        {
+            "officeName": "Sidhar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.9,
+            "longitude": 74.88
+        },
+        {
+            "officeName": "Tera Kalan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.82,
+            "longitude": 74.84
+        },
+        {
+            "officeName": "Makowal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.9,
+            "longitude": 74.89
+        },
+        {
+            "officeName": "Chamiari SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.86,
+            "longitude": 74.82
+        }
+    ]
+}

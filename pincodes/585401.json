@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "BIDAR",
+    "offices": [
+        {
+            "officeName": "Bidar Osman Gunj S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Bidar Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Bidar Shah Gunj S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Bidar Division",
+            "latitude": 17.91783333,
+            "longitude": 77.51730556
+        },
+        {
+            "officeName": "Bidar H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Bidar Division",
+            "latitude": 17.91163889,
+            "longitude": 77.51936111
+        }
+    ]
+}

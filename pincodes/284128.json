@@ -1,0 +1,36 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "JHANSI",
+    "offices": [
+        {
+            "officeName": "Bundelkhand University SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Jhansi Division",
+            "latitude": 25.453,
+            "longitude": 78.6057778
+        },
+        {
+            "officeName": "Kochha Bhanwar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Jhansi Division",
+            "latitude": 25.46982,
+            "longitude": 78.63846
+        },
+        {
+            "officeName": "Mlb Medical College SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Jhansi Division",
+            "latitude": 25.4635,
+            "longitude": 78.6185
+        }
+    ]
+}

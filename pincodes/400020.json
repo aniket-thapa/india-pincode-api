@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "offices": [
+        {
+            "officeName": "Marine Lines S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City South Division",
+            "latitude": 18.9449071,
+            "longitude": 72.8282962
+        },
+        {
+            "officeName": "Churchgate SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City South Division",
+            "latitude": 18.9285278,
+            "longitude": 72.8265556
+        },
+        {
+            "officeName": "Central Building SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City South Division",
+            "latitude": 18.9401944,
+            "longitude": 72.8270833
+        }
+    ]
+}

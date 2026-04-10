@@ -1,0 +1,56 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "RAE BARELI",
+    "offices": [
+        {
+            "officeName": "Pahuri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Rae Bareilly Division",
+            "latitude": 26.13,
+            "longitude": 81.33
+        },
+        {
+            "officeName": "Behta SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Rae Bareilly Division",
+            "latitude": 26.1745556,
+            "longitude": 80.9002778
+        },
+        {
+            "officeName": "Hasnapur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Rae Bareilly Division",
+            "latitude": 26.315,
+            "longitude": 81.244
+        },
+        {
+            "officeName": "Bijemau BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Rae Bareilly Division",
+            "latitude": 25.81,
+            "longitude": 82.088
+        },
+        {
+            "officeName": "Bemaura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Rae Bareilly Division",
+            "latitude": 26.234,
+            "longitude": 81.24
+        }
+    ]
+}

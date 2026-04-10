@@ -1,0 +1,46 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "PUNE",
+    "offices": [
+        {
+            "officeName": "Khandobachi Wadi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Baramati Division",
+            "latitude": 18.14476,
+            "longitude": 74.24445
+        },
+        {
+            "officeName": "Nimbut B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Baramati Division",
+            "latitude": 18.103394,
+            "longitude": 74.234807
+        },
+        {
+            "officeName": "Nira R S S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Baramati Division",
+            "latitude": 18.1025278,
+            "longitude": 74.2110278
+        },
+        {
+            "officeName": "Gulunche B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Baramati Division",
+            "latitude": 18.151182,
+            "longitude": 74.212063
+        }
+    ]
+}

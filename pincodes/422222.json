@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "NASHIK",
+    "offices": [
+        {
+            "officeName": "Ycm Open Univesity S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Nasik Division",
+            "latitude": 19.96224,
+            "longitude": 73.86842
+        },
+        {
+            "officeName": "Gangapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Nasik Division",
+            "latitude": 19.96224,
+            "longitude": 73.86842
+        }
+    ]
+}

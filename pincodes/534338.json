@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "WEST GODAVARI",
+    "offices": [
+        {
+            "officeName": "Kavitam S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Bhimavaram Division",
+            "latitude": 16.59613889,
+            "longitude": 81.72430556
+        },
+        {
+            "officeName": "Kommuchikkala B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Bhimavaram Division",
+            "latitude": 16.578153,
+            "longitude": 81.693893
+        },
+        {
+            "officeName": "Pemmaraju Polavaram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Bhimavaram Division",
+            "latitude": 16.58395,
+            "longitude": 81.711
+        }
+    ]
+}

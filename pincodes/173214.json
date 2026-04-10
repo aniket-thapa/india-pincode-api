@@ -1,0 +1,26 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "SOLAN",
+    "offices": [
+        {
+            "officeName": "Solan Brewery SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Solan Division",
+            "latitude": 30.9289722,
+            "longitude": 77.1139444
+        },
+        {
+            "officeName": "Salogra BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Solan Division",
+            "latitude": 30.904486,
+            "longitude": 77.096736
+        }
+    ]
+}

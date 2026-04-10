@@ -1,0 +1,56 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "THANE",
+    "offices": [
+        {
+            "officeName": "Bus Terminus",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Thane Division",
+            "latitude": 19.2380278,
+            "longitude": 73.1588611
+        },
+        {
+            "officeName": "Station Road Unr 3 S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Thane Division",
+            "latitude": 19.2218611,
+            "longitude": 73.1617778
+        },
+        {
+            "officeName": "Bhaji Market S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Thane Division",
+            "latitude": 19.2354722,
+            "longitude": 73.1673056
+        },
+        {
+            "officeName": "Ulhasnagar 2 S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Thane Division",
+            "latitude": 19.2321389,
+            "longitude": 73.1618611
+        },
+        {
+            "officeName": "Ulhasnagar 1",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Thane Division",
+            "latitude": 19.238,
+            "longitude": 73.1586389
+        }
+    ]
+}

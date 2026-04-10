@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "NAGPUR",
+    "offices": [
+        {
+            "officeName": "Kamthi City SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur Moffusil Division",
+            "latitude": 21.227531,
+            "longitude": 79.190083
+        },
+        {
+            "officeName": "Kamthi H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur Moffusil Division",
+            "latitude": 21.227531,
+            "longitude": 79.190083
+        }
+    ]
+}

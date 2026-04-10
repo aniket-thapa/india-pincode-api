@@ -1,0 +1,26 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "SHIMLA",
+    "offices": [
+        {
+            "officeName": "Danawali BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rampur Bushahr Division",
+            "latitude": 31.3092957,
+            "longitude": 77.5834259
+        },
+        {
+            "officeName": "Nankhari SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rampur Bushahr Division",
+            "latitude": 31.491271,
+            "longitude": 77.657108
+        }
+    ]
+}

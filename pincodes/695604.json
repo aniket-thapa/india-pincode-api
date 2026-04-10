@@ -1,0 +1,56 @@
+{
+    "state": "KERALA",
+    "district": "THIRUVANANTHAPURAM",
+    "offices": [
+        {
+            "officeName": "Puliyurkonam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Trivandrum North Division",
+            "latitude": 8.821635,
+            "longitude": 76.821985
+        },
+        {
+            "officeName": "Moothala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Trivandrum North Division",
+            "latitude": 8.840706,
+            "longitude": 76.80872
+        },
+        {
+            "officeName": "Pallickal Kilimanur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Trivandrum North Division",
+            "latitude": 8.823134,
+            "longitude": 76.80796
+        },
+        {
+            "officeName": "Pakalkuri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Trivandrum North Division",
+            "latitude": 8.84402,
+            "longitude": 76.794691
+        },
+        {
+            "officeName": "Kokkottukonam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Trivandrum North Division",
+            "latitude": 8.82418,
+            "longitude": 76.809862
+        }
+    ]
+}

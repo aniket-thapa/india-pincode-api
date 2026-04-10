@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "MAYILADUTHURAI",
+    "offices": [
+        {
+            "officeName": "Manganallur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Mayiladuthurai Division",
+            "latitude": 11.03,
+            "longitude": 79.63
+        },
+        {
+            "officeName": "Manganallur Bazaar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Mayiladuthurai Division",
+            "latitude": 11.0271667,
+            "longitude": 79.6521111
+        },
+        {
+            "officeName": "Peruncheri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Mayiladuthurai Division",
+            "latitude": 11.04,
+            "longitude": 79.66
+        }
+    ]
+}

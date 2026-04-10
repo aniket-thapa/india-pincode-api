@@ -1,0 +1,26 @@
+{
+    "state": "ASSAM",
+    "district": "GOLAGHAT",
+    "offices": [
+        {
+            "officeName": "Numaligarh Refinery Project S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Sibsagar Division",
+            "latitude": 26.5928,
+            "longitude": 93.7498
+        },
+        {
+            "officeName": "Kanaighat B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Sibsagar Division",
+            "latitude": 26.5928,
+            "longitude": 93.7498
+        }
+    ]
+}

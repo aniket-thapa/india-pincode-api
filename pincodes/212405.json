@@ -1,0 +1,66 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "PRAYAGRAJ",
+    "offices": [
+        {
+            "officeName": "Bhogwara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Prayagraj Division",
+            "latitude": 25.435801,
+            "longitude": 81.846311
+        },
+        {
+            "officeName": "Khakhaicha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Prayagraj Division",
+            "latitude": 25.435801,
+            "longitude": 81.846311
+        },
+        {
+            "officeName": "Soron BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Prayagraj Division",
+            "latitude": 27.886626,
+            "longitude": 78.744787
+        },
+        {
+            "officeName": "Barasta Kalan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Prayagraj Division",
+            "latitude": 25.435801,
+            "longitude": 81.846311
+        },
+        {
+            "officeName": "Basna BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Prayagraj Division",
+            "latitude": 21.277757,
+            "longitude": 82.823668
+        },
+        {
+            "officeName": "Ugrasen Pur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Prayagraj Division",
+            "latitude": 25.56734,
+            "longitude": 82.17272
+        }
+    ]
+}

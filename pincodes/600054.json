@@ -1,0 +1,56 @@
+{
+    "state": "TAMIL NADU",
+    "district": "THIRUVALLUR",
+    "offices": [
+        {
+            "officeName": "Cvrde SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 13.1391944,
+            "longitude": 80.0958611
+        },
+        {
+            "officeName": "Tank Factory Avadi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 13.109,
+            "longitude": 80.0951111
+        },
+        {
+            "officeName": "Gandhinagar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 13.105,
+            "longitude": 80.072
+        },
+        {
+            "officeName": "Avadi Camp HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 13.1269444,
+            "longitude": 80.10375
+        },
+        {
+            "officeName": "Avadi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 13.07014,
+            "longitude": 80.06093
+        }
+    ]
+}

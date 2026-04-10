@@ -1,0 +1,36 @@
+{
+    "state": "ODISHA",
+    "district": "BHADRAK",
+    "offices": [
+        {
+            "officeName": "Gujidarada S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhadrak Division",
+            "latitude": 21.0662222,
+            "longitude": 86.5027222
+        },
+        {
+            "officeName": "Keshpur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhadrak Division",
+            "latitude": 21.0079083,
+            "longitude": 86.5619066
+        },
+        {
+            "officeName": "Aharapada B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhadrak Division",
+            "latitude": 21.0218466,
+            "longitude": 86.5391033
+        }
+    ]
+}

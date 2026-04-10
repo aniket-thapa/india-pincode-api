@@ -1,0 +1,46 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "MANDI",
+    "offices": [
+        {
+            "officeName": "Basantpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Mandi Division",
+            "latitude": 31.69,
+            "longitude": 76.7
+        },
+        {
+            "officeName": "Jandhrukalan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Mandi Division",
+            "latitude": 31.79,
+            "longitude": 76.68
+        },
+        {
+            "officeName": "Darpa BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Mandi Division",
+            "latitude": 31.67,
+            "longitude": 76.71
+        },
+        {
+            "officeName": "Rakhoh SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Mandi Division",
+            "latitude": 31.6889167,
+            "longitude": 76.71075
+        }
+    ]
+}

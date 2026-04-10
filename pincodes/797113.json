@@ -1,0 +1,66 @@
+{
+    "state": "NAGALAND",
+    "district": "DIMAPUR",
+    "offices": [
+        {
+            "officeName": "D. C. Complex B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Nagaland Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Duncan Basti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Nagaland Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Kacharigaon",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Nagaland Division",
+            "latitude": 25.89576711,
+            "longitude": 93.69220307
+        },
+        {
+            "officeName": "Lengrijan B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Nagaland Division",
+            "latitude": 25.9099166,
+            "longitude": 93.6938866
+        },
+        {
+            "officeName": "New Nepaligaon S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Nagaland Division",
+            "latitude": 25.863216,
+            "longitude": 93.754315
+        },
+        {
+            "officeName": "Industrial Estate B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Nagaland Division",
+            "latitude": 25.90189,
+            "longitude": 93.694205
+        }
+    ]
+}

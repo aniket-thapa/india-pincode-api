@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "NAMAKKAL",
+    "offices": [
+        {
+            "officeName": "Unanthangal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Salem East Division",
+            "latitude": 11.452004,
+            "longitude": 78.3803215
+        },
+        {
+            "officeName": "Moolakurichi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Salem East Division",
+            "latitude": 11.4314047,
+            "longitude": 78.3943977
+        },
+        {
+            "officeName": "Mullukurichi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Salem East Division",
+            "latitude": 11.2155833,
+            "longitude": 78.1702778
+        }
+    ]
+}

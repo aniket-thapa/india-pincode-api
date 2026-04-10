@@ -1,0 +1,36 @@
+{
+    "state": "PUNJAB",
+    "district": "Shahid Bhagat Singh Nagar",
+    "offices": [
+        {
+            "officeName": "Urapar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Jalandhar Division",
+            "latitude": 31.05057619,
+            "longitude": 75.96099611
+        },
+        {
+            "officeName": "Bhakhlaur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Jalandhar Division",
+            "latitude": 31.0527,
+            "longitude": 75.9633
+        },
+        {
+            "officeName": "Chak Dana BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Jalandhar Division",
+            "latitude": 31.0536,
+            "longitude": 75.9645
+        }
+    ]
+}

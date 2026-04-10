@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "NTR",
+    "offices": [
+        {
+            "officeName": "Gudavalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Vijayawada Division",
+            "latitude": 16.510455,
+            "longitude": 80.747548
+        },
+        {
+            "officeName": "Velpuru B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Vijayawada Division",
+            "latitude": 16.496165,
+            "longitude": 80.757508
+        },
+        {
+            "officeName": "Nidamanuru S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Vijayawada Division",
+            "latitude": 16.50825,
+            "longitude": 80.7196111
+        }
+    ]
+}

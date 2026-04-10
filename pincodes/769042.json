@@ -1,0 +1,66 @@
+{
+    "state": "ODISHA",
+    "district": "SUNDARGARH",
+    "offices": [
+        {
+            "officeName": "Lahanda B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Rourkela Division",
+            "latitude": 22.2838916,
+            "longitude": 84.9149722
+        },
+        {
+            "officeName": "Jharbeda B.O.",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Rourkela Division",
+            "latitude": 22.3,
+            "longitude": 84.87
+        },
+        {
+            "officeName": "Jagda S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Rourkela Division",
+            "latitude": 22.2617633,
+            "longitude": 84.8962366
+        },
+        {
+            "officeName": "Jabaghat B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Rourkela Division",
+            "latitude": 22.2753307,
+            "longitude": 84.9317621
+        },
+        {
+            "officeName": "Karmabahal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Rourkela Division",
+            "latitude": 22.3176418,
+            "longitude": 84.914963
+        },
+        {
+            "officeName": "Jhirpani S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Rourkela Division",
+            "latitude": 22.270635,
+            "longitude": 84.9021683
+        }
+    ]
+}

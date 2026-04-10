@@ -1,0 +1,26 @@
+{
+    "state": "BIHAR",
+    "district": "ROHTAS",
+    "offices": [
+        {
+            "officeName": "Bahuara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rohtas Division",
+            "latitude": 25.090765,
+            "longitude": 83.908248
+        },
+        {
+            "officeName": "Koath SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rohtas Division",
+            "latitude": 25.322676,
+            "longitude": 84.256602
+        }
+    ]
+}

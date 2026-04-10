@@ -1,0 +1,36 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "UNA",
+    "offices": [
+        {
+            "officeName": "Bhalaun BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Una Division",
+            "latitude": 31.6157515,
+            "longitude": 76.2197361
+        },
+        {
+            "officeName": "Ambehra Dhiraj BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Una Division",
+            "latitude": 31.605947,
+            "longitude": 76.255989
+        },
+        {
+            "officeName": "Chowki Maniar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Una Division",
+            "latitude": 31.6074167,
+            "longitude": 76.2011111
+        }
+    ]
+}

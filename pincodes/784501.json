@@ -1,0 +1,36 @@
+{
+    "state": "ASSAM",
+    "district": "SONITPUR",
+    "offices": [
+        {
+            "officeName": "Rangapukhuri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.7298,
+            "longitude": 92.6739
+        },
+        {
+            "officeName": "Solmara B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.7298,
+            "longitude": 92.6739
+        },
+        {
+            "officeName": "Dekargaon S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.7298,
+            "longitude": 92.6739
+        }
+    ]
+}

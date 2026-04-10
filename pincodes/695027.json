@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "THIRUVANANTHAPURAM",
+    "offices": [
+        {
+            "officeName": "Thiruvallom SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Trivandrum South Division",
+            "latitude": 8.4401949,
+            "longitude": 76.9587816
+        },
+        {
+            "officeName": "Pachallur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Trivandrum South Division",
+            "latitude": 8.42,
+            "longitude": 76.96
+        }
+    ]
+}

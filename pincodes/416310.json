@@ -1,0 +1,66 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "SANGLI",
+    "offices": [
+        {
+            "officeName": "Bambavade B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "SANGLI DIVISION",
+            "latitude": 17.09,
+            "longitude": 74.44
+        },
+        {
+            "officeName": "Rajapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "SANGLI DIVISION",
+            "latitude": 17.03,
+            "longitude": 74.59
+        },
+        {
+            "officeName": "Morale B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "SANGLI DIVISION",
+            "latitude": 17.09,
+            "longitude": 74.47
+        },
+        {
+            "officeName": "Sawantpur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "SANGLI DIVISION",
+            "latitude": 17.1,
+            "longitude": 74.43
+        },
+        {
+            "officeName": "Palus S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "SANGLI DIVISION",
+            "latitude": 17.0917353,
+            "longitude": 74.4513457
+        },
+        {
+            "officeName": "Andhali B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "SANGLI DIVISION",
+            "latitude": 17.13,
+            "longitude": 74.48
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "WEST BENGAL",
+    "district": "KALIMPONG",
+    "offices": [
+        {
+            "officeName": "Ahlay BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Jalpaiguri Division",
+            "latitude": 26.95,
+            "longitude": 88.71
+        },
+        {
+            "officeName": "Ambeok BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Jalpaiguri Division",
+            "latitude": 27.03,
+            "longitude": 88.7
+        },
+        {
+            "officeName": "Fagu SO Darjeeling",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Jalpaiguri Division",
+            "latitude": 26.96,
+            "longitude": 88.7
+        },
+        {
+            "officeName": "Maipatey Gaon BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Jalpaiguri Division",
+            "latitude": 27.45,
+            "longitude": 88.9
+        }
+    ]
+}

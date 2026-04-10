@@ -1,0 +1,56 @@
+{
+    "state": "GUJARAT",
+    "district": "GANDHINAGAR",
+    "offices": [
+        {
+            "officeName": "Khadat BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Gandhinagar Division",
+            "latitude": 22.25,
+            "longitude": 71.73
+        },
+        {
+            "officeName": "Pundhara SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Gandhinagar Division",
+            "latitude": 23.5,
+            "longitude": 72.74
+        },
+        {
+            "officeName": "Veda BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Gandhinagar Division",
+            "latitude": 23.53,
+            "longitude": 72.71
+        },
+        {
+            "officeName": "Mahudi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Gandhinagar Division",
+            "latitude": 22.58,
+            "longitude": 72.36
+        },
+        {
+            "officeName": "Anodia BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Gandhinagar Division",
+            "latitude": 23.48,
+            "longitude": 72.79
+        }
+    ]
+}

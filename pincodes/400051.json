@@ -1,0 +1,46 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI SUBURBAN",
+    "offices": [
+        {
+            "officeName": "Audit Bhavan S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North Division",
+            "latitude": 19.05809,
+            "longitude": 72.855256
+        },
+        {
+            "officeName": "Kherwadi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North Division",
+            "latitude": 19.0615556,
+            "longitude": 72.8431389
+        },
+        {
+            "officeName": "B.N. Bhavan S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North Division",
+            "latitude": 19.0572222,
+            "longitude": 72.8455556
+        },
+        {
+            "officeName": "Bandra(East) S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North Division",
+            "latitude": 19.0617189339795,
+            "longitude": 72.8477742267272
+        }
+    ]
+}

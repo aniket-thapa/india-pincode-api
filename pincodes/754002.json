@@ -1,0 +1,36 @@
+{
+    "state": "ODISHA",
+    "district": "CUTTACK",
+    "offices": [
+        {
+            "officeName": "Kantapada B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Cuttack City Division",
+            "latitude": 20.2572109,
+            "longitude": 85.980347
+        },
+        {
+            "officeName": "Khandol B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Cuttack City Division",
+            "latitude": 20.3049228,
+            "longitude": 85.9684017
+        },
+        {
+            "officeName": "Sundargram S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Cuttack City Division",
+            "latitude": 20.2789661,
+            "longitude": 85.9610384
+        }
+    ]
+}

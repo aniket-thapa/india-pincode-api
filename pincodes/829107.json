@@ -1,0 +1,66 @@
+{
+    "state": "JHARKHAND",
+    "district": "BOKARO",
+    "offices": [
+        {
+            "officeName": "Guniato BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Giridih Division",
+            "latitude": 24.47,
+            "longitude": 85.53
+        },
+        {
+            "officeName": "Kanjkiro BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Giridih Division",
+            "latitude": 23.5,
+            "longitude": 85.53
+        },
+        {
+            "officeName": "Narayanpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Giridih Division",
+            "latitude": 23.36,
+            "longitude": 86.9
+        },
+        {
+            "officeName": "KACHO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Giridih Division",
+            "latitude": 23.797858,
+            "longitude": 85.88444
+        },
+        {
+            "officeName": "Armo B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Giridih Division",
+            "latitude": 23.781455,
+            "longitude": 85.96698
+        },
+        {
+            "officeName": "Bokaro Thermal SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Giridih Division",
+            "latitude": 23.7880556,
+            "longitude": 85.88425
+        }
+    ]
+}

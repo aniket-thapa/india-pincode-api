@@ -1,0 +1,56 @@
+{
+    "state": "PUNJAB",
+    "district": "Tarn Taran",
+    "offices": [
+        {
+            "officeName": "Naushhra Dhalla BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.5229,
+            "longitude": 74.69
+        },
+        {
+            "officeName": "Sarai Amant Khan SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.51,
+            "longitude": 74.69
+        },
+        {
+            "officeName": "Chahal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.5,
+            "longitude": 74.65
+        },
+        {
+            "officeName": "Cheema Kalan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.48,
+            "longitude": 74.67
+        },
+        {
+            "officeName": "Gandiwind BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.5,
+            "longitude": 74.71
+        }
+    ]
+}

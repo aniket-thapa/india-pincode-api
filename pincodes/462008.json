@@ -1,0 +1,26 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "BHOPAL",
+    "offices": [
+        {
+            "officeName": "Barkhedi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhopal Division",
+            "latitude": 23.2557778,
+            "longitude": 77.4149167
+        },
+        {
+            "officeName": "Jahangirabad S.O (Bhopal)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhopal Division",
+            "latitude": 23.25,
+            "longitude": 77.42
+        }
+    ]
+}

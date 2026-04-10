@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "PATHANAMTHITTA",
+    "offices": [
+        {
+            "officeName": "Thonniamala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pathanamthitta Division",
+            "latitude": 9.3,
+            "longitude": 76.77
+        },
+        {
+            "officeName": "Churulicode SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pathanamthitta Division",
+            "latitude": 9.77,
+            "longitude": 76.64
+        }
+    ]
+}

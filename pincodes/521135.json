@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "KRISHNA",
+    "offices": [
+        {
+            "officeName": "Gudapadu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Machilipatnam Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Vemulamada B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Machilipatnam Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Movva S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Machilipatnam Division",
+            "latitude": 16.22455556,
+            "longitude": 80.91502778
+        }
+    ]
+}

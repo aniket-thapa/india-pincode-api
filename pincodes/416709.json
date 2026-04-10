@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "RATNAGIRI",
+    "offices": [
+        {
+            "officeName": "Katali Sagave B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "RATNAGIRI DIVISION",
+            "latitude": 15.7583,
+            "longitude": 74.15615
+        },
+        {
+            "officeName": "Sagave S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "RATNAGIRI DIVISION",
+            "latitude": 16.518636,
+            "longitude": 73.374958
+        }
+    ]
+}

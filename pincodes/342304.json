@@ -1,0 +1,46 @@
+{
+    "state": "RAJASTHAN",
+    "district": "JODHPUR",
+    "offices": [
+        {
+            "officeName": "Punjla BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Jodhpur Division",
+            "latitude": 26.3289426,
+            "longitude": 73.0650091
+        },
+        {
+            "officeName": "Paldi Khichiyan",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Jodhpur Division",
+            "latitude": 26.405837,
+            "longitude": 73.010046
+        },
+        {
+            "officeName": "Mandore SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Jodhpur Division",
+            "latitude": 26.3508333,
+            "longitude": 73.041
+        },
+        {
+            "officeName": "Surpura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Jodhpur Division",
+            "latitude": 26.352617,
+            "longitude": 73.054886
+        }
+    ]
+}

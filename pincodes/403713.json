@@ -1,0 +1,46 @@
+{
+    "state": "GOA",
+    "district": "SOUTH GOA",
+    "offices": [
+        {
+            "officeName": "Utorda B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Goa Division",
+            "latitude": 73.18,
+            "longitude": 15.46
+        },
+        {
+            "officeName": "Betalbhatim B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Goa Division",
+            "latitude": 74.52,
+            "longitude": 16.07
+        },
+        {
+            "officeName": "Nuvem B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Goa Division",
+            "latitude": 73.94,
+            "longitude": 1.31
+        },
+        {
+            "officeName": "Majorda S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Goa Division",
+            "latitude": 15.3088203,
+            "longitude": 73.9207346
+        }
+    ]
+}

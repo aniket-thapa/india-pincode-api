@@ -1,0 +1,46 @@
+{
+    "state": "PUNJAB",
+    "district": "KAPURTHALA",
+    "offices": [
+        {
+            "officeName": "Sandhu Chatha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Kapurthala Division",
+            "latitude": 31.1540938,
+            "longitude": 77.3798012
+        },
+        {
+            "officeName": "Talwandi Madho BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Kapurthala Division",
+            "latitude": 31.26856,
+            "longitude": 75.327
+        },
+        {
+            "officeName": "Sidhwan Dona SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Kapurthala Division",
+            "latitude": 31.0919218,
+            "longitude": 75.5189232
+        },
+        {
+            "officeName": "Kular BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Kapurthala Division",
+            "latitude": 31.374925,
+            "longitude": 75.384211
+        }
+    ]
+}

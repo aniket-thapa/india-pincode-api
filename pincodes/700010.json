@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "KOLKATA",
+    "offices": [
+        {
+            "officeName": "Subhash Sarabor SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata East Division",
+            "latitude": 22.3411337,
+            "longitude": 88.2347017
+        },
+        {
+            "officeName": "Beleghata HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata East Division",
+            "latitude": 22.563216,
+            "longitude": 88.394647
+        },
+        {
+            "officeName": "Joramandir SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata East Division",
+            "latitude": 22.3335758,
+            "longitude": 88.2412007
+        }
+    ]
+}

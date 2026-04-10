@@ -1,0 +1,56 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "SOLAPUR",
+    "offices": [
+        {
+            "officeName": "Varkute B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pandharpur Division",
+            "latitude": 17.523236,
+            "longitude": 74.799533
+        },
+        {
+            "officeName": "Ghoti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pandharpur Division",
+            "latitude": 18.277596,
+            "longitude": 75.276827
+        },
+        {
+            "officeName": "Salase B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pandharpur Division",
+            "latitude": 18.293508,
+            "longitude": 75.314706
+        },
+        {
+            "officeName": "Sade S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pandharpur Division",
+            "latitude": 18.28231,
+            "longitude": 75.279062
+        },
+        {
+            "officeName": "Nerle B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pandharpur Division",
+            "latitude": 18.263289,
+            "longitude": 75.359436
+        }
+    ]
+}

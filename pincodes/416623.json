@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "SINDHUDURG",
+    "offices": [
+        {
+            "officeName": "Waniwade B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "SINDHUDURG DIVISION",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Mond S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "SINDHUDURG DIVISION",
+            "latitude": 16.4148056,
+            "longitude": 73.4534722
+        },
+        {
+            "officeName": "Baparde B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "SINDHUDURG DIVISION",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

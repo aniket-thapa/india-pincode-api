@@ -1,0 +1,26 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "BILASPUR",
+    "offices": [
+        {
+            "officeName": "Lakhnoo BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hamirpur Division",
+            "latitude": 31.226,
+            "longitude": 76.6123
+        },
+        {
+            "officeName": "Behal SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hamirpur Division",
+            "latitude": 31.225,
+            "longitude": 76.6083
+        }
+    ]
+}

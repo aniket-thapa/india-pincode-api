@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "KOTTAYAM",
+    "offices": [
+        {
+            "officeName": "Cheeranchira BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Changanacherry Division",
+            "latitude": 9.479938,
+            "longitude": 76.567293
+        },
+        {
+            "officeName": "Changanacherry Industrialnagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Changanacherry Division",
+            "latitude": 9.4678262,
+            "longitude": 76.5684787
+        }
+    ]
+}

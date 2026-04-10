@@ -1,0 +1,46 @@
+{
+    "state": "RAJASTHAN",
+    "district": "KOTA",
+    "offices": [
+        {
+            "officeName": "Barodia Kalan B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Kota Division",
+            "latitude": 24.74,
+            "longitude": 75.92
+        },
+        {
+            "officeName": "Budh Khan B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Kota Division",
+            "latitude": 24.71,
+            "longitude": 75.92
+        },
+        {
+            "officeName": "Morak Gaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Kota Division",
+            "latitude": 24.72,
+            "longitude": 75.94
+        },
+        {
+            "officeName": "Aditya Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Kota Division",
+            "latitude": 24.7221111,
+            "longitude": 75.9505278
+        }
+    ]
+}

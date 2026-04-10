@@ -1,0 +1,56 @@
+{
+    "state": "HARYANA",
+    "district": "SONIPAT",
+    "offices": [
+        {
+            "officeName": "Khanpur Kalan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sonepat Division",
+            "latitude": 29.2,
+            "longitude": 76.61
+        },
+        {
+            "officeName": "Ganewari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sonepat Division",
+            "latitude": 29.2,
+            "longitude": 76.61
+        },
+        {
+            "officeName": "Saragthal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sonepat Division",
+            "latitude": 29.2,
+            "longitude": 76.61
+        },
+        {
+            "officeName": "Kanyagurukul Khanpur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sonepat Division",
+            "latitude": 29.156,
+            "longitude": 76.8015556
+        },
+        {
+            "officeName": "Kasandi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sonepat Division",
+            "latitude": 29.2,
+            "longitude": 76.61
+        }
+    ]
+}

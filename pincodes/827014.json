@@ -1,0 +1,26 @@
+{
+    "state": "JHARKHAND",
+    "district": "BOKARO",
+    "offices": [
+        {
+            "officeName": "Balidih SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dhanbad Division",
+            "latitude": 23.666778,
+            "longitude": 86.066719
+        },
+        {
+            "officeName": "Narkera Punarvas",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dhanbad Division",
+            "latitude": 23.6600757,
+            "longitude": 86.0595349
+        }
+    ]
+}

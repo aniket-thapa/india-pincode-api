@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "PUNE",
+    "offices": [
+        {
+            "officeName": "Murti Modhave B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Baramati Division",
+            "latitude": 18.27325,
+            "longitude": 74.3112
+        },
+        {
+            "officeName": "Morgaon S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Baramati Division",
+            "latitude": 18.2765556,
+            "longitude": 74.31975
+        }
+    ]
+}

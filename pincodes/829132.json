@@ -1,0 +1,36 @@
+{
+    "state": "JHARKHAND",
+    "district": "BOKARO",
+    "offices": [
+        {
+            "officeName": "Bhandaridah SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Giridih Division",
+            "latitude": 23.60222,
+            "longitude": 85.32695
+        },
+        {
+            "officeName": "Turio BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Giridih Division",
+            "latitude": 23.47,
+            "longitude": 85.53
+        },
+        {
+            "officeName": "Gunjardih BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Giridih Division",
+            "latitude": 23.47,
+            "longitude": 86.3
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "PUNJAB",
+    "district": "PATHANKOT",
+    "offices": [
+        {
+            "officeName": "Gharota SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Gurdaspur Division",
+            "latitude": 32.15,
+            "longitude": 75.58
+        },
+        {
+            "officeName": "Bianpure BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Gurdaspur Division",
+            "latitude": 32.09,
+            "longitude": 75.57
+        },
+        {
+            "officeName": "Chaunta BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Gurdaspur Division",
+            "latitude": 32.12,
+            "longitude": 75.57
+        },
+        {
+            "officeName": "Jharoli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Gurdaspur Division",
+            "latitude": 32.11,
+            "longitude": 75.55
+        }
+    ]
+}

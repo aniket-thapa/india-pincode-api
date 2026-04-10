@@ -1,0 +1,46 @@
+{
+    "state": "GOA",
+    "district": "SOUTH GOA",
+    "offices": [
+        {
+            "officeName": "Ambelim B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Goa Division",
+            "latitude": 73.97,
+            "longitude": 15.17
+        },
+        {
+            "officeName": "ONGC Ipsem Betul B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Goa Division",
+            "latitude": 73.15,
+            "longitude": 15.23
+        },
+        {
+            "officeName": "Velim S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Goa Division",
+            "latitude": 15.18695974,
+            "longitude": 74.02570532
+        },
+        {
+            "officeName": "Betul B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Goa Division",
+            "latitude": 93.97,
+            "longitude": 15.17
+        }
+    ]
+}

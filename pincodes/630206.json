@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "SIVAGANGA",
+    "offices": [
+        {
+            "officeName": "Kunnakudi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Karaikudi Division",
+            "latitude": 10.116657,
+            "longitude": 78.697539
+        },
+        {
+            "officeName": "Koratti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Karaikudi Division",
+            "latitude": 10.090131,
+            "longitude": 78.691254
+        }
+    ]
+}

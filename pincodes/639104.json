@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "KARUR",
+    "offices": [
+        {
+            "officeName": "Kulittalai Periyapalam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Karur Division",
+            "latitude": 10.94,
+            "longitude": 78.42
+        },
+        {
+            "officeName": "Manathattai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Karur Division",
+            "latitude": 10.94,
+            "longitude": 78.41
+        },
+        {
+            "officeName": "Kulittalai Bazaar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Karur Division",
+            "latitude": 10.9413611,
+            "longitude": 78.4185
+        },
+        {
+            "officeName": "Kulittalai H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Karur Division",
+            "latitude": 10.9401944,
+            "longitude": 78.4205278
+        }
+    ]
+}

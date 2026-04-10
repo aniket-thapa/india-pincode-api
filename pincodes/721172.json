@@ -1,0 +1,26 @@
+{
+    "state": "WEST BENGAL",
+    "district": "MEDINIPUR EAST",
+    "offices": [
+        {
+            "officeName": "Demarihat BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Tamluk Division",
+            "latitude": 22.336,
+            "longitude": 87.8979
+        },
+        {
+            "officeName": "Nonakuribazar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Tamluk Division",
+            "latitude": 22.2152,
+            "longitude": 87.532
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "BENGALURU URBAN",
+    "offices": [
+        {
+            "officeName": "Training Command IAF S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Bengaluru East Division",
+            "latitude": 13.0168333,
+            "longitude": 77.5832778
+        },
+        {
+            "officeName": "Benson Town S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Bengaluru East Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "J C Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Bengaluru East Division",
+            "latitude": 13.021641,
+            "longitude": 77.592752
+        }
+    ]
+}

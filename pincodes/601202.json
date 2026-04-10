@@ -1,0 +1,76 @@
+{
+    "state": "TAMIL NADU",
+    "district": "THIRUVALLUR",
+    "offices": [
+        {
+            "officeName": "Manellore BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 13.434,
+            "longitude": 79.975
+        },
+        {
+            "officeName": "Roshanagaram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 13.425,
+            "longitude": 79.954
+        },
+        {
+            "officeName": "Kannankottai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 13.383,
+            "longitude": 79.951
+        },
+        {
+            "officeName": "Thervoy BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 13.362,
+            "longitude": 79.968
+        },
+        {
+            "officeName": "Pallavada BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 13.463,
+            "longitude": 79.991
+        },
+        {
+            "officeName": "Thanipoondi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 13.403,
+            "longitude": 79.985
+        },
+        {
+            "officeName": "Madarpakkam SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 13.444839,
+            "longitude": 80.003039
+        }
+    ]
+}

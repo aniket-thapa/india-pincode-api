@@ -1,0 +1,26 @@
+{
+    "state": "GOA",
+    "district": "NORTH GOA",
+    "offices": [
+        {
+            "officeName": "Calangute S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Goa Division",
+            "latitude": 15.5441945,
+            "longitude": 73.7706803
+        },
+        {
+            "officeName": "Arpora B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Goa Division",
+            "latitude": 73.76,
+            "longitude": 15.56
+        }
+    ]
+}

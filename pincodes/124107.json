@@ -1,0 +1,56 @@
+{
+    "state": "HARYANA",
+    "district": "JHAJJAR",
+    "offices": [
+        {
+            "officeName": "Dhandlan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rohtak Division",
+            "latitude": 28.634988,
+            "longitude": 76.823959
+        },
+        {
+            "officeName": "Dighal SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rohtak Division",
+            "latitude": 28.7579167,
+            "longitude": 76.6331667
+        },
+        {
+            "officeName": "Chhochi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rohtak Division",
+            "latitude": 28.634988,
+            "longitude": 76.823959
+        },
+        {
+            "officeName": "Gochhi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rohtak Division",
+            "latitude": 28.671593,
+            "longitude": 76.783619
+        },
+        {
+            "officeName": "Barhana BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rohtak Division",
+            "latitude": 28.781163,
+            "longitude": 76.864815
+        }
+    ]
+}

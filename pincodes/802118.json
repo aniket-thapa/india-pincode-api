@@ -1,0 +1,66 @@
+{
+    "state": "BIHAR",
+    "district": "BUXAR",
+    "offices": [
+        {
+            "officeName": "Upadhyapandeypur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Buxar Division",
+            "latitude": 25.628161,
+            "longitude": 84.107384
+        },
+        {
+            "officeName": "Mansingh Patti Barkagaon BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Buxar Division",
+            "latitude": 25.628449,
+            "longitude": 84.106548
+        },
+        {
+            "officeName": "Nagpura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhojpur Division",
+            "latitude": 25.653816,
+            "longitude": 84.091456
+        },
+        {
+            "officeName": "Sonbarsa BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhojpur Division",
+            "latitude": 25.644437,
+            "longitude": 84.090853
+        },
+        {
+            "officeName": "Umarpur Diar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhojpur Division",
+            "latitude": 25.595593,
+            "longitude": 83.999158
+        },
+        {
+            "officeName": "Dulahpur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhojpur Division",
+            "latitude": 25.5784167,
+            "longitude": 83.9789722
+        }
+    ]
+}

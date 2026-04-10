@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "ALAPPUZHA",
+    "offices": [
+        {
+            "officeName": "Puthuppally SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Mavelikara Division",
+            "latitude": 9.148006,
+            "longitude": 76.496796
+        },
+        {
+            "officeName": "Govindamuttom BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Mavelikara Division",
+            "latitude": 9.166076,
+            "longitude": 76.49439
+        }
+    ]
+}

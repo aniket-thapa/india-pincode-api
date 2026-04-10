@@ -1,0 +1,46 @@
+{
+    "state": "RAJASTHAN",
+    "district": "JAIPUR",
+    "offices": [
+        {
+            "officeName": "Dadiya BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur City Division",
+            "latitude": 27.725946,
+            "longitude": 75.213908
+        },
+        {
+            "officeName": "Muhana S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur City Division",
+            "latitude": 26.806861,
+            "longitude": 75.749681
+        },
+        {
+            "officeName": "Sanganer Bazar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur City Division",
+            "latitude": 26.8111111,
+            "longitude": 75.7833333
+        },
+        {
+            "officeName": "Airport Sanganer S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur City Division",
+            "latitude": 25.8275,
+            "longitude": 75.8055556
+        }
+    ]
+}

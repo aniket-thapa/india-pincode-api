@@ -1,0 +1,26 @@
+{
+    "state": "GUJARAT",
+    "district": "VALSAD",
+    "offices": [
+        {
+            "officeName": "Manekpore BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Valsad Division",
+            "latitude": 20.215826,
+            "longitude": 72.794725
+        },
+        {
+            "officeName": "Khatalwada SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Valsad Division",
+            "latitude": 20.215831,
+            "longitude": 72.794724
+        }
+    ]
+}

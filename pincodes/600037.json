@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "CHENNAI",
+    "offices": [
+        {
+            "officeName": "Mogappair SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 13.0848056,
+            "longitude": 80.1831667
+        },
+        {
+            "officeName": "Mogappair West SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 13.1460278,
+            "longitude": 80.2832778
+        }
+    ]
+}

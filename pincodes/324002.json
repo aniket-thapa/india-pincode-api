@@ -1,0 +1,86 @@
+{
+    "state": "RAJASTHAN",
+    "district": "KOTA",
+    "offices": [
+        {
+            "officeName": "Sogaria B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Kota Division",
+            "latitude": 25.21,
+            "longitude": 75.89
+        },
+        {
+            "officeName": "Kota Jn. S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Kota Division",
+            "latitude": 25.2211111,
+            "longitude": 75.8752778
+        },
+        {
+            "officeName": "Borkheda B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Kota Division",
+            "latitude": 25.17,
+            "longitude": 75.87
+        },
+        {
+            "officeName": "New Railway Colony Kota S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Kota Division",
+            "latitude": 25.2163889,
+            "longitude": 75.8844444
+        },
+        {
+            "officeName": "Naya Nohra B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Kota Division",
+            "latitude": 25.17,
+            "longitude": 75.9
+        },
+        {
+            "officeName": "Kishan Pura Takiya B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Kota Division",
+            "latitude": 25.24,
+            "longitude": 75.93
+        },
+        {
+            "officeName": "Arjunpura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Kota Division",
+            "latitude": 25.22,
+            "longitude": 75.9
+        },
+        {
+            "officeName": "Wagon Repair Colony Kota S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Kota Division",
+            "latitude": 25.2233333,
+            "longitude": 75.8877778
+        }
+    ]
+}

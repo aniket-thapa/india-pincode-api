@@ -1,0 +1,46 @@
+{
+    "state": "KERALA",
+    "district": "PATHANAMTHITTA",
+    "offices": [
+        {
+            "officeName": "Thengamom BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pathanamthitta Division",
+            "latitude": 9.12,
+            "longitude": 76.66
+        },
+        {
+            "officeName": "Kakkakunnu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pathanamthitta Division",
+            "latitude": 9.07,
+            "longitude": 76.62
+        },
+        {
+            "officeName": "Patharam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pathanamthitta Division",
+            "latitude": 9.07,
+            "longitude": 76.6
+        },
+        {
+            "officeName": "Sooranad SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pathanamthitta Division",
+            "latitude": 9.3,
+            "longitude": 76.93
+        }
+    ]
+}

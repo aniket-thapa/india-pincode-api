@@ -1,0 +1,66 @@
+{
+    "state": "RAJASTHAN",
+    "district": "NAGAUR",
+    "offices": [
+        {
+            "officeName": "Chhotikhatu S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Nagaur Division",
+            "latitude": 27.6136111,
+            "longitude": 75.1509722
+        },
+        {
+            "officeName": "Badabara B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Nagaur Division",
+            "latitude": 26.2575,
+            "longitude": 73.7538
+        },
+        {
+            "officeName": "Bhinchawa B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Nagaur Division",
+            "latitude": 26.2575,
+            "longitude": 73.7538
+        },
+        {
+            "officeName": "Serani Ki Dhani B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Nagaur Division",
+            "latitude": 26.2575,
+            "longitude": 73.7538
+        },
+        {
+            "officeName": "Pawa B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Nagaur Division",
+            "latitude": 25.4241,
+            "longitude": 73.079
+        },
+        {
+            "officeName": "Ranigaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Nagaur Division",
+            "latitude": 27.091,
+            "longitude": 74.4285
+        }
+    ]
+}

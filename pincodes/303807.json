@@ -1,0 +1,56 @@
+{
+    "state": "RAJASTHAN",
+    "district": "JAIPUR",
+    "offices": [
+        {
+            "officeName": "Hathnoda BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur Moffusil Division",
+            "latitude": 26.808524,
+            "longitude": 75.072797
+        },
+        {
+            "officeName": "Nangal Bharda BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur Moffusil Division",
+            "latitude": 25.736268,
+            "longitude": 72.584777
+        },
+        {
+            "officeName": "Bhopawa BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur Moffusil Division",
+            "latitude": 26.724073,
+            "longitude": 75.286551
+        },
+        {
+            "officeName": "Loharwada BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur Moffusil Division",
+            "latitude": 26.796899,
+            "longitude": 74.951566
+        },
+        {
+            "officeName": "Udaipuria SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur Moffusil Division",
+            "latitude": 27.2197778,
+            "longitude": 75.7153333
+        }
+    ]
+}

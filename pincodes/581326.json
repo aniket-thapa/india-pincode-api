@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "UTTARA KANNADA",
+    "offices": [
+        {
+            "officeName": "Gokarn S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Karwar Division",
+            "latitude": 14.5494753,
+            "longitude": 74.3244526
+        },
+        {
+            "officeName": "Tadri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Karwar Division",
+            "latitude": 14.5271915,
+            "longitude": 74.3540749
+        },
+        {
+            "officeName": "Sanikatta B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Karwar Division",
+            "latitude": 14.546482,
+            "longitude": 74.3435607
+        }
+    ]
+}

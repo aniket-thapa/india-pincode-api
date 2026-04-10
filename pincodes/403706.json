@@ -1,0 +1,56 @@
+{
+    "state": "GOA",
+    "district": "SOUTH GOA",
+    "offices": [
+        {
+            "officeName": "Curchorem S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Goa Division",
+            "latitude": 15.26075,
+            "longitude": 74.1075278
+        },
+        {
+            "officeName": "Panchwadi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Goa Division",
+            "latitude": 74.11,
+            "longitude": 15.45
+        },
+        {
+            "officeName": "Quirlapale B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Goa Division",
+            "latitude": 73.29,
+            "longitude": 15.34
+        },
+        {
+            "officeName": "Xelvona B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Goa Division",
+            "latitude": 74.11,
+            "longitude": 15.34
+        },
+        {
+            "officeName": "Cacora B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Goa Division",
+            "latitude": 72.55,
+            "longitude": 14.72
+        }
+    ]
+}

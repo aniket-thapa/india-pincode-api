@@ -1,0 +1,36 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "TEHRI GARHWAL",
+    "offices": [
+        {
+            "officeName": "Souru BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Tehri Division",
+            "latitude": 30.2242584,
+            "longitude": 78.6781956
+        },
+        {
+            "officeName": "Bhallegaon SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Tehri Division",
+            "latitude": 30.2198333,
+            "longitude": 78.6802222
+        },
+        {
+            "officeName": "Hinsriyakhal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Tehri Division",
+            "latitude": 30.2595747,
+            "longitude": 78.6675305
+        }
+    ]
+}

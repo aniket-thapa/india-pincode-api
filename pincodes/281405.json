@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "MATHURA",
+    "offices": [
+        {
+            "officeName": "Kamai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Mathura Division",
+            "latitude": 27.47,
+            "longitude": 77.69
+        },
+        {
+            "officeName": "Barsana SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Mathura Division",
+            "latitude": 27.62306,
+            "longitude": 77.58278
+        },
+        {
+            "officeName": "Hathia BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Mathura Division",
+            "latitude": 27.47,
+            "longitude": 77.69
+        },
+        {
+            "officeName": "Maharana BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Mathura Division",
+            "latitude": 27.47,
+            "longitude": 77.69
+        }
+    ]
+}

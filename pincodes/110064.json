@@ -1,0 +1,56 @@
+{
+    "state": "DELHI",
+    "district": "WEST",
+    "offices": [
+        {
+            "officeName": "Hari Nagar BE Block S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.6287778,
+            "longitude": 77.1226111
+        },
+        {
+            "officeName": "Mayapuri Shopping Centre S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.614756,
+            "longitude": 71.11292
+        },
+        {
+            "officeName": "Hari Nagar Dadb Block S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.6234444,
+            "longitude": 77.1076111
+        },
+        {
+            "officeName": "Maya Puri S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.6317778,
+            "longitude": 77.1259167
+        },
+        {
+            "officeName": "Hari Nagar S.O (West Delhi)",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.62486,
+            "longitude": 77.110868
+        }
+    ]
+}

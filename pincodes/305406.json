@@ -1,0 +1,56 @@
+{
+    "state": "RAJASTHAN",
+    "district": "AJMER",
+    "offices": [
+        {
+            "officeName": "Lasadia B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Beawar Division",
+            "latitude": 26.09,
+            "longitude": 75.22
+        },
+        {
+            "officeName": "Hingonia B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Beawar Division",
+            "latitude": 26.09,
+            "longitude": 75.22
+        },
+        {
+            "officeName": "Harpura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Beawar Division",
+            "latitude": 26.3,
+            "longitude": 74.73
+        },
+        {
+            "officeName": "Lalai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Beawar Division",
+            "latitude": 26.04,
+            "longitude": 75.1
+        },
+        {
+            "officeName": "Junia S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Beawar Division",
+            "latitude": 25.9220556,
+            "longitude": 75.5919444
+        }
+    ]
+}

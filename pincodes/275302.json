@@ -1,0 +1,66 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "MAU",
+    "offices": [
+        {
+            "officeName": "Fateh Pur Tal Naraja BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Azamgarh Division",
+            "latitude": 30.1,
+            "longitude": 20.1
+        },
+        {
+            "officeName": "Hamid Pur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Azamgarh Division",
+            "latitude": 30.1,
+            "longitude": 20.1
+        },
+        {
+            "officeName": "Bhopaura SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Azamgarh Division",
+            "latitude": 25.0885833,
+            "longitude": 83.4678889
+        },
+        {
+            "officeName": "Narawa Sarai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Azamgarh Division",
+            "latitude": 26.18,
+            "longitude": 82.91
+        },
+        {
+            "officeName": "Iraura Chaubey Pur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Azamgarh Division",
+            "latitude": 26.18,
+            "longitude": 82.91
+        },
+        {
+            "officeName": "Vijra Pura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Azamgarh Division",
+            "latitude": 26.18,
+            "longitude": 82.91
+        }
+    ]
+}

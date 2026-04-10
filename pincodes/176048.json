@@ -1,0 +1,36 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "HAMIRPUR",
+    "offices": [
+        {
+            "officeName": "Kakrot BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hamirpur Division",
+            "latitude": 31.6201,
+            "longitude": 76.6918
+        },
+        {
+            "officeName": "Jahu SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hamirpur Division",
+            "latitude": 31.5931944,
+            "longitude": 76.7170278
+        },
+        {
+            "officeName": "Badehar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hamirpur Division",
+            "latitude": 31.6219,
+            "longitude": 76.7091
+        }
+    ]
+}

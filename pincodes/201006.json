@@ -1,0 +1,26 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "GHAZIABAD",
+    "offices": [
+        {
+            "officeName": "Bhopura SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Ghaziabad Division",
+            "latitude": 28.70062,
+            "longitude": 77.328853
+        },
+        {
+            "officeName": "Chikamberpur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Ghaziabad Division",
+            "latitude": 28.677412,
+            "longitude": 77.325981
+        }
+    ]
+}

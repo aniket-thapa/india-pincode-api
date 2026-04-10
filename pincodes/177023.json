@@ -1,0 +1,66 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "HAMIRPUR",
+    "offices": [
+        {
+            "officeName": "Barara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hamirpur Division",
+            "latitude": 31.6995,
+            "longitude": 76.6456
+        },
+        {
+            "officeName": "Patnaun BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hamirpur Division",
+            "latitude": 31.7353,
+            "longitude": 76.6405
+        },
+        {
+            "officeName": "Barin BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hamirpur Division",
+            "latitude": 31.6972,
+            "longitude": 76.6328
+        },
+        {
+            "officeName": "Gawardu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hamirpur Division",
+            "latitude": 31.3143,
+            "longitude": 76.5972
+        },
+        {
+            "officeName": "Thana Bajuri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hamirpur Division",
+            "latitude": 31.6765,
+            "longitude": 76.5166
+        },
+        {
+            "officeName": "Tauni Devi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hamirpur Division",
+            "latitude": 31.7131111,
+            "longitude": 76.5972
+        }
+    ]
+}

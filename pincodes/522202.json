@@ -1,0 +1,76 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "GUNTUR",
+    "offices": [
+        {
+            "officeName": "Nelapadu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Tenali Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Pedaravuru B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Tenali Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Pinapad Tenali S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Tenali Division",
+            "latitude": 16.22380556,
+            "longitude": 80.66972222
+        },
+        {
+            "officeName": "Kancherlapalem B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Tenali Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Katevaram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Tenali Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Satyanarayanapuram S.O (Guntur)",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Tenali Division",
+            "latitude": 16.238611,
+            "longitude": 80.637019
+        },
+        {
+            "officeName": "Morrispeta S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Tenali Division",
+            "latitude": 16.236619,
+            "longitude": 80.643754
+        }
+    ]
+}

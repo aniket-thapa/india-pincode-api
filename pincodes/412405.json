@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "PUNE",
+    "offices": [
+        {
+            "officeName": "Gawadewadi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune Moffusil Division",
+            "latitude": 18.8744,
+            "longitude": 74.0109
+        },
+        {
+            "officeName": "Avsari KH S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune Moffusil Division",
+            "latitude": 18.972202,
+            "longitude": 73.964296
+        }
+    ]
+}

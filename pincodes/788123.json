@@ -1,0 +1,56 @@
+{
+    "state": "ASSAM",
+    "district": "CACHAR",
+    "offices": [
+        {
+            "officeName": "Punimukh B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Cachar Division",
+            "latitude": 24.96,
+            "longitude": 92.62
+        },
+        {
+            "officeName": "Panibhora B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Cachar Division",
+            "latitude": 24.96,
+            "longitude": 92.62
+        },
+        {
+            "officeName": "Bekirpar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Cachar Division",
+            "latitude": 24.823637,
+            "longitude": 92.801827
+        },
+        {
+            "officeName": "Santipur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Cachar Division",
+            "latitude": 24.64419,
+            "longitude": 92.85896
+        },
+        {
+            "officeName": "Paloi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Cachar Division",
+            "latitude": 24.36,
+            "longitude": 92.62
+        }
+    ]
+}

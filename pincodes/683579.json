@@ -1,0 +1,46 @@
+{
+    "state": "KERALA",
+    "district": "ERNAKULAM",
+    "offices": [
+        {
+            "officeName": "Parakkadavu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Alwaye Division",
+            "latitude": 10.1910216,
+            "longitude": 76.3241269
+        },
+        {
+            "officeName": "Kurumassery SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Alwaye Division",
+            "latitude": 10.180231,
+            "longitude": 76.330342
+        },
+        {
+            "officeName": "Vattaparambu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Alwaye Division",
+            "latitude": 10.1932206,
+            "longitude": 76.3421005
+        },
+        {
+            "officeName": "Airoor BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Alwaye Division",
+            "latitude": 10.1771196,
+            "longitude": 76.3071298
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "KARNATAKA",
+    "district": "CHIKKABALLAPURA",
+    "offices": [
+        {
+            "officeName": "Huduguru B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Kolar Division",
+            "latitude": 13.6489963,
+            "longitude": 77.5708988
+        },
+        {
+            "officeName": "Kadabur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Kolar Division",
+            "latitude": 13.5917687,
+            "longitude": 77.5775829
+        },
+        {
+            "officeName": "Dn Palya S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Kolar Division",
+            "latitude": 13.6291389,
+            "longitude": 77.6030278
+        },
+        {
+            "officeName": "Namagondlu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Kolar Division",
+            "latitude": 13.5783684,
+            "longitude": 77.6050809
+        }
+    ]
+}

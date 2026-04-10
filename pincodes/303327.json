@@ -1,0 +1,66 @@
+{
+    "state": "RAJASTHAN",
+    "district": "DAUSA",
+    "offices": [
+        {
+            "officeName": "Keshrisinghpura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur Moffusil Division",
+            "latitude": 27.084515,
+            "longitude": 76.5765172
+        },
+        {
+            "officeName": "Baswa SO Dausa",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur Moffusil Division",
+            "latitude": 26.8908889,
+            "longitude": 76.3378889
+        },
+        {
+            "officeName": "Gullana BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur Moffusil Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Jhajhirampura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur Moffusil Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Shabdawali BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur Moffusil Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Karnawar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur Moffusil Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "RAJASTHAN",
+    "district": "JAIPUR",
+    "offices": [
+        {
+            "officeName": "Mohanpura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur Moffusil Division",
+            "latitude": 26.823767,
+            "longitude": 75.740056
+        },
+        {
+            "officeName": "Lakhana B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur Moffusil Division",
+            "latitude": 26.732558,
+            "longitude": 75.771528
+        },
+        {
+            "officeName": "Watika SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur Moffusil Division",
+            "latitude": 26.7098333,
+            "longitude": 75.8951111
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "GUJARAT",
+    "district": "SURAT",
+    "offices": [
+        {
+            "officeName": "Chhapra Bhatha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Surat Division",
+            "latitude": 21.252264,
+            "longitude": 72.839602
+        },
+        {
+            "officeName": "Kosad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Surat Division",
+            "latitude": 20.99107,
+            "longitude": 73.06248
+        },
+        {
+            "officeName": "Amroli SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Surat Division",
+            "latitude": 21.2401667,
+            "longitude": 72.8529167
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "state": "TAMIL NADU",
+    "district": "THANJAVUR",
+    "offices": [
+        {
+            "officeName": "Aduthurai Bazar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Kumbakonam Division",
+            "latitude": 11.01,
+            "longitude": 79.48
+        },
+        {
+            "officeName": "Maruthuvakudi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Kumbakonam Division",
+            "latitude": 11.01,
+            "longitude": 79.48
+        },
+        {
+            "officeName": "Avaniapuram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Kumbakonam Division",
+            "latitude": 11.04,
+            "longitude": 79.49
+        },
+        {
+            "officeName": "Melaiyur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Kumbakonam Division",
+            "latitude": 10.99,
+            "longitude": 79.5
+        },
+        {
+            "officeName": "Tirunilakudi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Kumbakonam Division",
+            "latitude": 10.99,
+            "longitude": 79.49
+        },
+        {
+            "officeName": "Govindapuram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Kumbakonam Division",
+            "latitude": 11.01,
+            "longitude": 79.47
+        },
+        {
+            "officeName": "Aduthurai S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Kumbakonam Division",
+            "latitude": 11.0176389,
+            "longitude": 78.4799444
+        }
+    ]
+}

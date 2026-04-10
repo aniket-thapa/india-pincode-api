@@ -1,0 +1,56 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "KANGRA",
+    "offices": [
+        {
+            "officeName": "Bathra BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehra Gopipur Division",
+            "latitude": 31.876328,
+            "longitude": 76.0769
+        },
+        {
+            "officeName": "Tipri SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehra Gopipur Division",
+            "latitude": 31.853118,
+            "longitude": 76.070192
+        },
+        {
+            "officeName": "Niar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehra Gopipur Division",
+            "latitude": 31.862588,
+            "longitude": 76.053696
+        },
+        {
+            "officeName": "Lower Tipri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehra Gopipur Division",
+            "latitude": 31.861522,
+            "longitude": 76.094301
+        },
+        {
+            "officeName": "Seul BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehra Gopipur Division",
+            "latitude": 31.92002,
+            "longitude": 76.049729
+        }
+    ]
+}

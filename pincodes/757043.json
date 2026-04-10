@@ -1,0 +1,56 @@
+{
+    "state": "ODISHA",
+    "district": "MAYURBHANJ",
+    "offices": [
+        {
+            "officeName": "Rairangpur H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Rairangpur Division",
+            "latitude": 22.2664167,
+            "longitude": 86.1735833
+        },
+        {
+            "officeName": "Mahuldiha S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Rairangpur Division",
+            "latitude": 22.278185,
+            "longitude": 86.1678166
+        },
+        {
+            "officeName": "Anladuva S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Rairangpur Division",
+            "latitude": 22.2609,
+            "longitude": 86.1732
+        },
+        {
+            "officeName": "Rairangpur Bazar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Rairangpur Division",
+            "latitude": 22.25543,
+            "longitude": 86.1775033
+        },
+        {
+            "officeName": "Rairangpur R.S S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Rairangpur Division",
+            "latitude": 22.2623316,
+            "longitude": 86.179025
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "TAMIL NADU",
+    "district": "THENI",
+    "offices": [
+        {
+            "officeName": "Poomalaikundu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Theni Division",
+            "latitude": 9.86,
+            "longitude": 77.454
+        },
+        {
+            "officeName": "Dharmapuri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Theni Division",
+            "latitude": 9.88,
+            "longitude": 77.46
+        },
+        {
+            "officeName": "Jangalpatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Theni Division",
+            "latitude": 9.865876,
+            "longitude": 77.454128
+        },
+        {
+            "officeName": "Kamatchipuram S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Theni Division",
+            "latitude": 9.865876,
+            "longitude": 77.454128
+        },
+        {
+            "officeName": "Kuppinayakanpatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Theni Division",
+            "latitude": 9.86,
+            "longitude": 77.54
+        }
+    ]
+}

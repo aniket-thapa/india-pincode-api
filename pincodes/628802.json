@@ -1,0 +1,56 @@
+{
+    "state": "TAMIL NADU",
+    "district": "TUTICORIN",
+    "offices": [
+        {
+            "officeName": "Maramangalam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Tuticorin Division",
+            "latitude": 8.656277,
+            "longitude": 78.061121
+        },
+        {
+            "officeName": "Arumugamangalam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Tuticorin Division",
+            "latitude": 8.646725,
+            "longitude": 78.040228
+        },
+        {
+            "officeName": "Kottarakurichi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Tuticorin Division",
+            "latitude": 8.62577,
+            "longitude": 78.02056
+        },
+        {
+            "officeName": "Idaiyarkadu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Tuticorin Division",
+            "latitude": 8.628851,
+            "longitude": 77.912922
+        },
+        {
+            "officeName": "Siruthondanallur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Tuticorin Division",
+            "latitude": 8.63308,
+            "longitude": 78.01961
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "state": "HARYANA",
+    "district": "AMBALA",
+    "offices": [
+        {
+            "officeName": "Dhankaur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.3682963,
+            "longitude": 76.805097
+        },
+        {
+            "officeName": "Dhulkot B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Mandhaur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.38753,
+            "longitude": 76.81105
+        },
+        {
+            "officeName": "Panjokhara Sahib B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.41012,
+            "longitude": 76.8408
+        },
+        {
+            "officeName": "Ghail B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.3781838,
+            "longitude": 76.7766924
+        },
+        {
+            "officeName": "Lohgarh B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.943859,
+            "longitude": 75.872551
+        },
+        {
+            "officeName": "Baknaur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.358442,
+            "longitude": 76.763229
+        },
+        {
+            "officeName": "Baldev Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.3873889,
+            "longitude": 76.7931667
+        },
+        {
+            "officeName": "Geeta Nagri S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.4365833,
+            "longitude": 76.6860556
+        }
+    ]
+}

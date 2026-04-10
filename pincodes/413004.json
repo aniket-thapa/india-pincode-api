@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "SOLAPUR",
+    "offices": [
+        {
+            "officeName": "Jule Solapur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Solapur Division",
+            "latitude": 17.6314722,
+            "longitude": 75.9046944
+        },
+        {
+            "officeName": "Indiranagar S.O (Solapur)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Solapur Division",
+            "latitude": 17.64508,
+            "longitude": 75.89557
+        }
+    ]
+}

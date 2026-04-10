@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "NAGPUR",
+    "offices": [
+        {
+            "officeName": "Borda (Ganeshi) B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur Moffusil Division",
+            "latitude": 21.54,
+            "longitude": 80.18
+        },
+        {
+            "officeName": "Gondegaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur Moffusil Division",
+            "latitude": 21.257709,
+            "longitude": 79.21687
+        },
+        {
+            "officeName": "Kamthi Colliery S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur Moffusil Division",
+            "latitude": 21.2163889,
+            "longitude": 79.1988889
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "RAJASTHAN",
+    "district": "KOTA",
+    "offices": [
+        {
+            "officeName": "I.P.I.A. KOTA S.O.",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Kota Division",
+            "latitude": 25.131873,
+            "longitude": 75.856035
+        },
+        {
+            "officeName": "P.I.P. Kota S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Kota Division",
+            "latitude": 25.1427778,
+            "longitude": 75.8533333
+        },
+        {
+            "officeName": "Mahaveer Nagar Kota S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Kota Division",
+            "latitude": 25.1364722,
+            "longitude": 75.8401111
+        },
+        {
+            "officeName": "Vigyan Nagar Kota S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Kota Division",
+            "latitude": 25.1502222,
+            "longitude": 75.8579722
+        }
+    ]
+}

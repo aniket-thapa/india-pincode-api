@@ -1,0 +1,36 @@
+{
+    "state": "TELANGANA",
+    "district": "Jagitial",
+    "offices": [
+        {
+            "officeName": "Khila Jagtial S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Karimnagar Division",
+            "latitude": 18.799892,
+            "longitude": 78.916067
+        },
+        {
+            "officeName": "New Abadi Jagtial S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Karimnagar Division",
+            "latitude": 18.797761,
+            "longitude": 78.920862
+        },
+        {
+            "officeName": "Jagtial H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Karimnagar Division",
+            "latitude": 18.7936944,
+            "longitude": 78.9152778
+        }
+    ]
+}

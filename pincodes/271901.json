@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "BAHRAICH",
+    "offices": [
+        {
+            "officeName": "Bhartha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Bahraich Division",
+            "latitude": 27.546691,
+            "longitude": 81.254637
+        },
+        {
+            "officeName": "Jataura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Bahraich Division",
+            "latitude": 27.128767,
+            "longitude": 81.578909
+        },
+        {
+            "officeName": "Jarwal Road SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Bahraich Division",
+            "latitude": 27.1187778,
+            "longitude": 81.5427222
+        },
+        {
+            "officeName": "Tappe Sipah BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Bahraich Division",
+            "latitude": 27.086603,
+            "longitude": 81.499288
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "PUDUCHERRY",
+    "district": "PONDICHERRY",
+    "offices": [
+        {
+            "officeName": "Mudaliarpet SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Pondicherry Division",
+            "latitude": 11.9212222,
+            "longitude": 79.8150556
+        },
+        {
+            "officeName": "Pondicherry Courts SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Pondicherry Division",
+            "latitude": 11.92,
+            "longitude": 79.81
+        },
+        {
+            "officeName": "Mouroungapakkam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Pondicherry Division",
+            "latitude": 11.905124,
+            "longitude": 79.808662
+        },
+        {
+            "officeName": "Thengaithittu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Pondicherry Division",
+            "latitude": 11.911688,
+            "longitude": 79.817659
+        }
+    ]
+}

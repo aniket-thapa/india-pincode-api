@@ -1,0 +1,76 @@
+{
+    "state": "TAMIL NADU",
+    "district": "KANNIYAKUMARI",
+    "offices": [
+        {
+            "officeName": "Palavilai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kanniyakumari Division",
+            "latitude": 8.3,
+            "longitude": 77.13
+        },
+        {
+            "officeName": "Marthandamthurai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kanniyakumari Division",
+            "latitude": 8.25,
+            "longitude": 77.28
+        },
+        {
+            "officeName": "Urambu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kanniyakumari Division",
+            "latitude": 8.23,
+            "longitude": 77.26
+        },
+        {
+            "officeName": "Vallavilai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kanniyakumari Division",
+            "latitude": 8.28,
+            "longitude": 77.11
+        },
+        {
+            "officeName": "Kollangodu S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kanniyakumari Division",
+            "latitude": 8.3023333,
+            "longitude": 77.1217778
+        },
+        {
+            "officeName": "Fathima Nagar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kanniyakumari Division",
+            "latitude": 8.31,
+            "longitude": 77.14
+        },
+        {
+            "officeName": "Kirathur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kanniyakumari Division",
+            "latitude": 8.28,
+            "longitude": 77.14
+        }
+    ]
+}

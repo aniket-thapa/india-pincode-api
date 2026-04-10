@@ -1,0 +1,26 @@
+{
+    "state": "RAJASTHAN",
+    "district": "BIKANER",
+    "offices": [
+        {
+            "officeName": "Bichhwal Ind.Area S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Bikaner Division",
+            "latitude": 28.0580891,
+            "longitude": 73.3340975
+        },
+        {
+            "officeName": "Raj.Krishi Vishwavidhyalaya S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Bikaner Division",
+            "latitude": 28.1172222,
+            "longitude": 73.04
+        }
+    ]
+}

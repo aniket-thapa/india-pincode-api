@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "UTTARA KANNADA",
+    "offices": [
+        {
+            "officeName": "Gaongeri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Karwar Division",
+            "latitude": 14.8765817,
+            "longitude": 74.1168962
+        },
+        {
+            "officeName": "Majali S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Karwar Division",
+            "latitude": 14.8816671,
+            "longitude": 74.1129373
+        },
+        {
+            "officeName": "Gotnibag B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Karwar Division",
+            "latitude": 14.896666,
+            "longitude": 74.1078518
+        }
+    ]
+}

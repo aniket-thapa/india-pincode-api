@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "MAYILADUTHURAI",
+    "offices": [
+        {
+            "officeName": "Mannipallam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Mayiladuthurai Division",
+            "latitude": 11.2,
+            "longitude": 79.66
+        },
+        {
+            "officeName": "Seithur Srk B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Mayiladuthurai Division",
+            "latitude": 11.18,
+            "longitude": 79.67
+        },
+        {
+            "officeName": "Tirupungur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Mayiladuthurai Division",
+            "latitude": 10.7603056,
+            "longitude": 79.8465278
+        },
+        {
+            "officeName": "Karkoil B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Mayiladuthurai Division",
+            "latitude": 11.19,
+            "longitude": 79.69
+        }
+    ]
+}

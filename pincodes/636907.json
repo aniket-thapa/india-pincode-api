@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "DHARMAPURI",
+    "offices": [
+        {
+            "officeName": "Avalur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Dharmapuri Division",
+            "latitude": 11.9248,
+            "longitude": 78.6809
+        },
+        {
+            "officeName": "Naripalli SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Dharmapuri Division",
+            "latitude": 12.05135,
+            "longitude": 78.480325
+        }
+    ]
+}

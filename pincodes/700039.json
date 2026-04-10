@@ -1,0 +1,56 @@
+{
+    "state": "WEST BENGAL",
+    "district": "KOLKATA",
+    "offices": [
+        {
+            "officeName": "Tiljala Bazar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata East Division",
+            "latitude": 22.3144206,
+            "longitude": 88.231333
+        },
+        {
+            "officeName": "Topsia SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata East Division",
+            "latitude": 22.323474,
+            "longitude": 88.239413
+        },
+        {
+            "officeName": "Bediadanga SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata East Division",
+            "latitude": 22.5221944,
+            "longitude": 88.3821667
+        },
+        {
+            "officeName": "Picnic Garden SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata East Division",
+            "latitude": 22.5291111,
+            "longitude": 88.3882778
+        },
+        {
+            "officeName": "Tiljala SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata East Division",
+            "latitude": 22.5284465,
+            "longitude": 88.3765561
+        }
+    ]
+}

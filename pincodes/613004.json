@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "THANJAVUR",
+    "offices": [
+        {
+            "officeName": "State Bank Colony B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Thanjavur Division",
+            "latitude": 10.77,
+            "longitude": 79.11
+        },
+        {
+            "officeName": "Manojipatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Thanjavur Division",
+            "latitude": 10.77,
+            "longitude": 79.1
+        },
+        {
+            "officeName": "Ramanathapuram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Thanjavur Division",
+            "latitude": 10.78,
+            "longitude": 79.1
+        },
+        {
+            "officeName": "Thanjavur Medical College S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Thanjavur Division",
+            "latitude": 10.7573611,
+            "longitude": 79.1078611
+        }
+    ]
+}

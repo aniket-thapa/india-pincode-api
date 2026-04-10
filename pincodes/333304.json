@@ -1,0 +1,56 @@
+{
+    "state": "RAJASTHAN",
+    "district": "JHUNJHUNU",
+    "offices": [
+        {
+            "officeName": "Birol B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jhunjhunu Division",
+            "latitude": 27.847735,
+            "longitude": 75.314338
+        },
+        {
+            "officeName": "Gothara B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jhunjhunu Division",
+            "latitude": 27.800065,
+            "longitude": 75.338371
+        },
+        {
+            "officeName": "Barwa B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jhunjhunu Division",
+            "latitude": 27.744015,
+            "longitude": 75.361732
+        },
+        {
+            "officeName": "Jhajhar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jhunjhunu Division",
+            "latitude": 27.8089444,
+            "longitude": 75.3130833
+        },
+        {
+            "officeName": "Basawa B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jhunjhunu Division",
+            "latitude": 27.771362,
+            "longitude": 75.323779
+        }
+    ]
+}

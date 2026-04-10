@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "KANNUR",
+    "offices": [
+        {
+            "officeName": "Panniyannur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Thalassery Division",
+            "latitude": 11.74,
+            "longitude": 75.56
+        },
+        {
+            "officeName": "Vayalalam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Thalassery Division",
+            "latitude": 11.74,
+            "longitude": 75.53
+        },
+        {
+            "officeName": "Paral SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Thalassery Division",
+            "latitude": 11.753368,
+            "longitude": 75.490912
+        }
+    ]
+}

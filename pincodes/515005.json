@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "ANANTAPUR",
+    "offices": [
+        {
+            "officeName": "Gandhibazar S.O (Ananthapur)",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Anantapur Division",
+            "latitude": 14.68,
+            "longitude": 77.59
+        },
+        {
+            "officeName": "Old Town S.O (Ananthapur)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Anantapur Division",
+            "latitude": 14.681584,
+            "longitude": 77.607225
+        },
+        {
+            "officeName": "Rajaji Street B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Anantapur Division",
+            "latitude": 14.67,
+            "longitude": 77.58
+        }
+    ]
+}

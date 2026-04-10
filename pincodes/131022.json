@@ -1,0 +1,36 @@
+{
+    "state": "HARYANA",
+    "district": "SONIPAT",
+    "offices": [
+        {
+            "officeName": "Tihar Bagru BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sonepat Division",
+            "latitude": 21.15,
+            "longitude": 81.71
+        },
+        {
+            "officeName": "Salimsar Majra BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sonepat Division",
+            "latitude": 21.15,
+            "longitude": 81.71
+        },
+        {
+            "officeName": "Bhatgaon SO Sonipat",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sonepat Division",
+            "latitude": 28.9926944,
+            "longitude": 77.0179722
+        }
+    ]
+}

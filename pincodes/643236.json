@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "THE NILGIRIS",
+    "offices": [
+        {
+            "officeName": "Hettakal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Nilgiris Division",
+            "latitude": 11.44,
+            "longitude": 76.94
+        },
+        {
+            "officeName": "Kengarai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Nilgiris Division",
+            "latitude": 11.439475,
+            "longitude": 76.949143
+        },
+        {
+            "officeName": "Kotada Estate S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Nilgiris Division",
+            "latitude": 11.417711,
+            "longitude": 76.937377
+        }
+    ]
+}

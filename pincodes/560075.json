@@ -1,0 +1,26 @@
+{
+    "state": "KARNATAKA",
+    "district": "BENGALURU URBAN",
+    "offices": [
+        {
+            "officeName": "Jeevanbhimanagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Bengaluru East Division",
+            "latitude": 12.9710833,
+            "longitude": 77.656
+        },
+        {
+            "officeName": "New Thippasandra S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Bengaluru East Division",
+            "latitude": 12.1560556,
+            "longitude": 77.1145278
+        }
+    ]
+}

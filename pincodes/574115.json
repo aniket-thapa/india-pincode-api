@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "UDUPI",
+    "offices": [
+        {
+            "officeName": "Shankarapura SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Udupi Division",
+            "latitude": 13.259166,
+            "longitude": 74.770145
+        },
+        {
+            "officeName": "Herur92 BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Udupi Division",
+            "latitude": 13.2435927,
+            "longitude": 74.7917132
+        },
+        {
+            "officeName": "Bhantakal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Udupi Division",
+            "latitude": 13.2522294,
+            "longitude": 74.7942989
+        }
+    ]
+}

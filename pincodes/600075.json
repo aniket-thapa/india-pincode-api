@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "CHENGALPATTU",
+    "offices": [
+        {
+            "officeName": "Pammal East SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 12.9835278,
+            "longitude": 80.1452222
+        },
+        {
+            "officeName": "Pammal SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 12.9786111,
+            "longitude": 80.1433889
+        }
+    ]
+}

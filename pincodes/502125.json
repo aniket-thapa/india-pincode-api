@@ -1,0 +1,36 @@
+{
+    "state": "TELANGANA",
+    "district": "MEDAK",
+    "offices": [
+        {
+            "officeName": "Laxminagar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.0237,
+            "longitude": 78.0949
+        },
+        {
+            "officeName": "Yellapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.028924,
+            "longitude": 78.197434
+        },
+        {
+            "officeName": "Podichanpally S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.05428,
+            "longitude": 78.191672
+        }
+    ]
+}

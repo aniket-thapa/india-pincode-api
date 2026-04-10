@@ -1,0 +1,46 @@
+{
+    "state": "WEST BENGAL",
+    "district": "KALIMPONG",
+    "offices": [
+        {
+            "officeName": "Rango BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Jalpaiguri Division",
+            "latitude": 27.04,
+            "longitude": 88.84
+        },
+        {
+            "officeName": "Mathachulka BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Jalpaiguri Division",
+            "latitude": 26.82,
+            "longitude": 88.77
+        },
+        {
+            "officeName": "Chalsa SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Jalpaiguri Division",
+            "latitude": 26.88,
+            "longitude": 88.81
+        },
+        {
+            "officeName": "Batabari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Jalpaiguri Division",
+            "latitude": 26.82,
+            "longitude": 88.8
+        }
+    ]
+}

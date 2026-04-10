@@ -1,0 +1,26 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "VISAKHAPATANAM",
+    "offices": [
+        {
+            "officeName": "M.V.P.Colony S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Visakhapatnam Division",
+            "latitude": 17.7400556,
+            "longitude": 83.3382222
+        },
+        {
+            "officeName": "L B Colony S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Visakhapatnam Division",
+            "latitude": 17.7335556,
+            "longitude": 83.3389444
+        }
+    ]
+}

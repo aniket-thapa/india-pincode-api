@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "TIRUPPUR",
+    "offices": [
+        {
+            "officeName": "Eripalayam S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Pollachi Division",
+            "latitude": 10.5945556,
+            "longitude": 77.2439167
+        },
+        {
+            "officeName": "Udamalpet H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Pollachi Division",
+            "latitude": 10.5847,
+            "longitude": 77.2458
+        }
+    ]
+}

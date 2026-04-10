@@ -1,0 +1,46 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "EAST GODAVARI",
+    "offices": [
+        {
+            "officeName": "Pidimgoyya B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Rajahmundry Division",
+            "latitude": 17.0064,
+            "longitude": 81.8293
+        },
+        {
+            "officeName": "Punyakshetram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Rajahmundry Division",
+            "latitude": 16.9766,
+            "longitude": 81.8525
+        },
+        {
+            "officeName": "Satellite City B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Rajahmundry Division",
+            "latitude": 16.98166,
+            "longitude": 81.83891
+        },
+        {
+            "officeName": "Hukumpeta S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Rajahmundry Division",
+            "latitude": 16.986235,
+            "longitude": 81.8008411
+        }
+    ]
+}

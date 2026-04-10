@@ -1,0 +1,36 @@
+{
+    "state": "RAJASTHAN",
+    "district": "JODHPUR",
+    "offices": [
+        {
+            "officeName": "Jodhpur Chopasni Road SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Jodhpur Division",
+            "latitude": 26.2812778,
+            "longitude": 73.00125
+        },
+        {
+            "officeName": "Jodhpur Shastri Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Jodhpur Division",
+            "latitude": 26.2717222,
+            "longitude": 73.0036389
+        },
+        {
+            "officeName": "Pratap Nagar SO Jodhpur",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Jodhpur Division",
+            "latitude": 26.23725,
+            "longitude": 73.03045
+        }
+    ]
+}

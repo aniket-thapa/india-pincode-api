@@ -1,0 +1,66 @@
+{
+    "state": "KERALA",
+    "district": "ERNAKULAM",
+    "offices": [
+        {
+            "officeName": "Kureekad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Ernakulam Division",
+            "latitude": 9.92912999,
+            "longitude": 76.3759311
+        },
+        {
+            "officeName": "Kandanad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Ernakulam Division",
+            "latitude": 9.9149697,
+            "longitude": 76.3736748
+        },
+        {
+            "officeName": "Kadungamangalam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Ernakulam Division",
+            "latitude": 9.93613139,
+            "longitude": 76.3753196
+        },
+        {
+            "officeName": "Kokkappilly BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Ernakulam Division",
+            "latitude": 9.94374279,
+            "longitude": 76.4014256
+        },
+        {
+            "officeName": "Mamala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Ernakulam Division",
+            "latitude": 9.94890369,
+            "longitude": 76.3785909
+        },
+        {
+            "officeName": "Thiruvamkulam SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Ernakulam Division",
+            "latitude": 9.942861111,
+            "longitude": 76.37402778
+        }
+    ]
+}

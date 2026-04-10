@@ -1,0 +1,26 @@
+{
+    "state": "WEST BENGAL",
+    "district": "24 PARAGANAS NORTH",
+    "offices": [
+        {
+            "officeName": "Bangodaya SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "BARRACKPORE DIVISION",
+            "latitude": 22.7,
+            "longitude": 88.37
+        },
+        {
+            "officeName": "Panihati SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "BARRACKPORE DIVISION",
+            "latitude": 22.7,
+            "longitude": 88.37
+        }
+    ]
+}

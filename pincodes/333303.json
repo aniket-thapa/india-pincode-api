@@ -1,0 +1,46 @@
+{
+    "state": "RAJASTHAN",
+    "district": "JHUNJHUNU",
+    "offices": [
+        {
+            "officeName": "Lohargal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jhunjhunu Division",
+            "latitude": 27.670209,
+            "longitude": 75.388581
+        },
+        {
+            "officeName": "Todpura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jhunjhunu Division",
+            "latitude": 27.741125,
+            "longitude": 75.408565
+        },
+        {
+            "officeName": "Tonk Chhhilri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jhunjhunu Division",
+            "latitude": 27.759207,
+            "longitude": 75.396579
+        },
+        {
+            "officeName": "Chirana S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jhunjhunu Division",
+            "latitude": 27.72425,
+            "longitude": 75.4530278
+        }
+    ]
+}

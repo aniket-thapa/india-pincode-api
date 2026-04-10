@@ -1,0 +1,66 @@
+{
+    "state": "WEST BENGAL",
+    "district": "KOLKATA",
+    "offices": [
+        {
+            "officeName": "Ballygunge SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "South Kolkata Division",
+            "latitude": 22.5313611,
+            "longitude": 88.3652778
+        },
+        {
+            "officeName": "Golpark SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "South Kolkata Division",
+            "latitude": 22.53175,
+            "longitude": 88.3663056
+        },
+        {
+            "officeName": "Ballygunge RS SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "South Kolkata Division",
+            "latitude": 22.5216667,
+            "longitude": 88.3708333
+        },
+        {
+            "officeName": "Garcha Road SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "South Kolkata Division",
+            "latitude": 22.5263889,
+            "longitude": 88.36
+        },
+        {
+            "officeName": "Ballygunge Sc College SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "South Kolkata Division",
+            "latitude": 22.5272222,
+            "longitude": 88.3452778
+        },
+        {
+            "officeName": "Gariahat Market SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "South Kolkata Division",
+            "latitude": 22.5210278,
+            "longitude": 88.3681667
+        }
+    ]
+}

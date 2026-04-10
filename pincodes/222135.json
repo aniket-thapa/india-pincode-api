@@ -1,0 +1,56 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "JAUNPUR",
+    "offices": [
+        {
+            "officeName": "Gulzarganj SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Jaunpur Division",
+            "latitude": 25.7136667,
+            "longitude": 82.5089444
+        },
+        {
+            "officeName": "Samadhganj BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Jaunpur Division",
+            "latitude": 26.5785,
+            "longitude": 84.9657
+        },
+        {
+            "officeName": "Sieura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Jaunpur Division",
+            "latitude": 25.6214,
+            "longitude": 83.6125
+        },
+        {
+            "officeName": "Damarua BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Jaunpur Division",
+            "latitude": 26.33,
+            "longitude": 81.89
+        },
+        {
+            "officeName": "Mehandi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Jaunpur Division",
+            "latitude": 25.32,
+            "longitude": 81.26
+        }
+    ]
+}

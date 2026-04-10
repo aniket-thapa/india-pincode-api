@@ -1,0 +1,56 @@
+{
+    "state": "PUNJAB",
+    "district": "HOSHIARPUR",
+    "offices": [
+        {
+            "officeName": "Fatehpur Bhattlan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Hoshiarpur Division",
+            "latitude": 31.94,
+            "longitude": 75.13
+        },
+        {
+            "officeName": "Koi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Hoshiarpur Division",
+            "latitude": 31.8,
+            "longitude": 75.81
+        },
+        {
+            "officeName": "Bhanowal SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Hoshiarpur Division",
+            "latitude": 31.772477,
+            "longitude": 75.797047
+        },
+        {
+            "officeName": "Manhota BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Hoshiarpur Division",
+            "latitude": 31.8,
+            "longitude": 75.81
+        },
+        {
+            "officeName": "Sansarpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Hoshiarpur Division",
+            "latitude": 31.77,
+            "longitude": 75.85
+        }
+    ]
+}

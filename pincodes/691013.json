@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "KOLLAM",
+    "offices": [
+        {
+            "officeName": "Kollam Cutchery SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Quilon Division",
+            "latitude": 8.89,
+            "longitude": 76.58
+        },
+        {
+            "officeName": "Kollam Civil Station SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Quilon Division",
+            "latitude": 8.89,
+            "longitude": 76.58
+        }
+    ]
+}

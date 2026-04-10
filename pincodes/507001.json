@@ -1,0 +1,46 @@
+{
+    "state": "TELANGANA",
+    "district": "KHAMMAM",
+    "offices": [
+        {
+            "officeName": "Khammam H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Khammam Division",
+            "latitude": 17.4026389,
+            "longitude": 80.2353333
+        },
+        {
+            "officeName": "Church Road S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Khammam Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Burhanpuram S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Khammam Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Bus Station S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Khammam Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

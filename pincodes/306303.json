@@ -1,0 +1,46 @@
+{
+    "state": "RAJASTHAN",
+    "district": "PALI",
+    "offices": [
+        {
+            "officeName": "Mohrai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Pali Division",
+            "latitude": 26.203106,
+            "longitude": 73.936394
+        },
+        {
+            "officeName": "Nimaj S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Pali Division",
+            "latitude": 26.1501389,
+            "longitude": 74.00125
+        },
+        {
+            "officeName": "Asarlai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Pali Division",
+            "latitude": 26.203107,
+            "longitude": 73.936393
+        },
+        {
+            "officeName": "Sangawas B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Pali Division",
+            "latitude": 26.203108,
+            "longitude": 73.936392
+        }
+    ]
+}

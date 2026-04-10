@@ -1,0 +1,46 @@
+{
+    "state": "PUNJAB",
+    "district": "JALANDHAR",
+    "offices": [
+        {
+            "officeName": "Kang Arryan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Kapurthala Division",
+            "latitude": 31.52747,
+            "longitude": 75.8066
+        },
+        {
+            "officeName": "Partappura SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Kapurthala Division",
+            "latitude": 31.21781,
+            "longitude": 75.76939
+        },
+        {
+            "officeName": "Mehsumpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Kapurthala Division",
+            "latitude": 31.21781,
+            "longitude": 75.76939
+        },
+        {
+            "officeName": "Mau Mianwal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Kapurthala Division",
+            "latitude": 31.52747,
+            "longitude": 75.8066
+        }
+    ]
+}

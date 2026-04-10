@@ -1,0 +1,46 @@
+{
+    "state": "WEST BENGAL",
+    "district": "BIRBHUM",
+    "offices": [
+        {
+            "officeName": "Tapaspur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Birbhum Division",
+            "latitude": 23.834556,
+            "longitude": 87.462028
+        },
+        {
+            "officeName": "Chinpai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Birbhum Division",
+            "latitude": 23.834556,
+            "longitude": 87.462028
+        },
+        {
+            "officeName": "Sahapur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Birbhum Division",
+            "latitude": 23.794428,
+            "longitude": 87.495082
+        },
+        {
+            "officeName": "BkTPP SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Birbhum Division",
+            "latitude": 23.9113333,
+            "longitude": 87.5271667
+        }
+    ]
+}

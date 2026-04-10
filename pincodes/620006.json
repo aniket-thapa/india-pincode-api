@@ -1,0 +1,66 @@
+{
+    "state": "TAMIL NADU",
+    "district": "TIRUCHIRAPPALLI",
+    "offices": [
+        {
+            "officeName": "Renganagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Srirangam Division",
+            "latitude": 10.856388,
+            "longitude": 78.69
+        },
+        {
+            "officeName": "Melur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Srirangam Division",
+            "latitude": 10.87,
+            "longitude": 78.61
+        },
+        {
+            "officeName": "Srirangam H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Srirangam Division",
+            "latitude": 10.86,
+            "longitude": 78.69
+        },
+        {
+            "officeName": "Srirangam North S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Srirangam Division",
+            "latitude": 10.86,
+            "longitude": 78.69
+        },
+        {
+            "officeName": "Srirangam West S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Srirangam Division",
+            "latitude": 10.86,
+            "longitude": 78.69
+        },
+        {
+            "officeName": "Ammamandapam S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Srirangam Division",
+            "latitude": 10.8501111,
+            "longitude": 78.6897778
+        }
+    ]
+}

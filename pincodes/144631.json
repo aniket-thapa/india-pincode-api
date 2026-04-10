@@ -1,0 +1,26 @@
+{
+    "state": "PUNJAB",
+    "district": "KAPURTHALA",
+    "offices": [
+        {
+            "officeName": "Nangal Lubana SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Kapurthala Division",
+            "latitude": 31.609393,
+            "longitude": 75.471193
+        },
+        {
+            "officeName": "Miani Bhagopurian BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Kapurthala Division",
+            "latitude": 31.61683,
+            "longitude": 75.43249
+        }
+    ]
+}

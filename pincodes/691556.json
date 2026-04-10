@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "PATHANAMTHITTA",
+    "offices": [
+        {
+            "officeName": "Chayalode BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pathanamthitta Division",
+            "latitude": 9.13,
+            "longitude": 76.79
+        },
+        {
+            "officeName": "Chelikuzhy BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pathanamthitta Division",
+            "latitude": 9.1,
+            "longitude": 76.8
+        },
+        {
+            "officeName": "Nedumon SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pathanamthitta Division",
+            "latitude": 8.22,
+            "longitude": 76.03
+        }
+    ]
+}

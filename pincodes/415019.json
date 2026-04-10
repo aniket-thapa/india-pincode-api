@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "SATARA",
+    "offices": [
+        {
+            "officeName": "Kameri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Satara Division",
+            "latitude": 17.691407,
+            "longitude": 74.000932
+        },
+        {
+            "officeName": "Varne B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Satara Division",
+            "latitude": 17.5898259,
+            "longitude": 74.1095159
+        },
+        {
+            "officeName": "Angapur Vandan S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Satara Division",
+            "latitude": 17.5903611,
+            "longitude": 74.134666
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "CHAMBA",
+    "offices": [
+        {
+            "officeName": "Baggi Kanged BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamba Division",
+            "latitude": 32.62643,
+            "longitude": 75.926
+        },
+        {
+            "officeName": "Bhunad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamba Division",
+            "latitude": 32.64824,
+            "longitude": 75.91598
+        },
+        {
+            "officeName": "Samleu SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamba Division",
+            "latitude": 32.60296,
+            "longitude": 75.91439
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "KARNATAKA",
+    "district": "BENGALURU RURAL",
+    "offices": [
+        {
+            "officeName": "Channarayapatna B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Channapatna Division",
+            "latitude": 13.24,
+            "longitude": 77.78
+        },
+        {
+            "officeName": "Mandibele B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Channapatna Division",
+            "latitude": 13.27,
+            "longitude": 77.79
+        },
+        {
+            "officeName": "Narayanapura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Channapatna Division",
+            "latitude": 13.34,
+            "longitude": 77.76
+        },
+        {
+            "officeName": "Vijayapura S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Bengaluru East Division",
+            "latitude": 13.2951944,
+            "longitude": 77.8025833
+        },
+        {
+            "officeName": "Harohalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Channapatna Division",
+            "latitude": 13.31,
+            "longitude": 77.75
+        }
+    ]
+}

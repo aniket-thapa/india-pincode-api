@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "PATHANAMTHITTA",
+    "offices": [
+        {
+            "officeName": "Azhiyadathuchira SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Tiruvalla Division",
+            "latitude": 9.392006,
+            "longitude": 76.551851
+        },
+        {
+            "officeName": "Alumthuruthy BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Tiruvalla Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

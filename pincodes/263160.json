@@ -1,0 +1,36 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "UDAM SINGH NAGAR",
+    "offices": [
+        {
+            "officeName": "Dineshpur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nainital Division",
+            "latitude": 29.025,
+            "longitude": 79.1914
+        },
+        {
+            "officeName": "Majra Anand Singh BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nainital Division",
+            "latitude": 29.1472014,
+            "longitude": 79.4082864
+        },
+        {
+            "officeName": "Kalinagar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nainital Division",
+            "latitude": 29.0472093,
+            "longitude": 79.3582861
+        }
+    ]
+}

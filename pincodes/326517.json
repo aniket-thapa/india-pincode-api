@@ -1,0 +1,46 @@
+{
+    "state": "RAJASTHAN",
+    "district": "KOTA",
+    "offices": [
+        {
+            "officeName": "Morak S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Kota Division",
+            "latitude": 24.72925,
+            "longitude": 75.9745556
+        },
+        {
+            "officeName": "Kheemuch B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Kota Division",
+            "latitude": 24.71,
+            "longitude": 76.01
+        },
+        {
+            "officeName": "Kukra Khurd B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Kota Division",
+            "latitude": 24.82,
+            "longitude": 76.17
+        },
+        {
+            "officeName": "Kamalpura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Kota Division",
+            "latitude": 24.62,
+            "longitude": 76.95
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Konaseema",
+    "offices": [
+        {
+            "officeName": "Lolla B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Amalapuram Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Vadapalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Amalapuram Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Vubalanka S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Amalapuram Division",
+            "latitude": 16.77844444,
+            "longitude": 81.82466667
+        }
+    ]
+}

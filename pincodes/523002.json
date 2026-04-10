@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "PRAKASAM",
+    "offices": [
+        {
+            "officeName": "Kurnool Road (O) S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Prakasam Division",
+            "latitude": 15.51725,
+            "longitude": 80.0341389
+        },
+        {
+            "officeName": "Lawyer Pet (O) S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Prakasam Division",
+            "latitude": 15.5131667,
+            "longitude": 80.0418056
+        },
+        {
+            "officeName": "M.M.Donka (O) S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Prakasam Division",
+            "latitude": 15.5046667,
+            "longitude": 80.0333889
+        }
+    ]
+}

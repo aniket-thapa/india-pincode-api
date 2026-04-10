@@ -1,0 +1,26 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Kakinada",
+    "offices": [
+        {
+            "officeName": "Kathipudi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Kakinada Division",
+            "latitude": 17.241073,
+            "longitude": 82.329012
+        },
+        {
+            "officeName": "Vazrakutam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Kakinada Division",
+            "latitude": 17.24,
+            "longitude": 82.29
+        }
+    ]
+}

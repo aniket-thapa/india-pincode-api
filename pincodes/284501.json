@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "LALITPUR",
+    "offices": [
+        {
+            "officeName": "Deori BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Jhansi Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Rajghat Dam Project SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Jhansi Division",
+            "latitude": 25.2728,
+            "longitude": 81.3156
+        },
+        {
+            "officeName": "Lagaun BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Jhansi Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Thanwara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Jhansi Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

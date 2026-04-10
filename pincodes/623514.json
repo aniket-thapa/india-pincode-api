@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "RAMANATHAPURAM",
+    "offices": [
+        {
+            "officeName": "Devipattinam South BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Ramanathapuram Division",
+            "latitude": 9.47,
+            "longitude": 78.89
+        },
+        {
+            "officeName": "Devipattinam SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Ramanathapuram Division",
+            "latitude": 9.472083,
+            "longitude": 78.893459
+        },
+        {
+            "officeName": "Madavanur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Ramanathapuram Division",
+            "latitude": 9.5,
+            "longitude": 78.87
+        },
+        {
+            "officeName": "Devipattinam West BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Ramanathapuram Division",
+            "latitude": 9.49,
+            "longitude": 78.9
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "TELANGANA",
+    "district": "RANGA REDDY",
+    "offices": [
+        {
+            "officeName": "Vaidehinagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Hyderabad South East Division",
+            "latitude": 17.3211944,
+            "longitude": 78.5690833
+        },
+        {
+            "officeName": "Vanasthalipuram S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Hyderabad South East Division",
+            "latitude": 17.3316667,
+            "longitude": 78.5736667
+        },
+        {
+            "officeName": "Saradanagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Hyderabad South East Division",
+            "latitude": 17.30436,
+            "longitude": 78.58112
+        }
+    ]
+}

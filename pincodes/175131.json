@@ -1,0 +1,56 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "KULLU",
+    "offices": [
+        {
+            "officeName": "Bran BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Mandi Division",
+            "latitude": 32.17,
+            "longitude": 77.15
+        },
+        {
+            "officeName": "Chhiyal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Mandi Division",
+            "latitude": 32.2,
+            "longitude": 77.18
+        },
+        {
+            "officeName": "Kalath BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Mandi Division",
+            "latitude": 32.18,
+            "longitude": 77.18
+        },
+        {
+            "officeName": "Manali SO Kullu",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Mandi Division",
+            "latitude": 32.243832,
+            "longitude": 77.188322
+        },
+        {
+            "officeName": "Purani Manali BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Mandi Division",
+            "latitude": 32.24,
+            "longitude": 77.17
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "state": "PUNJAB",
+    "district": "LUDHIANA",
+    "offices": [
+        {
+            "officeName": "Bhundri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ludhiana Moffusil Division",
+            "latitude": 30.942665,
+            "longitude": 75.575702
+        },
+        {
+            "officeName": "Bharowal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ludhiana Moffusil Division",
+            "latitude": 31.394128,
+            "longitude": 75.074256
+        },
+        {
+            "officeName": "Khanjarwal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ludhiana Moffusil Division",
+            "latitude": 30.879331,
+            "longitude": 75.630265
+        },
+        {
+            "officeName": "Majri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ludhiana Moffusil Division",
+            "latitude": 21.206253,
+            "longitude": 75.287279
+        },
+        {
+            "officeName": "Talwandi Khurd BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ludhiana Moffusil Division",
+            "latitude": 30.965002,
+            "longitude": 75.786565
+        },
+        {
+            "officeName": "Sowaddi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ludhiana Moffusil Division",
+            "latitude": 30.8680861,
+            "longitude": 75.5842694
+        },
+        {
+            "officeName": "Talwandi Kalan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ludhiana Moffusil Division",
+            "latitude": 30.851961,
+            "longitude": 75.593164
+        }
+    ]
+}

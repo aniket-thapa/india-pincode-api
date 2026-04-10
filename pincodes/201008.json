@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "GAUTAM BUDDHA NAGAR",
+    "offices": [
+        {
+            "officeName": "Salarpur Kalan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Gautam Buddha Nagar Division office",
+            "latitude": 28.546328,
+            "longitude": 77.388425
+        },
+        {
+            "officeName": "Vidyut Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Gautam Buddha Nagar Division office",
+            "latitude": 23.6587,
+            "longitude": 78.95467
+        },
+        {
+            "officeName": "Bisara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Gautam Buddha Nagar Division office",
+            "latitude": 28.533516,
+            "longitude": 77.391026
+        },
+        {
+            "officeName": "Piaoli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Gautam Buddha Nagar Division office",
+            "latitude": 28.535516,
+            "longitude": 77.391026
+        }
+    ]
+}

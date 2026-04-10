@@ -1,0 +1,66 @@
+{
+    "state": "RAJASTHAN",
+    "district": "ALWAR",
+    "offices": [
+        {
+            "officeName": "Gopipura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Alwar Division",
+            "latitude": 27.826035,
+            "longitude": 76.488118
+        },
+        {
+            "officeName": "Balluwas B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Alwar Division",
+            "latitude": 27.901311,
+            "longitude": 76.551713
+        },
+        {
+            "officeName": "Sheopur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Alwar Division",
+            "latitude": 26.835652,
+            "longitude": 75.828826
+        },
+        {
+            "officeName": "Mandawar S.O (Alwar)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Alwar Division",
+            "latitude": 27.5613889,
+            "longitude": 76.6122222
+        },
+        {
+            "officeName": "Basmenpur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Alwar Division",
+            "latitude": 27.664535,
+            "longitude": 76.152015
+        },
+        {
+            "officeName": "Chandpur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Alwar Division",
+            "latitude": 27.89673,
+            "longitude": 76.505465
+        }
+    ]
+}

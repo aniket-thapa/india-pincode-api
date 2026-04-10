@@ -1,0 +1,36 @@
+{
+    "state": "ARUNACHAL PRADESH",
+    "district": "NAMSAI",
+    "offices": [
+        {
+            "officeName": "Mahadevpur S.O (Lohit)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Arunachal Pradesh Division",
+            "latitude": 27.794615,
+            "longitude": 96.40631
+        },
+        {
+            "officeName": "Podumani B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Arunachal Pradesh Division",
+            "latitude": 27.0250702,
+            "longitude": 93.9724249
+        },
+        {
+            "officeName": "Kumari Kachari B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Arunachal Pradesh Division",
+            "latitude": 27.5806075,
+            "longitude": 95.8463334
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "COIMBATORE",
+    "offices": [
+        {
+            "officeName": "Pethanaickanur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Pollachi Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Somandurai S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Pollachi Division",
+            "latitude": 10.5701,
+            "longitude": 76.9878
+        },
+        {
+            "officeName": "Ramanamudali Pudur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Pollachi Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

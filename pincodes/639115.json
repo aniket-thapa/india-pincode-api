@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "TIRUCHIRAPPALLI",
+    "offices": [
+        {
+            "officeName": "Kodiyalam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Tiruchirapalli Division",
+            "latitude": 10.8664598,
+            "longitude": 78.5832347
+        },
+        {
+            "officeName": "Sirugamani BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Tiruchirapalli Division",
+            "latitude": 10.8945558,
+            "longitude": 78.5324549
+        },
+        {
+            "officeName": "Tirupparaithurai SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Tiruchirapalli Division",
+            "latitude": 10.882631,
+            "longitude": 78.56763
+        },
+        {
+            "officeName": "Perugamani BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Tiruchirapalli Division",
+            "latitude": 10.8898655,
+            "longitude": 78.5455822
+        }
+    ]
+}

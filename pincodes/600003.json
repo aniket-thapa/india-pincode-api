@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "CHENNAI",
+    "offices": [
+        {
+            "officeName": "Park Town H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City North Division",
+            "latitude": 13.082984,
+            "longitude": 80.278813
+        },
+        {
+            "officeName": "Madras Medical College S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City North Division",
+            "latitude": 13.081266,
+            "longitude": 80.27861
+        },
+        {
+            "officeName": "Ripon Buildings S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City North Division",
+            "latitude": 13.081506,
+            "longitude": 80.27075
+        }
+    ]
+}

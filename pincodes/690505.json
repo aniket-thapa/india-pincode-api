@@ -1,0 +1,46 @@
+{
+    "state": "KERALA",
+    "district": "ALAPPUZHA",
+    "offices": [
+        {
+            "officeName": "Kannanakuzhy BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Mavelikara Division",
+            "latitude": 9.16066,
+            "longitude": 76.582684
+        },
+        {
+            "officeName": "Komallur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Mavelikara Division",
+            "latitude": 9.186415,
+            "longitude": 76.592509
+        },
+        {
+            "officeName": "Charumoodu SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Mavelikara Division",
+            "latitude": 9.174157,
+            "longitude": 76.611674
+        },
+        {
+            "officeName": "Vedaraplavu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Mavelikara Division",
+            "latitude": 9.15609,
+            "longitude": 76.606628
+        }
+    ]
+}

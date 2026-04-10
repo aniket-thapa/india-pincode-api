@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "THANE",
+    "offices": [
+        {
+            "officeName": "Jambhul B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Thane Division",
+            "latitude": 19.1895041,
+            "longitude": 73.2160674
+        },
+        {
+            "officeName": "Netaji Bazar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Thane Division",
+            "latitude": 19.2088056,
+            "longitude": 73.1945556
+        }
+    ]
+}

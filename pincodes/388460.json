@@ -1,0 +1,26 @@
+{
+    "state": "GUJARAT",
+    "district": "ANAND",
+    "offices": [
+        {
+            "officeName": "Kasor BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Kheda Division",
+            "latitude": 22.66785,
+            "longitude": 73.02535
+        },
+        {
+            "officeName": "Piplav SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Kheda Division",
+            "latitude": 22.3148,
+            "longitude": 72.4613
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "UJJAIN",
+    "offices": [
+        {
+            "officeName": "Badkummed B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Ujjain Division",
+            "latitude": 23.155862,
+            "longitude": 75.902771
+        },
+        {
+            "officeName": "Harsodhan B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Ujjain Division",
+            "latitude": 23.188172,
+            "longitude": 75.905675
+        },
+        {
+            "officeName": "Tajpur S.O (Ujjain)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Ujjain Division",
+            "latitude": 23.1809167,
+            "longitude": 75.7828611
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "MEGHALAYA",
+    "district": "EAST KHASI HILLS",
+    "offices": [
+        {
+            "officeName": "Lawsohtun B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Meghalaya Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Laban S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Meghalaya Division",
+            "latitude": 25.56430556,
+            "longitude": 91.87286111
+        },
+        {
+            "officeName": "Rilbong S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Meghalaya Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Bishnupur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Meghalaya Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

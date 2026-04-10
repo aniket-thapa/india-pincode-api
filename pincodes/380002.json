@@ -1,0 +1,36 @@
+{
+    "state": "GUJARAT",
+    "district": "AHMADABAD",
+    "offices": [
+        {
+            "officeName": "N C Market SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Ahmedabad City Division",
+            "latitude": 23.018464,
+            "longitude": 72.59878
+        },
+        {
+            "officeName": "Railwaypura SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Ahmedabad City Division",
+            "latitude": 23.082874,
+            "longitude": 72.667409
+        },
+        {
+            "officeName": "Revdibazar HO",
+            "officeType": "HO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Ahmedabad City Division",
+            "latitude": 23.028048,
+            "longitude": 72.598523
+        }
+    ]
+}

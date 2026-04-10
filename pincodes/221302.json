@@ -1,0 +1,56 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "VARANASI",
+    "offices": [
+        {
+            "officeName": "Gangapur Varanasi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Varanasi West Division",
+            "latitude": 25.3024101,
+            "longitude": 82.8790991
+        },
+        {
+            "officeName": "Harshosh BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Varanasi West Division",
+            "latitude": 25.45,
+            "longitude": 82.87
+        },
+        {
+            "officeName": "Jagatpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Varanasi West Division",
+            "latitude": 25.45,
+            "longitude": 82.87
+        },
+        {
+            "officeName": "Sajoi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Varanasi West Division",
+            "latitude": 25.45,
+            "longitude": 82.87
+        },
+        {
+            "officeName": "Sarauni BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Varanasi West Division",
+            "latitude": 25.45,
+            "longitude": 82.87
+        }
+    ]
+}

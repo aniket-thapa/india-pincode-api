@@ -1,0 +1,36 @@
+{
+    "state": "PUNJAB",
+    "district": "MOGA",
+    "offices": [
+        {
+            "officeName": "Kishan Garh BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Faridkot Division",
+            "latitude": 30.83555,
+            "longitude": 75.04759
+        },
+        {
+            "officeName": "Manoke SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Faridkot Division",
+            "latitude": 30.629905,
+            "longitude": 75.191826
+        },
+        {
+            "officeName": "Raunta BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Faridkot Division",
+            "latitude": 30.5601446,
+            "longitude": 75.1924695
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "state": "ODISHA",
+    "district": "JHARSUGUDA",
+    "offices": [
+        {
+            "officeName": "O.M.P. Line Jharsuguda S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sundargarh Division",
+            "latitude": 21.8564722,
+            "longitude": 84.0134444
+        },
+        {
+            "officeName": "VSS AIRPORT SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sundargarh Division",
+            "latitude": 21.9161,
+            "longitude": 84.0464
+        },
+        {
+            "officeName": "Durlaga B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sundargarh Division",
+            "latitude": 21.9208084,
+            "longitude": 84.0334033
+        },
+        {
+            "officeName": "Talmal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sundargarh Division",
+            "latitude": 21.9189713,
+            "longitude": 84.0764532
+        },
+        {
+            "officeName": "Talpatia B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sundargarh Division",
+            "latitude": 21.9402579,
+            "longitude": 84.0320097
+        },
+        {
+            "officeName": "Panchpara B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sundargarh Division",
+            "latitude": 21.9077509,
+            "longitude": 84.004517
+        }
+    ]
+}

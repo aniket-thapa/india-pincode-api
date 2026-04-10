@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI SUBURBAN",
+    "offices": [
+        {
+            "officeName": "Sakinaka SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North East Division",
+            "latitude": 19.103481,
+            "longitude": 72.890547
+        },
+        {
+            "officeName": "Vihar Road SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North East Division",
+            "latitude": 19.118567,
+            "longitude": 72.890134
+        }
+    ]
+}

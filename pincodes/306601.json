@@ -1,0 +1,36 @@
+{
+    "state": "RAJASTHAN",
+    "district": "PALI",
+    "offices": [
+        {
+            "officeName": "Dadai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Pali Division",
+            "latitude": 25.270969,
+            "longitude": 73.565393
+        },
+        {
+            "officeName": "Varkana B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Pali Division",
+            "latitude": 25.34635,
+            "longitude": 73.35645
+        },
+        {
+            "officeName": "Bijowa S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Pali Division",
+            "latitude": 25.35675,
+            "longitude": 73.3453056
+        }
+    ]
+}

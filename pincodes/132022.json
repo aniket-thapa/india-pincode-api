@@ -1,0 +1,36 @@
+{
+    "state": "HARYANA",
+    "district": "KARNAL",
+    "offices": [
+        {
+            "officeName": "Khirajpur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Karnal Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Kunjpura S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Karnal Division",
+            "latitude": 29.7176111,
+            "longitude": 77.0783056
+        },
+        {
+            "officeName": "Nalipar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Karnal Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

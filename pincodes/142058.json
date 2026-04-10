@@ -1,0 +1,46 @@
+{
+    "state": "PUNJAB",
+    "district": "MOGA",
+    "offices": [
+        {
+            "officeName": "Chak Kannian Kalan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Ferozpur Division",
+            "latitude": 30.79727,
+            "longitude": 75.32054
+        },
+        {
+            "officeName": "Indergarh BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Ferozpur Division",
+            "latitude": 30.9075131,
+            "longitude": 75.3104495
+        },
+        {
+            "officeName": "Kishanpura SO Moga",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Ferozpur Division",
+            "latitude": 30.933701,
+            "longitude": 75.348499
+        },
+        {
+            "officeName": "Nasirewala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Ferozpur Division",
+            "latitude": 30.8164703,
+            "longitude": 75.1716993
+        }
+    ]
+}

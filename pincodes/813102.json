@@ -1,0 +1,26 @@
+{
+    "state": "BIHAR",
+    "district": "BANKA",
+    "offices": [
+        {
+            "officeName": "Banka HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Bhagalpur Division",
+            "latitude": 24.8866944,
+            "longitude": 86.9183889
+        },
+        {
+            "officeName": "Rajpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Saharsa Division",
+            "latitude": 26.1573297,
+            "longitude": 86.7962965
+        }
+    ]
+}

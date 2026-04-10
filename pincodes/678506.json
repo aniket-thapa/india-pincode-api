@@ -1,0 +1,96 @@
+{
+    "state": "KERALA",
+    "district": "PALAKKAD",
+    "offices": [
+        {
+            "officeName": "Anamari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Palghat Division",
+            "latitude": 10.6167,
+            "longitude": 76.7
+        },
+        {
+            "officeName": "Kollengode West BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Palghat Division",
+            "latitude": 10.6167,
+            "longitude": 76.7
+        },
+        {
+            "officeName": "Nenmeni BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Palghat Division",
+            "latitude": 15.5934,
+            "longitude": 76.7
+        },
+        {
+            "officeName": "Payyalur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Palghat Division",
+            "latitude": 15.5934,
+            "longitude": 76.7
+        },
+        {
+            "officeName": "Vattekkad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Palghat Division",
+            "latitude": 15.5934,
+            "longitude": 76.0147
+        },
+        {
+            "officeName": "Kollengode SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Palghat Division",
+            "latitude": 10.642185,
+            "longitude": 76.544826
+        },
+        {
+            "officeName": "Alampallam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Palghat Division",
+            "latitude": 10.6167,
+            "longitude": 76.7
+        },
+        {
+            "officeName": "Kollengode RS BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Palghat Division",
+            "latitude": 10.6167,
+            "longitude": 76.7
+        },
+        {
+            "officeName": "Panangattiri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Palghat Division",
+            "latitude": 15.5934,
+            "longitude": 76.7
+        }
+    ]
+}

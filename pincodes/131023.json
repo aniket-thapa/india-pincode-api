@@ -1,0 +1,56 @@
+{
+    "state": "HARYANA",
+    "district": "SONIPAT",
+    "offices": [
+        {
+            "officeName": "Jakhauli SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sonepat Division",
+            "latitude": 28.93425,
+            "longitude": 77.1521389
+        },
+        {
+            "officeName": "Aterna BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sonepat Division",
+            "latitude": 29.05,
+            "longitude": 76.91
+        },
+        {
+            "officeName": "Jhundpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sonepat Division",
+            "latitude": 29.05,
+            "longitude": 76.91
+        },
+        {
+            "officeName": "Manauli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sonepat Division",
+            "latitude": 29.05,
+            "longitude": 76.91
+        },
+        {
+            "officeName": "Nangal Kalan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sonepat Division",
+            "latitude": 29.65,
+            "longitude": 76.43
+        }
+    ]
+}

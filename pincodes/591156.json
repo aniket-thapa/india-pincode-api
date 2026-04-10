@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "BELAGAVI",
+    "offices": [
+        {
+            "officeName": "Hosavantmuri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Belagavi Division",
+            "latitude": 16.03,
+            "longitude": 74.53
+        },
+        {
+            "officeName": "Bhutaramanahatti S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Belagavi Division",
+            "latitude": 15.8523889,
+            "longitude": 74.5108056
+        },
+        {
+            "officeName": "Honaga B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Belagavi Division",
+            "latitude": 15.95,
+            "longitude": 74.52
+        }
+    ]
+}

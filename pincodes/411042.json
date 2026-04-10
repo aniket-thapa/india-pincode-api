@@ -1,0 +1,56 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "PUNE",
+    "offices": [
+        {
+            "officeName": "Guruwar Peth S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune City West Division",
+            "latitude": 18.5105833,
+            "longitude": 73.8601111
+        },
+        {
+            "officeName": "Bhavani Peth S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune City West Division",
+            "latitude": 18.5099444,
+            "longitude": 73.8685556
+        },
+        {
+            "officeName": "Ghorpade Peth S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune City West Division",
+            "latitude": 18.5014167,
+            "longitude": 73.8636944
+        },
+        {
+            "officeName": "Swargate Chowk S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune City West Division",
+            "latitude": 18.5011667,
+            "longitude": 73.8588611
+        },
+        {
+            "officeName": "Swargate S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune City West Division",
+            "latitude": 18.5004722,
+            "longitude": 73.8614167
+        }
+    ]
+}

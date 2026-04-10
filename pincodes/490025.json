@@ -1,0 +1,46 @@
+{
+    "state": "CHHATTISGARH",
+    "district": "DURG",
+    "offices": [
+        {
+            "officeName": "Janjgiri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Durg Division",
+            "latitude": 21.210457,
+            "longitude": 81.386681
+        },
+        {
+            "officeName": "Urla BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Durg Division",
+            "latitude": 21.318535,
+            "longitude": 81.608601
+        },
+        {
+            "officeName": "Deobaloda BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Durg Division",
+            "latitude": 21.213475,
+            "longitude": 81.451981
+        },
+        {
+            "officeName": "Bhilai Marshalling Yard SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Durg Division",
+            "latitude": 21.20147,
+            "longitude": 81.37044
+        }
+    ]
+}

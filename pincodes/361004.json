@@ -1,0 +1,26 @@
+{
+    "state": "GUJARAT",
+    "district": "JAMNAGAR",
+    "offices": [
+        {
+            "officeName": "GIDC PHASE II",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Jamnagar Division",
+            "latitude": 22.45,
+            "longitude": 70.04
+        },
+        {
+            "officeName": "Udyognagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Jamnagar Division",
+            "latitude": 22.4603889,
+            "longitude": 70.0524444
+        }
+    ]
+}

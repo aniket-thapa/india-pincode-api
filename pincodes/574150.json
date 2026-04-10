@@ -1,0 +1,46 @@
+{
+    "state": "KARNATAKA",
+    "district": "DAKSHINA KANNADA",
+    "offices": [
+        {
+            "officeName": "Nadugodu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Mangaluru Division",
+            "latitude": 13.0431365,
+            "longitude": 74.8431474
+        },
+        {
+            "officeName": "Elathur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Mangaluru Division",
+            "latitude": 13.0845499,
+            "longitude": 74.8350364
+        },
+        {
+            "officeName": "Punaroor B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Mangaluru Division",
+            "latitude": 13.0656886,
+            "longitude": 74.8236745
+        },
+        {
+            "officeName": "Kinnigoli S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Mangaluru Division",
+            "latitude": 13.063707,
+            "longitude": 74.846922
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "KARNATAKA",
+    "district": "HASSAN",
+    "offices": [
+        {
+            "officeName": "Basavapatna S.O (Hassan)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Hassan Division",
+            "latitude": 13.0053333,
+            "longitude": 76.1000556
+        },
+        {
+            "officeName": "Belavadi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Hassan Division",
+            "latitude": 12.67,
+            "longitude": 76.14
+        },
+        {
+            "officeName": "Hangal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Hassan Division",
+            "latitude": 12.64,
+            "longitude": 76.15
+        },
+        {
+            "officeName": "Kalenahalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Hassan Division",
+            "latitude": 12.61,
+            "longitude": 76.16
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "WEST BENGAL",
+    "district": "DARJEELING",
+    "offices": [
+        {
+            "officeName": "Chowpukuria BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Darjeeling Division",
+            "latitude": 26.6753,
+            "longitude": 88.3238
+        },
+        {
+            "officeName": "Gossaipur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Darjeeling Division",
+            "latitude": 26.6753,
+            "longitude": 88.3238
+        },
+        {
+            "officeName": "Tarbandha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Darjeeling Division",
+            "latitude": 26.6753,
+            "longitude": 88.3238
+        },
+        {
+            "officeName": "Bagdogra SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Darjeeling Division",
+            "latitude": 26.6998611,
+            "longitude": 88.3139167
+        }
+    ]
+}

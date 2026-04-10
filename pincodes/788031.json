@@ -1,0 +1,36 @@
+{
+    "state": "ASSAM",
+    "district": "CACHAR",
+    "offices": [
+        {
+            "officeName": "Dumurghat B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Cachar Division",
+            "latitude": 24.88,
+            "longitude": 92.88
+        },
+        {
+            "officeName": "Thaligram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Cachar Division",
+            "latitude": 24.93,
+            "longitude": 92.95
+        },
+        {
+            "officeName": "Salganga S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Cachar Division",
+            "latitude": 24.823637,
+            "longitude": 92.801827
+        }
+    ]
+}

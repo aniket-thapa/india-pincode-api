@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "BELAGAVI",
+    "offices": [
+        {
+            "officeName": "Mandoli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Belagavi Division",
+            "latitude": 15.83,
+            "longitude": 74.46
+        },
+        {
+            "officeName": "Majagaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Belagavi Division",
+            "latitude": 15.81,
+            "longitude": 74.5
+        },
+        {
+            "officeName": "Udyambag S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Belagavi Division",
+            "latitude": 15.8147778,
+            "longitude": 74.4915
+        }
+    ]
+}

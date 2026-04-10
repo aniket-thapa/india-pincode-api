@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "PUNE",
+    "offices": [
+        {
+            "officeName": "Parvati S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune City West Division",
+            "latitude": 18.4940278,
+            "longitude": 73.8576667
+        },
+        {
+            "officeName": "Parvati Gaon S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune City West Division",
+            "latitude": 18.4966944,
+            "longitude": 73.8548611
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "state": "GUJARAT",
+    "district": "BANAS KANTHA",
+    "offices": [
+        {
+            "officeName": "Lunpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Banaskantha Division",
+            "latitude": 24.164729,
+            "longitude": 72.089096
+        },
+        {
+            "officeName": "Vasna BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Banaskantha Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Jhabadia BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Banaskantha Division",
+            "latitude": 24.126118,
+            "longitude": 72.076094
+        },
+        {
+            "officeName": "Khardosan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Banaskantha Division",
+            "latitude": 24.176786,
+            "longitude": 72.165401
+        },
+        {
+            "officeName": "Junadisa SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Banaskantha Division",
+            "latitude": 24.215735,
+            "longitude": 72.155371
+        },
+        {
+            "officeName": "Dhuva BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Banaskantha Division",
+            "latitude": 24.206057,
+            "longitude": 72.200315
+        }
+    ]
+}

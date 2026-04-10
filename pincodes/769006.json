@@ -1,0 +1,26 @@
+{
+    "state": "ODISHA",
+    "district": "SUNDARGARH",
+    "offices": [
+        {
+            "officeName": "Rourkela - 6 S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Rourkela Division",
+            "latitude": 22.2466433,
+            "longitude": 84.8819433
+        },
+        {
+            "officeName": "Sector - 2 S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Rourkela Division",
+            "latitude": 22.2518516,
+            "longitude": 84.884185
+        }
+    ]
+}

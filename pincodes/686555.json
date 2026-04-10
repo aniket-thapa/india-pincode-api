@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "KOTTAYAM",
+    "offices": [
+        {
+            "officeName": "Devagiri SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Changanacherry Division",
+            "latitude": 9.525536,
+            "longitude": 76.675683
+        },
+        {
+            "officeName": "Kanjirappara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Changanacherry Division",
+            "latitude": 9.545842,
+            "longitude": 76.672132
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "state": "RAJASTHAN",
+    "district": "DAUSA",
+    "offices": [
+        {
+            "officeName": "Ramgarh Pachwara SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur Moffusil Division",
+            "latitude": 26.62275,
+            "longitude": 76.2603333
+        },
+        {
+            "officeName": "Amrabad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur Moffusil Division",
+            "latitude": 27.161043,
+            "longitude": 76.053696
+        },
+        {
+            "officeName": "Gangliawas BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur Moffusil Division",
+            "latitude": 26.739159,
+            "longitude": 76.123605
+        },
+        {
+            "officeName": "Shyampura Kalan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur Moffusil Division",
+            "latitude": 27.161043,
+            "longitude": 76.053696
+        },
+        {
+            "officeName": "Bidarkhan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur Moffusil Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Beechha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur Moffusil Division",
+            "latitude": 26.739159,
+            "longitude": 76.123605
+        }
+    ]
+}

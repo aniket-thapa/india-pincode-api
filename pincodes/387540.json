@@ -1,0 +1,46 @@
+{
+    "state": "GUJARAT",
+    "district": "KHEDA",
+    "offices": [
+        {
+            "officeName": "Dharoda BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Kheda Division",
+            "latitude": 22.7881,
+            "longitude": 72.5382
+        },
+        {
+            "officeName": "Navagam SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Kheda Division",
+            "latitude": 22.794,
+            "longitude": 72.587017
+        },
+        {
+            "officeName": "Goblej BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Kheda Division",
+            "latitude": 23.0323441,
+            "longitude": 73.0421235
+        },
+        {
+            "officeName": "Kanera BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Kheda Division",
+            "latitude": 15.5934,
+            "longitude": 78.5681
+        }
+    ]
+}

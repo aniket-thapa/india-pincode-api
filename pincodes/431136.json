@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "AURANGABAD",
+    "offices": [
+        {
+            "officeName": "Waladgaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Chhatrapati Sambhajinagar Division",
+            "latitude": 20.4742,
+            "longitude": 75.54375
+        },
+        {
+            "officeName": "Bajaj Nagar Midc Waluj S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Chhatrapati Sambhajinagar Division",
+            "latitude": 19.839918,
+            "longitude": 75.241619
+        },
+        {
+            "officeName": "Ghanegaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Chhatrapati Sambhajinagar Division",
+            "latitude": 20.4742,
+            "longitude": 75.54375
+        }
+    ]
+}

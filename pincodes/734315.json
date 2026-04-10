@@ -1,0 +1,26 @@
+{
+    "state": "WEST BENGAL",
+    "district": "KALIMPONG",
+    "offices": [
+        {
+            "officeName": "Burmeck",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Darjeeling Division",
+            "latitude": 27.1416,
+            "longitude": 88.5632
+        },
+        {
+            "officeName": "Munsong SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Darjeeling Division",
+            "latitude": 26.11145,
+            "longitude": 88.5159
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "VELLORE",
+    "offices": [
+        {
+            "officeName": "Bakiyath S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Vellore Division",
+            "latitude": 12.9134444,
+            "longitude": 79.7633889
+        },
+        {
+            "officeName": "Vellore Fort S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Vellore Division",
+            "latitude": 12.9245278,
+            "longitude": 79.1333889
+        },
+        {
+            "officeName": "CHRISTIAN MEDICAL COLLEGE HOSPITAL S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Vellore Division",
+            "latitude": 12.9246944,
+            "longitude": 79.1353611
+        }
+    ]
+}

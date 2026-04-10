@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "THIRUVANANTHAPURAM",
+    "offices": [
+        {
+            "officeName": "Chirayinkeezhu SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Trivandrum North Division",
+            "latitude": 8.6518611,
+            "longitude": 76.7864444
+        },
+        {
+            "officeName": "Katakam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Trivandrum North Division",
+            "latitude": 8.65,
+            "longitude": 76.78
+        },
+        {
+            "officeName": "Mudapuram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Trivandrum North Division",
+            "latitude": 8.66,
+            "longitude": 76.81
+        }
+    ]
+}

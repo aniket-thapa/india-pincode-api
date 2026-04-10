@@ -1,0 +1,26 @@
+{
+    "state": "SIKKIM",
+    "district": "EAST DISTRICT",
+    "offices": [
+        {
+            "officeName": "Sichey Gaon SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sikkim Division",
+            "latitude": 27.33,
+            "longitude": 88.6
+        },
+        {
+            "officeName": "Gangtok HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sikkim Division",
+            "latitude": 27.33225,
+            "longitude": 88.6140278
+        }
+    ]
+}

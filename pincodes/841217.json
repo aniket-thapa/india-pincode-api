@@ -1,0 +1,36 @@
+{
+    "state": "BIHAR",
+    "district": "SARAN",
+    "offices": [
+        {
+            "officeName": "Dumari Bujurg BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Saran Division",
+            "latitude": 25.765499,
+            "longitude": 85.085991
+        },
+        {
+            "officeName": "Nayagaon SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Saran Division",
+            "latitude": 25.765499,
+            "longitude": 85.085991
+        },
+        {
+            "officeName": "Gopalpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Saran Division",
+            "latitude": 25.765499,
+            "longitude": 85.085991
+        }
+    ]
+}

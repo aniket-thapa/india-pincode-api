@@ -1,0 +1,46 @@
+{
+    "state": "GUJARAT",
+    "district": "KHEDA",
+    "offices": [
+        {
+            "officeName": "Bamroli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Kheda Division",
+            "latitude": 22.938,
+            "longitude": 72.905
+        },
+        {
+            "officeName": "Davda BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Kheda Division",
+            "latitude": 22.938,
+            "longitude": 72.905
+        },
+        {
+            "officeName": "Sandhana BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Kheda Division",
+            "latitude": 15.5934,
+            "longitude": 72.905
+        },
+        {
+            "officeName": "Palana SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Kheda Division",
+            "latitude": 22.7525,
+            "longitude": 72.6844722
+        }
+    ]
+}

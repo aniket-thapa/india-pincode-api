@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "24 PARAGANAS NORTH",
+    "offices": [
+        {
+            "officeName": "Jagatdal SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "BARRACKPORE DIVISION",
+            "latitude": 22.86,
+            "longitude": 88.38
+        },
+        {
+            "officeName": "Golghar SO WB Circle",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "BARRACKPORE DIVISION",
+            "latitude": 22.8534444,
+            "longitude": 88.39
+        },
+        {
+            "officeName": "Gupter Bagan SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "BARRACKPORE DIVISION",
+            "latitude": 22.86,
+            "longitude": 88.39
+        }
+    ]
+}

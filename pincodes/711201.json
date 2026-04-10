@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "HOWRAH",
+    "offices": [
+        {
+            "officeName": "Bally Goswami Rd SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Howrah Division",
+            "latitude": 22.6335805,
+            "longitude": 88.3335211
+        },
+        {
+            "officeName": "MBRoad SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Howrah Division",
+            "latitude": 22.6394444,
+            "longitude": 88.3416667
+        },
+        {
+            "officeName": "Bally SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Howrah Division",
+            "latitude": 22.6458333,
+            "longitude": 88.3505
+        }
+    ]
+}

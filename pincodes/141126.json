@@ -1,0 +1,36 @@
+{
+    "state": "PUNJAB",
+    "district": "LUDHIANA",
+    "offices": [
+        {
+            "officeName": "Panjeta BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ludhiana Moffusil Division",
+            "latitude": 30.89528,
+            "longitude": 76.084151
+        },
+        {
+            "officeName": "Sri Bhaini Sahib SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ludhiana Moffusil Division",
+            "latitude": 30.8709472,
+            "longitude": 76.0686666
+        },
+        {
+            "officeName": "Junewal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ludhiana Moffusil Division",
+            "latitude": 30.89107,
+            "longitude": 75.87729
+        }
+    ]
+}

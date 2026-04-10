@@ -1,0 +1,26 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "MANDI",
+    "offices": [
+        {
+            "officeName": "Sadhot BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Mandi Division",
+            "latitude": 31.711,
+            "longitude": 76.691
+        },
+        {
+            "officeName": "Cholthra SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Mandi Division",
+            "latitude": 31.7149444,
+            "longitude": 76.68975
+        }
+    ]
+}

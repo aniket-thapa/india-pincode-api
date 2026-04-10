@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "THRISSUR",
+    "offices": [
+        {
+            "officeName": "Irinjalakuda Mkt SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Irinjalakuda Division",
+            "latitude": 10.3497778,
+            "longitude": 76.2173056
+        },
+        {
+            "officeName": "Chelur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Irinjalakuda Division",
+            "latitude": 10.21,
+            "longitude": 76.18
+        },
+        {
+            "officeName": "Irinjalakuda HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Irinjalakuda Division",
+            "latitude": 10.3469722,
+            "longitude": 76.2076111
+        }
+    ]
+}

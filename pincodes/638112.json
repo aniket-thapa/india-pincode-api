@@ -1,0 +1,76 @@
+{
+    "state": "TAMIL NADU",
+    "district": "ERODE",
+    "offices": [
+        {
+            "officeName": "Pungambadi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Erode Division",
+            "latitude": 11.2710754,
+            "longitude": 77.6494576
+        },
+        {
+            "officeName": "Kanagapuram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Erode Division",
+            "latitude": 11.250476,
+            "longitude": 77.6831033
+        },
+        {
+            "officeName": "Vadamugam Vellode SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Erode Division",
+            "latitude": 11.234642,
+            "longitude": 77.6579776
+        },
+        {
+            "officeName": "Gnanipalayam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Erode Division",
+            "latitude": 11.2103895,
+            "longitude": 77.6393743
+        },
+        {
+            "officeName": "Kavundichipalayam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Erode Division",
+            "latitude": 11.2676422,
+            "longitude": 77.6755502
+        },
+        {
+            "officeName": "TMettupalayam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Erode Division",
+            "latitude": 11.2594024,
+            "longitude": 77.7057626
+        },
+        {
+            "officeName": "Vallipurathanpalayam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Erode Division",
+            "latitude": 11.2969546,
+            "longitude": 77.6717449
+        }
+    ]
+}

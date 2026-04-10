@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "THIRUVANANTHAPURAM",
+    "offices": [
+        {
+            "officeName": "Poojapura HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Trivandrum South Division",
+            "latitude": 8.4909012,
+            "longitude": 76.973651
+        },
+        {
+            "officeName": "Thamalam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Trivandrum South Division",
+            "latitude": 8.48271,
+            "longitude": 76.976176
+        },
+        {
+            "officeName": "Poojapura Junction SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Trivandrum South Division",
+            "latitude": 8.29353,
+            "longitude": 76.58327
+        }
+    ]
+}

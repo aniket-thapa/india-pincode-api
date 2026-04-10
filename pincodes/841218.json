@@ -1,0 +1,36 @@
+{
+    "state": "BIHAR",
+    "district": "SARAN",
+    "offices": [
+        {
+            "officeName": "Pakri Mohammadpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Saran Division",
+            "latitude": 25.912141,
+            "longitude": 84.922569
+        },
+        {
+            "officeName": "Paiga SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Saran Division",
+            "latitude": 25.912141,
+            "longitude": 84.922569
+        },
+        {
+            "officeName": "Koreya BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Saran Division",
+            "latitude": 25.912141,
+            "longitude": 84.922569
+        }
+    ]
+}

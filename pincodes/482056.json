@@ -1,0 +1,26 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "JABALPUR",
+    "offices": [
+        {
+            "officeName": "Sahajpuri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Jabalpur Division",
+            "latitude": 22.945229,
+            "longitude": 79.918239
+        },
+        {
+            "officeName": "Bargi Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Jabalpur Division",
+            "latitude": 22.911949,
+            "longitude": 79.89768
+        }
+    ]
+}

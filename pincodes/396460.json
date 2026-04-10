@@ -1,0 +1,46 @@
+{
+    "state": "GUJARAT",
+    "district": "NAVSARI",
+    "offices": [
+        {
+            "officeName": "Krishnapur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Navsari Division",
+            "latitude": 20.81,
+            "longitude": 72.87
+        },
+        {
+            "officeName": "Panar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Navsari Division",
+            "latitude": 20.82,
+            "longitude": 72.89
+        },
+        {
+            "officeName": "Chijgam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Navsari Division",
+            "latitude": 20.83,
+            "longitude": 72.88
+        },
+        {
+            "officeName": "Kanera BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Navsari Division",
+            "latitude": 20.82,
+            "longitude": 72.89
+        }
+    ]
+}

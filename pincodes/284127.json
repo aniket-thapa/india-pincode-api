@@ -1,0 +1,36 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "JHANSI",
+    "offices": [
+        {
+            "officeName": "Simraha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Jhansi Division",
+            "latitude": 25.24329,
+            "longitude": 78.57508
+        },
+        {
+            "officeName": "Bhattagaon SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Jhansi Division",
+            "latitude": 25.4265,
+            "longitude": 78.5998889
+        },
+        {
+            "officeName": "Bhagwantpura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Jhansi Division",
+            "latitude": 25.43074,
+            "longitude": 78.62427
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "PUNJAB",
+    "district": "S.A.S Nagar",
+    "offices": [
+        {
+            "officeName": "Mullanpur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chandigarh Division",
+            "latitude": 30.8009722,
+            "longitude": 76.7428611
+        },
+        {
+            "officeName": "Jayanti Devi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chandigarh Division",
+            "latitude": 30.692051,
+            "longitude": 76.69841
+        },
+        {
+            "officeName": "Rani Majra BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chandigarh Division",
+            "latitude": 30.692051,
+            "longitude": 76.69841
+        },
+        {
+            "officeName": "Parol BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chandigarh Division",
+            "latitude": 30.9666111,
+            "longitude": 76.69841
+        },
+        {
+            "officeName": "Kuda Jassu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chandigarh Division",
+            "latitude": 30.692051,
+            "longitude": 76.69841
+        }
+    ]
+}

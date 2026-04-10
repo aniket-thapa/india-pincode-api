@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "AHMEDNAGAR",
+    "offices": [
+        {
+            "officeName": "Pravaranagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Shrirampur Division",
+            "latitude": 19.569768104995507,
+            "longitude": 74.49996470980413
+        },
+        {
+            "officeName": "Lohgaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Shrirampur Division",
+            "latitude": 19.589609,
+            "longitude": 74.503481
+        },
+        {
+            "officeName": "Tisgaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Shrirampur Division",
+            "latitude": 19.5892633,
+            "longitude": 74.520092
+        }
+    ]
+}

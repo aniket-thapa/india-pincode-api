@@ -1,0 +1,26 @@
+{
+    "state": "ODISHA",
+    "district": "GANJAM",
+    "offices": [
+        {
+            "officeName": "Panigrahipentho S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Berhampur Division",
+            "latitude": 19.3203399,
+            "longitude": 84.7732049
+        },
+        {
+            "officeName": "Sankarapur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Berhampur Division",
+            "latitude": 19.320339,
+            "longitude": 84.773204
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "KARNATAKA",
+    "district": "UDUPI",
+    "offices": [
+        {
+            "officeName": "Yermal SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Udupi Division",
+            "latitude": 13.170735,
+            "longitude": 74.762661
+        },
+        {
+            "officeName": "Admar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Udupi Division",
+            "latitude": 13.1736406,
+            "longitude": 74.7763173
+        },
+        {
+            "officeName": "Kemmundel BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Udupi Division",
+            "latitude": 13.1715807,
+            "longitude": 74.7895138
+        },
+        {
+            "officeName": "Paduyermal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Udupi Division",
+            "latitude": 13.1760439,
+            "longitude": 74.7529285
+        }
+    ]
+}

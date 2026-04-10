@@ -1,0 +1,66 @@
+{
+    "state": "RAJASTHAN",
+    "district": "DHOLPUR",
+    "offices": [
+        {
+            "officeName": "Angai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dholpur Division",
+            "latitude": 26.603453,
+            "longitude": 77.471631
+        },
+        {
+            "officeName": "Chilachond BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dholpur Division",
+            "latitude": 26.609928,
+            "longitude": 77.501364
+        },
+        {
+            "officeName": "Sanora BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dholpur Division",
+            "latitude": 26.627984,
+            "longitude": 77.53305
+        },
+        {
+            "officeName": "Lilothi Jhala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dholpur Division",
+            "latitude": 26.620422,
+            "longitude": 77.434339
+        },
+        {
+            "officeName": "Rahrai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dholpur Division",
+            "latitude": 26.571094,
+            "longitude": 77.450118
+        },
+        {
+            "officeName": "Barauli SO Dholpur",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dholpur Division",
+            "latitude": 26.6926111,
+            "longitude": 77.8993611
+        }
+    ]
+}

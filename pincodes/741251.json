@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "NADIA",
+    "offices": [
+        {
+            "officeName": "Majerchar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Nadia South Division",
+            "latitude": 22.984368,
+            "longitude": 88.413728
+        },
+        {
+            "officeName": "Netajisubhas Sanatorium SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Nadia South Division",
+            "latitude": 22.6368611,
+            "longitude": 88.4687833
+        },
+        {
+            "officeName": "Charsarhati BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Nadia South Division",
+            "latitude": 23.01349,
+            "longitude": 88.440445
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "RAJASTHAN",
+    "district": "KARAULI",
+    "offices": [
+        {
+            "officeName": "Badagaon BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sawaimadhopur Division",
+            "latitude": 28.873728,
+            "longitude": 77.333878
+        },
+        {
+            "officeName": "Kemri SO Karauli",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sawaimadhopur Division",
+            "latitude": 26.7386111,
+            "longitude": 77.0303056
+        },
+        {
+            "officeName": "Mohanpura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sawaimadhopur Division",
+            "latitude": 26.773905,
+            "longitude": 76.758777
+        },
+        {
+            "officeName": "Bhilapada BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sawaimadhopur Division",
+            "latitude": 26.741522,
+            "longitude": 76.734585
+        },
+        {
+            "officeName": "Tesgaon BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sawaimadhopur Division",
+            "latitude": 26.720484,
+            "longitude": 76.774048
+        }
+    ]
+}

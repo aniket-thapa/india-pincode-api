@@ -1,0 +1,46 @@
+{
+    "state": "GUJARAT",
+    "district": "KACHCHH",
+    "offices": [
+        {
+            "officeName": "Bharapar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Kutch Division",
+            "latitude": 23.098725,
+            "longitude": 69.61103
+        },
+        {
+            "officeName": "Vadzar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Kutch Division",
+            "latitude": 23.076392,
+            "longitude": 69.675894
+        },
+        {
+            "officeName": "Tb Sanatorium BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Kutch Division",
+            "latitude": 23.164998,
+            "longitude": 69.636485
+        },
+        {
+            "officeName": "Baladia SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Kutch Division",
+            "latitude": 23.12785,
+            "longitude": 69.646248
+        }
+    ]
+}

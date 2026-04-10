@@ -1,0 +1,26 @@
+{
+    "state": "PUNJAB",
+    "district": "RUPNAGAR",
+    "offices": [
+        {
+            "officeName": "Kiratpur Sahib SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chandigarh Division",
+            "latitude": 31.1848333,
+            "longitude": 76.5674722
+        },
+        {
+            "officeName": "Massewal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chandigarh Division",
+            "latitude": 30.3876944,
+            "longitude": 76.5883888
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "BILASPUR",
+    "offices": [
+        {
+            "officeName": "Malyaur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hamirpur Division",
+            "latitude": 31.3913,
+            "longitude": 76.7552
+        },
+        {
+            "officeName": "Kandraur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hamirpur Division",
+            "latitude": 31.3913,
+            "longitude": 76.7552
+        },
+        {
+            "officeName": "Rohin BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hamirpur Division",
+            "latitude": 31.4167,
+            "longitude": 76.7486
+        },
+        {
+            "officeName": "Bhater Nichli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hamirpur Division",
+            "latitude": 31.3335,
+            "longitude": 76.5401
+        },
+        {
+            "officeName": "Chandpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hamirpur Division",
+            "latitude": 31.371,
+            "longitude": 76.7495
+        },
+        {
+            "officeName": "Panoh BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hamirpur Division",
+            "latitude": 31.4103,
+            "longitude": 76.7495
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "GUJARAT",
+    "district": "VADODARA",
+    "offices": [
+        {
+            "officeName": "Pratapnagar SO Vadodara",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Vadodara East Division",
+            "latitude": 22.3035833,
+            "longitude": 73.1976944
+        },
+        {
+            "officeName": "Danteshwar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Vadodara East Division",
+            "latitude": 22.3143,
+            "longitude": 73.1802
+        },
+        {
+            "officeName": "Kelanpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Vadodara East Division",
+            "latitude": 15.5934,
+            "longitude": 73.1802
+        },
+        {
+            "officeName": "Kapurai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Vadodara East Division",
+            "latitude": 15.5934,
+            "longitude": 73.1802
+        },
+        {
+            "officeName": "Tatarpura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Vadodara East Division",
+            "latitude": 15.5934,
+            "longitude": 73.1802
+        }
+    ]
+}

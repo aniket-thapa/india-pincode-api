@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "CHANDRAPUR",
+    "offices": [
+        {
+            "officeName": "Nandgaon Podey B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Chandrapur Division",
+            "latitude": 19.8857423,
+            "longitude": 79.309937
+        },
+        {
+            "officeName": "SHIVANI CHOR B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Chandrapur Division",
+            "latitude": 19.87,
+            "longitude": 79.26
+        },
+        {
+            "officeName": "H.L.C. S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Chandrapur Division",
+            "latitude": 19.9598333,
+            "longitude": 79.3127222
+        }
+    ]
+}

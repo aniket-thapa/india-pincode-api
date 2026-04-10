@@ -1,0 +1,66 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "INDORE",
+    "offices": [
+        {
+            "officeName": "Radio Colony Indore S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Indore City Division",
+            "latitude": 22.7094722,
+            "longitude": 75.8920556
+        },
+        {
+            "officeName": "Indore G.P.O.",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Indore City Division",
+            "latitude": 22.7078056,
+            "longitude": 75.8791667
+        },
+        {
+            "officeName": "Indore Uchchanyayalay S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Indore City Division",
+            "latitude": 22.7191667,
+            "longitude": 75.8731111
+        },
+        {
+            "officeName": "Indore Takshashila S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Indore City Division",
+            "latitude": 22.718,
+            "longitude": 75.833
+        },
+        {
+            "officeName": "Indore Manorama Ganj S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Indore City Division",
+            "latitude": 22.7187778,
+            "longitude": 75.8882222
+        },
+        {
+            "officeName": "Indore Tukoganj S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Indore City Division",
+            "latitude": 21.71825,
+            "longitude": 75.87125
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "ODISHA",
+    "district": "DHENKANAL",
+    "offices": [
+        {
+            "officeName": "Barihapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Dhenkanal Division",
+            "latitude": 21.035391,
+            "longitude": 85.000043
+        },
+        {
+            "officeName": "Gopalprasad S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Dhenkanal Division",
+            "latitude": 20.973939,
+            "longitude": 85.041435
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "KANNUR",
+    "offices": [
+        {
+            "officeName": "Kottila BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Cannanore Division",
+            "latitude": 12.0521587,
+            "longitude": 75.3158204
+        },
+        {
+            "officeName": "Ezhome SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Cannanore Division",
+            "latitude": 12.041767,
+            "longitude": 75.356861
+        }
+    ]
+}

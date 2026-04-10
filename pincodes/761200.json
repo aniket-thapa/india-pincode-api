@@ -1,0 +1,56 @@
+{
+    "state": "ODISHA",
+    "district": "GAJAPATI",
+    "offices": [
+        {
+            "officeName": "Jangam Street",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Rayagada Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Hospital Road S.O Gajapati",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Rayagada Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Parlakhemundi H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Rayagada Division",
+            "latitude": 18.779149,
+            "longitude": 84.082815
+        },
+        {
+            "officeName": "Chitrakar Street S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Rayagada Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Paralakhemundi Bus Stand S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Rayagada Division",
+            "latitude": 18.7774511,
+            "longitude": 84.09369
+        }
+    ]
+}

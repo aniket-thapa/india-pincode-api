@@ -1,0 +1,56 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "AGRA",
+    "offices": [
+        {
+            "officeName": "Agra University SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Agra Division",
+            "latitude": 27.1987222,
+            "longitude": 78.0147778
+        },
+        {
+            "officeName": "JOHNS MILLS SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Agra Division",
+            "latitude": 27.1976175,
+            "longitude": 78.0251276
+        },
+        {
+            "officeName": "GG Industries",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Agra Division",
+            "latitude": 27.0,
+            "longitude": 78.0
+        },
+        {
+            "officeName": "KAMLA NAGAR SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Agra Division",
+            "latitude": 27.2122807,
+            "longitude": 78.0164008
+        },
+        {
+            "officeName": "TAJ NAGRI",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Agra Division",
+            "latitude": 27.0,
+            "longitude": 78.0
+        }
+    ]
+}

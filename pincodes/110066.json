@@ -1,0 +1,26 @@
+{
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "offices": [
+        {
+            "officeName": "R K Puram West SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South West Division",
+            "latitude": 28.5653056,
+            "longitude": 77.17975
+        },
+        {
+            "officeName": "R K Puram Main SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South West Division",
+            "latitude": 28.567136,
+            "longitude": 77.185239
+        }
+    ]
+}

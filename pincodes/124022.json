@@ -1,0 +1,36 @@
+{
+    "state": "HARYANA",
+    "district": "ROHTAK",
+    "offices": [
+        {
+            "officeName": "Basana BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rohtak Division",
+            "latitude": 28.671593,
+            "longitude": 76.748085
+        },
+        {
+            "officeName": "Mokhra SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rohtak Division",
+            "latitude": 28.8876389,
+            "longitude": 76.4276667
+        },
+        {
+            "officeName": "Bahu Akbarpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rohtak Division",
+            "latitude": 28.671593,
+            "longitude": 76.748085
+        }
+    ]
+}

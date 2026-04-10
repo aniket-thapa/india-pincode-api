@@ -1,0 +1,26 @@
+{
+    "state": "PUNJAB",
+    "district": "JALANDHAR",
+    "offices": [
+        {
+            "officeName": "Daroli Kalan SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Jalandhar Division",
+            "latitude": 31.40638979,
+            "longitude": 75.75481349
+        },
+        {
+            "officeName": "Daroli Khurd BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Jalandhar Division",
+            "latitude": 31.4031,
+            "longitude": 75.756
+        }
+    ]
+}

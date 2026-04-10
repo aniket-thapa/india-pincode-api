@@ -1,0 +1,36 @@
+{
+    "state": "PUNJAB",
+    "district": "HOSHIARPUR",
+    "offices": [
+        {
+            "officeName": "Khanpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Hoshiarpur Division",
+            "latitude": 31.45,
+            "longitude": 75.48
+        },
+        {
+            "officeName": "Mundian Jattan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Hoshiarpur Division",
+            "latitude": 31.45,
+            "longitude": 75.42
+        },
+        {
+            "officeName": "Nandachaur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Hoshiarpur Division",
+            "latitude": 31.566037,
+            "longitude": 75.751525
+        }
+    ]
+}

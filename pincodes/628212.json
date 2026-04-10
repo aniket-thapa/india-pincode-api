@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "TUTICORIN",
+    "offices": [
+        {
+            "officeName": "Panickanadarkudiyiruppu S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Tuticorin Division",
+            "latitude": 8.5785556,
+            "longitude": 78.0353056
+        },
+        {
+            "officeName": "Viramanickam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Tuticorin Division",
+            "latitude": 8.577041,
+            "longitude": 78.05371
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "PUNE",
+    "offices": [
+        {
+            "officeName": "Kondhwa KH B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune City East Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Kondhwa BK B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune City East Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Kondhwa Lh B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune City East Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "N I B M S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune City East Division",
+            "latitude": 18.476484,
+            "longitude": 73.897409
+        }
+    ]
+}

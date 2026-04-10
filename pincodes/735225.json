@@ -1,0 +1,46 @@
+{
+    "state": "WEST BENGAL",
+    "district": "JALPAIGURI",
+    "offices": [
+        {
+            "officeName": "Sulkapara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Jalpaiguri Division",
+            "latitude": 26.85,
+            "longitude": 88.91
+        },
+        {
+            "officeName": "Champaguri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Jalpaiguri Division",
+            "latitude": 26.92,
+            "longitude": 88.92
+        },
+        {
+            "officeName": "Jiti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Jalpaiguri Division",
+            "latitude": 26.93,
+            "longitude": 88.93
+        },
+        {
+            "officeName": "Nagrakata SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Jalpaiguri Division",
+            "latitude": 26.98,
+            "longitude": 88.92
+        }
+    ]
+}

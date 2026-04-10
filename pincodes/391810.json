@@ -1,0 +1,56 @@
+{
+    "state": "GUJARAT",
+    "district": "BHARUCH",
+    "offices": [
+        {
+            "officeName": "Kareli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bharuch Division",
+            "latitude": 22.19971,
+            "longitude": 72.866725
+        },
+        {
+            "officeName": "Vedach BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bharuch Division",
+            "latitude": 22.154021,
+            "longitude": 72.845476
+        },
+        {
+            "officeName": "Kahanva BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bharuch Division",
+            "latitude": 22.178017,
+            "longitude": 72.907451
+        },
+        {
+            "officeName": "Piludra BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bharuch Division",
+            "latitude": 22.168577,
+            "longitude": 72.852179
+        },
+        {
+            "officeName": "Gajera SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bharuch Division",
+            "latitude": 22.126507,
+            "longitude": 72.857391
+        }
+    ]
+}

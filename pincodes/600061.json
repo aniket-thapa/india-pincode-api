@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "CHENNAI",
+    "offices": [
+        {
+            "officeName": "Pazhavanthangal S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City South Division",
+            "latitude": 12.9965833,
+            "longitude": 80.1990278
+        },
+        {
+            "officeName": "Nanganallur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City South Division",
+            "latitude": 13.6348889,
+            "longitude": 80.3180556
+        }
+    ]
+}

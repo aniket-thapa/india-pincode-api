@@ -1,0 +1,46 @@
+{
+    "state": "RAJASTHAN",
+    "district": "JHUNJHUNU",
+    "offices": [
+        {
+            "officeName": "Deoroad B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jhunjhunu Division",
+            "latitude": 28.306655,
+            "longitude": 75.63071
+        },
+        {
+            "officeName": "Narhar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jhunjhunu Division",
+            "latitude": 28.2973611,
+            "longitude": 75.6001111
+        },
+        {
+            "officeName": "Badangarh B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jhunjhunu Division",
+            "latitude": 28.29154,
+            "longitude": 75.559985
+        },
+        {
+            "officeName": "Kherala B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jhunjhunu Division",
+            "latitude": 28.339899,
+            "longitude": 75.602901
+        }
+    ]
+}

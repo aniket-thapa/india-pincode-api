@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "TIRUNELVELI",
+    "offices": [
+        {
+            "officeName": "Kodaiseri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Tirunelveli Division",
+            "latitude": 8.468636,
+            "longitude": 77.608172
+        },
+        {
+            "officeName": "Tiruvengadanathapuram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Tirunelveli Division",
+            "latitude": 8.444069,
+            "longitude": 77.631442
+        },
+        {
+            "officeName": "Eruvadi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Tirunelveli Division",
+            "latitude": 8.4393889,
+            "longitude": 77.6061944
+        }
+    ]
+}

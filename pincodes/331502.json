@@ -1,0 +1,46 @@
+{
+    "state": "RAJASTHAN",
+    "district": "CHURU",
+    "offices": [
+        {
+            "officeName": "Dewani B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Churu Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Chhapar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Churu Division",
+            "latitude": 27.8160278,
+            "longitude": 74.4364722
+        },
+        {
+            "officeName": "Chuhas",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Churu Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Neemri Charnan",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Churu Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

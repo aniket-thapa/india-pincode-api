@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "TIRUNELVELI",
+    "offices": [
+        {
+            "officeName": "Pettaikulam SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Tirunelveli Division",
+            "latitude": 8.3123056,
+            "longitude": 77.8285556
+        },
+        {
+            "officeName": "Anaikkarai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Tirunelveli Division",
+            "latitude": 8.333227,
+            "longitude": 77.796501
+        },
+        {
+            "officeName": "Urumankulam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Tirunelveli Division",
+            "latitude": 8.304604,
+            "longitude": 77.813098
+        }
+    ]
+}

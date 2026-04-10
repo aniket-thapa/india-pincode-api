@@ -1,0 +1,66 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "BHOPAL",
+    "offices": [
+        {
+            "officeName": "Raj Bhawan S.O (Bhopal)",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhopal Division",
+            "latitude": 23.23342,
+            "longitude": 77.42
+        },
+        {
+            "officeName": "Tulsi Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhopal Division",
+            "latitude": 23.2260278,
+            "longitude": 77.4088611
+        },
+        {
+            "officeName": "Shastri Nagar S.O (Bhopal)",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhopal Division",
+            "latitude": 23.23,
+            "longitude": 77.38
+        },
+        {
+            "officeName": "C.T.T.Nagar H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhopal Division",
+            "latitude": 23.2341667,
+            "longitude": 77.3991667
+        },
+        {
+            "officeName": "Kamla Nagar S.O (Bhopal)",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhopal Division",
+            "latitude": 23.21,
+            "longitude": 77.39
+        },
+        {
+            "officeName": "M.A.C.T. S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhopal Division",
+            "latitude": 23.2171944,
+            "longitude": 77.4060278
+        }
+    ]
+}

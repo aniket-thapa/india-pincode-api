@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "THANE",
+    "offices": [
+        {
+            "officeName": "Kasarvadavali S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Thane Division",
+            "latitude": 19.2722778,
+            "longitude": 72.9616944
+        },
+        {
+            "officeName": "Ghodbunder Road",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Thane Division",
+            "latitude": 19.268955,
+            "longitude": 72.954527
+        }
+    ]
+}

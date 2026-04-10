@@ -1,0 +1,36 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "FARRUKHABAD",
+    "offices": [
+        {
+            "officeName": "Bhojpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Fatehgarh Division",
+            "latitude": 27.320815,
+            "longitude": 79.622137
+        },
+        {
+            "officeName": "Sitauli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Fatehgarh Division",
+            "latitude": 27.320815,
+            "longitude": 79.622137
+        },
+        {
+            "officeName": "Yaqutganj SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Fatehgarh Division",
+            "latitude": 27.3268611,
+            "longitude": 79.6138056
+        }
+    ]
+}

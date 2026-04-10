@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Bapatla",
+    "offices": [
+        {
+            "officeName": "Santha Bazar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Prakasam Division",
+            "latitude": 15.8166944,
+            "longitude": 80.35
+        },
+        {
+            "officeName": "Chirala H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Prakasam Division",
+            "latitude": 15.8291667,
+            "longitude": 80.352
+        },
+        {
+            "officeName": "Bosenagar S.O (Prakasam)",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Prakasam Division",
+            "latitude": 15.818924,
+            "longitude": 80.347156
+        }
+    ]
+}

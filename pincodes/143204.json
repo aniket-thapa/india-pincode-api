@@ -1,0 +1,36 @@
+{
+    "state": "PUNJAB",
+    "district": "AMRITSAR",
+    "offices": [
+        {
+            "officeName": "Bal Sarai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.56,
+            "longitude": 75.32
+        },
+        {
+            "officeName": "DBJSingh SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.54,
+            "longitude": 75.32
+        },
+        {
+            "officeName": "Jodhe BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.57,
+            "longitude": 75.33
+        }
+    ]
+}

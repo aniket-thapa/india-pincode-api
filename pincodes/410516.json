@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "PUNE",
+    "offices": [
+        {
+            "officeName": "Gangapur KH B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune Moffusil Division",
+            "latitude": 19.07585,
+            "longitude": 73.7806
+        },
+        {
+            "officeName": "Shinoli S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune Moffusil Division",
+            "latitude": 19.075301,
+            "longitude": 73.781432
+        }
+    ]
+}

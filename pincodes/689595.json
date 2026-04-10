@@ -1,0 +1,56 @@
+{
+    "state": "KERALA",
+    "district": "ALAPPUZHA",
+    "offices": [
+        {
+            "officeName": "Mithrakary BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Tiruvalla Division",
+            "latitude": 9.412275,
+            "longitude": 76.470768
+        },
+        {
+            "officeName": "Kodupunna BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Tiruvalla Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Vezhapra BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Tiruvalla Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Urukari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Tiruvalla Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Ramankary SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Tiruvalla Division",
+            "latitude": 9.97,
+            "longitude": 76.95
+        }
+    ]
+}

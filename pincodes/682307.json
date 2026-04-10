@@ -1,0 +1,46 @@
+{
+    "state": "KERALA",
+    "district": "ERNAKULAM",
+    "offices": [
+        {
+            "officeName": "Nadakkavu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Ernakulam Division",
+            "latitude": 9.8864564,
+            "longitude": 76.374006
+        },
+        {
+            "officeName": "Udayamperoor SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Ernakulam Division",
+            "latitude": 9.751805556,
+            "longitude": 76.55116667
+        },
+        {
+            "officeName": "Poothotta BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Ernakulam Division",
+            "latitude": 9.853968,
+            "longitude": 76.38434
+        },
+        {
+            "officeName": "South Paravoor BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Ernakulam Division",
+            "latitude": 9.8634431,
+            "longitude": 76.3821203
+        }
+    ]
+}

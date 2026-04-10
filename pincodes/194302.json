@@ -1,0 +1,66 @@
+{
+    "state": "LADAKH",
+    "district": "KARGIL",
+    "offices": [
+        {
+            "officeName": "Padum S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Leh Division",
+            "latitude": 34.553506,
+            "longitude": 76.135043
+        },
+        {
+            "officeName": "Karsha B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Leh Division",
+            "latitude": 33.5319456,
+            "longitude": 76.9041612
+        },
+        {
+            "officeName": "CHA-LUNGNAK B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Leh Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "ABRAN B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Leh Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Zangla B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Leh Division",
+            "latitude": 33.67,
+            "longitude": 76.8849
+        },
+        {
+            "officeName": "AKSHOW B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Leh Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

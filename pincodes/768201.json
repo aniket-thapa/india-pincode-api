@@ -1,0 +1,36 @@
+{
+    "state": "ODISHA",
+    "district": "JHARSUGUDA",
+    "offices": [
+        {
+            "officeName": "Sarbahal S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sundargarh Division",
+            "latitude": 21.8408271,
+            "longitude": 84.0111965
+        },
+        {
+            "officeName": "Sr Jharsuguda S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sundargarh Division",
+            "latitude": 21.86752778,
+            "longitude": 84.02755556
+        },
+        {
+            "officeName": "Jharsuguda H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sundargarh Division",
+            "latitude": 21.85647222,
+            "longitude": 84.01344444
+        }
+    ]
+}

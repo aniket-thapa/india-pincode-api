@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "NAGPUR",
+    "offices": [
+        {
+            "officeName": "Vishwakarma Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur City Division",
+            "latitude": 21.12155556,
+            "longitude": 79.10066667
+        },
+        {
+            "officeName": "Parvati Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur City Division",
+            "latitude": 21.111602,
+            "longitude": 79.09416
+        }
+    ]
+}

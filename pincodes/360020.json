@@ -1,0 +1,56 @@
+{
+    "state": "GUJARAT",
+    "district": "RAJKOT",
+    "offices": [
+        {
+            "officeName": "Padasan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Rajkot Division",
+            "latitude": 22.1822257,
+            "longitude": 70.9208993
+        },
+        {
+            "officeName": "Samadhiyala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Rajkot Division",
+            "latitude": 22.187041,
+            "longitude": 70.9478893
+        },
+        {
+            "officeName": "Kasturbadham SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Rajkot Division",
+            "latitude": 22.2269444,
+            "longitude": 70.9098056
+        },
+        {
+            "officeName": "Gadhaka BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Rajkot Division",
+            "latitude": 22.256355,
+            "longitude": 70.9541373
+        },
+        {
+            "officeName": "Vadali BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Rajkot Division",
+            "latitude": 22.2097214,
+            "longitude": 70.8945714
+        }
+    ]
+}

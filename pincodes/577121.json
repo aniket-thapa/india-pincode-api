@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "CHIKKAMAGALURU",
+    "offices": [
+        {
+            "officeName": "Hemmakki B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Chikkamagaluru Division",
+            "latitude": 13.2321153,
+            "longitude": 75.4354743
+        },
+        {
+            "officeName": "Sunkasale B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Chikkamagaluru Division",
+            "latitude": 13.1580864,
+            "longitude": 75.446922
+        },
+        {
+            "officeName": "Hirebyle S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Chikkamagaluru Division",
+            "latitude": 13.1982873,
+            "longitude": 75.4113022
+        }
+    ]
+}

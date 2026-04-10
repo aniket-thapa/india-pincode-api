@@ -1,0 +1,56 @@
+{
+    "state": "TAMIL NADU",
+    "district": "THANJAVUR",
+    "offices": [
+        {
+            "officeName": "Uthamadhanapuram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Thanjavur Division",
+            "latitude": 10.92,
+            "longitude": 79.28
+        },
+        {
+            "officeName": "Papanasam Public Office S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Thanjavur Division",
+            "latitude": 10.93,
+            "longitude": 79.27
+        },
+        {
+            "officeName": "Papanasam West B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Thanjavur Division",
+            "latitude": 10.92,
+            "longitude": 79.26
+        },
+        {
+            "officeName": "Papanasam H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Thanjavur Division",
+            "latitude": 10.9226667,
+            "longitude": 79.2671389
+        },
+        {
+            "officeName": "Papanasam Bazaar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Thanjavur Division",
+            "latitude": 10.92648,
+            "longitude": 79.265649
+        }
+    ]
+}

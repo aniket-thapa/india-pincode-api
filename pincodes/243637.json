@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "BUDAUN",
+    "offices": [
+        {
+            "officeName": "Mohammad Ganj BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Budaun Division",
+            "latitude": 28.2710877,
+            "longitude": 79.2662575
+        },
+        {
+            "officeName": "Kakrala SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Budaun Division",
+            "latitude": 27.89361,
+            "longitude": 79.195
+        },
+        {
+            "officeName": "Gudhana BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Budaun Division",
+            "latitude": 27.8819569,
+            "longitude": 79.2179918
+        },
+        {
+            "officeName": "Katiyan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Budaun Division",
+            "latitude": 27.8910378,
+            "longitude": 79.2310172
+        }
+    ]
+}

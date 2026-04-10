@@ -1,0 +1,56 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "NASHIK",
+    "offices": [
+        {
+            "officeName": "Mahalpatane B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Malegaon Division",
+            "latitude": 20.54955,
+            "longitude": 74.3252
+        },
+        {
+            "officeName": "Shemli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Malegaon Division",
+            "latitude": 20.590527,
+            "longitude": 74.198717
+        },
+        {
+            "officeName": "Dhandri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Malegaon Division",
+            "latitude": 20.590528,
+            "longitude": 74.198716
+        },
+        {
+            "officeName": "Lakhamapur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Malegaon Division",
+            "latitude": 20.554431,
+            "longitude": 74.512024
+        },
+        {
+            "officeName": "Brahmangaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Malegaon Division",
+            "latitude": 20.5532143,
+            "longitude": 74.2956765
+        }
+    ]
+}

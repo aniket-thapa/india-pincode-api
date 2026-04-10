@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "24 PARAGANAS NORTH",
+    "offices": [
+        {
+            "officeName": "Patipukur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata East Division",
+            "latitude": 22.3628602,
+            "longitude": 88.2356864
+        },
+        {
+            "officeName": "Sadhana Ausudhalaya Road SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata East Division",
+            "latitude": 22.3551781,
+            "longitude": 88.2358966
+        },
+        {
+            "officeName": "Sreebhumi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata East Division",
+            "latitude": 22.6013527,
+            "longitude": 88.402398
+        }
+    ]
+}

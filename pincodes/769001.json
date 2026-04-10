@@ -1,0 +1,36 @@
+{
+    "state": "ODISHA",
+    "district": "SUNDARGARH",
+    "offices": [
+        {
+            "officeName": "Rourkela H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Rourkela Division",
+            "latitude": 22.2277,
+            "longitude": 84.863
+        },
+        {
+            "officeName": "Bisra Road S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Rourkela Division",
+            "latitude": 22.2248216,
+            "longitude": 84.8641833
+        },
+        {
+            "officeName": "Daily Market S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Rourkela Division",
+            "latitude": 22.2240583,
+            "longitude": 84.855575
+        }
+    ]
+}

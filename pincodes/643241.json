@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "THE NILGIRIS",
+    "offices": [
+        {
+            "officeName": "Uppatti S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Nilgiris Division",
+            "latitude": 11.34945,
+            "longitude": 76.802858
+        },
+        {
+            "officeName": "Kunnalady B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Nilgiris Division",
+            "latitude": 11.538277,
+            "longitude": 76.385087
+        },
+        {
+            "officeName": "Athikunna B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Nilgiris Division",
+            "latitude": 11.492393,
+            "longitude": 76.379528
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Bapatla",
+    "offices": [
+        {
+            "officeName": "Gandhinagar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Prakasam Division",
+            "latitude": 15.826206,
+            "longitude": 80.344983
+        },
+        {
+            "officeName": "Jandrapet S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Prakasam Division",
+            "latitude": 15.8098333,
+            "longitude": 80.3341389
+        },
+        {
+            "officeName": "Pathachirala B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Prakasam Division",
+            "latitude": 15.812755,
+            "longitude": 80.332277
+        }
+    ]
+}

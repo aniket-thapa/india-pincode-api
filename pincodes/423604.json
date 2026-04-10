@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "AHMEDNAGAR",
+    "offices": [
+        {
+            "officeName": "Manjur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Shrirampur Division",
+            "latitude": 19.940759,
+            "longitude": 74.297154
+        },
+        {
+            "officeName": "Chasnali S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Shrirampur Division",
+            "latitude": 19.947882980686405,
+            "longitude": 74.29160495142149
+        },
+        {
+            "officeName": "Karwadi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Shrirampur Division",
+            "latitude": 19.877592,
+            "longitude": 74.270751
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "BIHAR",
+    "district": "NAWADA",
+    "offices": [
+        {
+            "officeName": "Barasolapur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Nawadha Division",
+            "latitude": 24.840679,
+            "longitude": 85.465938
+        },
+        {
+            "officeName": "Dharhara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Nawadha Division",
+            "latitude": 24.840679,
+            "longitude": 85.465938
+        },
+        {
+            "officeName": "Dhanar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Nawadha Division",
+            "latitude": 24.840679,
+            "longitude": 85.465938
+        },
+        {
+            "officeName": "Dhamul SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Nawadha Division",
+            "latitude": 24.833,
+            "longitude": 85.533
+        }
+    ]
+}

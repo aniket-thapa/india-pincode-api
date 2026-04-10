@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "BANKURA",
+    "offices": [
+        {
+            "officeName": "Pachhandapur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Bankura Division",
+            "latitude": 23.5855,
+            "longitude": 86.93447
+        },
+        {
+            "officeName": "Tiluri SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Bankura Division",
+            "latitude": 23.67611,
+            "longitude": 86.97417
+        },
+        {
+            "officeName": "Bamuntore BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Bankura Division",
+            "latitude": 23.5227509,
+            "longitude": 86.9354843
+        }
+    ]
+}

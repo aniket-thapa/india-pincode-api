@@ -1,0 +1,26 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "BAREILLY",
+    "offices": [
+        {
+            "officeName": "DOHRIYA BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Bareilly Division",
+            "latitude": 28.5643,
+            "longitude": 79.4508
+        },
+        {
+            "officeName": "Bhuta",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Bareilly Division",
+            "latitude": 28.3144061,
+            "longitude": 79.5824772
+        }
+    ]
+}

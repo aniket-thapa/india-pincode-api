@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "RAIGAD",
+    "offices": [
+        {
+            "officeName": "Pipenagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Raigad Division",
+            "latitude": 18.49075,
+            "longitude": 73.1820833
+        },
+        {
+            "officeName": "Ainghar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Raigad Division",
+            "latitude": 18.499585,
+            "longitude": 73.1710652
+        }
+    ]
+}

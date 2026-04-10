@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "KOLKATA",
+    "offices": [
+        {
+            "officeName": "Haltu SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "South Kolkata Division",
+            "latitude": 22.5099444,
+            "longitude": 88.3826389
+        },
+        {
+            "officeName": "PURBACHAL MAIN ROAD SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "South Kolkata Division",
+            "latitude": 22.504717,
+            "longitude": 88.38971
+        },
+        {
+            "officeName": "Jadavgarh SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "South Kolkata Division",
+            "latitude": 22.5081944,
+            "longitude": 88.3791667
+        }
+    ]
+}

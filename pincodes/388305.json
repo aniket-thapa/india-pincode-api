@@ -1,0 +1,26 @@
+{
+    "state": "GUJARAT",
+    "district": "ANAND",
+    "offices": [
+        {
+            "officeName": "Sundan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Anand Division",
+            "latitude": 22.4544,
+            "longitude": 73.0302
+        },
+        {
+            "officeName": "Adas SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Anand Division",
+            "latitude": 22.4853,
+            "longitude": 73.015098
+        }
+    ]
+}

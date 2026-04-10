@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "PALAKKAD",
+    "offices": [
+        {
+            "officeName": "Koduvayur Agraharam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Palghat Division",
+            "latitude": 10.5992,
+            "longitude": 76.6922
+        },
+        {
+            "officeName": "Thannisseri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Palghat Division",
+            "latitude": 15.5934,
+            "longitude": 76.6922
+        },
+        {
+            "officeName": "Koduvayur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Palghat Division",
+            "latitude": 10.799571,
+            "longitude": 76.642318
+        }
+    ]
+}

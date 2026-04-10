@@ -1,0 +1,36 @@
+{
+    "state": "PUNJAB",
+    "district": "PATHANKOT",
+    "offices": [
+        {
+            "officeName": "Datial BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Gurdaspur Division",
+            "latitude": 32.24,
+            "longitude": 75.41
+        },
+        {
+            "officeName": "Fatehpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Gurdaspur Division",
+            "latitude": 32.29,
+            "longitude": 75.45
+        },
+        {
+            "officeName": "Narot Jailmal Singh SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Gurdaspur Division",
+            "latitude": 32.25745,
+            "longitude": 75.50975
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "ODISHA",
+    "district": "BHADRAK",
+    "offices": [
+        {
+            "officeName": "Apanda B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhadrak Division",
+            "latitude": 21.142915,
+            "longitude": 86.2916316
+        },
+        {
+            "officeName": "Silandi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhadrak Division",
+            "latitude": 21.164535,
+            "longitude": 86.2881116
+        },
+        {
+            "officeName": "Basantia S.O (Bhadrak)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhadrak Division",
+            "latitude": 21.0662222,
+            "longitude": 86.5027222
+        }
+    ]
+}

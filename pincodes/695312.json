@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "THIRUVANANTHAPURAM",
+    "offices": [
+        {
+            "officeName": "Vettoor BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Trivandrum North Division",
+            "latitude": 8.715919,
+            "longitude": 76.725898
+        },
+        {
+            "officeName": "Melvettoor SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Trivandrum North Division",
+            "latitude": 8.6858333,
+            "longitude": 76.8023056
+        }
+    ]
+}

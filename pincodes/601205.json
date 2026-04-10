@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "THIRUVALLUR",
+    "offices": [
+        {
+            "officeName": "Kolur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 13.418,
+            "longitude": 80.198
+        },
+        {
+            "officeName": "Thirupalavanam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 13.388,
+            "longitude": 80.22
+        },
+        {
+            "officeName": "Pulicat SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 13.416356,
+            "longitude": 80.317373
+        }
+    ]
+}

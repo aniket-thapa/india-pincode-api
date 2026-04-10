@@ -1,0 +1,56 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "JAUNPUR",
+    "offices": [
+        {
+            "officeName": "Koilari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Jaunpur Division",
+            "latitude": 26.88,
+            "longitude": 82.36
+        },
+        {
+            "officeName": "Senapur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Jaunpur Division",
+            "latitude": 26.1862,
+            "longitude": 82.6578
+        },
+        {
+            "officeName": "Verdiha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Jaunpur Division",
+            "latitude": 26.58,
+            "longitude": 82.55
+        },
+        {
+            "officeName": "Leorua SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Jaunpur Division",
+            "latitude": 25.7158,
+            "longitude": 83.0133
+        },
+        {
+            "officeName": "Brahmanpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Jaunpur Division",
+            "latitude": 26.38,
+            "longitude": 82.94
+        }
+    ]
+}

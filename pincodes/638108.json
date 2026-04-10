@@ -1,0 +1,66 @@
+{
+    "state": "TAMIL NADU",
+    "district": "TIRUPPUR",
+    "offices": [
+        {
+            "officeName": "Mullipuram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupur Division",
+            "latitude": 11.06056,
+            "longitude": 77.63944
+        },
+        {
+            "officeName": "Kuttapalayam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupur Division",
+            "latitude": 11.07051,
+            "longitude": 77.70243
+        },
+        {
+            "officeName": "Palayakottai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupur Division",
+            "latitude": 11.0992,
+            "longitude": 77.66895
+        },
+        {
+            "officeName": "Nathakadayur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupur Division",
+            "latitude": 11.0881475,
+            "longitude": 77.6651111
+        },
+        {
+            "officeName": "Komarapalayam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupur Division",
+            "latitude": 10.70321,
+            "longitude": 77.77651
+        },
+        {
+            "officeName": "Marudurai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupur Division",
+            "latitude": 11.1148,
+            "longitude": 77.64487
+        }
+    ]
+}

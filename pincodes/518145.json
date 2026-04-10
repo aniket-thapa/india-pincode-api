@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Nandyal",
+    "offices": [
+        {
+            "officeName": "Akkampalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Nandyal Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Kakaravada B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Nandyal Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Nossam S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Nandyal Division",
+            "latitude": 14.9868333,
+            "longitude": 78.3913333
+        }
+    ]
+}

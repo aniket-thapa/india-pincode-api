@@ -1,0 +1,46 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "WEST GODAVARI",
+    "offices": [
+        {
+            "officeName": "Subbaraopeta S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Tadepalligudem Division",
+            "latitude": 16.813551,
+            "longitude": 81.531069
+        },
+        {
+            "officeName": "Tadepalligudem H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Tadepalligudem Division",
+            "latitude": 16.8118333,
+            "longitude": 81.5235
+        },
+        {
+            "officeName": "Aphb Colony S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Tadepalligudem Division",
+            "latitude": 16.8272222,
+            "longitude": 81.5194444
+        },
+        {
+            "officeName": "Tadepalligudem Town S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Tadepalligudem Division",
+            "latitude": 16.812666,
+            "longitude": 81.528423
+        }
+    ]
+}

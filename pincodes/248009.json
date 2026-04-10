@@ -1,0 +1,36 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "offices": [
+        {
+            "officeName": "Bhagwantpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehradun Division",
+            "latitude": 30.39,
+            "longitude": 78.07
+        },
+        {
+            "officeName": "Rajpur SO Dehradun",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehradun Division",
+            "latitude": 30.3524167,
+            "longitude": 78.0270833
+        },
+        {
+            "officeName": "Kishanpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehradun Division",
+            "latitude": 30.36,
+            "longitude": 78.08
+        }
+    ]
+}

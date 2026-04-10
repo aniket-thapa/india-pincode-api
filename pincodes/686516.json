@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "KOTTAYAM",
+    "offices": [
+        {
+            "officeName": "Vattakunnu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Kottayam Division",
+            "latitude": 9.548962,
+            "longitude": 76.630856
+        },
+        {
+            "officeName": "Meenadom SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Kottayam Division",
+            "latitude": 9.548549,
+            "longitude": 76.60115
+        }
+    ]
+}

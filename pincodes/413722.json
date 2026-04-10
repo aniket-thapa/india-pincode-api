@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "AHMEDNAGAR",
+    "offices": [
+        {
+            "officeName": "Rahuri MPKV S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Shrirampur Division",
+            "latitude": 19.35271774803371,
+            "longitude": 74.64422454099183
+        },
+        {
+            "officeName": "Mulanagar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Shrirampur Division",
+            "latitude": 19.3469016,
+            "longitude": 74.6222734
+        }
+    ]
+}

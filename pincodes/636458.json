@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "SALEM",
+    "offices": [
+        {
+            "officeName": "Koonandiyur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Salem West Division",
+            "latitude": 11.89762,
+            "longitude": 77.88158
+        },
+        {
+            "officeName": "M.Pallipatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Salem West Division",
+            "latitude": 11.849609,
+            "longitude": 77.898982
+        },
+        {
+            "officeName": "Nariyanur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Salem West Division",
+            "latitude": 11.87804,
+            "longitude": 77.90469
+        },
+        {
+            "officeName": "Mallikundam S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Salem West Division",
+            "latitude": 11.867236,
+            "longitude": 77.923895
+        }
+    ]
+}

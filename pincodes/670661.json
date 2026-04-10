@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "KANNUR",
+    "offices": [
+        {
+            "officeName": "Palayad SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Thalassery Division",
+            "latitude": 11.753368,
+            "longitude": 75.490912
+        },
+        {
+            "officeName": "Melurtly BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Thalassery Division",
+            "latitude": 11.81,
+            "longitude": 75.47
+        }
+    ]
+}

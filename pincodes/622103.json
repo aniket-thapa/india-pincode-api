@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "PUDUKKOTTAI",
+    "offices": [
+        {
+            "officeName": "Pudur pdk B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Pudukkottai Division",
+            "latitude": 10.22,
+            "longitude": 78.8
+        },
+        {
+            "officeName": "Veerapatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Pudukkottai Division",
+            "latitude": 10.47,
+            "longitude": 78.66
+        },
+        {
+            "officeName": "Muckanamalaipatti S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Pudukkottai Division",
+            "latitude": 10.4602778,
+            "longitude": 78.686111
+        }
+    ]
+}

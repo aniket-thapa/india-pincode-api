@@ -1,0 +1,26 @@
+{
+    "state": "TELANGANA",
+    "district": "SANGAREDDY",
+    "offices": [
+        {
+            "officeName": "Bdl Bhanur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Sangareddy Division",
+            "latitude": 17.469925239100583,
+            "longitude": 78.16316723022399
+        },
+        {
+            "officeName": "Bhanur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Sangareddy Division",
+            "latitude": 17.4906956,
+            "longitude": 78.1760072
+        }
+    ]
+}

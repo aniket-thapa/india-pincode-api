@@ -1,0 +1,36 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "SHIMLA",
+    "offices": [
+        {
+            "officeName": "Rajhana BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Shimla Division",
+            "latitude": 31.2115,
+            "longitude": 77.4064
+        },
+        {
+            "officeName": "Kasumpti SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Shimla Division",
+            "latitude": 31.078,
+            "longitude": 77.181
+        },
+        {
+            "officeName": "New Shimla SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Shimla Division",
+            "latitude": 31.0769,
+            "longitude": 77.1856
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "GUNTUR",
+    "offices": [
+        {
+            "officeName": "Yerrabalem B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Guntur Division",
+            "latitude": 16.456211,
+            "longitude": 80.56736
+        },
+        {
+            "officeName": "Krishnayapalem B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Guntur Division",
+            "latitude": 16.488132,
+            "longitude": 80.557039
+        },
+        {
+            "officeName": "Navuluru B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Guntur Division",
+            "latitude": 16.444951,
+            "longitude": 80.560858
+        },
+        {
+            "officeName": "K.C.Works S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Guntur Division",
+            "latitude": 16.4468611,
+            "longitude": 80.6053056
+        }
+    ]
+}

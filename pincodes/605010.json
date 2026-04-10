@@ -1,0 +1,26 @@
+{
+    "state": "PUDUCHERRY",
+    "district": "PONDICHERRY",
+    "offices": [
+        {
+            "officeName": "Olugarai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Pondicherry Division",
+            "latitude": 11.94,
+            "longitude": 79.78
+        },
+        {
+            "officeName": "Reddiarpalayam SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Pondicherry Division",
+            "latitude": 11.9312778,
+            "longitude": 79.7859722
+        }
+    ]
+}

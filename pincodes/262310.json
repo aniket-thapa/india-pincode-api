@@ -1,0 +1,26 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "offices": [
+        {
+            "officeName": "Chandani SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nainital Division",
+            "latitude": 29.336166,
+            "longitude": 80.082661
+        },
+        {
+            "officeName": "Banbassa Canal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nainital Division",
+            "latitude": 28.992676,
+            "longitude": 80.091909
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "WEST BENGAL",
+    "district": "24 PARAGANAS SOUTH",
+    "offices": [
+        {
+            "officeName": "Rania BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Baruipur Division",
+            "latitude": 22.452513,
+            "longitude": 88.353391
+        },
+        {
+            "officeName": "Boral SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Baruipur Division",
+            "latitude": 22.2607,
+            "longitude": 88.223
+        }
+    ]
+}

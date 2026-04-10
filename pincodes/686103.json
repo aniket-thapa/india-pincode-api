@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "ALAPPUZHA",
+    "offices": [
+        {
+            "officeName": "Kumarankary BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Changanacherry Division",
+            "latitude": 9.459033,
+            "longitude": 76.501021
+        },
+        {
+            "officeName": "Ruby Nagar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Changanacherry Division",
+            "latitude": 9.455591,
+            "longitude": 76.540045
+        },
+        {
+            "officeName": "Vazhappally West SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Changanacherry Division",
+            "latitude": 9.460898,
+            "longitude": 76.533629
+        }
+    ]
+}

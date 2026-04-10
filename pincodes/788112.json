@@ -1,0 +1,36 @@
+{
+    "state": "ASSAM",
+    "district": "CACHAR",
+    "offices": [
+        {
+            "officeName": "Clever House B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Cachar Division",
+            "latitude": 24.671,
+            "longitude": 92.43
+        },
+        {
+            "officeName": "Derby S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Cachar Division",
+            "latitude": 24.823637,
+            "longitude": 92.801827
+        },
+        {
+            "officeName": "Sildhubi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Cachar Division",
+            "latitude": 24.678,
+            "longitude": 92.79
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "HARYANA",
+    "district": "PANCHKULA",
+    "offices": [
+        {
+            "officeName": "Panchkula Sector 12 S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.7486944,
+            "longitude": 76.85475
+        },
+        {
+            "officeName": "Panchkula Sector 4 S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.565659,
+            "longitude": 76.937756
+        }
+    ]
+}

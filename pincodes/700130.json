@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "24 PARAGANAS NORTH",
+    "offices": [
+        {
+            "officeName": "Taldharia Kapasia BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Barasat Division",
+            "latitude": 22.7126298,
+            "longitude": 88.4351992
+        },
+        {
+            "officeName": "Madhyamgram Bazar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Barasat Division",
+            "latitude": 22.6959691,
+            "longitude": 88.4534651
+        },
+        {
+            "officeName": "Korachandigarh BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Barasat Division",
+            "latitude": 22.7065277,
+            "longitude": 88.4536099
+        }
+    ]
+}

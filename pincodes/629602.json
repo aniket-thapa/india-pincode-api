@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "KANNIYAKUMARI",
+    "offices": [
+        {
+            "officeName": "Puthalam S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kanniyakumari Division",
+            "latitude": 8.1076944,
+            "longitude": 77.465
+        },
+        {
+            "officeName": "Melamanakudy B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kanniyakumari Division",
+            "latitude": 8.09,
+            "longitude": 77.48
+        },
+        {
+            "officeName": "Thengamputhur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kanniyakumari Division",
+            "latitude": 8.12,
+            "longitude": 77.45
+        }
+    ]
+}

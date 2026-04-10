@@ -1,0 +1,76 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "FIROZABAD",
+    "offices": [
+        {
+            "officeName": "Thanumai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Mainpuri Division",
+            "latitude": 24.332214,
+            "longitude": 78.332145
+        },
+        {
+            "officeName": "Shikohabad SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Mainpuri Division",
+            "latitude": 27.1059444,
+            "longitude": 78.5851389
+        },
+        {
+            "officeName": "Dakhinara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Mainpuri Division",
+            "latitude": 24.02248,
+            "longitude": 78.0111
+        },
+        {
+            "officeName": "Dhatari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Mainpuri Division",
+            "latitude": 24.201247,
+            "longitude": 78.021457
+        },
+        {
+            "officeName": "Mandai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Mainpuri Division",
+            "latitude": 24.23555,
+            "longitude": 78.024548
+        },
+        {
+            "officeName": "Urmura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Mainpuri Division",
+            "latitude": 24.111222,
+            "longitude": 78.112222
+        },
+        {
+            "officeName": "Bara Bazar Shikohabad SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Mainpuri Division",
+            "latitude": 26.1053056,
+            "longitude": 78.5865
+        }
+    ]
+}

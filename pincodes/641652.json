@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "TIRUPPUR",
+    "offices": [
+        {
+            "officeName": "15 Velampalayam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupur Division",
+            "latitude": 11.143804,
+            "longitude": 77.3048
+        },
+        {
+            "officeName": "Thirumuruganpoondi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupur Division",
+            "latitude": 11.167488,
+            "longitude": 77.315212
+        },
+        {
+            "officeName": "Anuppapalayam SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupur Division",
+            "latitude": 11.142509,
+            "longitude": 77.318706
+        }
+    ]
+}

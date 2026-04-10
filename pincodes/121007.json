@@ -1,0 +1,36 @@
+{
+    "state": "HARYANA",
+    "district": "FARIDABAD",
+    "offices": [
+        {
+            "officeName": "Faridabad Sector 15 SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Faridabad Division",
+            "latitude": 28.395403,
+            "longitude": 77.315292
+        },
+        {
+            "officeName": "Escortsnagar Faridabad SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Faridabad Division",
+            "latitude": 28.3832778,
+            "longitude": 77.3258889
+        },
+        {
+            "officeName": "Faridabad Sector 12 SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Faridabad Division",
+            "latitude": 28.3832778,
+            "longitude": 77.3258889
+        }
+    ]
+}

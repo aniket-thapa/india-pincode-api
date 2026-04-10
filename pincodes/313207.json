@@ -1,0 +1,56 @@
+{
+    "state": "RAJASTHAN",
+    "district": "RAJSAMAND",
+    "offices": [
+        {
+            "officeName": "Gilund S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Udaipur Division",
+            "latitude": 25.0281111,
+            "longitude": 74.2527778
+        },
+        {
+            "officeName": "Pachhamata B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Udaipur Division",
+            "latitude": 25.02,
+            "longitude": 74.2
+        },
+        {
+            "officeName": "Panotia B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Udaipur Division",
+            "latitude": 25.05,
+            "longitude": 74.2
+        },
+        {
+            "officeName": "Khad Bamnia B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Udaipur Division",
+            "latitude": 25.01,
+            "longitude": 74.21
+        },
+        {
+            "officeName": "Kkundia B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Udaipur Division",
+            "latitude": 25.01,
+            "longitude": 74.29
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "TAMIL NADU",
+    "district": "PUDUKKOTTAI",
+    "offices": [
+        {
+            "officeName": "Vadavalam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Pudukkottai Division",
+            "latitude": 10.42,
+            "longitude": 78.9
+        },
+        {
+            "officeName": "Pudukkottai Ind. Estate S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Pudukkottai Division",
+            "latitude": 10.38,
+            "longitude": 78.84
+        },
+        {
+            "officeName": "Rajapatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Pudukkottai Division",
+            "latitude": 10.38,
+            "longitude": 78.41
+        },
+        {
+            "officeName": "Pudukkottai Medical College S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Pudukkottai Division",
+            "latitude": 10.4092,
+            "longitude": 78.8465
+        },
+        {
+            "officeName": "Mullur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Pudukkottai Division",
+            "latitude": 10.41,
+            "longitude": 78.86
+        }
+    ]
+}

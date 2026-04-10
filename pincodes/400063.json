@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI SUBURBAN",
+    "offices": [
+        {
+            "officeName": "Sharma Estate SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North West Division",
+            "latitude": 19.1543333,
+            "longitude": 72.8515
+        },
+        {
+            "officeName": "Goregaon East SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North West Division",
+            "latitude": 19.1632724,
+            "longitude": 72.8512545
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "JHARKHAND",
+    "district": "DHANBAD",
+    "offices": [
+        {
+            "officeName": "Bhutgoria BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dhanbad Division",
+            "latitude": 23.7956581,
+            "longitude": 86.4303809
+        },
+        {
+            "officeName": "Horladih BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dhanbad Division",
+            "latitude": 23.79565,
+            "longitude": 86.4303859
+        },
+        {
+            "officeName": "Bhaga SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dhanbad Division",
+            "latitude": 23.724839,
+            "longitude": 86.408181
+        }
+    ]
+}

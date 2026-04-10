@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "THIRUVANANTHAPURAM",
+    "offices": [
+        {
+            "officeName": "Kollode BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Trivandrum South Division",
+            "latitude": 8.49,
+            "longitude": 77.06
+        },
+        {
+            "officeName": "Malayam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Trivandrum South Division",
+            "latitude": 8.48,
+            "longitude": 77.02
+        },
+        {
+            "officeName": "Malayinkil SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Trivandrum South Division",
+            "latitude": 8.49106,
+            "longitude": 77.03445
+        }
+    ]
+}

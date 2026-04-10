@@ -1,0 +1,26 @@
+{
+    "state": "JAMMU AND KASHMIR",
+    "district": "JAMMU",
+    "offices": [
+        {
+            "officeName": "Guru Nanak Nagar SO Jammu",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Jammu Division",
+            "latitude": 32.694451,
+            "longitude": 74.865495
+        },
+        {
+            "officeName": "Gandhinagar HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Jammu Division",
+            "latitude": 32.6984722,
+            "longitude": 74.8575833
+        }
+    ]
+}

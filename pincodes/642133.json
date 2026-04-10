@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "COIMBATORE",
+    "offices": [
+        {
+            "officeName": "Sethumadai S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Pollachi Division",
+            "latitude": 10.5128,
+            "longitude": 76.8823
+        },
+        {
+            "officeName": "Topslip B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Pollachi Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Sarkarpathi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Pollachi Division",
+            "latitude": 10.6472,
+            "longitude": 76.96255
+        }
+    ]
+}

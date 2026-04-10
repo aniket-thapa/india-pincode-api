@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "KOLKATA",
+    "offices": [
+        {
+            "officeName": "Chowbaga BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata East Division",
+            "latitude": 22.3143602,
+            "longitude": 88.258562
+        },
+        {
+            "officeName": "Dhapa SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata East Division",
+            "latitude": 22.5511633,
+            "longitude": 88.3933149
+        },
+        {
+            "officeName": "Nowbhanga SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata East Division",
+            "latitude": 22.3332631,
+            "longitude": 88.244255
+        }
+    ]
+}

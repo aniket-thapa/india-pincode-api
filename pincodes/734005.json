@@ -1,0 +1,26 @@
+{
+    "state": "WEST BENGAL",
+    "district": "DARJEELING",
+    "offices": [
+        {
+            "officeName": "Siliguri Bazar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Darjeeling Division",
+            "latitude": 26.70025,
+            "longitude": 88.4136111
+        },
+        {
+            "officeName": "Jyotinagar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Darjeeling Division",
+            "latitude": 28.6912,
+            "longitude": 77.2901
+        }
+    ]
+}

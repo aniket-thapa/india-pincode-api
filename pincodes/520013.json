@@ -1,0 +1,26 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "NTR",
+    "offices": [
+        {
+            "officeName": "RAMALINGESWAR NAGAR S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Vijayawada Division",
+            "latitude": 16.5093611,
+            "longitude": 80.6149444
+        },
+        {
+            "officeName": "Krishnalanka S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Vijayawada Division",
+            "latitude": 16.5018611,
+            "longitude": 80.6315556
+        }
+    ]
+}

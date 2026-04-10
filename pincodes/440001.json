@@ -1,0 +1,76 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "NAGPUR",
+    "offices": [
+        {
+            "officeName": "Bureau Of Mines S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur City Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Sadar Bazar S.O (Nagpur)",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur City Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Nagpur GPO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur City Division",
+            "latitude": 21.1524,
+            "longitude": 79.0693
+        },
+        {
+            "officeName": "Kasturchand Park S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur City Division",
+            "latitude": 21.01533333,
+            "longitude": 79.36027778
+        },
+        {
+            "officeName": "Mohan Nagar S.O (Nagpur)",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur City Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Ravi Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur City Division",
+            "latitude": 21.12788889,
+            "longitude": 79.07047222
+        },
+        {
+            "officeName": "Coal Estate S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur City Division",
+            "latitude": 21.16786111,
+            "longitude": 79.04813889
+        }
+    ]
+}

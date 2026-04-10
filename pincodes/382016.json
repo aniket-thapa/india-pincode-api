@@ -1,0 +1,56 @@
+{
+    "state": "GUJARAT",
+    "district": "GANDHINAGAR",
+    "offices": [
+        {
+            "officeName": "Gandhinagar Sector 16 SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Gandhinagar Division",
+            "latitude": 23.229961,
+            "longitude": 72.647931
+        },
+        {
+            "officeName": "Gandhinagar Sector 17 SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Gandhinagar Division",
+            "latitude": 23.22798,
+            "longitude": 72.65355
+        },
+        {
+            "officeName": "Vavol BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Gandhinagar Division",
+            "latitude": 23.23,
+            "longitude": 72.62
+        },
+        {
+            "officeName": "Gandhinagar Sector 23 SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Gandhinagar Division",
+            "latitude": 23.237684,
+            "longitude": 72.650271
+        },
+        {
+            "officeName": "Gandhinagar Sector 24 SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Gandhinagar Division",
+            "latitude": 23.241977,
+            "longitude": 72.643205
+        }
+    ]
+}

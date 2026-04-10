@@ -1,0 +1,46 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "KANGRA",
+    "offices": [
+        {
+            "officeName": "Nihari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehra Gopipur Division",
+            "latitude": 31.737721,
+            "longitude": 76.30149
+        },
+        {
+            "officeName": "Pirsaluhi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehra Gopipur Division",
+            "latitude": 31.753027,
+            "longitude": 76.285083
+        },
+        {
+            "officeName": "Aloh BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehra Gopipur Division",
+            "latitude": 31.697642,
+            "longitude": 76.292803
+        },
+        {
+            "officeName": "Tikkar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehra Gopipur Division",
+            "latitude": 31.190647,
+            "longitude": 77.626764
+        }
+    ]
+}

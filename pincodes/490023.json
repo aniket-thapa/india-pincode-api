@@ -1,0 +1,36 @@
+{
+    "state": "CHHATTISGARH",
+    "district": "DURG",
+    "offices": [
+        {
+            "officeName": "Supela Bhilai SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Durg Division",
+            "latitude": 21.664637,
+            "longitude": 81.313198
+        },
+        {
+            "officeName": "Vaishali Nagar Bhilai SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Durg Division",
+            "latitude": 21.13394,
+            "longitude": 81.21275
+        },
+        {
+            "officeName": "Kohka Bhilai SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Durg Division",
+            "latitude": 21.2257,
+            "longitude": 81.3372
+        }
+    ]
+}

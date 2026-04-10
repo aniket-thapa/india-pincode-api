@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "MALAPPURAM",
+    "offices": [
+        {
+            "officeName": "Kokkur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Tirur Division",
+            "latitude": 10.7387317,
+            "longitude": 76.056236
+        },
+        {
+            "officeName": "Othalur West BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Tirur Division",
+            "latitude": 10.7992039,
+            "longitude": 76.0812507
+        }
+    ]
+}

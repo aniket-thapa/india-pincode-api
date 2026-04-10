@@ -1,0 +1,26 @@
+{
+    "state": "KARNATAKA",
+    "district": "UDUPI",
+    "offices": [
+        {
+            "officeName": "Kodibengre BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Udupi Division",
+            "latitude": 13.4368463,
+            "longitude": 74.6946713
+        },
+        {
+            "officeName": "Hungarcutta SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Udupi Division",
+            "latitude": 13.446184,
+            "longitude": 74.704565
+        }
+    ]
+}

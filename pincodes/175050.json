@@ -1,0 +1,66 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "MANDI",
+    "offices": [
+        {
+            "officeName": "Binga BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Mandi Division",
+            "latitude": 31.6989558,
+            "longitude": 76.7324084
+        },
+        {
+            "officeName": "Saklana BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Mandi Division",
+            "latitude": 31.6989558,
+            "longitude": 76.7324084
+        },
+        {
+            "officeName": "Marhi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Mandi Division",
+            "latitude": 31.8225833,
+            "longitude": 76.7037222
+        },
+        {
+            "officeName": "Kamlahkhas BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Mandi Division",
+            "latitude": 31.8592453,
+            "longitude": 76.6513787
+        },
+        {
+            "officeName": "Samour BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Mandi Division",
+            "latitude": 31.708256,
+            "longitude": 76.931376
+        },
+        {
+            "officeName": "Tanehar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Mandi Division",
+            "latitude": 31.708256,
+            "longitude": 76.931376
+        }
+    ]
+}

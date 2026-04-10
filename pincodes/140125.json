@@ -1,0 +1,56 @@
+{
+    "state": "PUNJAB",
+    "district": "RUPNAGAR",
+    "offices": [
+        {
+            "officeName": "Bandelhari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chandigarh Division",
+            "latitude": 30.692051,
+            "longitude": 76.69841
+        },
+        {
+            "officeName": "Pratap Nagar Nangal SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chandigarh Division",
+            "latitude": 31.35825,
+            "longitude": 76.3816944
+        },
+        {
+            "officeName": "Ajauli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chandigarh Division",
+            "latitude": 30.692051,
+            "longitude": 76.69841
+        },
+        {
+            "officeName": "Manakpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chandigarh Division",
+            "latitude": 30.692051,
+            "longitude": 76.69841
+        },
+        {
+            "officeName": "Behrampur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chandigarh Division",
+            "latitude": 30.692051,
+            "longitude": 76.69841
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "JALGAON",
+    "offices": [
+        {
+            "officeName": "Toli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Jalgaon Division",
+            "latitude": 20.813901,
+            "longitude": 75.074073
+        },
+        {
+            "officeName": "Deogaon S.O (Jalgaon)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Jalgaon Division",
+            "latitude": 20.7995555,
+            "longitude": 75.0802782
+        }
+    ]
+}

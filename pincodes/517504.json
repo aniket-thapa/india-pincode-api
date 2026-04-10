@@ -1,0 +1,26 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Tirupati",
+    "offices": [
+        {
+            "officeName": "Tirumala S.O (Chittoor)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Tirupati Division",
+            "latitude": 13.67778,
+            "longitude": 79.349268
+        },
+        {
+            "officeName": "Tirumala North B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Tirupati Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

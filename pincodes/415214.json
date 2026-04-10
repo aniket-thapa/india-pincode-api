@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "RATNAGIRI",
+    "offices": [
+        {
+            "officeName": "Peve B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "RATNAGIRI DIVISION",
+            "latitude": 17.54905,
+            "longitude": 73.28145
+        },
+        {
+            "officeName": "Padve B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "RATNAGIRI DIVISION",
+            "latitude": 17.2941,
+            "longitude": 73.30795
+        },
+        {
+            "officeName": "Panderi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "RATNAGIRI DIVISION",
+            "latitude": 18.042552,
+            "longitude": 73.210296
+        }
+    ]
+}

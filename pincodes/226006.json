@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "LUCKNOW",
+    "offices": [
+        {
+            "officeName": "H E School SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Lucknow Division",
+            "latitude": 26.86875,
+            "longitude": 80.95875
+        },
+        {
+            "officeName": "Mahanagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Lucknow Division",
+            "latitude": 26.8736944,
+            "longitude": 80.9595
+        },
+        {
+            "officeName": "Sant Market SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Lucknow Division",
+            "latitude": 26.8804722,
+            "longitude": 80.95575
+        },
+        {
+            "officeName": "M N Colony SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Lucknow Division",
+            "latitude": 26.8796944,
+            "longitude": 80.9645
+        }
+    ]
+}

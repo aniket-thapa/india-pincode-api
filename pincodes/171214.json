@@ -1,0 +1,56 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "SHIMLA",
+    "offices": [
+        {
+            "officeName": "Jangla SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Shimla Division",
+            "latitude": 31.2375,
+            "longitude": 77.8272778
+        },
+        {
+            "officeName": "Thana BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Shimla Division",
+            "latitude": 31.21235,
+            "longitude": 77.199
+        },
+        {
+            "officeName": "Devidhar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Shimla Division",
+            "latitude": 30.913,
+            "longitude": 77.12958
+        },
+        {
+            "officeName": "Todsa BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Shimla Division",
+            "latitude": 30.9152,
+            "longitude": 77.4086
+        },
+        {
+            "officeName": "Ranol BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Shimla Division",
+            "latitude": 31.21012,
+            "longitude": 77.0129
+        }
+    ]
+}

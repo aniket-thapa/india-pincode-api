@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI SUBURBAN",
+    "offices": [
+        {
+            "officeName": "Rani Sati Marg SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North West Division",
+            "latitude": 19.1842841,
+            "longitude": 72.8517183
+        },
+        {
+            "officeName": "Malad East SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North West Division",
+            "latitude": 19.179645,
+            "longitude": 72.850256
+        }
+    ]
+}

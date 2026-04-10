@@ -1,0 +1,46 @@
+{
+    "state": "KERALA",
+    "district": "KOZHIKODE",
+    "offices": [
+        {
+            "officeName": "Kottuli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Calicut Division",
+            "latitude": 11.25,
+            "longitude": 75.83
+        },
+        {
+            "officeName": "Nellicode BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Calicut Division",
+            "latitude": 11.25,
+            "longitude": 75.84
+        },
+        {
+            "officeName": "Kuthiravattom SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Calicut Division",
+            "latitude": 11.256453,
+            "longitude": 75.803145
+        },
+        {
+            "officeName": "Govinda Puram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Calicut Division",
+            "latitude": 11.25,
+            "longitude": 75.83
+        }
+    ]
+}

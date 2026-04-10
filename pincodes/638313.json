@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "ERODE",
+    "offices": [
+        {
+            "officeName": "Mevani BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Erode Division",
+            "latitude": 11.500446,
+            "longitude": 77.531071
+        },
+        {
+            "officeName": "Pudukaraipudur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Erode Division",
+            "latitude": 11.483936,
+            "longitude": 77.474556
+        },
+        {
+            "officeName": "Kugalur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Erode Division",
+            "latitude": 11.4829,
+            "longitude": 77.49982
+        }
+    ]
+}

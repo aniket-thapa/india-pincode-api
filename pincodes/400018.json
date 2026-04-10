@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "offices": [
+        {
+            "officeName": "Worli Naka S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City West Division",
+            "latitude": 19.0160556,
+            "longitude": 72.8182222
+        },
+        {
+            "officeName": "Worli S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City West Division",
+            "latitude": 18.9958018,
+            "longitude": 72.8156172
+        }
+    ]
+}

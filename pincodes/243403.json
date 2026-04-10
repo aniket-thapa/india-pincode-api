@@ -1,0 +1,26 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "BAREILLY",
+    "offices": [
+        {
+            "officeName": "Iffco Township SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Bareilly Division",
+            "latitude": 28.216,
+            "longitude": 79.2466
+        },
+        {
+            "officeName": "Malgoan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Bareilly Division",
+            "latitude": 28.15789,
+            "longitude": 79.268977
+        }
+    ]
+}

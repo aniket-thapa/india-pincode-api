@@ -1,0 +1,56 @@
+{
+    "state": "RAJASTHAN",
+    "district": "JALORE",
+    "offices": [
+        {
+            "officeName": "Raipuria B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 25.064861,
+            "longitude": 72.673187
+        },
+        {
+            "officeName": "Sawna B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 25.056952,
+            "longitude": 72.654967
+        },
+        {
+            "officeName": "Siana S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 25.141368,
+            "longitude": 72.681677
+        },
+        {
+            "officeName": "Chandana B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 25.139294,
+            "longitude": 72.703435
+        },
+        {
+            "officeName": "Bhetala B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 25.17645,
+            "longitude": 72.711194
+        }
+    ]
+}

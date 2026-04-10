@@ -1,0 +1,66 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "KANPUR NAGAR",
+    "offices": [
+        {
+            "officeName": "Bhausana BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Kanpur Moffusil Division",
+            "latitude": 26.637096,
+            "longitude": 80.1278285
+        },
+        {
+            "officeName": "Sambhalpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Kanpur Moffusil Division",
+            "latitude": 26.638056,
+            "longitude": 80.163368
+        },
+        {
+            "officeName": "Sheorajpur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Kanpur Moffusil Division",
+            "latitude": 26.683955,
+            "longitude": 80.142588
+        },
+        {
+            "officeName": "Bhaisau BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Kanpur Moffusil Division",
+            "latitude": 26.650772,
+            "longitude": 80.127828
+        },
+        {
+            "officeName": "Kakoopur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Kanpur Moffusil Division",
+            "latitude": 26.707965,
+            "longitude": 80.136785
+        },
+        {
+            "officeName": "Chhatarpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Kanpur Moffusil Division",
+            "latitude": 26.696458,
+            "longitude": 80.141536
+        }
+    ]
+}

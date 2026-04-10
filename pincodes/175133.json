@@ -1,0 +1,36 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "LAHUL AND SPITI",
+    "offices": [
+        {
+            "officeName": "Jobrang BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Mandi Division",
+            "latitude": 32.6237,
+            "longitude": 76.8719
+        },
+        {
+            "officeName": "Shansha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Mandi Division",
+            "latitude": 32.6159,
+            "longitude": 76.9037
+        },
+        {
+            "officeName": "Lote SO Lahul  Spiti",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Mandi Division",
+            "latitude": 32.602399,
+            "longitude": 76.937662
+        }
+    ]
+}

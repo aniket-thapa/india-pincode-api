@@ -1,0 +1,56 @@
+{
+    "state": "GUJARAT",
+    "district": "RAJKOT",
+    "offices": [
+        {
+            "officeName": "Khirasara B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Gondal Division",
+            "latitude": 21.752197,
+            "longitude": 70.710156
+        },
+        {
+            "officeName": "Vavdi Station B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Gondal Division",
+            "latitude": 21.720123,
+            "longitude": 70.758477
+        },
+        {
+            "officeName": "Devla B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Gondal Division",
+            "latitude": 20.460423,
+            "longitude": 74.182894
+        },
+        {
+            "officeName": "Amarnagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Gondal Division",
+            "latitude": 21.7421,
+            "longitude": 70.8037
+        },
+        {
+            "officeName": "Vadasada B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Gondal Division",
+            "latitude": 21.784551,
+            "longitude": 70.753273
+        }
+    ]
+}

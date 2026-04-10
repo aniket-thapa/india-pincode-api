@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "SALEM",
+    "offices": [
+        {
+            "officeName": "Vanavasi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Salem West Division",
+            "latitude": 11.751659,
+            "longitude": 77.88037
+        },
+        {
+            "officeName": "Periavanavasi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Salem West Division",
+            "latitude": 11.751255,
+            "longitude": 77.869565
+        },
+        {
+            "officeName": "Sanarapatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Salem West Division",
+            "latitude": 11.732669,
+            "longitude": 77.864475
+        }
+    ]
+}

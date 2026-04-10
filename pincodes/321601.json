@@ -1,0 +1,66 @@
+{
+    "state": "RAJASTHAN",
+    "district": "BHARATPUR",
+    "offices": [
+        {
+            "officeName": "Kherli Gujar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bharatpur Division",
+            "latitude": 27.096935,
+            "longitude": 77.167209
+        },
+        {
+            "officeName": "Mudiya Lalita B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bharatpur Division",
+            "latitude": 27.105645,
+            "longitude": 77.214648
+        },
+        {
+            "officeName": "Halena S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bharatpur Division",
+            "latitude": 27.1148611,
+            "longitude": 77.1530556
+        },
+        {
+            "officeName": "Hantra B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bharatpur Division",
+            "latitude": 27.123006,
+            "longitude": 77.246263
+        },
+        {
+            "officeName": "Pali B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bharatpur Division",
+            "latitude": 27.634295,
+            "longitude": 77.04925
+        },
+        {
+            "officeName": "Moloni B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bharatpur Division",
+            "latitude": 27.085585,
+            "longitude": 77.122629
+        }
+    ]
+}

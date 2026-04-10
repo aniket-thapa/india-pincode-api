@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "RAIGAD",
+    "offices": [
+        {
+            "officeName": "Savroli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Navi Mumbai Division",
+            "latitude": 18.808462,
+            "longitude": 73.286856
+        },
+        {
+            "officeName": "Khalapur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Navi Mumbai Division",
+            "latitude": 18.8300556,
+            "longitude": 73.2835278
+        }
+    ]
+}

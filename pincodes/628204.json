@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "TUTICORIN",
+    "offices": [
+        {
+            "officeName": "Kayalpatnam Bazaar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Tuticorin Division",
+            "latitude": 8.567086,
+            "longitude": 78.12292
+        },
+        {
+            "officeName": "Kayalpatnam S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Tuticorin Division",
+            "latitude": 8.5638611,
+            "longitude": 78.1233889
+        }
+    ]
+}

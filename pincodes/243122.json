@@ -1,0 +1,76 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "BAREILLY",
+    "offices": [
+        {
+            "officeName": "CARI SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Bareilly Division",
+            "latitude": 28.367036,
+            "longitude": 79.430438
+        },
+        {
+            "officeName": "HARTMAN ROAD S.O.",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Bareilly Division",
+            "latitude": 28.4035,
+            "longitude": 79.325
+        },
+        {
+            "officeName": "Izzatnagar",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Bareilly Division",
+            "latitude": 28.4025574,
+            "longitude": 79.4245216
+        },
+        {
+            "officeName": "Ner Workshop SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Bareilly Division",
+            "latitude": 28.4511,
+            "longitude": 79.5255
+        },
+        {
+            "officeName": "Rajendra Nagar SO Bareilly",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Bareilly Division",
+            "latitude": 28.3433,
+            "longitude": 79.4125
+        },
+        {
+            "officeName": "MUNSHI NAGAR S.O.",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Bareilly Division",
+            "latitude": 28.4033,
+            "longitude": 79.4506
+        },
+        {
+            "officeName": "Biharman Nagla BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Bareilly Division",
+            "latitude": 28.487801,
+            "longitude": 79.4571787
+        }
+    ]
+}

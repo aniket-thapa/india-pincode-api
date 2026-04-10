@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "THANE",
+    "offices": [
+        {
+            "officeName": "Balkum S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Thane Division",
+            "latitude": 19.2009722,
+            "longitude": 72.9697778
+        },
+        {
+            "officeName": "Tapasenagar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Thane Division",
+            "latitude": 19.2183417,
+            "longitude": 72.9780787
+        },
+        {
+            "officeName": "Shrirangnagar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Thane Division",
+            "latitude": 19.2183437,
+            "longitude": 72.9780767
+        }
+    ]
+}

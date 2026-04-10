@@ -1,0 +1,76 @@
+{
+    "state": "ODISHA",
+    "district": "BALESHWAR",
+    "offices": [
+        {
+            "officeName": "Chalunigaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhadrak Division",
+            "latitude": 21.1842933,
+            "longitude": 86.699705
+        },
+        {
+            "officeName": "Kanheibindha B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhadrak Division",
+            "latitude": 21.1439,
+            "longitude": 86.6511916
+        },
+        {
+            "officeName": "Narasinghpur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhadrak Division",
+            "latitude": 21.14706,
+            "longitude": 86.7066833
+        },
+        {
+            "officeName": "Betada S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhadrak Division",
+            "latitude": 20.93568,
+            "longitude": 86.7976
+        },
+        {
+            "officeName": "Barandua B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhadrak Division",
+            "latitude": 21.1665966,
+            "longitude": 86.703665
+        },
+        {
+            "officeName": "Aruha B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhadrak Division",
+            "latitude": 21.13045,
+            "longitude": 86.6734266
+        },
+        {
+            "officeName": "Khirkona B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhadrak Division",
+            "latitude": 21.195395,
+            "longitude": 86.6961649
+        }
+    ]
+}

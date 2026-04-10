@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "VIRUDHUNAGAR",
+    "offices": [
+        {
+            "officeName": "Kokkalanjeri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Virudhunagar Division",
+            "latitude": 9.64,
+            "longitude": 77.96
+        },
+        {
+            "officeName": "Vadamalaikurichi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Virudhunagar Division",
+            "latitude": 9.63,
+            "longitude": 77.92
+        },
+        {
+            "officeName": "Virudhunagar Collectorate SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Virudhunagar Division",
+            "latitude": 9.56,
+            "longitude": 77.95
+        },
+        {
+            "officeName": "Chatrareddiapatti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Virudhunagar Division",
+            "latitude": 9.63,
+            "longitude": 77.97
+        }
+    ]
+}

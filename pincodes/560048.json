@@ -1,0 +1,26 @@
+{
+    "state": "KARNATAKA",
+    "district": "BENGALURU URBAN",
+    "offices": [
+        {
+            "officeName": "Hoodi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Bengaluru East Division",
+            "latitude": 12.992214,
+            "longitude": 77.7159
+        },
+        {
+            "officeName": "Mahadevapura S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Bengaluru East Division",
+            "latitude": 12.9954444,
+            "longitude": 77.6990833
+        }
+    ]
+}

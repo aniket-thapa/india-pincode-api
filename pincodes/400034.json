@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "offices": [
+        {
+            "officeName": "Tulsiwadi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City West Division",
+            "latitude": 18.97307844,
+            "longitude": 72.81853813
+        },
+        {
+            "officeName": "Haji Ali S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City West Division",
+            "latitude": 18.980883,
+            "longitude": 72.815119
+        }
+    ]
+}

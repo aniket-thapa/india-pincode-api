@@ -1,0 +1,26 @@
+{
+    "state": "TELANGANA",
+    "district": "HYDERABAD",
+    "offices": [
+        {
+            "officeName": "Saidabad S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Hyderabad South East Division",
+            "latitude": 17.356324,
+            "longitude": 78.505168
+        },
+        {
+            "officeName": "Saidabad Colony S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Hyderabad South East Division",
+            "latitude": 17.3562778,
+            "longitude": 78.5050556
+        }
+    ]
+}

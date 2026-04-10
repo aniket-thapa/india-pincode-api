@@ -1,0 +1,26 @@
+{
+    "state": "KARNATAKA",
+    "district": "CHIKKAMAGALURU",
+    "offices": [
+        {
+            "officeName": "Banur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Chikkamagaluru Division",
+            "latitude": 13.4338067,
+            "longitude": 75.9653286
+        },
+        {
+            "officeName": "Sakrepatna S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Chikkamagaluru Division",
+            "latitude": 13.4340535,
+            "longitude": 75.9213511
+        }
+    ]
+}

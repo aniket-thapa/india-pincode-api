@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "PUNE",
+    "offices": [
+        {
+            "officeName": "M.Phulenagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune City East Division",
+            "latitude": 18.6690833,
+            "longitude": 73.7991111
+        },
+        {
+            "officeName": "Chinchwad East S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune City East Division",
+            "latitude": 18.6395,
+            "longitude": 73.79586111
+        }
+    ]
+}

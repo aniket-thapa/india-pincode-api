@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "RAMANATHAPURAM",
+    "offices": [
+        {
+            "officeName": "Nilamalagiamangalam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Ramanathapuram Division",
+            "latitude": 9.85,
+            "longitude": 79.0
+        },
+        {
+            "officeName": "Pananchayal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Ramanathapuram Division",
+            "latitude": 9.81,
+            "longitude": 79.05
+        },
+        {
+            "officeName": "Vellayapuram SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Ramanathapuram Division",
+            "latitude": 9.833339,
+            "longitude": 79.033389
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "state": "DELHI",
+    "district": "SOUTH",
+    "offices": [
+        {
+            "officeName": "Dr Ambedkar Nagar SO South Delhi",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South Division",
+            "latitude": 28.51,
+            "longitude": 77.23
+        },
+        {
+            "officeName": "Pushpa Bhawan SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South Division",
+            "latitude": 28.5276111,
+            "longitude": 77.2328056
+        },
+        {
+            "officeName": "Dakshinpuri PhaseI SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South Division",
+            "latitude": 28.5227222,
+            "longitude": 77.2404444
+        },
+        {
+            "officeName": "Hamdard Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South Division",
+            "latitude": 28.5125556,
+            "longitude": 77.2510556
+        },
+        {
+            "officeName": "Dakshinpuri PhaseII SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South Division",
+            "latitude": 28.5201111,
+            "longitude": 77.23975
+        },
+        {
+            "officeName": "Dakshinpuri PhaseIII SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South Division",
+            "latitude": 28.5155278,
+            "longitude": 77.2374722
+        }
+    ]
+}

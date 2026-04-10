@@ -1,0 +1,36 @@
+{
+    "state": "GUJARAT",
+    "district": "NAVSARI",
+    "offices": [
+        {
+            "officeName": "Chasa BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Navsari Division",
+            "latitude": 20.83,
+            "longitude": 73.11
+        },
+        {
+            "officeName": "Sunthvad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Navsari Division",
+            "latitude": 20.83,
+            "longitude": 73.09
+        },
+        {
+            "officeName": "Degam SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Navsari Division",
+            "latitude": 20.8,
+            "longitude": 73.08
+        }
+    ]
+}

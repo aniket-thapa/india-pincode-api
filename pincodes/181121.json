@@ -1,0 +1,36 @@
+{
+    "state": "JAMMU AND KASHMIR",
+    "district": "JAMMU",
+    "offices": [
+        {
+            "officeName": "AGOffice BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Jammu Division",
+            "latitude": 32.737376,
+            "longitude": 74.837857
+        },
+        {
+            "officeName": "Paloura SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Jammu Division",
+            "latitude": 32.755449,
+            "longitude": 74.824394
+        },
+        {
+            "officeName": "Topsherkhania BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Jammu Division",
+            "latitude": 32.748385,
+            "longitude": 74.839747
+        }
+    ]
+}

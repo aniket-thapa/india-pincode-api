@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "TIRUCHIRAPPALLI",
+    "offices": [
+        {
+            "officeName": "Pudukottai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Tiruchirapalli Division",
+            "latitude": 10.8915613,
+            "longitude": 78.5118008
+        },
+        {
+            "officeName": "Pettavaithalai SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Tiruchirapalli Division",
+            "latitude": 10.898,
+            "longitude": 78.4609167
+        }
+    ]
+}

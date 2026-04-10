@@ -1,0 +1,56 @@
+{
+    "state": "RAJASTHAN",
+    "district": "AJMER",
+    "offices": [
+        {
+            "officeName": "Durgawas B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Beawar Division",
+            "latitude": 26.06,
+            "longitude": 74.26
+        },
+        {
+            "officeName": "Kishanpura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Beawar Division",
+            "latitude": 26.04,
+            "longitude": 74.24
+        },
+        {
+            "officeName": "Nai Kalan B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Beawar Division",
+            "latitude": 26.0,
+            "longitude": 74.19
+        },
+        {
+            "officeName": "Kotra B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Beawar Division",
+            "latitude": 26.06,
+            "longitude": 74.23
+        },
+        {
+            "officeName": "Kabra S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Beawar Division",
+            "latitude": 26.0469167,
+            "longitude": 73.9639722
+        }
+    ]
+}

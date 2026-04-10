@@ -1,0 +1,46 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "OSMANABAD",
+    "offices": [
+        {
+            "officeName": "Osmanabad HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Osmanabad Division",
+            "latitude": 18.183308,
+            "longitude": 76.037974
+        },
+        {
+            "officeName": "Mily Colony S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Osmanabad Division",
+            "latitude": 19.269567,
+            "longitude": 76.774114
+        },
+        {
+            "officeName": "Vidyanagar S.O (Osmanabad)",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Osmanabad Division",
+            "latitude": 18.2279,
+            "longitude": 76.0567
+        },
+        {
+            "officeName": "Osmanabad Town SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Osmanabad Division",
+            "latitude": 18.2279,
+            "longitude": 76.0567
+        }
+    ]
+}

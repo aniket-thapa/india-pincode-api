@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "SATARA",
+    "offices": [
+        {
+            "officeName": "Jamb (Kikali) B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Satara Division",
+            "latitude": 17.844145,
+            "longitude": 73.999164
+        },
+        {
+            "officeName": "Kisanveernagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Satara Division",
+            "latitude": 17.852034,
+            "longitude": 73.994906
+        },
+        {
+            "officeName": "Kikali B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Satara Division",
+            "latitude": 17.8516645,
+            "longitude": 74.0116446
+        }
+    ]
+}

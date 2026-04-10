@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "24 PARAGANAS NORTH",
+    "offices": [
+        {
+            "officeName": "Chikanpara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Barasat Division",
+            "latitude": 22.9339166,
+            "longitude": 88.7710424
+        },
+        {
+            "officeName": "Thakurnagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Barasat Division",
+            "latitude": 22.9254724,
+            "longitude": 88.7763118
+        },
+        {
+            "officeName": "Colony Ramchandra Pur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Barasat Division",
+            "latitude": 22.9266475,
+            "longitude": 88.7997385
+        }
+    ]
+}

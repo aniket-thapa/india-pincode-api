@@ -1,0 +1,26 @@
+{
+    "state": "WEST BENGAL",
+    "district": "HOWRAH",
+    "offices": [
+        {
+            "officeName": "Belur Bazar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Howrah Division",
+            "latitude": 22.6278056,
+            "longitude": 88.3508611
+        },
+        {
+            "officeName": "Belur Math SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Howrah Division",
+            "latitude": 22.6302778,
+            "longitude": 88.3545
+        }
+    ]
+}

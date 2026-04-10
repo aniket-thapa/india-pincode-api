@@ -1,0 +1,56 @@
+{
+    "state": "KERALA",
+    "district": "THIRUVANANTHAPURAM",
+    "offices": [
+        {
+            "officeName": "Anavoor BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Trivandrum South Division",
+            "latitude": 8.44,
+            "longitude": 77.14
+        },
+        {
+            "officeName": "Keezharur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Trivandrum South Division",
+            "latitude": 8.46,
+            "longitude": 77.12
+        },
+        {
+            "officeName": "Kottackal TVM BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Trivandrum South Division",
+            "latitude": 8.42,
+            "longitude": 77.16
+        },
+        {
+            "officeName": "Marayamuttom BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Trivandrum South Division",
+            "latitude": 8.41,
+            "longitude": 77.12
+        },
+        {
+            "officeName": "Perumkadavila SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Trivandrum South Division",
+            "latitude": 8.4396389,
+            "longitude": 77.1096111
+        }
+    ]
+}

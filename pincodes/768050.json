@@ -1,0 +1,56 @@
+{
+    "state": "ODISHA",
+    "district": "BARGARH",
+    "offices": [
+        {
+            "officeName": "Jhitiki B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sambalpur Division",
+            "latitude": 20.9108078,
+            "longitude": 82.7355451
+        },
+        {
+            "officeName": "Chendeikela B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sambalpur Division",
+            "latitude": 20.7949801,
+            "longitude": 82.7135182
+        },
+        {
+            "officeName": "KANSADA B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sambalpur Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Jamseth B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sambalpur Division",
+            "latitude": 20.8216198,
+            "longitude": 82.7263309
+        },
+        {
+            "officeName": "Mandosil S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sambalpur Division",
+            "latitude": 20.8692,
+            "longitude": 82.73848
+        }
+    ]
+}

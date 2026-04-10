@@ -1,0 +1,56 @@
+{
+    "state": "KERALA",
+    "district": "MALAPPURAM",
+    "offices": [
+        {
+            "officeName": "Puthiyakadappuram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Tirur Division",
+            "latitude": 10.9359043,
+            "longitude": 75.88099
+        },
+        {
+            "officeName": "TanurMBR SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Tirur Division",
+            "latitude": 10.91456,
+            "longitude": 75.922053
+        },
+        {
+            "officeName": "Panangattur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Tirur Division",
+            "latitude": 10.994324,
+            "longitude": 75.8926071
+        },
+        {
+            "officeName": "Tanur Nagaram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Tirur Division",
+            "latitude": 10.9772511,
+            "longitude": 75.8789314
+        },
+        {
+            "officeName": "Pariyapuram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Tirur Division",
+            "latitude": 11.0008745,
+            "longitude": 75.8853465
+        }
+    ]
+}

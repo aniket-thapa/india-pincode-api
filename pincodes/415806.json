@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "RATNAGIRI",
+    "offices": [
+        {
+            "officeName": "Nata S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "RATNAGIRI DIVISION",
+            "latitude": 16.63502,
+            "longitude": 73.359667
+        },
+        {
+            "officeName": "Ambolgad B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "RATNAGIRI DIVISION",
+            "latitude": 16.656048,
+            "longitude": 73.517768
+        }
+    ]
+}

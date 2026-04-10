@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI SUBURBAN",
+    "offices": [
+        {
+            "officeName": "Santacruz Central S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North Division",
+            "latitude": 19.0925278,
+            "longitude": 72.8396111
+        },
+        {
+            "officeName": "Santacruz(West) S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North Division",
+            "latitude": 19.0824084172353,
+            "longitude": 72.8342982982535
+        }
+    ]
+}

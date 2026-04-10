@@ -1,0 +1,36 @@
+{
+    "state": "HARYANA",
+    "district": "HISAR",
+    "offices": [
+        {
+            "officeName": "Muzadpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hissar Division",
+            "latitude": 28.9448611,
+            "longitude": 75.8261241
+        },
+        {
+            "officeName": "Nalwa SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hissar Division",
+            "latitude": 28.9448611,
+            "longitude": 75.826
+        },
+        {
+            "officeName": "Kanwari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hissar Division",
+            "latitude": 28.9448611,
+            "longitude": 75.8261241
+        }
+    ]
+}

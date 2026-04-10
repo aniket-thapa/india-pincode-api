@@ -1,0 +1,56 @@
+{
+    "state": "TAMIL NADU",
+    "district": "DINDIGUL",
+    "offices": [
+        {
+            "officeName": "Maruthanathiproject BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Dindigul Division",
+            "latitude": 10.26,
+            "longitude": 77.7
+        },
+        {
+            "officeName": "Nellur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Dindigul Division",
+            "latitude": 10.24,
+            "longitude": 77.78
+        },
+        {
+            "officeName": "Iyyampalayam SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Dindigul Division",
+            "latitude": 10.2251944,
+            "longitude": 77.7467222
+        },
+        {
+            "officeName": "Sitharevu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Dindigul Division",
+            "latitude": 10.24,
+            "longitude": 77.78
+        },
+        {
+            "officeName": "Devarappanpatti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Dindigul Division",
+            "latitude": 10.22,
+            "longitude": 77.75
+        }
+    ]
+}

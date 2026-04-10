@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "TIRUCHIRAPPALLI",
+    "offices": [
+        {
+            "officeName": "Puthur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Tiruchirapalli Division",
+            "latitude": 10.8140833,
+            "longitude": 78.6724722
+        },
+        {
+            "officeName": "Tennur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Tiruchirapalli Division",
+            "latitude": 10.8196944,
+            "longitude": 78.6885556
+        }
+    ]
+}

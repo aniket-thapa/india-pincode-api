@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "GHAZIABAD",
+    "offices": [
+        {
+            "officeName": "Hasanpur Bhowapur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Ghaziabad Division",
+            "latitude": 28.641309,
+            "longitude": 77.318734
+        },
+        {
+            "officeName": "Kaushambi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Ghaziabad Division",
+            "latitude": 28.6399722,
+            "longitude": 77.32975
+        },
+        {
+            "officeName": "Bharat Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Ghaziabad Division",
+            "latitude": 28.669156,
+            "longitude": 77.453758
+        },
+        {
+            "officeName": "IESahibabad SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Ghaziabad Division",
+            "latitude": 28.6689167,
+            "longitude": 77.3529167
+        }
+    ]
+}

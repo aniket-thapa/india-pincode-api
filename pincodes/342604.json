@@ -1,0 +1,36 @@
+{
+    "state": "RAJASTHAN",
+    "district": "JODHPUR",
+    "offices": [
+        {
+            "officeName": "Borunda SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Jodhpur Division",
+            "latitude": 26.4682222,
+            "longitude": 73.804
+        },
+        {
+            "officeName": "Patel Nagar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Jodhpur Division",
+            "latitude": 26.48301,
+            "longitude": 73.78973
+        },
+        {
+            "officeName": "Sewania BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Jodhpur Division",
+            "latitude": 26.48301,
+            "longitude": 73.78973
+        }
+    ]
+}

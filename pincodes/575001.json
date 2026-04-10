@@ -1,0 +1,56 @@
+{
+    "state": "KARNATAKA",
+    "district": "DAKSHINA KANNADA",
+    "offices": [
+        {
+            "officeName": "Mangaluru H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Mangaluru Division",
+            "latitude": 12.8583611,
+            "longitude": 74.8374722
+        },
+        {
+            "officeName": "Falnir S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Mangaluru Division",
+            "latitude": 12.8644167,
+            "longitude": 74.8493333
+        },
+        {
+            "officeName": "Mangaluru Collectorate S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Mangaluru Division",
+            "latitude": 12.8608611,
+            "longitude": 74.83525
+        },
+        {
+            "officeName": "Leewell S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Mangaluru Division",
+            "latitude": 12.8466464,
+            "longitude": 74.8433661
+        },
+        {
+            "officeName": "Hampankatta S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Mangaluru Division",
+            "latitude": 12.869382,
+            "longitude": 74.840937
+        }
+    ]
+}

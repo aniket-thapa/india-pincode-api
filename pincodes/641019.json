@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "COIMBATORE",
+    "offices": [
+        {
+            "officeName": "Bilichi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Coimbatore Division",
+            "latitude": 11.1969066,
+            "longitude": 76.9604066
+        },
+        {
+            "officeName": "Veerapandi Periyanaickenpalaya BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Coimbatore Division",
+            "latitude": 11.1778467,
+            "longitude": 76.9603959
+        },
+        {
+            "officeName": "Coimbatore Press Colony SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Coimbatore Division",
+            "latitude": 11.17874,
+            "longitude": 76.95689
+        }
+    ]
+}

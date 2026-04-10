@@ -1,0 +1,46 @@
+{
+    "state": "ODISHA",
+    "district": "JAGATSINGHAPUR",
+    "offices": [
+        {
+            "officeName": "Barakolikhala B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Cuttack South Division",
+            "latitude": 20.338861,
+            "longitude": 86.71397
+        },
+        {
+            "officeName": "Sectorn 21 B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Cuttack South Division",
+            "latitude": 20.32077778,
+            "longitude": 86.51963889
+        },
+        {
+            "officeName": "Paradip S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Cuttack South Division",
+            "latitude": 20.2659444,
+            "longitude": 86.659
+        },
+        {
+            "officeName": "Madhuban S.O (Jagatsinghapur)",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Cuttack South Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

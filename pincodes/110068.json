@@ -1,0 +1,26 @@
+{
+    "state": "DELHI",
+    "district": "SOUTH",
+    "offices": [
+        {
+            "officeName": "Ignou SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South West Division",
+            "latitude": 28.5012222,
+            "longitude": 77.2003056
+        },
+        {
+            "officeName": "Maidan Garhi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South West Division",
+            "latitude": 28.5012222,
+            "longitude": 77.2003055
+        }
+    ]
+}

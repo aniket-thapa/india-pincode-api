@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "KOLHAPUR",
+    "offices": [
+        {
+            "officeName": "Ghosarwad B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Kolhapur Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Dattawad S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Kolhapur Division",
+            "latitude": 16.5888343,
+            "longitude": 74.5794752
+        },
+        {
+            "officeName": "Danwad B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Kolhapur Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

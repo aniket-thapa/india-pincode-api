@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "RAMANATHAPURAM",
+    "offices": [
+        {
+            "officeName": "Rameswaram East BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Ramanathapuram Division",
+            "latitude": 12.1668055,
+            "longitude": 77.1065555
+        },
+        {
+            "officeName": "Rameswaram Road BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Ramanathapuram Division",
+            "latitude": 9.26,
+            "longitude": 79.31
+        },
+        {
+            "officeName": "Rameswaram SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Ramanathapuram Division",
+            "latitude": 9.637008,
+            "longitude": 78.8457
+        },
+        {
+            "officeName": "Olaikuda BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Ramanathapuram Division",
+            "latitude": 9.31,
+            "longitude": 79.33
+        }
+    ]
+}

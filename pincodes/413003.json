@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "SOLAPUR",
+    "offices": [
+        {
+            "officeName": "Sadar Bazar S.O (Solapur)",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Solapur Division",
+            "latitude": 17.662554,
+            "longitude": 75.908528
+        },
+        {
+            "officeName": "Medical College S.O (Solapur)",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Solapur Division",
+            "latitude": 75.909624,
+            "longitude": 17.665263
+        },
+        {
+            "officeName": "Gurunanak Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Solapur Division",
+            "latitude": 17.6659167,
+            "longitude": 75.8943333
+        }
+    ]
+}

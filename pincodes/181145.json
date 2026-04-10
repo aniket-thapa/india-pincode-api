@@ -1,0 +1,46 @@
+{
+    "state": "JAMMU AND KASHMIR",
+    "district": "SAMBA",
+    "offices": [
+        {
+            "officeName": "Khara Madana BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Jammu Division",
+            "latitude": 32.681487,
+            "longitude": 75.00854
+        },
+        {
+            "officeName": "Mandal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Jammu Division",
+            "latitude": 32.880683,
+            "longitude": 75.436391
+        },
+        {
+            "officeName": "Utter Behni BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Jammu Division",
+            "latitude": 32.621584,
+            "longitude": 75.003625
+        },
+        {
+            "officeName": "Purmandal SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Jammu Division",
+            "latitude": 32.681487,
+            "longitude": 74.00854
+        }
+    ]
+}

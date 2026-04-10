@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "Alipurduar",
+    "offices": [
+        {
+            "officeName": "Rajabhatkhawa SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Cooch Behar Division",
+            "latitude": 26.5384,
+            "longitude": 88.90945
+        },
+        {
+            "officeName": "Bakshaduar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Cooch Behar Division",
+            "latitude": 26.75,
+            "longitude": 89.58
+        },
+        {
+            "officeName": "Jainti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Cooch Behar Division",
+            "latitude": 29.46,
+            "longitude": 79.84
+        }
+    ]
+}

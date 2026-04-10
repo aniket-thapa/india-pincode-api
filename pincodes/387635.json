@@ -1,0 +1,56 @@
+{
+    "state": "GUJARAT",
+    "district": "KHEDA",
+    "offices": [
+        {
+            "officeName": "Badarpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Kheda Division",
+            "latitude": 23.0046,
+            "longitude": 72.8751
+        },
+        {
+            "officeName": "Chhipial BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Kheda Division",
+            "latitude": 22.9839,
+            "longitude": 72.7657
+        },
+        {
+            "officeName": "Chhipdi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Kheda Division",
+            "latitude": 22.7525,
+            "longitude": 72.6844722
+        },
+        {
+            "officeName": "Kakarkhad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Kheda Division",
+            "latitude": 15.5934,
+            "longitude": 72.7657
+        },
+        {
+            "officeName": "Sarkhej BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Kheda Division",
+            "latitude": 15.5934,
+            "longitude": 72.502
+        }
+    ]
+}

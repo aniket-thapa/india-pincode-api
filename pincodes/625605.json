@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "THENI",
+    "offices": [
+        {
+            "officeName": "Murugamalainagar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Theni Division",
+            "latitude": 10.105,
+            "longitude": 77.572253
+        },
+        {
+            "officeName": "Tamarakulam S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Theni Division",
+            "latitude": 10.109083,
+            "longitude": 77.548425
+        },
+        {
+            "officeName": "Agamalai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Theni Division",
+            "latitude": 10.11,
+            "longitude": 77.42
+        },
+        {
+            "officeName": "T.Kallipatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Theni Division",
+            "latitude": 10.101627,
+            "longitude": 77.543312
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "GUJARAT",
+    "district": "SURAT",
+    "offices": [
+        {
+            "officeName": "Nandniketan SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Surat Division",
+            "latitude": 21.130553,
+            "longitude": 72.651911
+        },
+        {
+            "officeName": "Hajira SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Surat Division",
+            "latitude": 21.1984722,
+            "longitude": 72.8342778
+        }
+    ]
+}

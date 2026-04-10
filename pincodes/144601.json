@@ -1,0 +1,56 @@
+{
+    "state": "PUNJAB",
+    "district": "KAPURTHALA",
+    "offices": [
+        {
+            "officeName": "DISTRICT COURT COMPLEX KAPURTHALA",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Kapurthala Division",
+            "latitude": 31.38474,
+            "longitude": 75.418102
+        },
+        {
+            "officeName": "KAPURTHALA TOWN SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Kapurthala Division",
+            "latitude": 31.374935,
+            "longitude": 75.384201
+        },
+        {
+            "officeName": "Kapurthala HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Kapurthala Division",
+            "latitude": 31.3721893,
+            "longitude": 75.3777881
+        },
+        {
+            "officeName": "Sainik School Kapurthala SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Kapurthala Division",
+            "latitude": 31.38345,
+            "longitude": 75.32705
+        },
+        {
+            "officeName": "Kanjli Road Kapurthala SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Kapurthala Division",
+            "latitude": 31.23308688,
+            "longitude": 75.23263508
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "ODISHA",
+    "district": "PURI",
+    "offices": [
+        {
+            "officeName": "Jaleswarpada",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Puri Division",
+            "latitude": 19.964464,
+            "longitude": 86.1830327
+        },
+        {
+            "officeName": "Kundeihat",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Puri Division",
+            "latitude": 19.974248,
+            "longitude": 86.1938143
+        },
+        {
+            "officeName": "Kotang",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Puri Division",
+            "latitude": 19.9352397,
+            "longitude": 86.1598582
+        },
+        {
+            "officeName": "Bangurigaon",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Puri Division",
+            "latitude": 19.9381254,
+            "longitude": 86.1924601
+        }
+    ]
+}

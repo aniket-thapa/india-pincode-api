@@ -1,0 +1,76 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "VIZIANAGARAM",
+    "offices": [
+        {
+            "officeName": "Velagavalasa B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Parvathipuram Division",
+            "latitude": 83.5211,
+            "longitude": 18.4598
+        },
+        {
+            "officeName": "Amiti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Parvathipuram Division",
+            "latitude": 83.5601,
+            "longitude": 18.5016
+        },
+        {
+            "officeName": "Goluguvalasa B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Parvathipuram Division",
+            "latitude": 83.5703,
+            "longitude": 18.5018
+        },
+        {
+            "officeName": "Locherla B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Parvathipuram Division",
+            "latitude": 83.5329,
+            "longitude": 18.4828
+        },
+        {
+            "officeName": "Koratam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Parvathipuram Division",
+            "latitude": 83.5244,
+            "longitude": 18.5165
+        },
+        {
+            "officeName": "Nemalam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Parvathipuram Division",
+            "latitude": 83.5602,
+            "longitude": 18.5015
+        },
+        {
+            "officeName": "Therlam S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Parvathipuram Division",
+            "latitude": 18.4810556,
+            "longitude": 83.503
+        }
+    ]
+}

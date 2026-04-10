@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "SIVAGANGA",
+    "offices": [
+        {
+            "officeName": "Aralikottai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Sivaganga Division",
+            "latitude": 10.03,
+            "longitude": 78.54
+        },
+        {
+            "officeName": "Mallakottai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Sivaganga Division",
+            "latitude": 10.05,
+            "longitude": 78.46
+        },
+        {
+            "officeName": "Eriyur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Sivaganga Division",
+            "latitude": 10.043383,
+            "longitude": 78.510293
+        }
+    ]
+}

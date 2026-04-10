@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "PRATAPGARH",
+    "offices": [
+        {
+            "officeName": "Bhatni BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Pratapgarh Division",
+            "latitude": 21.988987,
+            "longitude": 81.898778
+        },
+        {
+            "officeName": "Jewai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Pratapgarh Division",
+            "latitude": 21.564,
+            "longitude": 21.54
+        },
+        {
+            "officeName": "Kaithola SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Pratapgarh Division",
+            "latitude": 25.968963,
+            "longitude": 81.608454
+        },
+        {
+            "officeName": "Agai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Pratapgarh Division",
+            "latitude": 21.887878,
+            "longitude": 81.8877
+        }
+    ]
+}

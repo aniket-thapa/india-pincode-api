@@ -1,0 +1,46 @@
+{
+    "state": "WEST BENGAL",
+    "district": "DARJEELING",
+    "offices": [
+        {
+            "officeName": "Dhajea BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Darjeeling Division",
+            "latitude": 26.9187,
+            "longitude": 88.2195
+        },
+        {
+            "officeName": "Malat Bazar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Darjeeling Division",
+            "latitude": 27.036,
+            "longitude": 88.2626
+        },
+        {
+            "officeName": "Mangarjung BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Darjeeling Division",
+            "latitude": 27.036,
+            "longitude": 88.2626
+        },
+        {
+            "officeName": "Nagrispur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Darjeeling Division",
+            "latitude": 26.9887,
+            "longitude": 88.523
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "ODISHA",
+    "district": "KENDUJHAR",
+    "offices": [
+        {
+            "officeName": "Alutuma B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Keonjhar Division",
+            "latitude": 21.1304099,
+            "longitude": 85.9295666
+        },
+        {
+            "officeName": "Tangiriapal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Keonjhar Division",
+            "latitude": 21.1804416,
+            "longitude": 85.9237616
+        },
+        {
+            "officeName": "Kansa B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Keonjhar Division",
+            "latitude": 21.16578,
+            "longitude": 85.9456766
+        },
+        {
+            "officeName": "Brahmanipal S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Keonjhar Division",
+            "latitude": 21.6346667,
+            "longitude": 85.61
+        }
+    ]
+}

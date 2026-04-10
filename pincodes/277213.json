@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "BALLIA",
+    "offices": [
+        {
+            "officeName": "Halpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Ballia Division",
+            "latitude": 25.92,
+            "longitude": 84.17
+        },
+        {
+            "officeName": "Malhaua Chorkaind BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Ballia Division",
+            "latitude": 25.93,
+            "longitude": 84.16
+        },
+        {
+            "officeName": "VBNarayanpur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Ballia Division",
+            "latitude": 25.89,
+            "longitude": 84.17
+        },
+        {
+            "officeName": "Sakarpura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Ballia Division",
+            "latitude": 25.94,
+            "longitude": 84.19
+        }
+    ]
+}

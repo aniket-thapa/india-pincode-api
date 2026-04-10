@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "THIRUVANANTHAPURAM",
+    "offices": [
+        {
+            "officeName": "Channamkara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Trivandrum North Division",
+            "latitude": 8.59,
+            "longitude": 76.83
+        },
+        {
+            "officeName": "Chittattumukku BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Trivandrum North Division",
+            "latitude": 8.574515,
+            "longitude": 76.850474
+        },
+        {
+            "officeName": "Kaniyapuram SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Trivandrum North Division",
+            "latitude": 8.5832222,
+            "longitude": 76.8519167
+        }
+    ]
+}

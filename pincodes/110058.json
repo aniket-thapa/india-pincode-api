@@ -1,0 +1,56 @@
+{
+    "state": "DELHI",
+    "district": "WEST",
+    "offices": [
+        {
+            "officeName": "Janakpuri A 3 S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.6241111,
+            "longitude": 77.0793611
+        },
+        {
+            "officeName": "D.E.S.U. Colony S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.6115,
+            "longitude": 77.0970833
+        },
+        {
+            "officeName": "Janakpuri B 1 S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.630065,
+            "longitude": 77.091207
+        },
+        {
+            "officeName": "Jail Road S.O (West Delhi)",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.636095,
+            "longitude": 77.096574
+        },
+        {
+            "officeName": "Janakpuri C 4 S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.6221111,
+            "longitude": 77.0790556
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "SPSR NELLORE",
+    "offices": [
+        {
+            "officeName": "Vengalarao Nagar TSO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Nellore Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Musunur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Nellore Division",
+            "latitude": 14.87972,
+            "longitude": 79.983611
+        },
+        {
+            "officeName": "Janathapeta S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Nellore Division",
+            "latitude": 14.030532,
+            "longitude": 80.02901
+        },
+        {
+            "officeName": "Kavali Bazar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Nellore Division",
+            "latitude": 14.91325,
+            "longitude": 79.9929722
+        },
+        {
+            "officeName": "Kavali Co op Colony S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Nellore Division",
+            "latitude": 14.451891,
+            "longitude": 79.981077
+        },
+        {
+            "officeName": "Kavali H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Nellore Division",
+            "latitude": 14.91658,
+            "longitude": 79.993121
+        }
+    ]
+}

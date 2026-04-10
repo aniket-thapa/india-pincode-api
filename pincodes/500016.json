@@ -1,0 +1,26 @@
+{
+    "state": "TELANGANA",
+    "district": "HYDERABAD",
+    "offices": [
+        {
+            "officeName": "Prakashamnagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Secunderabad Division",
+            "latitude": 17.44138889,
+            "longitude": 78.46916667
+        },
+        {
+            "officeName": "Begumpet S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Secunderabad Division",
+            "latitude": 17.43936111,
+            "longitude": 78.45775
+        }
+    ]
+}

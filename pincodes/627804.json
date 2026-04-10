@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "TENKASI",
+    "offices": [
+        {
+            "officeName": "Idaikal(TKS) S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kovilpatti Division",
+            "latitude": 9.0201,
+            "longitude": 77.3036
+        },
+        {
+            "officeName": "Kodikurichi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kovilpatti Division",
+            "latitude": 8.9981,
+            "longitude": 77.2838
+        },
+        {
+            "officeName": "Nainaragaram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kovilpatti Division",
+            "latitude": 9.0128,
+            "longitude": 77.3067
+        }
+    ]
+}

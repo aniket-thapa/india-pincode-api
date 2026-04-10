@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "KANCHIPURAM",
+    "offices": [
+        {
+            "officeName": "Padappai SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 12.1351389,
+            "longitude": 80.0350556
+        },
+        {
+            "officeName": "Malaipattu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 12.913,
+            "longitude": 79.981
+        },
+        {
+            "officeName": "Serpananchery BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 12.858,
+            "longitude": 79.957
+        },
+        {
+            "officeName": "Manimangalam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 12.904,
+            "longitude": 80.12
+        }
+    ]
+}

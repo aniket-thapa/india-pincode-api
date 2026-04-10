@@ -1,0 +1,56 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "RAE BARELI",
+    "offices": [
+        {
+            "officeName": "Bahadur Nagar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Rae Bareilly Division",
+            "latitude": 27.88,
+            "longitude": 78.75
+        },
+        {
+            "officeName": "Churua BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Rae Bareilly Division",
+            "latitude": 32.99,
+            "longitude": 117.26
+        },
+        {
+            "officeName": "Sehgon SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Rae Bareilly Division",
+            "latitude": 26.5512778,
+            "longitude": 81.1270833
+        },
+        {
+            "officeName": "Pindauli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Rae Bareilly Division",
+            "latitude": 26.57,
+            "longitude": 81.16
+        },
+        {
+            "officeName": "Dostpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Rae Bareilly Division",
+            "latitude": 26.27,
+            "longitude": 82.47
+        }
+    ]
+}

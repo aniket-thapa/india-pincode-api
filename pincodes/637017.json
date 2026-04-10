@@ -1,0 +1,66 @@
+{
+    "state": "TAMIL NADU",
+    "district": "NAMAKKAL",
+    "offices": [
+        {
+            "officeName": "Tolur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Namakkal Division",
+            "latitude": 11.144647,
+            "longitude": 78.121776
+        },
+        {
+            "officeName": "Manappalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Namakkal Division",
+            "latitude": 11.100702,
+            "longitude": 78.099804
+        },
+        {
+            "officeName": "S.Vazhavandhi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Namakkal Division",
+            "latitude": 11.117181,
+            "longitude": 78.097057
+        },
+        {
+            "officeName": "Aniyapuram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Namakkal Division",
+            "latitude": 11.152887,
+            "longitude": 78.146496
+        },
+        {
+            "officeName": "K.Pudupalayam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Namakkal Division",
+            "latitude": 11.15838,
+            "longitude": 78.097057
+        },
+        {
+            "officeName": "Palapatti S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Namakkal Division",
+            "latitude": 11.089944,
+            "longitude": 78.067972
+        }
+    ]
+}

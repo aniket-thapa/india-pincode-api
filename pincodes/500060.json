@@ -1,0 +1,36 @@
+{
+    "state": "TELANGANA",
+    "district": "RANGA REDDY",
+    "offices": [
+        {
+            "officeName": "P and T Colony (Gaddiannaram) S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Hyderabad South East Division",
+            "latitude": 17.363066,
+            "longitude": 78.52721
+        },
+        {
+            "officeName": "Chaitanyapuri Colony S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Hyderabad South East Division",
+            "latitude": 17.373441,
+            "longitude": 78.53534
+        },
+        {
+            "officeName": "Dilsukhnagar Colony S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Hyderabad South East Division",
+            "latitude": 17.3678056,
+            "longitude": 78.5293333
+        }
+    ]
+}

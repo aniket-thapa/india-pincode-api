@@ -1,0 +1,26 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "PAURI GARHWAL",
+    "offices": [
+        {
+            "officeName": "Ganga Bhogpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pauri Division",
+            "latitude": 30.086928,
+            "longitude": 78.267612
+        },
+        {
+            "officeName": "Chila Colony SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pauri Division",
+            "latitude": 29.9739444,
+            "longitude": 78.2141389
+        }
+    ]
+}

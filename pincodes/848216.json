@@ -1,0 +1,36 @@
+{
+    "state": "BIHAR",
+    "district": "SAMASTIPUR",
+    "offices": [
+        {
+            "officeName": "Jhakhar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Samastipur Division",
+            "latitude": 25.862968,
+            "longitude": 85.781026
+        },
+        {
+            "officeName": "Bihrha SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Samastipur Division",
+            "latitude": 25.862968,
+            "longitude": 85.781026
+        },
+        {
+            "officeName": "Haripur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Samastipur Division",
+            "latitude": 25.862968,
+            "longitude": 85.781026
+        }
+    ]
+}

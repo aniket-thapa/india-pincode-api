@@ -1,0 +1,46 @@
+{
+    "state": "HARYANA",
+    "district": "HISAR",
+    "offices": [
+        {
+            "officeName": "Hisar Cantt SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hissar Division",
+            "latitude": 29.1123472,
+            "longitude": 75.8183777
+        },
+        {
+            "officeName": "Ladwa BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hissar Division",
+            "latitude": 29.1123472,
+            "longitude": 75.8183777
+        },
+        {
+            "officeName": "Dahima BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hissar Division",
+            "latitude": 29.1123472,
+            "longitude": 75.1883777
+        },
+        {
+            "officeName": "Satroad Kalan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hissar Division",
+            "latitude": 29.1123472,
+            "longitude": 75.8183777
+        }
+    ]
+}

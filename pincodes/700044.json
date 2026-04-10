@@ -1,0 +1,26 @@
+{
+    "state": "WEST BENGAL",
+    "district": "KOLKATA",
+    "offices": [
+        {
+            "officeName": "Badartala SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "South Kolkata Division",
+            "latitude": 22.5521388,
+            "longitude": 88.2626666
+        },
+        {
+            "officeName": "Rajabagan Dock Yard SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "South Kolkata Division",
+            "latitude": 22.5521944,
+            "longitude": 88.2715555
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "ASSAM",
+    "district": "KARIMGANJ",
+    "offices": [
+        {
+            "officeName": "Damcherra Bagan B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Cachar Division",
+            "latitude": 24.5,
+            "longitude": 92.43
+        },
+        {
+            "officeName": "BIDYANAGAR S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Cachar Division",
+            "latitude": 16.0144,
+            "longitude": 40.5751
+        }
+    ]
+}

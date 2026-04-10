@@ -1,0 +1,46 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Eluru",
+    "offices": [
+        {
+            "officeName": "Satynarayanapuram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Eluru Division",
+            "latitude": 16.7529,
+            "longitude": 81.1653
+        },
+        {
+            "officeName": "Sriramvaram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Eluru Division",
+            "latitude": 16.7986,
+            "longitude": 81.2271
+        },
+        {
+            "officeName": "Medinaraopalem B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Eluru Division",
+            "latitude": 16.7578,
+            "longitude": 81.1649
+        },
+        {
+            "officeName": "Denduluru S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Eluru Division",
+            "latitude": 16.7578611,
+            "longitude": 81.1644722
+        }
+    ]
+}

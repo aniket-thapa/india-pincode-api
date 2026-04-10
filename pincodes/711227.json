@@ -1,0 +1,26 @@
+{
+    "state": "WEST BENGAL",
+    "district": "HOWRAH",
+    "offices": [
+        {
+            "officeName": "Anandanagar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Howrah Division",
+            "latitude": 23.7271,
+            "longitude": 91.3177
+        },
+        {
+            "officeName": "Ghoshpara SO Howrah",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Howrah Division",
+            "latitude": 22.5816944,
+            "longitude": 88.3371944
+        }
+    ]
+}

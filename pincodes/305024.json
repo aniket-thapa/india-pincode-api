@@ -1,0 +1,36 @@
+{
+    "state": "RAJASTHAN",
+    "district": "AJMER",
+    "offices": [
+        {
+            "officeName": "Nareli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Ajmer Division",
+            "latitude": 26.4729,
+            "longitude": 74.7152
+        },
+        {
+            "officeName": "Rasoolpura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Ajmer Division",
+            "latitude": 26.4886,
+            "longitude": 74.6956
+        },
+        {
+            "officeName": "Maday S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Ajmer Division",
+            "latitude": 23.7258333,
+            "longitude": 92.7190278
+        }
+    ]
+}

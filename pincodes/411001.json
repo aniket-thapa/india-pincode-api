@@ -1,0 +1,86 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "PUNE",
+    "offices": [
+        {
+            "officeName": "Dr.B.A. Chowk S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune City East Division",
+            "latitude": 18.47558333,
+            "longitude": 73.79619444
+        },
+        {
+            "officeName": "N.W. College S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune City East Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Pune Cantt East S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune City East Division",
+            "latitude": 18.51152778,
+            "longitude": 73.88030556
+        },
+        {
+            "officeName": "Sachapir Street S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune City East Division",
+            "latitude": 18.51394444,
+            "longitude": 73.87658333
+        },
+        {
+            "officeName": "Pune H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune City East Division",
+            "latitude": 18.52322222,
+            "longitude": 73.87586111
+        },
+        {
+            "officeName": "C D A (O) S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune City East Division",
+            "latitude": 18.49975,
+            "longitude": 73.87825
+        },
+        {
+            "officeName": "Ghorpuri Bazar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune City East Division",
+            "latitude": 18.52547222,
+            "longitude": 73.89416667
+        },
+        {
+            "officeName": "Pune New Bazar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune City East Division",
+            "latitude": 18.50683333,
+            "longitude": 73.87988889
+        }
+    ]
+}

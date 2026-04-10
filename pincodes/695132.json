@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "THIRUVANANTHAPURAM",
+    "offices": [
+        {
+            "officeName": "Chenkal SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Trivandrum South Division",
+            "latitude": 8.367524,
+            "longitude": 77.098894
+        },
+        {
+            "officeName": "Vattavila BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Trivandrum South Division",
+            "latitude": 8.37,
+            "longitude": 77.11
+        }
+    ]
+}

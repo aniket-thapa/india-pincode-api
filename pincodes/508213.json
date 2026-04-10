@@ -1,0 +1,36 @@
+{
+    "state": "TELANGANA",
+    "district": "SURYAPET",
+    "offices": [
+        {
+            "officeName": "K.K.Road S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Suryapet Division",
+            "latitude": 17.2353056,
+            "longitude": 79.1059722
+        },
+        {
+            "officeName": "Suryapet H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Suryapet Division",
+            "latitude": 17.138358,
+            "longitude": 79.618493
+        },
+        {
+            "officeName": "Bank Street S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Suryapet Division",
+            "latitude": 17.1380158,
+            "longitude": 79.6242024
+        }
+    ]
+}

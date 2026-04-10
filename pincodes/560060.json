@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "BENGALURU URBAN",
+    "offices": [
+        {
+            "officeName": "Kengeri S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Bengaluru South Division",
+            "latitude": 12.9155752,
+            "longitude": 77.4815823
+        },
+        {
+            "officeName": "Chudenapura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Bengaluru South Division",
+            "latitude": 12.8991172,
+            "longitude": 77.4873329
+        },
+        {
+            "officeName": "Sulikere B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Bengaluru South Division",
+            "latitude": 12.9403266,
+            "longitude": 77.448119
+        }
+    ]
+}

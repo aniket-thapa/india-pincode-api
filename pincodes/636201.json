@@ -1,0 +1,56 @@
+{
+    "state": "TAMIL NADU",
+    "district": "SALEM",
+    "offices": [
+        {
+            "officeName": "Nalikalpatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Salem East Division",
+            "latitude": 11.6037508,
+            "longitude": 78.1343403
+        },
+        {
+            "officeName": "Dasanaickenpatti S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Salem East Division",
+            "latitude": 11.6096164,
+            "longitude": 78.1434431
+        },
+        {
+            "officeName": "Nilavarapatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Salem East Division",
+            "latitude": 11.6059824,
+            "longitude": 78.152708
+        },
+        {
+            "officeName": "Gajjalnaickenpatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Salem East Division",
+            "latitude": 11.5965601,
+            "longitude": 78.1490936
+        },
+        {
+            "officeName": "Seelanaickenpatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Salem East Division",
+            "latitude": 11.6214133,
+            "longitude": 78.1461277
+        }
+    ]
+}

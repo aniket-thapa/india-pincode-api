@@ -1,0 +1,36 @@
+{
+    "state": "GOA",
+    "district": "NORTH GOA",
+    "offices": [
+        {
+            "officeName": "Salvador Do Mundo B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Goa Division",
+            "latitude": 72.98,
+            "longitude": 15.61
+        },
+        {
+            "officeName": "Betim S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Goa Division",
+            "latitude": 15.5079356,
+            "longitude": 73.823949
+        },
+        {
+            "officeName": "Penha De France B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Goa Division",
+            "latitude": 73.83,
+            "longitude": 15.52
+        }
+    ]
+}

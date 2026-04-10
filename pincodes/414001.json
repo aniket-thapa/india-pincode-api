@@ -1,0 +1,56 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "AHMEDNAGAR",
+    "offices": [
+        {
+            "officeName": "Ahmednagar City S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Ahmednagar Division",
+            "latitude": 19.0958333,
+            "longitude": 74.7391111
+        },
+        {
+            "officeName": "Sarjepura S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Ahmednagar Division",
+            "latitude": 19.0976944,
+            "longitude": 74.7371111
+        },
+        {
+            "officeName": "Ahmednagar H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Ahmednagar Division",
+            "latitude": 19.0953184,
+            "longitude": 74.7473232
+        },
+        {
+            "officeName": "Anandibazar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Ahmednagar Division",
+            "latitude": 19.0951944,
+            "longitude": 74.7352778
+        },
+        {
+            "officeName": "M.G.Udyan S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Ahmednagar Division",
+            "latitude": 19.0905278,
+            "longitude": 74.7349444
+        }
+    ]
+}

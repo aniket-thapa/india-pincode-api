@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "KANCHIPURAM",
+    "offices": [
+        {
+            "officeName": "Paraniputhur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 13.008,
+            "longitude": 80.099
+        },
+        {
+            "officeName": "Mangadu SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 13.0270278,
+            "longitude": 80.1105833
+        }
+    ]
+}

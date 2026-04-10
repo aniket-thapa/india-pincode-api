@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "KANNUR",
+    "offices": [
+        {
+            "officeName": "Kottali BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Cannanore Division",
+            "latitude": 11.9069137,
+            "longitude": 75.3811457
+        },
+        {
+            "officeName": "Kakkat SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Cannanore Division",
+            "latitude": 11.874535,
+            "longitude": 75.37019
+        }
+    ]
+}

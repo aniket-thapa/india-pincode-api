@@ -1,0 +1,36 @@
+{
+    "state": "GUJARAT",
+    "district": "ANAND",
+    "offices": [
+        {
+            "officeName": "Kasari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Kheda Division",
+            "latitude": 22.398449,
+            "longitude": 72.899308
+        },
+        {
+            "officeName": "Vadeli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Kheda Division",
+            "latitude": 22.357515,
+            "longitude": 72.8628037
+        },
+        {
+            "officeName": "Jharola SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Kheda Division",
+            "latitude": 22.5591944,
+            "longitude": 72.9641389
+        }
+    ]
+}

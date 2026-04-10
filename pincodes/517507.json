@@ -1,0 +1,76 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Tirupati",
+    "offices": [
+        {
+            "officeName": "A.P.H.B.Colony B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Tirupati Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Satyanarayanapuram NDSO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Tirupati Division",
+            "latitude": 13.5481,
+            "longitude": 79.5446
+        },
+        {
+            "officeName": "Akkarampalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Tirupati Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Tirupati North S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Tirupati Division",
+            "latitude": 13.62875,
+            "longitude": 79.4191667
+        },
+        {
+            "officeName": "R.S.Gardens S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Tirupati Division",
+            "latitude": 13.6352222,
+            "longitude": 79.4063056
+        },
+        {
+            "officeName": "Thimminaidupalem B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Tirupati Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "S.V.Medical College S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Tirupati Division",
+            "latitude": 13.6414167,
+            "longitude": 79.40675
+        }
+    ]
+}

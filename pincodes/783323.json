@@ -1,0 +1,56 @@
+{
+    "state": "ASSAM",
+    "district": "DHUBRI",
+    "offices": [
+        {
+            "officeName": "Dhubri Balurchar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 26.020698,
+            "longitude": 89.974346
+        },
+        {
+            "officeName": "Muthakhowa B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 26.021383,
+            "longitude": 90.000583
+        },
+        {
+            "officeName": "Pocharchar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 25.751627,
+            "longitude": 93.172874
+        },
+        {
+            "officeName": "Amco Road S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 26.0165278,
+            "longitude": 89.9743889
+        },
+        {
+            "officeName": "Aironjongla B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 26.177943,
+            "longitude": 91.737457
+        }
+    ]
+}

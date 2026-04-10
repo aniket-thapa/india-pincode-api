@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "KALABURAGI",
+    "offices": [
+        {
+            "officeName": "Kurkunta B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "YADGIRI DIVISION",
+            "latitude": 17.19,
+            "longitude": 77.36
+        },
+        {
+            "officeName": "Kurkunta C.F S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "YADGIRI DIVISION",
+            "latitude": 16.95,
+            "longitude": 76.83333
+        },
+        {
+            "officeName": "Madkol B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "YADGIRI DIVISION",
+            "latitude": 16.59,
+            "longitude": 77.42
+        }
+    ]
+}

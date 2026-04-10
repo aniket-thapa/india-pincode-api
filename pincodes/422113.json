@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "NASHIK",
+    "offices": [
+        {
+            "officeName": "Ind. Est. Malegaon Sinnar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Nasik Division",
+            "latitude": 19.96415,
+            "longitude": 73.87045
+        },
+        {
+            "officeName": "Paste B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Nasik Division",
+            "latitude": 19.8603152,
+            "longitude": 73.9536113
+        }
+    ]
+}

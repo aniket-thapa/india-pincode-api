@@ -1,0 +1,36 @@
+{
+    "state": "RAJASTHAN",
+    "district": "JODHPUR",
+    "offices": [
+        {
+            "officeName": "Jodhpur Kachery SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Jodhpur Division",
+            "latitude": 26.294421,
+            "longitude": 73.036988
+        },
+        {
+            "officeName": "Jodhpur Mahamandir SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Jodhpur Division",
+            "latitude": 26.3069444,
+            "longitude": 73.0398611
+        },
+        {
+            "officeName": "Rasala Road SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Jodhpur Division",
+            "latitude": 26.298251,
+            "longitude": 73.059048
+        }
+    ]
+}

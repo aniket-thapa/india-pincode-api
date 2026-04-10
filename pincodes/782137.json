@@ -1,0 +1,36 @@
+{
+    "state": "ASSAM",
+    "district": "NAGAON",
+    "offices": [
+        {
+            "officeName": "Bengenaati B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Nagaon Division",
+            "latitude": 26.3338,
+            "longitude": 92.5633
+        },
+        {
+            "officeName": "Kuworitul S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Nagaon Division",
+            "latitude": 26.3338,
+            "longitude": 92.5633
+        },
+        {
+            "officeName": "Pubthoria B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Nagaon Division",
+            "latitude": 26.3338,
+            "longitude": 92.5633
+        }
+    ]
+}

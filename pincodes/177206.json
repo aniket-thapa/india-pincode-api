@@ -1,0 +1,36 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "UNA",
+    "offices": [
+        {
+            "officeName": "Kuthera Jaswalan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Una Division",
+            "latitude": 31.607601,
+            "longitude": 76.116393
+        },
+        {
+            "officeName": "Mawa Sindhian BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Una Division",
+            "latitude": 31.6178,
+            "longitude": 76.107541
+        },
+        {
+            "officeName": "Oel SO Una",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Una Division",
+            "latitude": 31.7785278,
+            "longitude": 76.9975
+        }
+    ]
+}

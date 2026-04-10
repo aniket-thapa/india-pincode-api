@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "VARANASI",
+    "offices": [
+        {
+            "officeName": "Kandawa BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Varanasi West Division",
+            "latitude": 25.3,
+            "longitude": 82.95
+        },
+        {
+            "officeName": "Bazardiha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Varanasi West Division",
+            "latitude": 25.3,
+            "longitude": 82.95
+        },
+        {
+            "officeName": "Phulawaria BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Varanasi West Division",
+            "latitude": 25.3,
+            "longitude": 82.95
+        },
+        {
+            "officeName": "Industrial Estate Varanasi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Varanasi West Division",
+            "latitude": 25.3121526,
+            "longitude": 82.9561518
+        }
+    ]
+}

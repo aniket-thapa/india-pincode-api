@@ -1,0 +1,46 @@
+{
+    "state": "DELHI",
+    "district": "SOUTH WEST",
+    "offices": [
+        {
+            "officeName": "Kangan Heri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.546186,
+            "longitude": 76.990187
+        },
+        {
+            "officeName": "Chhawla S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.5613,
+            "longitude": 77.001911
+        },
+        {
+            "officeName": "Badusarai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.529595,
+            "longitude": 76.986468
+        },
+        {
+            "officeName": "Qutub Vihar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.574806,
+            "longitude": 77.627685
+        }
+    ]
+}

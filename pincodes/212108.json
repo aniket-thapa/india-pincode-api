@@ -1,0 +1,76 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "PRAYAGRAJ",
+    "offices": [
+        {
+            "officeName": "Lakhnauti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Prayagraj Division",
+            "latitude": 25.24482,
+            "longitude": 81.871541
+        },
+        {
+            "officeName": "Bhandiwar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Prayagraj Division",
+            "latitude": 25.453182,
+            "longitude": 81.827474
+        },
+        {
+            "officeName": "Shankargarh SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Prayagraj Division",
+            "latitude": 25.19077,
+            "longitude": 81.61173
+        },
+        {
+            "officeName": "Bemra BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Prayagraj Division",
+            "latitude": 25.104623,
+            "longitude": 82.133282
+        },
+        {
+            "officeName": "Newadhiya Uparhar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Prayagraj Division",
+            "latitude": 25.3027,
+            "longitude": 81.8117
+        },
+        {
+            "officeName": "Bihariya BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Prayagraj Division",
+            "latitude": 25.227881,
+            "longitude": 81.540444
+        },
+        {
+            "officeName": "Basahra Uparhar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Prayagraj Division",
+            "latitude": 25.104623,
+            "longitude": 82.133282
+        }
+    ]
+}

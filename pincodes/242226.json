@@ -1,0 +1,56 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "SHAHJAHANPUR",
+    "offices": [
+        {
+            "officeName": "Azizganj BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Shahjahanpur Division",
+            "latitude": 27.8837,
+            "longitude": 79.9122
+        },
+        {
+            "officeName": "Jamaur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Shahjahanpur Division",
+            "latitude": 27.8837,
+            "longitude": 79.9122
+        },
+        {
+            "officeName": "Dadraul BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Shahjahanpur Division",
+            "latitude": 27.8837,
+            "longitude": 79.9122
+        },
+        {
+            "officeName": "Raikhera BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Shahjahanpur Division",
+            "latitude": 27.8837,
+            "longitude": 79.9122
+        },
+        {
+            "officeName": "M Ashram SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Shahjahanpur Division",
+            "latitude": 27.8923889,
+            "longitude": 79.9173056
+        }
+    ]
+}

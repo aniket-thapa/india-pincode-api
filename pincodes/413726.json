@@ -1,0 +1,66 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "AHMEDNAGAR",
+    "offices": [
+        {
+            "officeName": "Vangdari B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Ahmednagar Division",
+            "latitude": 18.39,
+            "longitude": 74.48
+        },
+        {
+            "officeName": "Shrigonda SSK S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Ahmednagar Division",
+            "latitude": 18.5935737,
+            "longitude": 74.6243225
+        },
+        {
+            "officeName": "Chikhalthanwadi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Ahmednagar Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Limpangaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Ahmednagar Division",
+            "latitude": 18.45,
+            "longitude": 74.54
+        },
+        {
+            "officeName": "Math Pimpari B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Ahmednagar Division",
+            "latitude": 18.41,
+            "longitude": 74.5
+        },
+        {
+            "officeName": "Madhe Wadgaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Ahmednagar Division",
+            "latitude": 18.43,
+            "longitude": 74.52
+        }
+    ]
+}

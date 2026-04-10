@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "COIMBATORE",
+    "offices": [
+        {
+            "officeName": "Vellalore SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Coimbatore Division",
+            "latitude": 11.006,
+            "longitude": 76.96895
+        },
+        {
+            "officeName": "Vellalapalayam Podanur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Coimbatore Division",
+            "latitude": 10.97541,
+            "longitude": 77.028365
+        }
+    ]
+}

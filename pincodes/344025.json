@@ -1,0 +1,36 @@
+{
+    "state": "RAJASTHAN",
+    "district": "BARMER",
+    "offices": [
+        {
+            "officeName": "Variya Tagji",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Barmer Division",
+            "latitude": 25.7685182,
+            "longitude": 72.087889
+        },
+        {
+            "officeName": "Variya (Bhagji)",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Barmer Division",
+            "latitude": 25.7548261,
+            "longitude": 72.111847
+        },
+        {
+            "officeName": "Mewanagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Barmer Division",
+            "latitude": 25.7955833,
+            "longitude": 72.1528611
+        }
+    ]
+}

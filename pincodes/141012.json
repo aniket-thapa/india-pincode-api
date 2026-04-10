@@ -1,0 +1,26 @@
+{
+    "state": "PUNJAB",
+    "district": "LUDHIANA",
+    "offices": [
+        {
+            "officeName": "New Rajguru Nagar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ludhiana City Division",
+            "latitude": 30.877874,
+            "longitude": 75.780026
+        },
+        {
+            "officeName": "Rajguru Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ludhiana City Division",
+            "latitude": 30.8803889,
+            "longitude": 75.7908333
+        }
+    ]
+}

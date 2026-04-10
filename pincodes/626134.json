@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "VIRUDHUNAGAR",
+    "offices": [
+        {
+            "officeName": "Vadhuvarpatti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Virudhunagar Division",
+            "latitude": 9.42,
+            "longitude": 78.04
+        },
+        {
+            "officeName": "Chettikurichi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Virudhunagar Division",
+            "latitude": 9.4483,
+            "longitude": 78.08697
+        },
+        {
+            "officeName": "Chidambarapuram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Virudhunagar Division",
+            "latitude": 9.44,
+            "longitude": 78.08
+        },
+        {
+            "officeName": "Pappakudi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Virudhunagar Division",
+            "latitude": 9.39,
+            "longitude": 78.02
+        }
+    ]
+}

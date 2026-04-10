@@ -1,0 +1,56 @@
+{
+    "state": "HARYANA",
+    "district": "SONIPAT",
+    "offices": [
+        {
+            "officeName": "PSRai SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sonepat Division",
+            "latitude": 28.9253611,
+            "longitude": 77.1035833
+        },
+        {
+            "officeName": "Pritampura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sonepat Division",
+            "latitude": 28.98,
+            "longitude": 77.1
+        },
+        {
+            "officeName": "Jatheri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sonepat Division",
+            "latitude": 28.98,
+            "longitude": 77.1
+        },
+        {
+            "officeName": "Nathupur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sonepat Division",
+            "latitude": 28.98,
+            "longitude": 77.1
+        },
+        {
+            "officeName": "Rai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sonepat Division",
+            "latitude": 28.98,
+            "longitude": 77.1
+        }
+    ]
+}

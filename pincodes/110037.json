@@ -1,0 +1,56 @@
+{
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "offices": [
+        {
+            "officeName": "Mahipalpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South West Division",
+            "latitude": 28.54,
+            "longitude": 77.12
+        },
+        {
+            "officeName": "Nangal Dewat BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South West Division",
+            "latitude": 28.5302777,
+            "longitude": 77.1155277
+        },
+        {
+            "officeName": "Gurgaon Road SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South West Division",
+            "latitude": 28.545674,
+            "longitude": 77.123159
+        },
+        {
+            "officeName": "Palam Airport SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South West Division",
+            "latitude": 28.5745556,
+            "longitude": 77.0975556
+        },
+        {
+            "officeName": "IGI Airport SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South West Division",
+            "latitude": 28.5556389,
+            "longitude": 77.0845556
+        }
+    ]
+}

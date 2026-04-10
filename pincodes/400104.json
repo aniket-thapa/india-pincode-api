@@ -1,0 +1,46 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI SUBURBAN",
+    "offices": [
+        {
+            "officeName": "Bangur Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North West Division",
+            "latitude": 19.1668889,
+            "longitude": 72.8333889
+        },
+        {
+            "officeName": "Goregaon RS SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North West Division",
+            "latitude": 19.1668333,
+            "longitude": 72.849
+        },
+        {
+            "officeName": "Motilal Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North West Division",
+            "latitude": 19.15763956,
+            "longitude": 72.83783227
+        },
+        {
+            "officeName": "Goregaon SO Mumbai",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North West Division",
+            "latitude": 19.23433,
+            "longitude": 72.8238341
+        }
+    ]
+}

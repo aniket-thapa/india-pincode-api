@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "PALAKKAD",
+    "offices": [
+        {
+            "officeName": "Lakkidi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Ottapalam Division",
+            "latitude": 10.75751384,
+            "longitude": 76.43637235
+        },
+        {
+            "officeName": "MangalamOPM BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Ottapalam Division",
+            "latitude": 10.7542,
+            "longitude": 76.4359
+        }
+    ]
+}

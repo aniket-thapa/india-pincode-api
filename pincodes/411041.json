@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "PUNE",
+    "offices": [
+        {
+            "officeName": "Vadgaon Budruk S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune City West Division",
+            "latitude": 18.4508056,
+            "longitude": 73.8119167
+        },
+        {
+            "officeName": "Sinhgad Technical Education Society",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune City West Division",
+            "latitude": 18.5153889,
+            "longitude": 73.8567778
+        }
+    ]
+}

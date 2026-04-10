@@ -1,0 +1,26 @@
+{
+    "state": "PUNJAB",
+    "district": "Shahid Bhagat Singh Nagar",
+    "offices": [
+        {
+            "officeName": "Phambra BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Jalandhar Division",
+            "latitude": 31.0684,
+            "longitude": 76.0024
+        },
+        {
+            "officeName": "Aur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Jalandhar Division",
+            "latitude": 31.06830906,
+            "longitude": 75.99948044
+        }
+    ]
+}

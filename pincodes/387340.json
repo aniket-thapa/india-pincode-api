@@ -1,0 +1,36 @@
+{
+    "state": "GUJARAT",
+    "district": "KHEDA",
+    "offices": [
+        {
+            "officeName": "Mahisa SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Kheda Division",
+            "latitude": 22.7525,
+            "longitude": 72.6844722
+        },
+        {
+            "officeName": "Nizampura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Kheda Division",
+            "latitude": 15.5934,
+            "longitude": 73.2799
+        },
+        {
+            "officeName": "Vasna BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Kheda Division",
+            "latitude": 15.5934,
+            "longitude": 73.5033
+        }
+    ]
+}

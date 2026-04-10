@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Bapatla",
+    "offices": [
+        {
+            "officeName": "Vetapalem S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Prakasam Division",
+            "latitude": 15.782404,
+            "longitude": 80.30611
+        },
+        {
+            "officeName": "Desaipet B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Prakasam Division",
+            "latitude": 15.792419,
+            "longitude": 80.318202
+        },
+        {
+            "officeName": "Ravuri Pet S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Prakasam Division",
+            "latitude": 15.776953,
+            "longitude": 80.305563
+        }
+    ]
+}

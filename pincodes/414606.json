@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "AHMEDNAGAR",
+    "offices": [
+        {
+            "officeName": "Chanda S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Ahmednagar Division",
+            "latitude": 19.3641667,
+            "longitude": 74.9313056
+        },
+        {
+            "officeName": "Kauthe B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Ahmednagar Division",
+            "latitude": 19.36,
+            "longitude": 74.92
+        },
+        {
+            "officeName": "Rastapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Ahmednagar Division",
+            "latitude": 19.34,
+            "longitude": 74.91
+        }
+    ]
+}

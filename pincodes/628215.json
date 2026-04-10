@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "TUTICORIN",
+    "offices": [
+        {
+            "officeName": "Amalinagar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Tuticorin Division",
+            "latitude": 8.488639,
+            "longitude": 78.121281
+        },
+        {
+            "officeName": "Tiruchendur H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Tuticorin Division",
+            "latitude": 8.5001667,
+            "longitude": 78.1251389
+        }
+    ]
+}

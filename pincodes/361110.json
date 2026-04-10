@@ -1,0 +1,56 @@
+{
+    "state": "GUJARAT",
+    "district": "JAMNAGAR",
+    "offices": [
+        {
+            "officeName": "Moda BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Jamnagar Division",
+            "latitude": 22.44,
+            "longitude": 70.24
+        },
+        {
+            "officeName": "Bada BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Jamnagar Division",
+            "latitude": 22.4,
+            "longitude": 70.46
+        },
+        {
+            "officeName": "Beraja Pasaya BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Jamnagar Division",
+            "latitude": 22.4,
+            "longitude": 70.2
+        },
+        {
+            "officeName": "Mota Thavaria BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Jamnagar Division",
+            "latitude": 22.43,
+            "longitude": 70.17
+        },
+        {
+            "officeName": "Aliabada SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Jamnagar Division",
+            "latitude": 22.446421,
+            "longitude": 70.244836
+        }
+    ]
+}

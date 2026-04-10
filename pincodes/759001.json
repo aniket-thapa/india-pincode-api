@@ -1,0 +1,36 @@
+{
+    "state": "ODISHA",
+    "district": "DHENKANAL",
+    "offices": [
+        {
+            "officeName": "Dhenkanal H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Dhenkanal Division",
+            "latitude": 20.6540833,
+            "longitude": 85.5993333
+        },
+        {
+            "officeName": "Dhenkanal College S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Dhenkanal Division",
+            "latitude": 20.6419883,
+            "longitude": 85.6146533
+        },
+        {
+            "officeName": "Jubuli Town S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Dhenkanal Division",
+            "latitude": 20.6472216,
+            "longitude": 85.5878666
+        }
+    ]
+}

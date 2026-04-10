@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "TIRUCHIRAPPALLI",
+    "offices": [
+        {
+            "officeName": "Gunasilam S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Srirangam Division",
+            "latitude": 10.9,
+            "longitude": 78.57
+        },
+        {
+            "officeName": "Amur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Srirangam Division",
+            "latitude": 10.92,
+            "longitude": 78.55
+        },
+        {
+            "officeName": "Vathalai Gudalur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Srirangam Division",
+            "latitude": 10.9,
+            "longitude": 78.58
+        },
+        {
+            "officeName": "Sithambur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Srirangam Division",
+            "latitude": 10.91,
+            "longitude": 78.58
+        }
+    ]
+}

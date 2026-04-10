@@ -1,0 +1,46 @@
+{
+    "state": "KARNATAKA",
+    "district": "BENGALURU RURAL",
+    "offices": [
+        {
+            "officeName": "Bendiganahalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Channapatna Division",
+            "latitude": 13.22,
+            "longitude": 77.83
+        },
+        {
+            "officeName": "Sulebele S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Bengaluru East Division",
+            "latitude": 13.1854722,
+            "longitude": 77.8023889
+        },
+        {
+            "officeName": "Reddihalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Channapatna Division",
+            "latitude": 13.15,
+            "longitude": 77.81
+        },
+        {
+            "officeName": "Ibasapura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Channapatna Division",
+            "latitude": 13.24,
+            "longitude": 77.82
+        }
+    ]
+}

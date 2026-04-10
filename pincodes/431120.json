@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "AURANGABAD",
+    "offices": [
+        {
+            "officeName": "Jarandi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Chhatrapati Sambhajinagar Division",
+            "latitude": 20.58438,
+            "longitude": 75.59572
+        },
+        {
+            "officeName": "Soegaon S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Chhatrapati Sambhajinagar Division",
+            "latitude": 20.599144,
+            "longitude": 75.617717
+        },
+        {
+            "officeName": "Bahulkheda B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Chhatrapati Sambhajinagar Division",
+            "latitude": 20.300011,
+            "longitude": 75.64999
+        }
+    ]
+}

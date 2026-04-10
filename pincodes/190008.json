@@ -1,0 +1,26 @@
+{
+    "state": "JAMMU AND KASHMIR",
+    "district": "SRINAGAR",
+    "offices": [
+        {
+            "officeName": "Jawahar Nagar",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 34.0579,
+            "longitude": 74.8167
+        },
+        {
+            "officeName": "Rajbagh SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 34.0633611,
+            "longitude": 74.8227222
+        }
+    ]
+}

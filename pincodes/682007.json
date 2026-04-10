@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "ERNAKULAM",
+    "offices": [
+        {
+            "officeName": "Kumbalangi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Ernakulam Division",
+            "latitude": 9.88275,
+            "longitude": 76.28616667
+        },
+        {
+            "officeName": "Kumbalangi South BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Ernakulam Division",
+            "latitude": 9.8832188,
+            "longitude": 76.2871086
+        }
+    ]
+}

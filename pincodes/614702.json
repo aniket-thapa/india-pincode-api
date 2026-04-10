@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "THIRUVARUR",
+    "offices": [
+        {
+            "officeName": "Ariyalur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Pattukottai Division",
+            "latitude": 10.49,
+            "longitude": 79.56
+        },
+        {
+            "officeName": "Devadanam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Pattukottai Division",
+            "latitude": 10.49,
+            "longitude": 79.53
+        },
+        {
+            "officeName": "Idaiyur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Pattukottai Division",
+            "latitude": 10.4713611,
+            "longitude": 79.5867778
+        },
+        {
+            "officeName": "Kulamanickam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Pattukottai Division",
+            "latitude": 10.51,
+            "longitude": 79.54
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "state": "TAMIL NADU",
+    "district": "VIRUDHUNAGAR",
+    "offices": [
+        {
+            "officeName": "Appayanaickenpatti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Virudhunagar Division",
+            "latitude": 9.29,
+            "longitude": 77.66
+        },
+        {
+            "officeName": "Tamilnadu Cements Alangulam SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Virudhunagar Division",
+            "latitude": 9.38,
+            "longitude": 77.68
+        },
+        {
+            "officeName": "Alangulam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Virudhunagar Division",
+            "latitude": 9.36,
+            "longitude": 77.67
+        },
+        {
+            "officeName": "Valayapatti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Virudhunagar Division",
+            "latitude": 9.32,
+            "longitude": 77.67
+        },
+        {
+            "officeName": "Melanmarainadu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Virudhunagar Division",
+            "latitude": 9.3,
+            "longitude": 77.65
+        },
+        {
+            "officeName": "Lakshmipuram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Virudhunagar Division",
+            "latitude": 9.35,
+            "longitude": 77.69
+        }
+    ]
+}

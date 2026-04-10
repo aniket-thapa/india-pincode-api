@@ -1,0 +1,56 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "MAU",
+    "offices": [
+        {
+            "officeName": "Kahinaur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Azamgarh Division",
+            "latitude": 25.94,
+            "longitude": 83.55
+        },
+        {
+            "officeName": "Mau RS SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Azamgarh Division",
+            "latitude": 25.9377778,
+            "longitude": 83.5633889
+        },
+        {
+            "officeName": "Mirjahadipura Chowk SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Azamgarh Division",
+            "latitude": 25.9590833,
+            "longitude": 83.5453889
+        },
+        {
+            "officeName": "Mau HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Azamgarh Division",
+            "latitude": 25.9454152,
+            "longitude": 83.5669856
+        },
+        {
+            "officeName": "Mau Town SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Azamgarh Division",
+            "latitude": 25.9518889,
+            "longitude": 83.5551944
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "RAJASTHAN",
+    "district": "JALORE",
+    "offices": [
+        {
+            "officeName": "Puran B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 24.772034,
+            "longitude": 72.342953
+        },
+        {
+            "officeName": "Surajwara B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 24.739401,
+            "longitude": 72.286711
+        },
+        {
+            "officeName": "Malwara S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 24.778297,
+            "longitude": 72.288191
+        },
+        {
+            "officeName": "Akhrad B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 24.809636,
+            "longitude": 72.251183
+        }
+    ]
+}

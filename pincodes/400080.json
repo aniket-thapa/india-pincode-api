@@ -1,0 +1,56 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI SUBURBAN",
+    "offices": [
+        {
+            "officeName": "Mulund Dd Road SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North East Division",
+            "latitude": 19.1766667,
+            "longitude": 72.9516667
+        },
+        {
+            "officeName": "Nehru Road SO Mumbai",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North East Division",
+            "latitude": 19.1143888,
+            "longitude": 72.9331111
+        },
+        {
+            "officeName": "Mulund West SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North East Division",
+            "latitude": 19.173993,
+            "longitude": 72.955955
+        },
+        {
+            "officeName": "Nahur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North East Division",
+            "latitude": 19.1720278,
+            "longitude": 72.9448611
+        },
+        {
+            "officeName": "SB Road SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North East Division",
+            "latitude": 19.1763333,
+            "longitude": 72.9533611
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "ASSAM",
+    "district": "LAKHIMPUR",
+    "offices": [
+        {
+            "officeName": "Katri Chapori B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Dibrugarh Division",
+            "latitude": 27.46,
+            "longitude": 94.23
+        },
+        {
+            "officeName": "Pathalipam S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Dibrugarh Division",
+            "latitude": 27.445,
+            "longitude": 94.2052
+        },
+        {
+            "officeName": "Subansiri Koibarta Adarsha Gao B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Dibrugarh Division",
+            "latitude": 27.46,
+            "longitude": 94.23
+        },
+        {
+            "officeName": "Ukhamati B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Dibrugarh Division",
+            "latitude": 27.46,
+            "longitude": 94.23
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "state": "TAMIL NADU",
+    "district": "PERAMBALUR",
+    "offices": [
+        {
+            "officeName": "Thaluthalai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Srirangam Division",
+            "latitude": 78.75,
+            "longitude": 77.38
+        },
+        {
+            "officeName": "Arumbavur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Srirangam Division",
+            "latitude": 11.38,
+            "longitude": 78.73
+        },
+        {
+            "officeName": "Panampatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Srirangam Division",
+            "latitude": 11.34,
+            "longitude": 78.66
+        },
+        {
+            "officeName": "Thondamandurai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Srirangam Division",
+            "latitude": 11.36,
+            "longitude": 78.76
+        },
+        {
+            "officeName": "A.Mettur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Srirangam Division",
+            "latitude": 11.38,
+            "longitude": 78.73
+        },
+        {
+            "officeName": "Vengalam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Srirangam Division",
+            "latitude": 11.37,
+            "longitude": 78.78
+        }
+    ]
+}

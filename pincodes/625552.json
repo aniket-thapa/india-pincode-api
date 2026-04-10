@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "THENI",
+    "offices": [
+        {
+            "officeName": "Kujjanur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Theni Division",
+            "latitude": 9.87739,
+            "longitude": 77.3755
+        },
+        {
+            "officeName": "Markayankottai S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Theni Division",
+            "latitude": 9.853715,
+            "longitude": 77.359367
+        },
+        {
+            "officeName": "Koolayanur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Theni Division",
+            "latitude": 9.9107,
+            "longitude": 77.3902
+        }
+    ]
+}

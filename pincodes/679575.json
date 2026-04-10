@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "MALAPPURAM",
+    "offices": [
+        {
+            "officeName": "Nannamukku South BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Tirur Division",
+            "latitude": 10.7192814,
+            "longitude": 76.0250368
+        },
+        {
+            "officeName": "Nannamukku SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Tirur Division",
+            "latitude": 10.733361,
+            "longitude": 76.0285341
+        },
+        {
+            "officeName": "Cheruvallur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Tirur Division",
+            "latitude": 10.2519353,
+            "longitude": 76.3332066
+        }
+    ]
+}

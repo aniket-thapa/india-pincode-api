@@ -1,0 +1,36 @@
+{
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+        {
+            "officeName": "Raipur RS B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Raipur Division",
+            "latitude": 21.2571,
+            "longitude": 81.6296
+        },
+        {
+            "officeName": "Gudhiyari SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Raipur Division",
+            "latitude": 21.2661944,
+            "longitude": 81.62225
+        },
+        {
+            "officeName": "Raipur Ganj SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Raipur Division",
+            "latitude": 21.23784,
+            "longitude": 81.70542
+        }
+    ]
+}

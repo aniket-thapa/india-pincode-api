@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "THRISSUR",
+    "offices": [
+        {
+            "officeName": "Vatanapally Beach BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Trichur Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Vatanappally SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Trichur Division",
+            "latitude": 10.472259,
+            "longitude": 76.078852
+        },
+        {
+            "officeName": "Naduvilkkara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Trichur Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

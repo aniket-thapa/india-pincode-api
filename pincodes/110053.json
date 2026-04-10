@@ -1,0 +1,86 @@
+{
+    "state": "DELHI",
+    "district": "NORTH EAST",
+    "offices": [
+        {
+            "officeName": "Brahampuri SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.6871944,
+            "longitude": 77.2633056
+        },
+        {
+            "officeName": "Yamuna Vihar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.7006667,
+            "longitude": 77.2776389
+        },
+        {
+            "officeName": "Jagjit Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.6870833,
+            "longitude": 77.2591111
+        },
+        {
+            "officeName": "New Usmanpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.69225,
+            "longitude": 77.3042222
+        },
+        {
+            "officeName": "Maujpur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.69225,
+            "longitude": 77.2705556
+        },
+        {
+            "officeName": "Bhajan Pura SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.7020833,
+            "longitude": 77.26425
+        },
+        {
+            "officeName": "Seelampur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.6737778,
+            "longitude": 77.2763889
+        },
+        {
+            "officeName": "Garhi Mandu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.38,
+            "longitude": 77.12
+        }
+    ]
+}

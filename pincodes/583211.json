@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "VIJAYNAGAR",
+    "offices": [
+        {
+            "officeName": "Hosur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Ballari Division",
+            "latitude": 15.2715764,
+            "longitude": 76.3770842
+        },
+        {
+            "officeName": "Nagenahalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Ballari Division",
+            "latitude": 15.2989134,
+            "longitude": 76.4033269
+        },
+        {
+            "officeName": "Chitwadgi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Ballari Division",
+            "latitude": 15.2808665,
+            "longitude": 76.3773317
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "CHENNAI",
+    "offices": [
+        {
+            "officeName": "Mandaveli S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City Central Division",
+            "latitude": 13.0294444,
+            "longitude": 80.26675
+        },
+        {
+            "officeName": "Mylapore H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City Central Division",
+            "latitude": 13.0356389,
+            "longitude": 80.2720278
+        },
+        {
+            "officeName": "Vivekananda College Madras S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City Central Division",
+            "latitude": 12.0416111,
+            "longitude": 80.0975833
+        }
+    ]
+}

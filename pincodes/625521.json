@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "THENI",
+    "offices": [
+        {
+            "officeName": "Narayanathevanpatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Theni Division",
+            "latitude": 9.7112307,
+            "longitude": 77.288754
+        },
+        {
+            "officeName": "Kamayakoundanpatti S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Theni Division",
+            "latitude": 9.747887,
+            "longitude": 77.323837
+        }
+    ]
+}

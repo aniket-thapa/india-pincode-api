@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "THIRUVALLUR",
+    "offices": [
+        {
+            "officeName": "Madduru S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Kanchipuram Division",
+            "latitude": 13.22863,
+            "longitude": 79.50975
+        },
+        {
+            "officeName": "Krishnasamudram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Kanchipuram Division",
+            "latitude": 13.2672,
+            "longitude": 79.5381
+        },
+        {
+            "officeName": "Ramasamudram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Kanchipuram Division",
+            "latitude": 13.173312,
+            "longitude": 79.6167559
+        },
+        {
+            "officeName": "Buchireddipalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Kanchipuram Division",
+            "latitude": 13.173315,
+            "longitude": 79.6167529
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "ERNAKULAM",
+    "offices": [
+        {
+            "officeName": "Mulavukad SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Ernakulam Division",
+            "latitude": 10.01858333,
+            "longitude": 76.25669444
+        },
+        {
+            "officeName": "Vallarpadam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Ernakulam Division",
+            "latitude": 9.9965631,
+            "longitude": 76.2508086
+        }
+    ]
+}

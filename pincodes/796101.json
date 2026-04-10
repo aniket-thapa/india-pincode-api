@@ -1,0 +1,36 @@
+{
+    "state": "MIZORAM",
+    "district": "KOLASIB",
+    "offices": [
+        {
+            "officeName": "Saiphai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - I Region",
+            "divisionName": "Mizoram Division",
+            "latitude": 24.4066879,
+            "longitude": 92.7950119
+        },
+        {
+            "officeName": "Phainuam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - I Region",
+            "divisionName": "Mizoram Division",
+            "latitude": 24.4682343,
+            "longitude": 92.7819013
+        },
+        {
+            "officeName": "Vairengte S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - I Region",
+            "divisionName": "Mizoram Division",
+            "latitude": 24.225321,
+            "longitude": 92.676727
+        }
+    ]
+}

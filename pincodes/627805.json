@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "TENKASI",
+    "offices": [
+        {
+            "officeName": "Ayyapuram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kovilpatti Division",
+            "latitude": 8.966,
+            "longitude": 77.2587
+        },
+        {
+            "officeName": "Ilanji S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kovilpatti Division",
+            "latitude": 8.9457,
+            "longitude": 77.2513
+        },
+        {
+            "officeName": "Kottakulam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kovilpatti Division",
+            "latitude": 8.9549,
+            "longitude": 77.2519
+        }
+    ]
+}

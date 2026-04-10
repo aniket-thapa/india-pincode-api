@@ -1,0 +1,36 @@
+{
+    "state": "ODISHA",
+    "district": "BALESHWAR",
+    "offices": [
+        {
+            "officeName": "Sugo B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Balasore Division",
+            "latitude": 21.79858,
+            "longitude": 87.2856716
+        },
+        {
+            "officeName": "Netua B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Balasore Division",
+            "latitude": 21.79072,
+            "longitude": 87.2978799
+        },
+        {
+            "officeName": "Dhansimulia S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Balasore Division",
+            "latitude": 21.79655,
+            "longitude": 87.2282
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "BARABANKI",
+    "offices": [
+        {
+            "officeName": "Neoli Danapur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Barabanki Division",
+            "latitude": 26.98995,
+            "longitude": 81.4151
+        },
+        {
+            "officeName": "Pahroopur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Barabanki Division",
+            "latitude": 26.87755,
+            "longitude": 81.51125
+        },
+        {
+            "officeName": "Patulki BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Barabanki Division",
+            "latitude": 26.8175028,
+            "longitude": 81.566491
+        },
+        {
+            "officeName": "Dariyabad RS SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Barabanki Division",
+            "latitude": 26.885054,
+            "longitude": 81.554902
+        }
+    ]
+}

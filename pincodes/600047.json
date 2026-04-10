@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "CHENGALPATTU",
+    "offices": [
+        {
+            "officeName": "Tambaram Sanatorium SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 12.942149,
+            "longitude": 80.133706
+        },
+        {
+            "officeName": "Kadaperi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 12.925,
+            "longitude": 80.108
+        }
+    ]
+}

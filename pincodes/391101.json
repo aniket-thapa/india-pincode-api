@@ -1,0 +1,36 @@
+{
+    "state": "GUJARAT",
+    "district": "VADODARA",
+    "offices": [
+        {
+            "officeName": "Sevasi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Vadodara West Division",
+            "latitude": 22.3035833,
+            "longitude": 73.1976944
+        },
+        {
+            "officeName": "Ampad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Vadodara West Division",
+            "latitude": 22.31,
+            "longitude": 73.14
+        },
+        {
+            "officeName": "Gotri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Vadodara West Division",
+            "latitude": 15.59,
+            "longitude": 88.54
+        }
+    ]
+}

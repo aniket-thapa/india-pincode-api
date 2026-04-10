@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "NASHIK",
+    "offices": [
+        {
+            "officeName": "Kotamgaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Nasik Division",
+            "latitude": 19.9568914,
+            "longitude": 73.9036397
+        },
+        {
+            "officeName": "TP Station Eklahre S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Nasik Division",
+            "latitude": 19.9264,
+            "longitude": 73.76605
+        }
+    ]
+}

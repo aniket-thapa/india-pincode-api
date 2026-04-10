@@ -1,0 +1,46 @@
+{
+    "state": "JAMMU AND KASHMIR",
+    "district": "SRINAGAR",
+    "offices": [
+        {
+            "officeName": "Paipora BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 34.104983,
+            "longitude": 74.673205
+        },
+        {
+            "officeName": "Gund Hassibhat BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 34.111853,
+            "longitude": 74.692949
+        },
+        {
+            "officeName": "Parimpora SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 34.105,
+            "longitude": 74.7579444
+        },
+        {
+            "officeName": "Bashipora BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 34.076749,
+            "longitude": 74.628679
+        }
+    ]
+}

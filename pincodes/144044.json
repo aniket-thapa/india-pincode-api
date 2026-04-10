@@ -1,0 +1,36 @@
+{
+    "state": "PUNJAB",
+    "district": "JALANDHAR",
+    "offices": [
+        {
+            "officeName": "SIDHWAN R S SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Kapurthala Division",
+            "latitude": 31.128403,
+            "longitude": 75.474732
+        },
+        {
+            "officeName": "Bath Kalan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Kapurthala Division",
+            "latitude": 31.52747,
+            "longitude": 75.8066
+        },
+        {
+            "officeName": "Maheem BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Kapurthala Division",
+            "latitude": 31.52747,
+            "longitude": 75.8066
+        }
+    ]
+}

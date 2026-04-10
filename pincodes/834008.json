@@ -1,0 +1,56 @@
+{
+    "state": "JHARKHAND",
+    "district": "RANCHI",
+    "offices": [
+        {
+            "officeName": "Ranchi University SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ranchi Division",
+            "latitude": 23.3922222,
+            "longitude": 85.31375
+        },
+        {
+            "officeName": "Adalhatu SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ranchi Division",
+            "latitude": 25.130565,
+            "longitude": 83.034795
+        },
+        {
+            "officeName": "Morabadi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ranchi Division",
+            "latitude": 23.3844167,
+            "longitude": 85.3298889
+        },
+        {
+            "officeName": "New Area Marabadi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ranchi Division",
+            "latitude": 23.3983611,
+            "longitude": 85.3311944
+        },
+        {
+            "officeName": "Kanke Road SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ranchi Division",
+            "latitude": 23.4023611,
+            "longitude": 85.31525
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "KARNATAKA",
+    "district": "BELAGAVI",
+    "offices": [
+        {
+            "officeName": "Ugargol B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Belagavi Division",
+            "latitude": 15.75,
+            "longitude": 75.17
+        },
+        {
+            "officeName": "Yallammahill S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Belagavi Division",
+            "latitude": 15.8523889,
+            "longitude": 74.5108056
+        }
+    ]
+}

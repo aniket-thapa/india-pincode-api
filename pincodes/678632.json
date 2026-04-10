@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "PALAKKAD",
+    "offices": [
+        {
+            "officeName": "Ummanazhi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Ottapalam Division",
+            "latitude": 15.5934,
+            "longitude": 76.4064
+        },
+        {
+            "officeName": "Konikazhi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Ottapalam Division",
+            "latitude": 10.4775,
+            "longitude": 76.4064
+        },
+        {
+            "officeName": "Pulappatta SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Ottapalam Division",
+            "latitude": 10.8978469,
+            "longitude": 76.4806707
+        }
+    ]
+}

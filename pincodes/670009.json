@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "KANNUR",
+    "offices": [
+        {
+            "officeName": "Azhikode South BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Cannanore Division",
+            "latitude": 11.877633,
+            "longitude": 75.3721399
+        },
+        {
+            "officeName": "Azhikkal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Cannanore Division",
+            "latitude": 11.9458753,
+            "longitude": 75.3041367
+        },
+        {
+            "officeName": "Azhikode SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Cannanore Division",
+            "latitude": 11.874535,
+            "longitude": 75.37019
+        }
+    ]
+}

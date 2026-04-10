@@ -1,0 +1,46 @@
+{
+    "state": "GOA",
+    "district": "NORTH GOA",
+    "offices": [
+        {
+            "officeName": "Parxem B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Goa Division",
+            "latitude": 73.03,
+            "longitude": 16.3
+        },
+        {
+            "officeName": "Siolim S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Goa Division",
+            "latitude": 15.6309247,
+            "longitude": 73.7641882
+        },
+        {
+            "officeName": "Agarwada B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Goa Division",
+            "latitude": 73.03,
+            "longitude": 16.3
+        },
+        {
+            "officeName": "Oxel B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Goa Division",
+            "latitude": 73.77,
+            "longitude": 15.63
+        }
+    ]
+}

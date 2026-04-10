@@ -1,0 +1,66 @@
+{
+    "state": "TAMIL NADU",
+    "district": "NAMAKKAL",
+    "offices": [
+        {
+            "officeName": "Melur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Salem West Division",
+            "latitude": 11.528778,
+            "longitude": 78.2240295
+        },
+        {
+            "officeName": "Vadugam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Salem West Division",
+            "latitude": 11.460631,
+            "longitude": 78.245697
+        },
+        {
+            "officeName": "Pudupatti S.O (Salem)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Salem West Division",
+            "latitude": 11.494791,
+            "longitude": 78.268088
+        },
+        {
+            "officeName": "Malayampatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Salem West Division",
+            "latitude": 11.501518,
+            "longitude": 78.257434
+        },
+        {
+            "officeName": "Vadugam Muniappampalayam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Salem West Division",
+            "latitude": 11.470952,
+            "longitude": 78.233852
+        },
+        {
+            "officeName": "Pattanam Muniappampalayam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Salem West Division",
+            "latitude": 11.485489,
+            "longitude": 78.231288
+        }
+    ]
+}

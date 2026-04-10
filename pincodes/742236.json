@@ -1,0 +1,26 @@
+{
+    "state": "WEST BENGAL",
+    "district": "MURSHIDABAD",
+    "offices": [
+        {
+            "officeName": "Nabarun SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Murshidabad Division",
+            "latitude": 22.6858889,
+            "longitude": 88.4574444
+        },
+        {
+            "officeName": "Ntpc Farakka SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Murshidabad Division",
+            "latitude": 23.0477777,
+            "longitude": 88.7872222
+        }
+    ]
+}

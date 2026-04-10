@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "THANJAVUR",
+    "offices": [
+        {
+            "officeName": "Palakudi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Kumbakonam Division",
+            "latitude": 11.05,
+            "longitude": 79.45
+        },
+        {
+            "officeName": "Paruthikudi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Kumbakonam Division",
+            "latitude": 11.02,
+            "longitude": 79.46
+        },
+        {
+            "officeName": "Tirumangalakudi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Kumbakonam Division",
+            "latitude": 11.1,
+            "longitude": 79.28
+        },
+        {
+            "officeName": "Suriyanarkoil B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Kumbakonam Division",
+            "latitude": 11.03,
+            "longitude": 79.48
+        }
+    ]
+}

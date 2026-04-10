@@ -1,0 +1,56 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Nandyal",
+    "offices": [
+        {
+            "officeName": "Deebaguntla B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Nandyal Division",
+            "latitude": 15.39,
+            "longitude": 78.5
+        },
+        {
+            "officeName": "Kaminenipalle B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Nandyal Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Jillella B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Nandyal Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Sirvel S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Nandyal Division",
+            "latitude": 15.3201944,
+            "longitude": 78.5325556
+        },
+        {
+            "officeName": "Govindapalle B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Nandyal Division",
+            "latitude": 15.35,
+            "longitude": 78.52
+        }
+    ]
+}

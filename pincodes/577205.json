@@ -1,0 +1,26 @@
+{
+    "state": "KARNATAKA",
+    "district": "SHIVAMOGGA",
+    "offices": [
+        {
+            "officeName": "Gopala Extension S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Shivamogga Division",
+            "latitude": 13.9302778,
+            "longitude": 74.5472222
+        },
+        {
+            "officeName": "Purudal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Shivamogga Division",
+            "latitude": 13.93,
+            "longitude": 75.49
+        }
+    ]
+}

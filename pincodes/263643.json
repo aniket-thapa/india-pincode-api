@@ -1,0 +1,66 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "offices": [
+        {
+            "officeName": "Deolikhan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Almora Division",
+            "latitude": 29.598369,
+            "longitude": 79.6615028
+        },
+        {
+            "officeName": "Jeoli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Almora Division",
+            "latitude": 29.598365,
+            "longitude": 79.6615068
+        },
+        {
+            "officeName": "Kathpuria BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Almora Division",
+            "latitude": 29.646034,
+            "longitude": 79.564742
+        },
+        {
+            "officeName": "Kayala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Almora Division",
+            "latitude": 29.643964,
+            "longitude": 79.591071
+        },
+        {
+            "officeName": "Darmar Tikhun BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Almora Division",
+            "latitude": 29.6344074,
+            "longitude": 79.5533064
+        },
+        {
+            "officeName": "Kosi SO Almora",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Almora Division",
+            "latitude": 29.5969722,
+            "longitude": 79.6575
+        }
+    ]
+}

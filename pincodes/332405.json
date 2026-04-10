@@ -1,0 +1,56 @@
+{
+    "state": "RAJASTHAN",
+    "district": "SIKAR",
+    "offices": [
+        {
+            "officeName": "Sangarwa BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sikar Division",
+            "latitude": 27.5625219,
+            "longitude": 75.3004009
+        },
+        {
+            "officeName": "Baral BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sikar Division",
+            "latitude": 27.5815067,
+            "longitude": 75.3703662
+        },
+        {
+            "officeName": "Ved Ki Dhani BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sikar Division",
+            "latitude": 27.549749,
+            "longitude": 75.3149796
+        },
+        {
+            "officeName": "Palasara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sikar Division",
+            "latitude": 27.5751999,
+            "longitude": 75.3383027
+        },
+        {
+            "officeName": "Shishu SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sikar Division",
+            "latitude": 27.6721389,
+            "longitude": 75.3399722
+        }
+    ]
+}

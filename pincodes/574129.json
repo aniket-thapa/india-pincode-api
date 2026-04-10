@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "UDUPI",
+    "offices": [
+        {
+            "officeName": "Belady B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Puttur Division",
+            "latitude": 13.1410736,
+            "longitude": 74.9543653
+        },
+        {
+            "officeName": "Vanjarakatte B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Puttur Division",
+            "latitude": 13.1493241,
+            "longitude": 74.9325106
+        },
+        {
+            "officeName": "Kanthavara S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Puttur Division",
+            "latitude": 13.135528,
+            "longitude": 74.970333
+        }
+    ]
+}

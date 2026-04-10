@@ -1,0 +1,36 @@
+{
+    "state": "GUJARAT",
+    "district": "MAHESANA",
+    "offices": [
+        {
+            "officeName": "Dharoi DSC SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Mahesana Division",
+            "latitude": 23.999014,
+            "longitude": 72.836067
+        },
+        {
+            "officeName": "Hadol BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Mahesana Division",
+            "latitude": 23.942916,
+            "longitude": 72.807685
+        },
+        {
+            "officeName": "Khodamali BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Mahesana Division",
+            "latitude": 23.971093,
+            "longitude": 72.816305
+        }
+    ]
+}

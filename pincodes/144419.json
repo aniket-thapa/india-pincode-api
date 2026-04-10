@@ -1,0 +1,46 @@
+{
+    "state": "PUNJAB",
+    "district": "JALANDHAR",
+    "offices": [
+        {
+            "officeName": "Thalla BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Jalandhar Division",
+            "latitude": 31.0531,
+            "longitude": 75.8628
+        },
+        {
+            "officeName": "Bharsingpura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Jalandhar Division",
+            "latitude": 31.0531,
+            "longitude": 75.8628
+        },
+        {
+            "officeName": "Landhran BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Jalandhar Division",
+            "latitude": 31.0531,
+            "longitude": 75.8628
+        },
+        {
+            "officeName": "Dayalpur SO Jalandhar",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Jalandhar Division",
+            "latitude": 31.0739246,
+            "longitude": 75.9087038
+        }
+    ]
+}

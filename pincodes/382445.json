@@ -1,0 +1,56 @@
+{
+    "state": "GUJARAT",
+    "district": "AHMADABAD",
+    "offices": [
+        {
+            "officeName": "Vinzol BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Ahmedabad City Division",
+            "latitude": 22.951053,
+            "longitude": 72.641542
+        },
+        {
+            "officeName": "Vatva Industrial Estate SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Ahmedabad City Division",
+            "latitude": 22.960762,
+            "longitude": 72.638216
+        },
+        {
+            "officeName": "Vivekanandnagar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Ahmedabad City Division",
+            "latitude": 22.945394,
+            "longitude": 72.668149
+        },
+        {
+            "officeName": "Hathijan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Ahmedabad City Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Vatva SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Ahmedabad City Division",
+            "latitude": 22.958173,
+            "longitude": 72.611975
+        }
+    ]
+}

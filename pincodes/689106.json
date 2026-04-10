@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "PATHANAMTHITTA",
+    "offices": [
+        {
+            "officeName": "Thengeli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Tiruvalla Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Kuttur SO Pathanamthitta",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Tiruvalla Division",
+            "latitude": 9.2642778,
+            "longitude": 76.78725
+        }
+    ]
+}

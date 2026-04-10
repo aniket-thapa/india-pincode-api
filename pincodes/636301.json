@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "NAMAKKAL",
+    "offices": [
+        {
+            "officeName": "Thottivalasu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Salem West Division",
+            "latitude": 11.525537,
+            "longitude": 78.162835
+        },
+        {
+            "officeName": "Attanur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Salem West Division",
+            "latitude": 11.497478,
+            "longitude": 78.134564
+        },
+        {
+            "officeName": "Thengalpalayam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Salem West Division",
+            "latitude": 11.500421,
+            "longitude": 78.164369
+        }
+    ]
+}

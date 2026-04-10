@@ -1,0 +1,26 @@
+{
+    "state": "HARYANA",
+    "district": "SIRSA",
+    "offices": [
+        {
+            "officeName": "Mochiwali BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hissar Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Ding SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hissar Division",
+            "latitude": 29.4503056,
+            "longitude": 75.1193333
+        }
+    ]
+}

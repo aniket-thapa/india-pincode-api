@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "SRIKAKULAM",
+    "offices": [
+        {
+            "officeName": "Fareedpeta B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Srikakulam Division",
+            "latitude": 18.2820555,
+            "longitude": 83.82475
+        },
+        {
+            "officeName": "Etcherla S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Srikakulam Division",
+            "latitude": 18.2820556,
+            "longitude": 83.82475
+        },
+        {
+            "officeName": "Tamminaidupeta BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Srikakulam Division",
+            "latitude": 18.3256257,
+            "longitude": 83.8820883
+        }
+    ]
+}

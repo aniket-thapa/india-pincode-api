@@ -1,0 +1,26 @@
+{
+    "state": "TELANGANA",
+    "district": "RANGA REDDY",
+    "offices": [
+        {
+            "officeName": "Huda Resi. Complex S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Hyderabad South East Division",
+            "latitude": 17.3526944,
+            "longitude": 78.5355
+        },
+        {
+            "officeName": "Saroornagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Hyderabad South East Division",
+            "latitude": 17.366853,
+            "longitude": 78.536619
+        }
+    ]
+}

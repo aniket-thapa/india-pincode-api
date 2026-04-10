@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "PUDUKKOTTAI",
+    "offices": [
+        {
+            "officeName": "Namanasamudram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Pudukkottai Division",
+            "latitude": 10.32,
+            "longitude": 78.79
+        },
+        {
+            "officeName": "Sivapuram S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Pudukkottai Division",
+            "latitude": 10.34,
+            "longitude": 78.8
+        },
+        {
+            "officeName": "Peraiyur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Pudukkottai Division",
+            "latitude": 10.34,
+            "longitude": 78.76
+        }
+    ]
+}

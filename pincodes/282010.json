@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "AGRA",
+    "offices": [
+        {
+            "officeName": "Bhogipura SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Agra Division",
+            "latitude": 27.1766791,
+            "longitude": 77.9846692
+        },
+        {
+            "officeName": "SHAHGANJ SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Agra Division",
+            "latitude": 27.0,
+            "longitude": 78.0
+        },
+        {
+            "officeName": "Collectorate SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Agra Division",
+            "latitude": 27.0058445,
+            "longitude": 78.0078549
+        },
+        {
+            "officeName": "POLICE LINE",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Agra Division",
+            "latitude": 27.1747795,
+            "longitude": 77.9977751
+        }
+    ]
+}

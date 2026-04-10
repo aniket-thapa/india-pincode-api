@@ -1,0 +1,46 @@
+{
+    "state": "ASSAM",
+    "district": "DARRANG",
+    "offices": [
+        {
+            "officeName": "Dhula S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.4780258,
+            "longitude": 92.0836759
+        },
+        {
+            "officeName": "Minapara B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.5943518,
+            "longitude": 91.988152
+        },
+        {
+            "officeName": "Mudoibari B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.4780298,
+            "longitude": 92.0836719
+        },
+        {
+            "officeName": "Balabari B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.478028,
+            "longitude": 92.0836729
+        }
+    ]
+}

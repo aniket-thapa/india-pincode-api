@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "SINDHUDURG",
+    "offices": [
+        {
+            "officeName": "Pokharan B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "SINDHUDURG DIVISION",
+            "latitude": 16.1753892,
+            "longitude": 73.7213
+        },
+        {
+            "officeName": "Ambrad S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "SINDHUDURG DIVISION",
+            "latitude": 16.1883056,
+            "longitude": 73.72975
+        },
+        {
+            "officeName": "Kunde B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "SINDHUDURG DIVISION",
+            "latitude": 16.1481,
+            "longitude": 73.6978
+        }
+    ]
+}

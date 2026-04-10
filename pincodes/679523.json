@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "PALAKKAD",
+    "offices": [
+        {
+            "officeName": "Koonathara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Ottapalam Division",
+            "latitude": 10.8922,
+            "longitude": 75.9995
+        },
+        {
+            "officeName": "Kavalappara SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Ottapalam Division",
+            "latitude": 10.768615,
+            "longitude": 76.3047433
+        },
+        {
+            "officeName": "Mannanur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Ottapalam Division",
+            "latitude": 10.8922,
+            "longitude": 75.9995
+        }
+    ]
+}

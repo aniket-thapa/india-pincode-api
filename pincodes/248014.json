@@ -1,0 +1,26 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "offices": [
+        {
+            "officeName": "Shamshergarh BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehradun Division",
+            "latitude": 30.2884,
+            "longitude": 78.09
+        },
+        {
+            "officeName": "Nehrugram SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehradun Division",
+            "latitude": 30.3718294,
+            "longitude": 78.0253055
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "WEST BENGAL",
+    "district": "Alipurduar",
+    "offices": [
+        {
+            "officeName": "Madhubagan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Cooch Behar Division",
+            "latitude": 26.71,
+            "longitude": 89.38
+        },
+        {
+            "officeName": "Hasimara SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Cooch Behar Division",
+            "latitude": 26.7356389,
+            "longitude": 89.36575
+        }
+    ]
+}

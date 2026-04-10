@@ -1,0 +1,56 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "GHAZIPUR",
+    "offices": [
+        {
+            "officeName": "Bhataura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Ghazipur Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Sayer BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Ghazipur Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Gahmar Bazar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Ghazipur Division",
+            "latitude": 25.498,
+            "longitude": 83.8114167
+        },
+        {
+            "officeName": "Pachauri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Ghazipur Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Gahmar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Ghazipur Division",
+            "latitude": 25.4918056,
+            "longitude": 83.8049444
+        }
+    ]
+}

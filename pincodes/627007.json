@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "TIRUNELVELI",
+    "offices": [
+        {
+            "officeName": "Perumalpuram SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Tirunelveli Division",
+            "latitude": 8.70675,
+            "longitude": 77.73725
+        },
+        {
+            "officeName": "Konganthanparai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Tirunelveli Division",
+            "latitude": 8.644035,
+            "longitude": 77.719256
+        },
+        {
+            "officeName": "Jawahar Nagar Tirunelveli SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Tirunelveli Division",
+            "latitude": 8.6899167,
+            "longitude": 77.7368889
+        },
+        {
+            "officeName": "Reddiarpatti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Tirunelveli Division",
+            "latitude": 8.681114,
+            "longitude": 77.739855
+        }
+    ]
+}

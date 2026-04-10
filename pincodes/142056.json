@@ -1,0 +1,46 @@
+{
+    "state": "PUNJAB",
+    "district": "MOGA",
+    "offices": [
+        {
+            "officeName": "Gholia Khurd SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Faridkot Division",
+            "latitude": 30.81337,
+            "longitude": 75.175565
+        },
+        {
+            "officeName": "Ranian BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Faridkot Division",
+            "latitude": 30.68265,
+            "longitude": 75.205
+        },
+        {
+            "officeName": "Gholia Kalan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Faridkot Division",
+            "latitude": 30.665381,
+            "longitude": 75.202382
+        },
+        {
+            "officeName": "Phulewala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Faridkot Division",
+            "latitude": 30.6441411,
+            "longitude": 75.1530698
+        }
+    ]
+}

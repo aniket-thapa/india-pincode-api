@@ -1,0 +1,26 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "UNA",
+    "offices": [
+        {
+            "officeName": "Sunkali SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Una Division",
+            "latitude": 31.7393611,
+            "longitude": 76.0738056
+        },
+        {
+            "officeName": "Kuneran BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Una Division",
+            "latitude": 31.7003174,
+            "longitude": 76.0658492
+        }
+    ]
+}

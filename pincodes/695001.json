@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "THIRUVANANTHAPURAM",
+    "offices": [
+        {
+            "officeName": "Thiruvananthapuram GPO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Trivandrum North Division",
+            "latitude": 8.495269,
+            "longitude": 76.947695
+        },
+        {
+            "officeName": "Thiruvananthapuram  AGs SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Trivandrum North Division",
+            "latitude": 8.5,
+            "longitude": 76.95
+        }
+    ]
+}

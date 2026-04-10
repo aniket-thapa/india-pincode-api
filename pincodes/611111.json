@@ -1,0 +1,56 @@
+{
+    "state": "TAMIL NADU",
+    "district": "NAGAPATTINAM",
+    "offices": [
+        {
+            "officeName": "Serudur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.67,
+            "longitude": 79.85
+        },
+        {
+            "officeName": "Prathabaramapuram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.66,
+            "longitude": 79.84
+        },
+        {
+            "officeName": "Vailankanni West B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.68,
+            "longitude": 79.84
+        },
+        {
+            "officeName": "Vailankanni S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.69,
+            "longitude": 79.84
+        },
+        {
+            "officeName": "Terkupoigainallur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.7,
+            "longitude": 79.84
+        }
+    ]
+}

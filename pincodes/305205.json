@@ -1,0 +1,56 @@
+{
+    "state": "RAJASTHAN",
+    "district": "AJMER",
+    "offices": [
+        {
+            "officeName": "Raj Garh (Ajmer) S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Ajmer Division",
+            "latitude": 23.7258333,
+            "longitude": 92.7190278
+        },
+        {
+            "officeName": "Kotaj B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Ajmer Division",
+            "latitude": 26.3153,
+            "longitude": 74.5844
+        },
+        {
+            "officeName": "Bithur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Ajmer Division",
+            "latitude": 26.2578,
+            "longitude": 74.6371
+        },
+        {
+            "officeName": "Kaklana B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Ajmer Division",
+            "latitude": 26.3327,
+            "longitude": 74.6371
+        },
+        {
+            "officeName": "Maya Pur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Ajmer Division",
+            "latitude": 26.6567,
+            "longitude": 74.681
+        }
+    ]
+}

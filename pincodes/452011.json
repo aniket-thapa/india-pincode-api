@@ -1,0 +1,26 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "INDORE",
+    "offices": [
+        {
+            "officeName": "Nanda Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Indore City Division",
+            "latitude": 22.7443333,
+            "longitude": 75.87725
+        },
+        {
+            "officeName": "Indore R.S.S.Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Indore City Division",
+            "latitude": 22.7379167,
+            "longitude": 75.8909167
+        }
+    ]
+}

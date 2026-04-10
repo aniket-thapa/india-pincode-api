@@ -1,0 +1,36 @@
+{
+    "state": "JHARKHAND",
+    "district": "RAMGARH",
+    "offices": [
+        {
+            "officeName": "Ghatotand SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hazaribagh Division",
+            "latitude": 23.7911389,
+            "longitude": 85.5748056
+        },
+        {
+            "officeName": "Banji BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hazaribagh Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Barughutu",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hazaribagh Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

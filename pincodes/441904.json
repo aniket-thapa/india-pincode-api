@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "BHANDARA",
+    "offices": [
+        {
+            "officeName": "Bhandara H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur Moffusil Division",
+            "latitude": 21.16341,
+            "longitude": 79.65594
+        },
+        {
+            "officeName": "Bhandara Town S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur Moffusil Division",
+            "latitude": 21.1771944,
+            "longitude": 79.6538889
+        }
+    ]
+}

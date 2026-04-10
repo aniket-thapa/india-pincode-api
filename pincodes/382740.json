@@ -1,0 +1,56 @@
+{
+    "state": "GUJARAT",
+    "district": "GANDHINAGAR",
+    "offices": [
+        {
+            "officeName": "Dhamasana BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Gandhinagar Division",
+            "latitude": 23.17,
+            "longitude": 72.76
+        },
+        {
+            "officeName": "Dingucha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Gandhinagar Division",
+            "latitude": 23.16,
+            "longitude": 72.87
+        },
+        {
+            "officeName": "Isand BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Gandhinagar Division",
+            "latitude": 22.13,
+            "longitude": 72.21
+        },
+        {
+            "officeName": "Pansar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Gandhinagar Division",
+            "latitude": 23.32,
+            "longitude": 72.49
+        },
+        {
+            "officeName": "Mokhasan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Gandhinagar Division",
+            "latitude": 22.57,
+            "longitude": 72.27
+        }
+    ]
+}

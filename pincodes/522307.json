@@ -1,0 +1,46 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "GUNTUR",
+    "offices": [
+        {
+            "officeName": "Kolakaluru S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Tenali Division",
+            "latitude": 16.30613889,
+            "longitude": 80.60994444
+        },
+        {
+            "officeName": "Kazipeta B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Tenali Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Kopalle B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Tenali Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Gudivada B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Tenali Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

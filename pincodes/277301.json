@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "BALLIA",
+    "offices": [
+        {
+            "officeName": "Kummhaila BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Ballia Division",
+            "latitude": 25.8,
+            "longitude": 84.11
+        },
+        {
+            "officeName": "Suryapura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Ballia Division",
+            "latitude": 25.86,
+            "longitude": 84.15
+        },
+        {
+            "officeName": "Basantpur SO Ballia",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Ballia Division",
+            "latitude": 25.8316384,
+            "longitude": 84.131934
+        },
+        {
+            "officeName": "Shivpur Datiwar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Ballia Division",
+            "latitude": 25.86,
+            "longitude": 84.013
+        }
+    ]
+}

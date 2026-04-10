@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "THIRUVARUR",
+    "offices": [
+        {
+            "officeName": "Agaraohai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Kumbakonam Division",
+            "latitude": 10.84,
+            "longitude": 79.55
+        },
+        {
+            "officeName": "Kodavasal S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Kumbakonam Division",
+            "latitude": 10.84,
+            "longitude": 79.49
+        },
+        {
+            "officeName": "Melapalayur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Kumbakonam Division",
+            "latitude": 10.85,
+            "longitude": 79.48
+        },
+        {
+            "officeName": "Vellakulam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Kumbakonam Division",
+            "latitude": 10.86,
+            "longitude": 79.48
+        }
+    ]
+}

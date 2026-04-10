@@ -1,0 +1,56 @@
+{
+    "state": "HARYANA",
+    "district": "GURUGRAM",
+    "offices": [
+        {
+            "officeName": "Gurgaon Village BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gurgaon Division",
+            "latitude": 28.4855613,
+            "longitude": 77.009056
+        },
+        {
+            "officeName": "Daultabad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gurgaon Division",
+            "latitude": 28.4855613,
+            "longitude": 77.009056
+        },
+        {
+            "officeName": "Ward No. 14 B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gurgaon Division",
+            "latitude": 28.492678,
+            "longitude": 77.012012
+        },
+        {
+            "officeName": "Basai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gurgaon Division",
+            "latitude": 28.4855613,
+            "longitude": 77.009056
+        },
+        {
+            "officeName": "Railwary Road SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gurgaon Division",
+            "latitude": 28.4227222,
+            "longitude": 77.1031389
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "PUNJAB",
+    "district": "BATHINDA",
+    "offices": [
+        {
+            "officeName": "Bhaini Kani BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Bhatinda Division",
+            "latitude": 30.2661,
+            "longitude": 75.2534
+        },
+        {
+            "officeName": "Mehraj SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Bhatinda Division",
+            "latitude": 30.31511,
+            "longitude": 75.19169
+        }
+    ]
+}

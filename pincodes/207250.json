@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "ETAH",
+    "offices": [
+        {
+            "officeName": "Alipur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Etah Division",
+            "latitude": 27.39,
+            "longitude": 79.29
+        },
+        {
+            "officeName": "Kharsulia BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Etah Division",
+            "latitude": 27.38,
+            "longitude": 79.23
+        },
+        {
+            "officeName": "Kalua Teel Pur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Etah Division",
+            "latitude": 27.34,
+            "longitude": 79.25
+        },
+        {
+            "officeName": "Sarai Aghat SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Etah Division",
+            "latitude": 27.350733447165226,
+            "longitude": 79.26919348920164
+        }
+    ]
+}

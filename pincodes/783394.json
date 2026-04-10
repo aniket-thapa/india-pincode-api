@@ -1,0 +1,56 @@
+{
+    "state": "ASSAM",
+    "district": "CHIRANG",
+    "offices": [
+        {
+            "officeName": "Ouguri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 26.528276,
+            "longitude": 92.920092
+        },
+        {
+            "officeName": "Chatonilibari B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 26.586628,
+            "longitude": 90.509244
+        },
+        {
+            "officeName": "Tukrijhora B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 26.399507,
+            "longitude": 90.449058
+        },
+        {
+            "officeName": "Bengtal S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 26.3014,
+            "longitude": 30.3225
+        },
+        {
+            "officeName": "Patabari B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 26.707506,
+            "longitude": 90.502159
+        }
+    ]
+}

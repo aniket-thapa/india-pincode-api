@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "KANNUR",
+    "offices": [
+        {
+            "officeName": "Thalassery Bazar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Thalassery Division",
+            "latitude": 11.75,
+            "longitude": 75.49
+        },
+        {
+            "officeName": "Thalassery Courts SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Thalassery Division",
+            "latitude": 11.76,
+            "longitude": 75.48
+        },
+        {
+            "officeName": "Thalassery HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Thalassery Division",
+            "latitude": 11.753368,
+            "longitude": 75.490912
+        }
+    ]
+}

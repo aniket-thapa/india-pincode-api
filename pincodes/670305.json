@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "KANNUR",
+    "offices": [
+        {
+            "officeName": "Vengarakannur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Cannanore Division",
+            "latitude": 11.874535,
+            "longitude": 75.37019
+        },
+        {
+            "officeName": "Palakode BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Cannanore Division",
+            "latitude": 12.0544155,
+            "longitude": 75.2181289
+        }
+    ]
+}

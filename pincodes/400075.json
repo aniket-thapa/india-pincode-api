@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI SUBURBAN",
+    "offices": [
+        {
+            "officeName": "Best Staff Colony SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North East Division",
+            "latitude": 19.0843611,
+            "longitude": 72.9180556
+        },
+        {
+            "officeName": "Pant Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North East Division",
+            "latitude": 19.086766,
+            "longitude": 72.913763
+        },
+        {
+            "officeName": "RANagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North East Division",
+            "latitude": 19.0745556,
+            "longitude": 72.9188333
+        }
+    ]
+}

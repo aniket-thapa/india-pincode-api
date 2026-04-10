@@ -1,0 +1,26 @@
+{
+    "state": "TELANGANA",
+    "district": "HYDERABAD",
+    "offices": [
+        {
+            "officeName": "Neredmet S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Secunderabad Division",
+            "latitude": 17.76919444,
+            "longitude": 78.90222222
+        },
+        {
+            "officeName": "Ramakrishna Puram S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Secunderabad Division",
+            "latitude": 17.471754340569785,
+            "longitude": 78.54022050854913
+        }
+    ]
+}

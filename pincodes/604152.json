@@ -1,0 +1,56 @@
+{
+    "state": "TAMIL NADU",
+    "district": "VILLUPURAM",
+    "offices": [
+        {
+            "officeName": "Thadagam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Pondicherry Division",
+            "latitude": 12.15,
+            "longitude": 79.26
+        },
+        {
+            "officeName": "Athipattu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Pondicherry Division",
+            "latitude": 12.18,
+            "longitude": 79.35
+        },
+        {
+            "officeName": "Nallanpillaipetral SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Pondicherry Division",
+            "latitude": 12.1890278,
+            "longitude": 79.2513056
+        },
+        {
+            "officeName": "Velanthangal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Pondicherry Division",
+            "latitude": 12.27,
+            "longitude": 79.27
+        },
+        {
+            "officeName": "Sepettai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Pondicherry Division",
+            "latitude": 12.23,
+            "longitude": 79.25
+        }
+    ]
+}

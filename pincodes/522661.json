@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Palnadu",
+    "offices": [
+        {
+            "officeName": "Inumella B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Narasaraopet Division",
+            "latitude": 16.2884,
+            "longitude": 79.8333
+        },
+        {
+            "officeName": "Muppalla(VKD) S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Narasaraopet Division",
+            "latitude": 16.2400556,
+            "longitude": 79.8385
+        },
+        {
+            "officeName": "Butchipapannapalem B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Narasaraopet Division",
+            "latitude": 16.2351,
+            "longitude": 79.7681
+        }
+    ]
+}

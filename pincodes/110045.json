@@ -1,0 +1,46 @@
+{
+    "state": "DELHI",
+    "district": "SOUTH WEST",
+    "offices": [
+        {
+            "officeName": "Dabri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.609675,
+            "longitude": 77.089542
+        },
+        {
+            "officeName": "Indira Park B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 17.413655,
+            "longitude": 78.483833
+        },
+        {
+            "officeName": "Palam Village S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.5911667,
+            "longitude": 77.0905556
+        },
+        {
+            "officeName": "Nasirpur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.597176,
+            "longitude": 77.090783
+        }
+    ]
+}

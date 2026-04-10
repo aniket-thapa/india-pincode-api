@@ -1,0 +1,56 @@
+{
+    "state": "HARYANA",
+    "district": "YAMUNANAGAR",
+    "offices": [
+        {
+            "officeName": "Damla B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.3781838,
+            "longitude": 76.7766924
+        },
+        {
+            "officeName": "Harnaul B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 27.703,
+            "longitude": 77.7497
+        },
+        {
+            "officeName": "Jagdhari Work Shop S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.16175,
+            "longitude": 77.3019722
+        },
+        {
+            "officeName": "Aurangabad B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.3781888,
+            "longitude": 76.7766874
+        },
+        {
+            "officeName": "Hafizpur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.3781868,
+            "longitude": 76.7766894
+        }
+    ]
+}

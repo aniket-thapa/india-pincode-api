@@ -1,0 +1,36 @@
+{
+    "state": "GUJARAT",
+    "district": "SURAT",
+    "offices": [
+        {
+            "officeName": "Virpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bardoli Division",
+            "latitude": 21.306,
+            "longitude": 73.02135
+        },
+        {
+            "officeName": "Karjan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bardoli Division",
+            "latitude": 21.306,
+            "longitude": 73.02135
+        },
+        {
+            "officeName": "Ghala SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bardoli Division",
+            "latitude": 21.317221,
+            "longitude": 73.037781
+        }
+    ]
+}

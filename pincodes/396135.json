@@ -1,0 +1,36 @@
+{
+    "state": "GUJARAT",
+    "district": "VALSAD",
+    "offices": [
+        {
+            "officeName": "Saronda BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Valsad Division",
+            "latitude": 20.256046,
+            "longitude": 72.759957
+        },
+        {
+            "officeName": "Tadgam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Valsad Division",
+            "latitude": 20.280374,
+            "longitude": 72.75848
+        },
+        {
+            "officeName": "Nargol SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Valsad Division",
+            "latitude": 20.220896,
+            "longitude": 72.754047
+        }
+    ]
+}

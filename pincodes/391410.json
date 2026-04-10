@@ -1,0 +1,56 @@
+{
+    "state": "GUJARAT",
+    "district": "VADODARA",
+    "offices": [
+        {
+            "officeName": "Raipura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Vadodara West Division",
+            "latitude": 15.91,
+            "longitude": 82.2
+        },
+        {
+            "officeName": "Bhaily SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Vadodara West Division",
+            "latitude": 22.3035833,
+            "longitude": 73.1976944
+        },
+        {
+            "officeName": "Chapad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Vadodara West Division",
+            "latitude": 21.83,
+            "longitude": 73.48
+        },
+        {
+            "officeName": "Bill BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Vadodara West Division",
+            "latitude": 21.83,
+            "longitude": 73.48
+        },
+        {
+            "officeName": "Samiyala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Vadodara West Division",
+            "latitude": 15.59,
+            "longitude": 73.48
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "KARNATAKA",
+    "district": "UTTARA KANNADA",
+    "offices": [
+        {
+            "officeName": "Aveda B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Sirsi Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Ganeshgudi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Sirsi Division",
+            "latitude": 15.1,
+            "longitude": 74.29
+        }
+    ]
+}

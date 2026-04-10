@@ -1,0 +1,46 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "SOLAPUR",
+    "offices": [
+        {
+            "officeName": "Bardi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pandharpur Division",
+            "latitude": 17.861163,
+            "longitude": 75.347048
+        },
+        {
+            "officeName": "Tulshi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pandharpur Division",
+            "latitude": 17.923393,
+            "longitude": 75.329557
+        },
+        {
+            "officeName": "Umbare (Karkam ) B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pandharpur Division",
+            "latitude": 17.930986,
+            "longitude": 74.871181
+        },
+        {
+            "officeName": "Karkam S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pandharpur Division",
+            "latitude": 17.857597,
+            "longitude": 75.300401
+        }
+    ]
+}

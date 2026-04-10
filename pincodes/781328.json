@@ -1,0 +1,46 @@
+{
+    "state": "ASSAM",
+    "district": "Bajali",
+    "offices": [
+        {
+            "officeName": "Kathalmurighat B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nalbari Division",
+            "latitude": 26.3637,
+            "longitude": 91.1032
+        },
+        {
+            "officeName": "Baghmarabazar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nalbari Division",
+            "latitude": 26.3637,
+            "longitude": 91.1032
+        },
+        {
+            "officeName": "Bhotanta Mohitara B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nalbari Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Charnabazar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nalbari Division",
+            "latitude": 26.3637,
+            "longitude": 91.1032
+        }
+    ]
+}

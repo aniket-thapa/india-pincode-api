@@ -1,0 +1,56 @@
+{
+    "state": "GUJARAT",
+    "district": "KACHCHH",
+    "offices": [
+        {
+            "officeName": "Bhujodi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Kutch Division",
+            "latitude": 23.22457,
+            "longitude": 69.738373
+        },
+        {
+            "officeName": "Mamuara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Kutch Division",
+            "latitude": 23.278831,
+            "longitude": 69.873142
+        },
+        {
+            "officeName": "Nadapa BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Kutch Division",
+            "latitude": 23.312482,
+            "longitude": 69.901433
+        },
+        {
+            "officeName": "Dhaneti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Kutch Division",
+            "latitude": 23.256348,
+            "longitude": 69.91889
+        },
+        {
+            "officeName": "Madhapar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Kutch Division",
+            "latitude": 23.239757,
+            "longitude": 69.66893
+        }
+    ]
+}

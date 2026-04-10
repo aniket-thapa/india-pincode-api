@@ -1,0 +1,46 @@
+{
+    "state": "WEST BENGAL",
+    "district": "MEDINIPUR EAST",
+    "offices": [
+        {
+            "officeName": "Khanjanchak BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Tamluk Division",
+            "latitude": 22.0758,
+            "longitude": 88.1375
+        },
+        {
+            "officeName": "Durgachak SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Tamluk Division",
+            "latitude": 22.0658333,
+            "longitude": 88.137
+        },
+        {
+            "officeName": "Durgachak Colony SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Tamluk Division",
+            "latitude": 22.1188888,
+            "longitude": 88.2383333
+        },
+        {
+            "officeName": "Basudevpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Tamluk Division",
+            "latitude": 22.0838,
+            "longitude": 88.0403
+        }
+    ]
+}

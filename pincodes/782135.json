@@ -1,0 +1,36 @@
+{
+    "state": "ASSAM",
+    "district": "NAGAON",
+    "offices": [
+        {
+            "officeName": "Chapanalla S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Nagaon Division",
+            "latitude": 26.3307,
+            "longitude": 92.8605
+        },
+        {
+            "officeName": "Parkup Pahar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Nagaon Division",
+            "latitude": 26.3307,
+            "longitude": 92.8605
+        },
+        {
+            "officeName": "Kathalguri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Nagaon Division",
+            "latitude": 26.3307,
+            "longitude": 92.8605
+        }
+    ]
+}

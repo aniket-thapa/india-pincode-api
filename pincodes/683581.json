@@ -1,0 +1,56 @@
+{
+    "state": "KERALA",
+    "district": "ERNAKULAM",
+    "offices": [
+        {
+            "officeName": "Kalady Plantation BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Alwaye Division",
+            "latitude": 10.2582368,
+            "longitude": 76.5246302
+        },
+        {
+            "officeName": "Chully BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Alwaye Division",
+            "latitude": 12.3928625,
+            "longitude": 75.3185748
+        },
+        {
+            "officeName": "Manjapra SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Alwaye Division",
+            "latitude": 10.214466,
+            "longitude": 76.45176
+        },
+        {
+            "officeName": "Ayyampuzha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Alwaye Division",
+            "latitude": 10.2486874,
+            "longitude": 76.4735126
+        },
+        {
+            "officeName": "Anapparakalady BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Alwaye Division",
+            "latitude": 10.236112,
+            "longitude": 76.4505834
+        }
+    ]
+}

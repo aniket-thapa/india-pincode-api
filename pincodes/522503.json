@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "GUNTUR",
+    "offices": [
+        {
+            "officeName": "Apsp Colony(Mangalagiri) S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Guntur Division",
+            "latitude": 16.428,
+            "longitude": 80.6127778
+        },
+        {
+            "officeName": "Mangalagiri H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Guntur Division",
+            "latitude": 16.43433,
+            "longitude": 80.56469
+        },
+        {
+            "officeName": "Old Mangalagiri S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Guntur Division",
+            "latitude": 16.42364,
+            "longitude": 80.56733
+        }
+    ]
+}

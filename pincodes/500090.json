@@ -1,0 +1,36 @@
+{
+    "state": "TELANGANA",
+    "district": "MEDCHAL MALKAJGIRI",
+    "offices": [
+        {
+            "officeName": "Nizampet  S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Secunderabad Division",
+            "latitude": 17.51763889,
+            "longitude": 78.3825
+        },
+        {
+            "officeName": "NTR Park Pragathinagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Secunderabad Division",
+            "latitude": 17.5178765,
+            "longitude": 78.3950378
+        },
+        {
+            "officeName": "Mallampet BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Secunderabad Division",
+            "latitude": 17.550218,
+            "longitude": 78.335861
+        }
+    ]
+}

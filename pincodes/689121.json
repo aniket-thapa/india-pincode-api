@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "ALAPPUZHA",
+    "offices": [
+        {
+            "officeName": "Chengannur RS SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Tiruvalla Division",
+            "latitude": 9.38,
+            "longitude": 76.81
+        },
+        {
+            "officeName": "Chengannur HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Tiruvalla Division",
+            "latitude": 9.3208611,
+            "longitude": 76.6027222
+        }
+    ]
+}

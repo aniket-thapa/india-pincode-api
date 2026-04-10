@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "THIRUVALLUR",
+    "offices": [
+        {
+            "officeName": "Nallathur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Kanchipuram Division",
+            "latitude": 13.173309,
+            "longitude": 79.6167589
+        },
+        {
+            "officeName": "Thalavedu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Kanchipuram Division",
+            "latitude": 13.24323,
+            "longitude": 79.66237
+        },
+        {
+            "officeName": "Poonimangadu S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Kanchipuram Division",
+            "latitude": 13.26485,
+            "longitude": 79.63968
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "PUDUKKOTTAI",
+    "offices": [
+        {
+            "officeName": "Karakathikottai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Pudukkottai Division",
+            "latitude": 9.99,
+            "longitude": 79.19
+        },
+        {
+            "officeName": "Bayamariyanendal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Pudukkottai Division",
+            "latitude": 10.01,
+            "longitude": 79.17
+        },
+        {
+            "officeName": "Jegathapattinam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Pudukkottai Division",
+            "latitude": 9.96,
+            "longitude": 79.19
+        },
+        {
+            "officeName": "Kottaipattinam S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Pudukkottai Division",
+            "latitude": 9.97,
+            "longitude": 79.21
+        }
+    ]
+}

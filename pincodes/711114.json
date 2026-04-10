@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "HOWRAH",
+    "offices": [
+        {
+            "officeName": "Chamrail BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Howrah Division",
+            "latitude": 22.6391,
+            "longitude": 88.304
+        },
+        {
+            "officeName": "Kona SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Howrah Division",
+            "latitude": 22.5741666,
+            "longitude": 88.3027777
+        },
+        {
+            "officeName": "Lakshmanpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Howrah Division",
+            "latitude": 22.6344,
+            "longitude": 88.2719
+        }
+    ]
+}

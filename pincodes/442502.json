@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "CHANDRAPUR",
+    "offices": [
+        {
+            "officeName": "Cementnagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Chandrapur Division",
+            "latitude": 19.9194444,
+            "longitude": 79.1098056
+        },
+        {
+            "officeName": "WADA B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Chandrapur Division",
+            "latitude": 19.92,
+            "longitude": 79.16
+        }
+    ]
+}

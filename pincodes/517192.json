@@ -1,0 +1,66 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "CHITTOOR",
+    "offices": [
+        {
+            "officeName": "Peddagottigallu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Tirupati Division",
+            "latitude": 13.649066,
+            "longitude": 79.021959
+        },
+        {
+            "officeName": "Peddamallela B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Tirupati Division",
+            "latitude": 13.699422,
+            "longitude": 79.023397
+        },
+        {
+            "officeName": "Jangavandlapalle B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Tirupati Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Challavaripalle B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Tirupati Division",
+            "latitude": 13.644476,
+            "longitude": 79.04501
+        },
+        {
+            "officeName": "Motumallela B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Tirupati Division",
+            "latitude": 13.705867,
+            "longitude": 79.056902
+        },
+        {
+            "officeName": "Rompicherla S.O (Chittoor)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Tirupati Division",
+            "latitude": 13.67072,
+            "longitude": 79.04539
+        }
+    ]
+}

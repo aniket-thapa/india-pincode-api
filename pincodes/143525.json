@@ -1,0 +1,46 @@
+{
+    "state": "PUNJAB",
+    "district": "GURDASPUR",
+    "offices": [
+        {
+            "officeName": "Jhabkra BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Gurdaspur Division",
+            "latitude": 32.16,
+            "longitude": 75.36
+        },
+        {
+            "officeName": "Marara SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Gurdaspur Division",
+            "latitude": 31.8121,
+            "longitude": 75.2348
+        },
+        {
+            "officeName": "Bharial BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Gurdaspur Division",
+            "latitude": 32.2,
+            "longitude": 75.33
+        },
+        {
+            "officeName": "Habit Pindi e BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Gurdaspur Division",
+            "latitude": 32.2,
+            "longitude": 75.42
+        }
+    ]
+}

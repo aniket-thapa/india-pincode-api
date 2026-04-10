@@ -1,0 +1,26 @@
+{
+    "state": "KARNATAKA",
+    "district": "BENGALURU URBAN",
+    "offices": [
+        {
+            "officeName": "Silvepura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Bengaluru West Division",
+            "latitude": 13.086295,
+            "longitude": 77.497311
+        },
+        {
+            "officeName": "Chikkabanavara S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Bengaluru West Division",
+            "latitude": 13.086295,
+            "longitude": 77.497311
+        }
+    ]
+}

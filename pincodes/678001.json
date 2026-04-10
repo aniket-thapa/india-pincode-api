@@ -1,0 +1,46 @@
+{
+    "state": "KERALA",
+    "district": "PALAKKAD",
+    "offices": [
+        {
+            "officeName": "Palakkad College SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Palghat Division",
+            "latitude": 10.808119,
+            "longitude": 76.6476903
+        },
+        {
+            "officeName": "Palakkad Collectorate SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Palghat Division",
+            "latitude": 10.7744,
+            "longitude": 76.6563
+        },
+        {
+            "officeName": "Palakkad HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Palghat Division",
+            "latitude": 10.799571,
+            "longitude": 76.642318
+        },
+        {
+            "officeName": "Palakkad Fort SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Palghat Division",
+            "latitude": 10.7744,
+            "longitude": 76.6563
+        }
+    ]
+}

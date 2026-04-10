@@ -1,0 +1,26 @@
+{
+    "state": "KARNATAKA",
+    "district": "BELAGAVI",
+    "offices": [
+        {
+            "officeName": "Shedbal R.S. B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Chikodi Division",
+            "latitude": 16.7217362,
+            "longitude": 74.7548179
+        },
+        {
+            "officeName": "Shedbal S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Chikodi Division",
+            "latitude": 16.690176,
+            "longitude": 74.762043
+        }
+    ]
+}

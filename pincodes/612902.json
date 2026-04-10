@@ -1,0 +1,66 @@
+{
+    "state": "TAMIL NADU",
+    "district": "Ariyalur",
+    "offices": [
+        {
+            "officeName": "Anaikudam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Tiruchirapalli Division",
+            "latitude": 11.14,
+            "longitude": 79.38
+        },
+        {
+            "officeName": "Devamangalam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Tiruchirapalli Division",
+            "latitude": 11.17,
+            "longitude": 79.38
+        },
+        {
+            "officeName": "Udayanatham BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Tiruchirapalli Division",
+            "latitude": 11.15,
+            "longitude": 79.41
+        },
+        {
+            "officeName": "Kodali BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Tiruchirapalli Division",
+            "latitude": 11.15,
+            "longitude": 79.43
+        },
+        {
+            "officeName": "Kodalikaruppur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Tiruchirapalli Division",
+            "latitude": 11.18769,
+            "longitude": 79.258148
+        },
+        {
+            "officeName": "Solamadevi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Tiruchirapalli Division",
+            "latitude": 11.13,
+            "longitude": 79.4
+        }
+    ]
+}

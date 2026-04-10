@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "KOLHAPUR",
+    "offices": [
+        {
+            "officeName": "Pratibhanagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Kolhapur Division",
+            "latitude": 16.686018,
+            "longitude": 74.242693
+        },
+        {
+            "officeName": "Rajarampuri S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Kolhapur Division",
+            "latitude": 16.69319444,
+            "longitude": 74.24505556
+        },
+        {
+            "officeName": "Shivaji Veedyapeeth Marg S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Kolhapur Division",
+            "latitude": 16.68958333,
+            "longitude": 74.24847222
+        }
+    ]
+}

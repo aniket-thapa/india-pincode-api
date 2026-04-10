@@ -1,0 +1,36 @@
+{
+    "state": "DELHI",
+    "district": "SOUTH",
+    "offices": [
+        {
+            "officeName": "Greater Kailash SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South Division",
+            "latitude": 28.5376667,
+            "longitude": 77.2381389
+        },
+        {
+            "officeName": "Kailash Colony SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South Division",
+            "latitude": 28.5471667,
+            "longitude": 77.2438056
+        },
+        {
+            "officeName": "Masjid Moth SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South Division",
+            "latitude": 28.5404722,
+            "longitude": 77.2346667
+        }
+    ]
+}

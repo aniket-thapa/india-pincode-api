@@ -1,0 +1,46 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "THANE",
+    "offices": [
+        {
+            "officeName": "Nerul Node III S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Navi Mumbai Division",
+            "latitude": 19.0400278,
+            "longitude": 73.02025
+        },
+        {
+            "officeName": "Darave B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Navi Mumbai Division",
+            "latitude": 19.035,
+            "longitude": 73.022
+        },
+        {
+            "officeName": "Nerul Sec 48 S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Navi Mumbai Division",
+            "latitude": 19.012,
+            "longitude": 73.0148611
+        },
+        {
+            "officeName": "Nerul Node II S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Navi Mumbai Division",
+            "latitude": 19.0432222,
+            "longitude": 73.0149444
+        }
+    ]
+}

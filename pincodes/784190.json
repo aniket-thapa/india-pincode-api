@@ -1,0 +1,46 @@
+{
+    "state": "ASSAM",
+    "district": "UDALGURI",
+    "offices": [
+        {
+            "officeName": "Shamtilla B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.71103,
+            "longitude": 92.9009
+        },
+        {
+            "officeName": "Chamuakhat B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.5489307,
+            "longitude": 92.0738647
+        },
+        {
+            "officeName": "Barbagan B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.5943518,
+            "longitude": 91.9881527
+        },
+        {
+            "officeName": "Bhakatpara S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.5398884,
+            "longitude": 92.0727482
+        }
+    ]
+}

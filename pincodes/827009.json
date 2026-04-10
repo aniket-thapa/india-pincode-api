@@ -1,0 +1,26 @@
+{
+    "state": "JHARKHAND",
+    "district": "BOKARO",
+    "offices": [
+        {
+            "officeName": "Sector IX SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dhanbad Division",
+            "latitude": 23.6907778,
+            "longitude": 86.1509444
+        },
+        {
+            "officeName": "Baidmara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dhanbad Division",
+            "latitude": 23.6318,
+            "longitude": 86.14375
+        }
+    ]
+}

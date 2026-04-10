@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "BARABANKI",
+    "offices": [
+        {
+            "officeName": "Kothi SO Barabanki",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Barabanki Division",
+            "latitude": 26.7325518,
+            "longitude": 81.3220578
+        },
+        {
+            "officeName": "Dayalpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Barabanki Division",
+            "latitude": 26.7112,
+            "longitude": 81.2885
+        },
+        {
+            "officeName": "Bibiapur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Barabanki Division",
+            "latitude": 26.7325518,
+            "longitude": 81.3220578
+        },
+        {
+            "officeName": "Inayatpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Barabanki Division",
+            "latitude": 26.7014087,
+            "longitude": 81.3385573
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "PRAKASAM",
+    "offices": [
+        {
+            "officeName": "Tettu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Prakasam Division",
+            "latitude": 15.049289,
+            "longitude": 80.001617
+        },
+        {
+            "officeName": "Ramapatnam S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Prakasam Division",
+            "latitude": 15.0490556,
+            "longitude": 80.0449444
+        },
+        {
+            "officeName": "Chevuru B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Prakasam Division",
+            "latitude": 15.003365,
+            "longitude": 80.007797
+        },
+        {
+            "officeName": "Mocherla B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Prakasam Division",
+            "latitude": 15.061639,
+            "longitude": 79.999987
+        },
+        {
+            "officeName": "Ravuru B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Prakasam Division",
+            "latitude": 15.021106,
+            "longitude": 80.024191
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "PUDUKKOTTAI",
+    "offices": [
+        {
+            "officeName": "Hirudayapuram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Pudukkottai Division",
+            "latitude": 10.24,
+            "longitude": 78.78
+        },
+        {
+            "officeName": "Panangudi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Pudukkottai Division",
+            "latitude": 10.43,
+            "longitude": 78.72
+        },
+        {
+            "officeName": "Ramachandrapuram S.O (Pudukkottai)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Pudukkottai Division",
+            "latitude": 10.29,
+            "longitude": 78.94
+        },
+        {
+            "officeName": "Oonaiyur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Pudukkottai Division",
+            "latitude": 10.21,
+            "longitude": 78.77
+        }
+    ]
+}

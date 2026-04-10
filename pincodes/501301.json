@@ -1,0 +1,56 @@
+{
+    "state": "TELANGANA",
+    "district": "MEDCHAL MALKAJGIRI",
+    "offices": [
+        {
+            "officeName": "Ankushapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Secunderabad Division",
+            "latitude": 17.4476,
+            "longitude": 78.7231
+        },
+        {
+            "officeName": "Aushapur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Secunderabad Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Cherlapalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Secunderabad Division",
+            "latitude": 17.4642,
+            "longitude": 78.5825
+        },
+        {
+            "officeName": "Edulabad B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Secunderabad Division",
+            "latitude": 17.4181,
+            "longitude": 78.7053
+        },
+        {
+            "officeName": "Ghatkesar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Secunderabad Division",
+            "latitude": 17.45180556,
+            "longitude": 78.68294444
+        }
+    ]
+}

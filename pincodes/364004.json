@@ -1,0 +1,26 @@
+{
+    "state": "GUJARAT",
+    "district": "BHAVNAGAR",
+    "offices": [
+        {
+            "officeName": "Nari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Bhavnagar Division",
+            "latitude": 21.77458,
+            "longitude": 72.072205
+        },
+        {
+            "officeName": "Bhavnagar Chitra SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Bhavnagar Division",
+            "latitude": 21.7644885,
+            "longitude": 72.1519144
+        }
+    ]
+}

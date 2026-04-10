@@ -1,0 +1,26 @@
+{
+    "state": "WEST BENGAL",
+    "district": "BIRBHUM",
+    "offices": [
+        {
+            "officeName": "Santiniketan SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Birbhum Division",
+            "latitude": 23.68225,
+            "longitude": 87.6870833
+        },
+        {
+            "officeName": "Paruldanga BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Birbhum Division",
+            "latitude": 23.690133,
+            "longitude": 87.709904
+        }
+    ]
+}

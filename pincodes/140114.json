@@ -1,0 +1,36 @@
+{
+    "state": "PUNJAB",
+    "district": "RUPNAGAR",
+    "offices": [
+        {
+            "officeName": "Bharatgarh Canal Colony BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chandigarh Division",
+            "latitude": 30.9666111,
+            "longitude": 76.3715277
+        },
+        {
+            "officeName": "Gardley BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chandigarh Division",
+            "latitude": 30.9666111,
+            "longitude": 76.3715277
+        },
+        {
+            "officeName": "Bharatgarh SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chandigarh Division",
+            "latitude": 31.0990278,
+            "longitude": 76.6091944
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "PUNJAB",
+    "district": "HOSHIARPUR",
+    "offices": [
+        {
+            "officeName": "Bahowal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Hoshiarpur Division",
+            "latitude": 31.45,
+            "longitude": 75.414
+        },
+        {
+            "officeName": "Gondpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Hoshiarpur Division",
+            "latitude": 31.74,
+            "longitude": 75.52
+        },
+        {
+            "officeName": "Mahilpur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Hoshiarpur Division",
+            "latitude": 31.364765,
+            "longitude": 76.038566
+        }
+    ]
+}

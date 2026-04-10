@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "TIRUNELVELI",
+    "offices": [
+        {
+            "officeName": "Karisalpatti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Tirunelveli Division",
+            "latitude": 8.61058,
+            "longitude": 77.585911
+        },
+        {
+            "officeName": "Thiruviruthanpuli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Tirunelveli Division",
+            "latitude": 8.619354,
+            "longitude": 77.566847
+        },
+        {
+            "officeName": "Cheranmahadevi RS BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Tirunelveli Division",
+            "latitude": 8.686912,
+            "longitude": 77.565981
+        },
+        {
+            "officeName": "Cheranmahadevi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Tirunelveli Division",
+            "latitude": 8.6822222,
+            "longitude": 77.5637222
+        }
+    ]
+}

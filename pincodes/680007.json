@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "THRISSUR",
+    "offices": [
+        {
+            "officeName": "Kurkancheri SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Trichur Division",
+            "latitude": 10.499128,
+            "longitude": 76.212977
+        },
+        {
+            "officeName": "Nedupuzha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Trichur Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Vadookkara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Trichur Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

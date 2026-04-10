@@ -1,0 +1,56 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "AGRA",
+    "offices": [
+        {
+            "officeName": "Jaganpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Agra Division",
+            "latitude": 27.2162906,
+            "longitude": 78.0137712
+        },
+        {
+            "officeName": "Dayal Bagh",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Agra Division",
+            "latitude": 27.2242626,
+            "longitude": 78.0107981
+        },
+        {
+            "officeName": "YAMUNA KINARA  SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Agra Division",
+            "latitude": 27.0,
+            "longitude": 78.0
+        },
+        {
+            "officeName": "KH SANSTHAN SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Agra Division",
+            "latitude": 27.2180899,
+            "longitude": 77.9925588
+        },
+        {
+            "officeName": "NEW AGRA",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Agra Division",
+            "latitude": 27.213456,
+            "longitude": 78.0082671
+        }
+    ]
+}

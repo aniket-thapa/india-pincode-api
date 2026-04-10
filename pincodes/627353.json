@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "TIRUNELVELI",
+    "offices": [
+        {
+            "officeName": "Manapadaiveedu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Tirunelveli Division",
+            "latitude": 8.778236,
+            "longitude": 77.765795
+        },
+        {
+            "officeName": "Timmarajapuram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Tirunelveli Division",
+            "latitude": 8.761674,
+            "longitude": 77.990928
+        },
+        {
+            "officeName": "Kizhanatham SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Tirunelveli Division",
+            "latitude": 8.760123,
+            "longitude": 77.746352
+        }
+    ]
+}

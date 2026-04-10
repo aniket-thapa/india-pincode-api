@@ -1,0 +1,96 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "MAHOBA",
+    "offices": [
+        {
+            "officeName": "Bilbai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Banda Division",
+            "latitude": 25.349161,
+            "longitude": 79.904579
+        },
+        {
+            "officeName": "Karahra Kalan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Banda Division",
+            "latitude": 25.341471,
+            "longitude": 79.801272
+        },
+        {
+            "officeName": "Mahoba RS BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Banda Division",
+            "latitude": 25.313608,
+            "longitude": 79.863195
+        },
+        {
+            "officeName": "Mahoba SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Banda Division",
+            "latitude": 25.2920278,
+            "longitude": 79.87375
+        },
+        {
+            "officeName": "Chikahra BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Banda Division",
+            "latitude": 25.378784,
+            "longitude": 79.877405
+        },
+        {
+            "officeName": "Paswara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Banda Division",
+            "latitude": 25.306191,
+            "longitude": 79.969955
+        },
+        {
+            "officeName": "Sijahri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Banda Division",
+            "latitude": 25.232897,
+            "longitude": 79.800158
+        },
+        {
+            "officeName": "Tikamau BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Banda Division",
+            "latitude": 25.33606,
+            "longitude": 79.956594
+        },
+        {
+            "officeName": "Gandhi Nagar Mahoba SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Banda Division",
+            "latitude": 25.29225,
+            "longitude": 79.8808056
+        }
+    ]
+}

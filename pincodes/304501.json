@@ -1,0 +1,46 @@
+{
+    "state": "RAJASTHAN",
+    "district": "TONK",
+    "offices": [
+        {
+            "officeName": "Avikanagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Tonk Division",
+            "latitude": 26.309314,
+            "longitude": 75.418675
+        },
+        {
+            "officeName": "Chandsen B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Tonk Division",
+            "latitude": 26.31017,
+            "longitude": 75.449767
+        },
+        {
+            "officeName": "Kalmanda B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Tonk Division",
+            "latitude": 26.240838,
+            "longitude": 75.546582
+        },
+        {
+            "officeName": "Kadila B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Tonk Division",
+            "latitude": 26.31017,
+            "longitude": 75.449767
+        }
+    ]
+}

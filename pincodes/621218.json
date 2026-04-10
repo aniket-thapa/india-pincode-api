@@ -1,0 +1,76 @@
+{
+    "state": "TAMIL NADU",
+    "district": "TIRUCHIRAPPALLI",
+    "offices": [
+        {
+            "officeName": "Melavalady BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Tiruchirapalli Division",
+            "latitude": 10.88,
+            "longitude": 78.74
+        },
+        {
+            "officeName": "Valady SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Tiruchirapalli Division",
+            "latitude": 10.87358,
+            "longitude": 78.75908
+        },
+        {
+            "officeName": "Esanakorai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Tiruchirapalli Division",
+            "latitude": 10.85,
+            "longitude": 78.8
+        },
+        {
+            "officeName": "Melaperungavur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Tiruchirapalli Division",
+            "latitude": 10.89,
+            "longitude": 78.77
+        },
+        {
+            "officeName": "Tirumanamedu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Tiruchirapalli Division",
+            "latitude": 10.87,
+            "longitude": 78.77
+        },
+        {
+            "officeName": "Periavarsili BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Tiruchirapalli Division",
+            "latitude": 10.86,
+            "longitude": 78.8
+        },
+        {
+            "officeName": "Edayathimangalam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Tiruchirapalli Division",
+            "latitude": 10.85,
+            "longitude": 78.8
+        }
+    ]
+}

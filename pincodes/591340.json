@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "BELAGAVI",
+    "offices": [
+        {
+            "officeName": "Nerli S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Gokak Division",
+            "latitude": 16.254771,
+            "longitude": 74.549753
+        },
+        {
+            "officeName": "Kamatnur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Gokak Division",
+            "latitude": 16.2677023,
+            "longitude": 74.5231579
+        },
+        {
+            "officeName": "Kochari B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Gokak Division",
+            "latitude": 16.2248383,
+            "longitude": 74.5492394
+        }
+    ]
+}

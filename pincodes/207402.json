@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "Kasganj",
+    "offices": [
+        {
+            "officeName": "Baznagar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Etah Division",
+            "latitude": 27.87,
+            "longitude": 78.86
+        },
+        {
+            "officeName": "Roshan Nagar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Etah Division",
+            "latitude": 27.84,
+            "longitude": 78.84
+        },
+        {
+            "officeName": "Gaupura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Etah Division",
+            "latitude": 27.91,
+            "longitude": 78.8
+        },
+        {
+            "officeName": "Neoli SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Etah Division",
+            "latitude": 27.905921696915023,
+            "longitude": 78.81797399138763
+        }
+    ]
+}

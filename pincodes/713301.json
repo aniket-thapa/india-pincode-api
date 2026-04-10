@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "PASCHIM BARDHAMAN",
+    "offices": [
+        {
+            "officeName": "SBGorai Road SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Asansol Division",
+            "latitude": 23.6866,
+            "longitude": 86.9529
+        },
+        {
+            "officeName": "Hutton Road SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Asansol Division",
+            "latitude": 24.0944444,
+            "longitude": 89.4411111
+        },
+        {
+            "officeName": "Asansol HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Asansol Division",
+            "latitude": 22.6866667,
+            "longitude": 86.9735278
+        }
+    ]
+}

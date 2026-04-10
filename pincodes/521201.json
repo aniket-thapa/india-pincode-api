@@ -1,0 +1,46 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Eluru",
+    "offices": [
+        {
+            "officeName": "Dum Dum Gardens S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Gudivada Division",
+            "latitude": 16.7803611,
+            "longitude": 80.8765
+        },
+        {
+            "officeName": "Nuzvid Bazar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Gudivada Division",
+            "latitude": 16.785638,
+            "longitude": 80.848665
+        },
+        {
+            "officeName": "Vidyanagar S.O (Krishna)",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Gudivada Division",
+            "latitude": 16.79,
+            "longitude": 80.85
+        },
+        {
+            "officeName": "Nuzvid SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Gudivada Division",
+            "latitude": 16.79247222,
+            "longitude": 80.84727778
+        }
+    ]
+}

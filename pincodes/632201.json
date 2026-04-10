@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "VELLORE",
+    "offices": [
+        {
+            "officeName": "Perumankuppam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupattur Division",
+            "latitude": 12.972151,
+            "longitude": 78.976765
+        },
+        {
+            "officeName": "Kilvayathinankuppam S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupattur Division",
+            "latitude": 12.956215,
+            "longitude": 78.98591
+        }
+    ]
+}

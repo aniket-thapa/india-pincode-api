@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "24 PARAGANAS NORTH",
+    "offices": [
+        {
+            "officeName": "Kumra Kashipur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Barasat Division",
+            "latitude": 22.8154283,
+            "longitude": 88.7010812
+        },
+        {
+            "officeName": "Hijalpukuria SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Barasat Division",
+            "latitude": 22.8385,
+            "longitude": 88.65575
+        },
+        {
+            "officeName": "Sonakenia BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Barasat Division",
+            "latitude": 22.8020532,
+            "longitude": 88.6732468
+        }
+    ]
+}

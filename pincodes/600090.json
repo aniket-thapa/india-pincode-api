@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "CHENNAI",
+    "offices": [
+        {
+            "officeName": "Rajaji Bhavan S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City South Division",
+            "latitude": 13.00182,
+            "longitude": 80.16135
+        },
+        {
+            "officeName": "Besantnagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City South Division",
+            "latitude": 12.9928611,
+            "longitude": 80.2653889
+        }
+    ]
+}

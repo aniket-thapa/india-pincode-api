@@ -1,0 +1,56 @@
+{
+    "state": "RAJASTHAN",
+    "district": "AJMER",
+    "offices": [
+        {
+            "officeName": "Pinglod B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Ajmer Division",
+            "latitude": 26.696366,
+            "longitude": 74.806845
+        },
+        {
+            "officeName": "Tityari B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Ajmer Division",
+            "latitude": 26.686777,
+            "longitude": 74.824394
+        },
+        {
+            "officeName": "Salemabad S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Ajmer Division",
+            "latitude": 26.7173889,
+            "longitude": 74.7965556
+        },
+        {
+            "officeName": "Singara B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Ajmer Division",
+            "latitude": 26.738531,
+            "longitude": 74.79807
+        },
+        {
+            "officeName": "Khatoli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Ajmer Division",
+            "latitude": 26.663123,
+            "longitude": 74.844865
+        }
+    ]
+}

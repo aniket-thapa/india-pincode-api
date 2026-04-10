@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "AURAIYA",
+    "offices": [
+        {
+            "officeName": "Gailly BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Etawah Division",
+            "latitude": 26.8484253,
+            "longitude": 79.6414375
+        },
+        {
+            "officeName": "Bela SO Auraiya",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Etawah Division",
+            "latitude": 26.8286819,
+            "longitude": 79.6740303
+        },
+        {
+            "officeName": "Hardu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Etawah Division",
+            "latitude": 26.810436,
+            "longitude": 79.6453857
+        },
+        {
+            "officeName": "Mahu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Etawah Division",
+            "latitude": 26.8717794,
+            "longitude": 79.6476173
+        }
+    ]
+}

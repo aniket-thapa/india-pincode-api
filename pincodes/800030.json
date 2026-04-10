@@ -1,0 +1,46 @@
+{
+    "state": "BIHAR",
+    "district": "PATNA",
+    "offices": [
+        {
+            "officeName": "PAHARI BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "PATNA SAHIB DIVISION",
+            "latitude": 25.3665654,
+            "longitude": 85.5656596
+        },
+        {
+            "officeName": "PURVI LAXMINAGAR SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "PATNA SAHIB DIVISION",
+            "latitude": 25.591228,
+            "longitude": 85.140158
+        },
+        {
+            "officeName": "DHELMA BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "PATNA SAHIB DIVISION",
+            "latitude": 25.2356654,
+            "longitude": 85.8989866
+        },
+        {
+            "officeName": "M KACHUARA BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "PATNA SAHIB DIVISION",
+            "latitude": 25.3636999,
+            "longitude": 85.6969999
+        }
+    ]
+}

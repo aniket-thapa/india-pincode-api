@@ -1,0 +1,36 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "SONBHADRA",
+    "offices": [
+        {
+            "officeName": "Banvasi Seva Ashram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Mirzapur Division",
+            "latitude": 24.40059,
+            "longitude": 82.85656
+        },
+        {
+            "officeName": "Turra SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Mirzapur Division",
+            "latitude": 24.2035278,
+            "longitude": 83.0204722
+        },
+        {
+            "officeName": "Raspahari B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Mirzapur Division",
+            "latitude": 24.10450732,
+            "longitude": 83.02586248
+        }
+    ]
+}

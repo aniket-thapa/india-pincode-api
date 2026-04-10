@@ -1,0 +1,46 @@
+{
+    "state": "WEST BENGAL",
+    "district": "NADIA",
+    "offices": [
+        {
+            "officeName": "Chandanpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Nadia North Division",
+            "latitude": 23.56,
+            "longitude": 88.36
+        },
+        {
+            "officeName": "Dadupur Nadia BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Nadia North Division",
+            "latitude": 23.56,
+            "longitude": 88.32
+        },
+        {
+            "officeName": "Udaychandrapur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Nadia North Division",
+            "latitude": 23.56,
+            "longitude": 88.31
+        },
+        {
+            "officeName": "Kasiadanga SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Nadia North Division",
+            "latitude": 23.6086111,
+            "longitude": 88.3927777
+        }
+    ]
+}

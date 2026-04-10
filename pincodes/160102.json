@@ -1,0 +1,26 @@
+{
+    "state": "CHANDIGARH",
+    "district": "CHANDIGARH",
+    "offices": [
+        {
+            "officeName": "Raipur Kalan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chandigarh Division",
+            "latitude": 30.692051,
+            "longitude": 76.69841
+        },
+        {
+            "officeName": "Mauli Jagran SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chandigarh Division",
+            "latitude": 30.6922778,
+            "longitude": 76.8096111
+        }
+    ]
+}

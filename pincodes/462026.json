@@ -1,0 +1,26 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "BHOPAL",
+    "offices": [
+        {
+            "officeName": "Bawadia Kalan B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhopal Division",
+            "latitude": 23.22,
+            "longitude": 77.44
+        },
+        {
+            "officeName": "University S.O (Bhopal)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhopal Division",
+            "latitude": 23.21,
+            "longitude": 77.44
+        }
+    ]
+}

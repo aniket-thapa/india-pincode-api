@@ -1,0 +1,56 @@
+{
+    "state": "TAMIL NADU",
+    "district": "VELLORE",
+    "offices": [
+        {
+            "officeName": "Eranthangal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Arakkonam Division",
+            "latitude": 12.89255,
+            "longitude": 79.2112
+        },
+        {
+            "officeName": "Ammundi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Arakkonam Division",
+            "latitude": 12.9249616,
+            "longitude": 79.3668495
+        },
+        {
+            "officeName": "Vellore Sugar Mills SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Arakkonam Division",
+            "latitude": 12.9165357,
+            "longitude": 79.1324796
+        },
+        {
+            "officeName": "Karnambut BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Arakkonam Division",
+            "latitude": 12.9249636,
+            "longitude": 79.3668475
+        },
+        {
+            "officeName": "Sembarayanallur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Arakkonam Division",
+            "latitude": 12.89255,
+            "longitude": 79.2112
+        }
+    ]
+}

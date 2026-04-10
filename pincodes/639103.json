@@ -1,0 +1,56 @@
+{
+    "state": "TAMIL NADU",
+    "district": "KARUR",
+    "offices": [
+        {
+            "officeName": "Mudalaipatti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Tiruchirapalli Division",
+            "latitude": 10.83,
+            "longitude": 78.57
+        },
+        {
+            "officeName": "Kulumani SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Tiruchirapalli Division",
+            "latitude": 10.8452778,
+            "longitude": 78.5963889
+        },
+        {
+            "officeName": "ETTARAI S.O.",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Tiruchirapalli Division",
+            "latitude": 10.84527778,
+            "longitude": 78.59638889
+        },
+        {
+            "officeName": "Inampuliyur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Tiruchirapalli Division",
+            "latitude": 10.8083968,
+            "longitude": 78.5643989
+        },
+        {
+            "officeName": "Koppu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Tiruchirapalli Division",
+            "latitude": 10.8410745,
+            "longitude": 78.5869893
+        }
+    ]
+}

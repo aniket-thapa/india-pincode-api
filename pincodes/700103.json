@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "24 PARAGANAS SOUTH",
+    "offices": [
+        {
+            "officeName": "Bonhooghly BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Baruipur Division",
+            "latitude": 22.429,
+            "longitude": 88.3652
+        },
+        {
+            "officeName": "Nepalganj BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Baruipur Division",
+            "latitude": 22.39,
+            "longitude": 88.338
+        },
+        {
+            "officeName": "Narendrapur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Baruipur Division",
+            "latitude": 22.44489,
+            "longitude": 88.39346
+        }
+    ]
+}

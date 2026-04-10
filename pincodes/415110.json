@@ -1,0 +1,56 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "SATARA",
+    "offices": [
+        {
+            "officeName": "Karadcity S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Karad Division",
+            "latitude": 17.2884722,
+            "longitude": 74.1795
+        },
+        {
+            "officeName": "Tilak Path Karad S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Karad Division",
+            "latitude": 17.2913056,
+            "longitude": 74.1805278
+        },
+        {
+            "officeName": "Market Yard Karad S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Karad Division",
+            "latitude": 17.27625,
+            "longitude": 74.1856944
+        },
+        {
+            "officeName": "Karad H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Karad Division",
+            "latitude": 17.286501,
+            "longitude": 74.181427
+        },
+        {
+            "officeName": "Mangalwar Peth Karad S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Karad Division",
+            "latitude": 17.2890556,
+            "longitude": 74.1841389
+        }
+    ]
+}

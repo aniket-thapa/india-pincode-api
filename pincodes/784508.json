@@ -1,0 +1,46 @@
+{
+    "state": "ASSAM",
+    "district": "UDALGURI",
+    "offices": [
+        {
+            "officeName": "Bhalukmari B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.79298,
+            "longitude": 92.3876
+        },
+        {
+            "officeName": "Shillongkhuti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.79298,
+            "longitude": 92.3876
+        },
+        {
+            "officeName": "Rowta S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.7468329,
+            "longitude": 92.1515213
+        },
+        {
+            "officeName": "Rowta Chariali B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.7148724,
+            "longitude": 92.2088969
+        }
+    ]
+}

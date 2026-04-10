@@ -1,0 +1,26 @@
+{
+    "state": "HARYANA",
+    "district": "AMBALA",
+    "offices": [
+        {
+            "officeName": "Ind estate S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.3325556,
+            "longitude": 76.8798333
+        },
+        {
+            "officeName": "Brahman Majra B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "NA",
+            "divisionName": "Ambala Division",
+            "latitude": 30.310804,
+            "longitude": 76.871856
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "ASSAM",
+    "district": "GOLAGHAT",
+    "offices": [
+        {
+            "officeName": "Hatikhuli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Sibsagar Division",
+            "latitude": 26.5355,
+            "longitude": 94.3209
+        },
+        {
+            "officeName": "Kaziranga B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Sibsagar Division",
+            "latitude": 26.5355,
+            "longitude": 94.3209
+        },
+        {
+            "officeName": "Mohpara B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Sibsagar Division",
+            "latitude": 26.5355,
+            "longitude": 94.3209
+        },
+        {
+            "officeName": "Kaziranga National Park S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Sibsagar Division",
+            "latitude": 26.5355,
+            "longitude": 94.3209
+        }
+    ]
+}

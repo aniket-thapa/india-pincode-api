@@ -1,0 +1,66 @@
+{
+    "state": "PUNJAB",
+    "district": "HOSHIARPUR",
+    "offices": [
+        {
+            "officeName": "Jaijon SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Hoshiarpur Division",
+            "latitude": 31.3474,
+            "longitude": 76.14874
+        },
+        {
+            "officeName": "Lalwan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Hoshiarpur Division",
+            "latitude": 31.08,
+            "longitude": 75.84
+        },
+        {
+            "officeName": "Gajjar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Hoshiarpur Division",
+            "latitude": 31.69,
+            "longitude": 75.81
+        },
+        {
+            "officeName": "Fateh Pur Kothi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Hoshiarpur Division",
+            "latitude": 31.65,
+            "longitude": 75.84
+        },
+        {
+            "officeName": "Rampur Jhanjowal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Hoshiarpur Division",
+            "latitude": 31.56,
+            "longitude": 75.84
+        },
+        {
+            "officeName": "Kaindowal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Hoshiarpur Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

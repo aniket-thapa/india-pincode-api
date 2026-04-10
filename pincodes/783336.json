@@ -1,0 +1,46 @@
+{
+    "state": "ASSAM",
+    "district": "KOKRAJHAR",
+    "offices": [
+        {
+            "officeName": "Binnyakhata B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 26.432886,
+            "longitude": 90.059822
+        },
+        {
+            "officeName": "Gambaribil B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 26.50344,
+            "longitude": 90.096874
+        },
+        {
+            "officeName": "Kamalsing B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 26.4592,
+            "longitude": 90.1015
+        },
+        {
+            "officeName": "Bhowraguri S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 26.4036944,
+            "longitude": 90.2721944
+        }
+    ]
+}

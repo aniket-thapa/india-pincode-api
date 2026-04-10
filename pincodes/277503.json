@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "BALLIA",
+    "offices": [
+        {
+            "officeName": "Singhpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Ballia Division",
+            "latitude": 25.77,
+            "longitude": 84.03
+        },
+        {
+            "officeName": "Cherueyan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Ballia Division",
+            "latitude": 26.76,
+            "longitude": 84.15
+        },
+        {
+            "officeName": "Bisukia BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Ballia Division",
+            "latitude": 25.79,
+            "longitude": 84.07
+        },
+        {
+            "officeName": "Phehpana SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Ballia Division",
+            "latitude": 25.7685406,
+            "longitude": 84.046313
+        }
+    ]
+}

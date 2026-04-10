@@ -1,0 +1,26 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "VARANASI",
+    "offices": [
+        {
+            "officeName": "DLW SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Varanasi West Division",
+            "latitude": 25.2853889,
+            "longitude": 82.9604167
+        },
+        {
+            "officeName": "West Colony SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Varanasi West Division",
+            "latitude": 25.18,
+            "longitude": 82.58
+        }
+    ]
+}

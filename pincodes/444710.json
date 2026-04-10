@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "AMRAVATI",
+    "offices": [
+        {
+            "officeName": "Talegaon Dashasar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Amaravati Division",
+            "latitude": 20.6802222,
+            "longitude": 78.0943056
+        },
+        {
+            "officeName": "Dhanodi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Amaravati Division",
+            "latitude": 21.48,
+            "longitude": 78.32
+        },
+        {
+            "officeName": "Shendurjana Dha B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Amaravati Division",
+            "latitude": 20.73,
+            "longitude": 78.06
+        }
+    ]
+}

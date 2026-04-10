@@ -1,0 +1,56 @@
+{
+    "state": "WEST BENGAL",
+    "district": "HOOGHLY",
+    "offices": [
+        {
+            "officeName": "Chinsurah Bazar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Hooghly North Division",
+            "latitude": 22.62905,
+            "longitude": 88.4211666
+        },
+        {
+            "officeName": "Chinsurah HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Hooghly North Division",
+            "latitude": 22.88825,
+            "longitude": 88.40225
+        },
+        {
+            "officeName": "Sandeswartala JC SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Hooghly North Division",
+            "latitude": 22.8802778,
+            "longitude": 88.3972222
+        },
+        {
+            "officeName": "Chinsurah Court SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Hooghly North Division",
+            "latitude": 22.8871111,
+            "longitude": 88.3995556
+        },
+        {
+            "officeName": "Pratappur SO Hooghly",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Hooghly North Division",
+            "latitude": 22.88825,
+            "longitude": 88.40225
+        }
+    ]
+}

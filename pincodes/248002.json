@@ -1,0 +1,36 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "offices": [
+        {
+            "officeName": "Clementtown SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehradun Division",
+            "latitude": 30.2650833,
+            "longitude": 78.0012778
+        },
+        {
+            "officeName": "Turner Road SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehradun Division",
+            "latitude": 30.2871111,
+            "longitude": 77.9960278
+        },
+        {
+            "officeName": "Mohbewala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehradun Division",
+            "latitude": 30.48365,
+            "longitude": 77.93591
+        }
+    ]
+}

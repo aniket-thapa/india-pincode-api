@@ -1,0 +1,66 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "offices": [
+        {
+            "officeName": "MPT SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City South Division",
+            "latitude": 18.9361389,
+            "longitude": 72.8377778
+        },
+        {
+            "officeName": "Tajmahal SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City South Division",
+            "latitude": 18.9260278,
+            "longitude": 72.8298889
+        },
+        {
+            "officeName": "Mumbai GPO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai GPO Division",
+            "latitude": 18.9391667,
+            "longitude": 72.8375556
+        },
+        {
+            "officeName": "Bazargate SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City South Division",
+            "latitude": 18.9351944,
+            "longitude": 72.8356389
+        },
+        {
+            "officeName": "Stock Exchange SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City South Division",
+            "latitude": 18.9366389,
+            "longitude": 72.82825
+        },
+        {
+            "officeName": "Town Hall SO Mumbai",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City South Division",
+            "latitude": 18.94206,
+            "longitude": 72.83544
+        }
+    ]
+}

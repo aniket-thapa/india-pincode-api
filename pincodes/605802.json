@@ -1,0 +1,66 @@
+{
+    "state": "TAMIL NADU",
+    "district": "KALLAKURICHI",
+    "offices": [
+        {
+            "officeName": "Sirpadanallur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Vriddhachalam Division",
+            "latitude": 12.01,
+            "longitude": 79.03
+        },
+        {
+            "officeName": "Kadambur S.O (Villupuram)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Vriddhachalam Division",
+            "latitude": 11.9453889,
+            "longitude": 79.49525
+        },
+        {
+            "officeName": "Tiruvarangam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Vriddhachalam Division",
+            "latitude": 12.0,
+            "longitude": 79.06
+        },
+        {
+            "officeName": "Eduthanur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Vriddhachalam Division",
+            "latitude": 11.96,
+            "longitude": 79.03
+        },
+        {
+            "officeName": "Elayanarkuppam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Vriddhachalam Division",
+            "latitude": 11.98,
+            "longitude": 79.02
+        },
+        {
+            "officeName": "Sirpanandal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Vriddhachalam Division",
+            "latitude": 11.98,
+            "longitude": 79.04
+        }
+    ]
+}

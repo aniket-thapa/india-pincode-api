@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "KANNUR",
+    "offices": [
+        {
+            "officeName": "Munderi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Cannanore Division",
+            "latitude": 11.932713,
+            "longitude": 75.4378581
+        },
+        {
+            "officeName": "Eachur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Cannanore Division",
+            "latitude": 11.874535,
+            "longitude": 75.37019
+        },
+        {
+            "officeName": "Munderi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Manjeri Division",
+            "latitude": 11.4432765,
+            "longitude": 76.2590759
+        }
+    ]
+}

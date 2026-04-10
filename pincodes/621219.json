@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "PERAMBALUR",
+    "offices": [
+        {
+            "officeName": "Vadakkumadevi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Srirangam Division",
+            "latitude": 11.29,
+            "longitude": 78.87
+        },
+        {
+            "officeName": "Yesanai S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Srirangam Division",
+            "latitude": 11.3,
+            "longitude": 78.83
+        },
+        {
+            "officeName": "Anukkur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Srirangam Division",
+            "latitude": 11.33,
+            "longitude": 78.86
+        }
+    ]
+}

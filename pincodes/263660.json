@@ -1,0 +1,56 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "offices": [
+        {
+            "officeName": "Timtha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Almora Division",
+            "latitude": 29.6433675,
+            "longitude": 29.6433675
+        },
+        {
+            "officeName": "Naubara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Almora Division",
+            "latitude": 29.6433685,
+            "longitude": 79.4321755
+        },
+        {
+            "officeName": "Daula SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Almora Division",
+            "latitude": 29.4722,
+            "longitude": 79.1832
+        },
+        {
+            "officeName": "Dhamera BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Almora Division",
+            "latitude": 29.6433685,
+            "longitude": 79.4321755
+        },
+        {
+            "officeName": "Naila BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Almora Division",
+            "latitude": 29.6433665,
+            "longitude": 79.4321775
+        }
+    ]
+}

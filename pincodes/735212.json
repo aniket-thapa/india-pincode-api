@@ -1,0 +1,46 @@
+{
+    "state": "WEST BENGAL",
+    "district": "JALPAIGURI",
+    "offices": [
+        {
+            "officeName": "Gairkata SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Jalpaiguri Division",
+            "latitude": 26.7,
+            "longitude": 89.02
+        },
+        {
+            "officeName": "Pradhanpara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Jalpaiguri Division",
+            "latitude": 26.67,
+            "longitude": 89.05
+        },
+        {
+            "officeName": "Sakoajhora BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Jalpaiguri Division",
+            "latitude": 26.67,
+            "longitude": 89.03
+        },
+        {
+            "officeName": "Sajnapara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Jalpaiguri Division",
+            "latitude": 26.71,
+            "longitude": 89.06
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "CHENNAI",
+    "offices": [
+        {
+            "officeName": "EGMORE NDSO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City North Division",
+            "latitude": 13.0755986,
+            "longitude": 80.2622746
+        },
+        {
+            "officeName": "EGMORE MDO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City North Division",
+            "latitude": 13.0665095,
+            "longitude": 80.2560219
+        },
+        {
+            "officeName": "ETHIRAJ SALAI",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City North Division",
+            "latitude": 13.0657584,
+            "longitude": 80.2565679
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "ERNAKULAM",
+    "offices": [
+        {
+            "officeName": "Kunjithai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Alwaye Division",
+            "latitude": 10.1668619,
+            "longitude": 76.1925357
+        },
+        {
+            "officeName": "Vadakkekara SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Alwaye Division",
+            "latitude": 10.158859,
+            "longitude": 76.211766
+        }
+    ]
+}

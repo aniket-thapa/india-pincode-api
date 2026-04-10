@@ -1,0 +1,56 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "KANGRA",
+    "offices": [
+        {
+            "officeName": "Dadoli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehra Gopipur Division",
+            "latitude": 32.081731,
+            "longitude": 76.169679
+        },
+        {
+            "officeName": "Spail BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehra Gopipur Division",
+            "latitude": 32.086241,
+            "longitude": 76.103726
+        },
+        {
+            "officeName": "Lanj SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehra Gopipur Division",
+            "latitude": 32.097722,
+            "longitude": 76.145138
+        },
+        {
+            "officeName": "Bhater BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehra Gopipur Division",
+            "latitude": 31.33354,
+            "longitude": 76.540153
+        },
+        {
+            "officeName": "Masroor BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehra Gopipur Division",
+            "latitude": 32.073074,
+            "longitude": 76.137496
+        }
+    ]
+}

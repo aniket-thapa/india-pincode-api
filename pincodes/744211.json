@@ -1,0 +1,46 @@
+{
+    "state": "ANDAMAN AND NICOBAR ISLANDS",
+    "district": "SOUTH ANDAMANS",
+    "offices": [
+        {
+            "officeName": "Swaraj Dweep SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "A - N Islands Division",
+            "latitude": 12.040302,
+            "longitude": 92.983321
+        },
+        {
+            "officeName": "Kalapather B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "A - N Islands Division",
+            "latitude": 11.77,
+            "longitude": 92.88
+        },
+        {
+            "officeName": "Swaraj Dweep BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "A - N Islands Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Peal Island B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "A - N Islands Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

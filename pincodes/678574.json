@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "PALAKKAD",
+    "offices": [
+        {
+            "officeName": "Chulanur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Palghat Division",
+            "latitude": 10.7085,
+            "longitude": 76.4722
+        },
+        {
+            "officeName": "Naduvathupara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Palghat Division",
+            "latitude": 15.5934,
+            "longitude": 76.4722
+        },
+        {
+            "officeName": "Peringottukurussi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Palghat Division",
+            "latitude": 10.642185,
+            "longitude": 76.544826
+        }
+    ]
+}

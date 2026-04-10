@@ -1,0 +1,46 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "AKOLA",
+    "offices": [
+        {
+            "officeName": "Gajanan Nagar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Akola Division",
+            "latitude": 20.71,
+            "longitude": 76.98
+        },
+        {
+            "officeName": "Akola City S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Akola Division",
+            "latitude": 20.71,
+            "longitude": 76.99
+        },
+        {
+            "officeName": "Rpts Akola S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Akola Division",
+            "latitude": 20.7245556,
+            "longitude": 76.9806667
+        },
+        {
+            "officeName": "Bhaurad B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Akola Division",
+            "latitude": 20.73,
+            "longitude": 76.96
+        }
+    ]
+}

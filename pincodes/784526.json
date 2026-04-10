@@ -1,0 +1,36 @@
+{
+    "state": "ASSAM",
+    "district": "UDALGURI",
+    "offices": [
+        {
+            "officeName": "Dimakuchi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.6940961,
+            "longitude": 91.85496
+        },
+        {
+            "officeName": "Kalikhola B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.7610705,
+            "longitude": 91.8573343
+        },
+        {
+            "officeName": "Pachim Patla B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.80805,
+            "longitude": 91.8797
+        }
+    ]
+}

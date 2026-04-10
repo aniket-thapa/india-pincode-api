@@ -1,0 +1,26 @@
+{
+    "state": "HARYANA",
+    "district": "AMBALA",
+    "offices": [
+        {
+            "officeName": "Sarsehri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.3781868,
+            "longitude": 76.7766894
+        },
+        {
+            "officeName": "Babyal S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.3569444,
+            "longitude": 76.8783333
+        }
+    ]
+}

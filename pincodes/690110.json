@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "ALAPPUZHA",
+    "offices": [
+        {
+            "officeName": "Arunoottimangalam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Mavelikara Division",
+            "latitude": 9.22924,
+            "longitude": 76.577884
+        },
+        {
+            "officeName": "Kallumala SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Mavelikara Division",
+            "latitude": 9.237385,
+            "longitude": 76.555856
+        }
+    ]
+}

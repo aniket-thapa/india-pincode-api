@@ -1,0 +1,46 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "EAST GODAVARI",
+    "offices": [
+        {
+            "officeName": "Dosakayapalli S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Rajahmundry Division",
+            "latitude": 17.0666944,
+            "longitude": 81.8265278
+        },
+        {
+            "officeName": "Burugupudi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Rajahmundry Division",
+            "latitude": 17.1339,
+            "longitude": 81.8306
+        },
+        {
+            "officeName": "Nandarada B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Rajahmundry Division",
+            "latitude": 17.122,
+            "longitude": 81.862
+        },
+        {
+            "officeName": "Butchampeta B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Rajahmundry Division",
+            "latitude": 17.1222,
+            "longitude": 81.7937
+        }
+    ]
+}

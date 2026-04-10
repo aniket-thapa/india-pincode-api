@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "Alipurduar",
+    "offices": [
+        {
+            "officeName": "Ghagra BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Cooch Behar Division",
+            "latitude": 26.52,
+            "longitude": 89.49
+        },
+        {
+            "officeName": "Alipurduar Court SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Cooch Behar Division",
+            "latitude": 26.4990556,
+            "longitude": 89.5264444
+        },
+        {
+            "officeName": "Banchukamari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Cooch Behar Division",
+            "latitude": 26.51,
+            "longitude": 89.49
+        }
+    ]
+}

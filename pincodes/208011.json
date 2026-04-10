@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "KANPUR NAGAR",
+    "offices": [
+        {
+            "officeName": "Anand Nagar SO Kanpur Nagar",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Kanpur City Division",
+            "latitude": 26.43044,
+            "longitude": 80.32313
+        },
+        {
+            "officeName": "Yashoda Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Kanpur City Division",
+            "latitude": 26.4120833,
+            "longitude": 80.3271944
+        },
+        {
+            "officeName": "RBI Colony SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Kanpur City Division",
+            "latitude": 26.422,
+            "longitude": 80.3255833
+        },
+        {
+            "officeName": "Kidwai Nagar SO Kanpur Nagar",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Kanpur City Division",
+            "latitude": 26.4735556,
+            "longitude": 80.3506944
+        }
+    ]
+}

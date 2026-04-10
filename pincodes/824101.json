@@ -1,0 +1,26 @@
+{
+    "state": "BIHAR",
+    "district": "AURANGABAD",
+    "offices": [
+        {
+            "officeName": "Aurangabad BH HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "AurangabadBihar Division",
+            "latitude": 24.770316,
+            "longitude": 84.248952
+        },
+        {
+            "officeName": "Aurangabad Kutchehry SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "AurangabadBihar Division",
+            "latitude": 24.770316,
+            "longitude": 84.248952
+        }
+    ]
+}

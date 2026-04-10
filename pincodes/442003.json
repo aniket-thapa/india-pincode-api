@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "WARDHA",
+    "offices": [
+        {
+            "officeName": "Cotton Market S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Wardha Division",
+            "latitude": 20.7319167,
+            "longitude": 78.5977778
+        },
+        {
+            "officeName": "Hindinagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Wardha Division",
+            "latitude": 20.7362778,
+            "longitude": 78.5883333
+        }
+    ]
+}

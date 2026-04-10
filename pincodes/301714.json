@@ -1,0 +1,36 @@
+{
+    "state": "RAJASTHAN",
+    "district": "ALWAR",
+    "offices": [
+        {
+            "officeName": "Sanoli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Alwar Division",
+            "latitude": 27.947411,
+            "longitude": 76.423045
+        },
+        {
+            "officeName": "Jalawas B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Alwar Division",
+            "latitude": 27.946474,
+            "longitude": 76.463249
+        },
+        {
+            "officeName": "Bahror Jat S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Alwar Division",
+            "latitude": 27.9515,
+            "longitude": 76.4318889
+        }
+    ]
+}

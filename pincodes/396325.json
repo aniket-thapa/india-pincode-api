@@ -1,0 +1,56 @@
+{
+    "state": "GUJARAT",
+    "district": "NAVSARI",
+    "offices": [
+        {
+            "officeName": "Nandarkha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Navsari Division",
+            "latitude": 20.77,
+            "longitude": 73.01
+        },
+        {
+            "officeName": "Vankal Chikhli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Navsari Division",
+            "latitude": 20.75,
+            "longitude": 73.01
+        },
+        {
+            "officeName": "Antalia SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Navsari Division",
+            "latitude": 20.77,
+            "longitude": 72.99
+        },
+        {
+            "officeName": "Undach Luhar  Falia BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Navsari Division",
+            "latitude": 20.75,
+            "longitude": 72.99
+        },
+        {
+            "officeName": "Undach Vania Falia BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Navsari Division",
+            "latitude": 20.74,
+            "longitude": 73.0
+        }
+    ]
+}

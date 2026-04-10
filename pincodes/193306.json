@@ -1,0 +1,66 @@
+{
+    "state": "JAMMU AND KASHMIR",
+    "district": "PULWAMA",
+    "offices": [
+        {
+            "officeName": "Drabgam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 33.82021,
+            "longitude": 74.815835
+        },
+        {
+            "officeName": "Qasbiyar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 33.808749,
+            "longitude": 74.810043
+        },
+        {
+            "officeName": "Brithipora BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 33.824264,
+            "longitude": 74.853135
+        },
+        {
+            "officeName": "Rajpora",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 33.8241944,
+            "longitude": 74.8534167
+        },
+        {
+            "officeName": "Klampora BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 33.808403,
+            "longitude": 74.833124
+        },
+        {
+            "officeName": "Tiken Batpora BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 33.848061,
+            "longitude": 74.869719
+        }
+    ]
+}

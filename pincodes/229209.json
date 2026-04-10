@@ -1,0 +1,26 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "RAE BARELI",
+    "offices": [
+        {
+            "officeName": "Paho SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Rae Bareilly Division",
+            "latitude": 26.1958333,
+            "longitude": 80.55575
+        },
+        {
+            "officeName": "Sheopuri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Rae Bareilly Division",
+            "latitude": 40.4,
+            "longitude": 93.66
+        }
+    ]
+}

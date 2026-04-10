@@ -1,0 +1,36 @@
+{
+    "state": "RAJASTHAN",
+    "district": "CHURU",
+    "offices": [
+        {
+            "officeName": "Charwas S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Churu Division",
+            "latitude": 27.8038056,
+            "longitude": 74.4085556
+        },
+        {
+            "officeName": "Balera B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Churu Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Gopalpura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Churu Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

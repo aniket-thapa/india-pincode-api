@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "KOTTAYAM",
+    "offices": [
+        {
+            "officeName": "Chirakadavu Centre BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Changanacherry Division",
+            "latitude": 9.548437,
+            "longitude": 76.76411
+        },
+        {
+            "officeName": "Kavumbhagom BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Changanacherry Division",
+            "latitude": 9.5180072,
+            "longitude": 76.7663656
+        },
+        {
+            "officeName": "Thekkethukavala SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Changanacherry Division",
+            "latitude": 9.5375434,
+            "longitude": 76.7621961
+        }
+    ]
+}

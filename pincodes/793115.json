@@ -1,0 +1,26 @@
+{
+    "state": "MEGHALAYA",
+    "district": "EAST KHASI HILLS",
+    "offices": [
+        {
+            "officeName": "Sohiong S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Meghalaya Division",
+            "latitude": 25.651338,
+            "longitude": 91.229932
+        },
+        {
+            "officeName": "Krang B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Meghalaya Division",
+            "latitude": 25.32,
+            "longitude": 91.79
+        }
+    ]
+}

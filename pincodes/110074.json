@@ -1,0 +1,86 @@
+{
+    "state": "DELHI",
+    "district": "SOUTH",
+    "offices": [
+        {
+            "officeName": "BHATI VILLAGE BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South West Division",
+            "latitude": 28.5073055,
+            "longitude": 77.1845555
+        },
+        {
+            "officeName": "Dera BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South West Division",
+            "latitude": 28.5073055,
+            "longitude": 77.1845555
+        },
+        {
+            "officeName": "CSKM School BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South West Division",
+            "latitude": 28.5073055,
+            "longitude": 77.1845555
+        },
+        {
+            "officeName": "Chandanhoola BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South West Division",
+            "latitude": 28.45,
+            "longitude": 77.18
+        },
+        {
+            "officeName": "Sanjay Colony Bhati Mines BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South West Division",
+            "latitude": 28.5073055,
+            "longitude": 77.1845555
+        },
+        {
+            "officeName": "Chattarpur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South West Division",
+            "latitude": 28.496388,
+            "longitude": 77.184166
+        },
+        {
+            "officeName": "Fatehpur Beri S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South West Division",
+            "latitude": 28.50842,
+            "longitude": 77.20918
+        },
+        {
+            "officeName": "Satbari",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South West Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

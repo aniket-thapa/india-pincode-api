@@ -1,0 +1,26 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "GHAZIABAD",
+    "offices": [
+        {
+            "officeName": "Pasonda BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Ghaziabad Division",
+            "latitude": 28.693301,
+            "longitude": 77.357566
+        },
+        {
+            "officeName": "Sahibabad SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Ghaziabad Division",
+            "latitude": 28.6794403058458,
+            "longitude": 77.3664312174894
+        }
+    ]
+}

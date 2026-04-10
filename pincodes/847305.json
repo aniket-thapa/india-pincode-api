@@ -1,0 +1,26 @@
+{
+    "state": "BIHAR",
+    "district": "MADHUBANI",
+    "offices": [
+        {
+            "officeName": "Madhwapur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Madhubani Division",
+            "latitude": 26.61162,
+            "longitude": 85.846367
+        },
+        {
+            "officeName": "Basuki Bihari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Madhubani Division",
+            "latitude": 26.3531607,
+            "longitude": 86.082995
+        }
+    ]
+}

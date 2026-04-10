@@ -1,0 +1,26 @@
+{
+    "state": "HARYANA",
+    "district": "JHAJJAR",
+    "offices": [
+        {
+            "officeName": "Mandothi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rohtak Division",
+            "latitude": 28.681179,
+            "longitude": 76.902704
+        },
+        {
+            "officeName": "Tandaheri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rohtak Division",
+            "latitude": 28.735904,
+            "longitude": 76.902704
+        }
+    ]
+}

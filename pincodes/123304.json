@@ -1,0 +1,96 @@
+{
+    "state": "HARYANA",
+    "district": "REWARI",
+    "offices": [
+        {
+            "officeName": "Lookhi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gurgaon Division",
+            "latitude": 28.409434,
+            "longitude": 76.397007
+        },
+        {
+            "officeName": "Sadat Nagar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gurgaon Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Surehli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gurgaon Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Dakhora BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gurgaon Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Lula Ahir BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gurgaon Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Kheri Ramgarh",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "NA",
+            "divisionName": "Gurgaon Division",
+            "latitude": 28.33723,
+            "longitude": 76.43018
+        },
+        {
+            "officeName": "Jharoda BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gurgaon Division",
+            "latitude": 28.409434,
+            "longitude": 76.397007
+        },
+        {
+            "officeName": "Nehrugarh SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gurgaon Division",
+            "latitude": 28.2248,
+            "longitude": 76.2446
+        },
+        {
+            "officeName": "Jhal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gurgaon Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

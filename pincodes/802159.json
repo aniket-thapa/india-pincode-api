@@ -1,0 +1,46 @@
+{
+    "state": "BIHAR",
+    "district": "BHOJPUR",
+    "offices": [
+        {
+            "officeName": "Rajeyan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhojpur Division",
+            "latitude": 25.363374,
+            "longitude": 84.378022
+        },
+        {
+            "officeName": "Chaturbhujibaraon BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhojpur Division",
+            "latitude": 25.37912,
+            "longitude": 84.4068
+        },
+        {
+            "officeName": "Jamuaon BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhojpur Division",
+            "latitude": 25.386232,
+            "longitude": 84.362159
+        },
+        {
+            "officeName": "Jitaura SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhojpur Division",
+            "latitude": 25.5587222,
+            "longitude": 84.6674722
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "SATARA",
+    "offices": [
+        {
+            "officeName": "Mahimangad S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Satara Division",
+            "latitude": 17.693093,
+            "longitude": 74.45493
+        },
+        {
+            "officeName": "Nidhal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Satara Division",
+            "latitude": 17.6544363,
+            "longitude": 74.3675386
+        }
+    ]
+}

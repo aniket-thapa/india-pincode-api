@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "KALLAKURICHI",
+    "offices": [
+        {
+            "officeName": "Tirukkoyilur Bazaar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Vriddhachalam Division",
+            "latitude": 11.9636667,
+            "longitude": 79.2034167
+        },
+        {
+            "officeName": "Tirukkoyilur H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Vriddhachalam Division",
+            "latitude": 11.9660556,
+            "longitude": 79.2046667
+        }
+    ]
+}

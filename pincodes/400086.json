@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI SUBURBAN",
+    "offices": [
+        {
+            "officeName": "Ghatkopar West SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North East Division",
+            "latitude": 19.086215,
+            "longitude": 72.908216
+        },
+        {
+            "officeName": "Rifle Range SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North East Division",
+            "latitude": 19.0856111,
+            "longitude": 72.9135278
+        },
+        {
+            "officeName": "Sahakar Bhavan SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North East Division",
+            "latitude": 19.0864444,
+            "longitude": 72.8945278
+        }
+    ]
+}

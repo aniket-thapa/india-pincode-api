@@ -1,0 +1,36 @@
+{
+    "state": "RAJASTHAN",
+    "district": "AJMER",
+    "offices": [
+        {
+            "officeName": "Chhota Naraina B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Ajmer Division",
+            "latitude": 26.7460677,
+            "longitude": 74.9734805
+        },
+        {
+            "officeName": "Buharu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Ajmer Division",
+            "latitude": 26.6815,
+            "longitude": 74.9552
+        },
+        {
+            "officeName": "Harmara S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Ajmer Division",
+            "latitude": 26.6549722,
+            "longitude": 74.9388333
+        }
+    ]
+}

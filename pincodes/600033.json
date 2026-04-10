@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "CHENNAI",
+    "offices": [
+        {
+            "officeName": "West Mambalam S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City South Division",
+            "latitude": 13.0351389,
+            "longitude": 80.2206389
+        },
+        {
+            "officeName": "Mambalam R.S. S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City South Division",
+            "latitude": 13.0385,
+            "longitude": 80.2264722
+        }
+    ]
+}

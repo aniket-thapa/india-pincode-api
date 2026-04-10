@@ -1,0 +1,56 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "PUNE",
+    "offices": [
+        {
+            "officeName": "Karanje B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Baramati Division",
+            "latitude": 18.135672,
+            "longitude": 74.267817
+        },
+        {
+            "officeName": "Murum B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Baramati Division",
+            "latitude": 18.066776,
+            "longitude": 74.305229
+        },
+        {
+            "officeName": "Hol B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Baramati Division",
+            "latitude": 18.105279,
+            "longitude": 74.352882
+        },
+        {
+            "officeName": "Waki B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Baramati Division",
+            "latitude": 18.164682,
+            "longitude": 74.322087
+        },
+        {
+            "officeName": "Someshwarnagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Baramati Division",
+            "latitude": 18.1051389,
+            "longitude": 74.2849167
+        }
+    ]
+}

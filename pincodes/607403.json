@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "CUDDALORE",
+    "offices": [
+        {
+            "officeName": "Reddichavadi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Pondicherry Division",
+            "latitude": 11.839572,
+            "longitude": 79.786243
+        },
+        {
+            "officeName": "Pillayarkuppam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Pondicherry Division",
+            "latitude": 12.032253,
+            "longitude": 79.589841
+        },
+        {
+            "officeName": "Kirumambakkam",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Pondicherry Division",
+            "latitude": 11.9344722,
+            "longitude": 79.8350556
+        }
+    ]
+}

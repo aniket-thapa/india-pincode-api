@@ -1,0 +1,46 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "AHMEDNAGAR",
+    "offices": [
+        {
+            "officeName": "Pisorekhand B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Ahmednagar Division",
+            "latitude": 18.87,
+            "longitude": 74.87
+        },
+        {
+            "officeName": "Ralegan B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Ahmednagar Division",
+            "latitude": 18.9,
+            "longitude": 74.9
+        },
+        {
+            "officeName": "Gundegaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Ahmednagar Division",
+            "latitude": 18.85,
+            "longitude": 74.85
+        },
+        {
+            "officeName": "Mandavgan S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Ahmednagar Division",
+            "latitude": 18.8314167,
+            "longitude": 74.8285556
+        }
+    ]
+}

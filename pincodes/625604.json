@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "THENI",
+    "offices": [
+        {
+            "officeName": "Periyakulam East S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Theni Division",
+            "latitude": 10.129775,
+            "longitude": 77.602197
+        },
+        {
+            "officeName": "Endapuli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Theni Division",
+            "latitude": 10.125242,
+            "longitude": 77.546482
+        },
+        {
+            "officeName": "Nallakaruppanpatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Theni Division",
+            "latitude": 10.22161,
+            "longitude": 77.600083
+        }
+    ]
+}

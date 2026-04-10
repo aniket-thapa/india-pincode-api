@@ -1,0 +1,36 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "BHADOHI",
+    "offices": [
+        {
+            "officeName": "Kukarauthi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Varanasi West Division",
+            "latitude": 25.409924,
+            "longitude": 82.601481
+        },
+        {
+            "officeName": "Nai Bazar SO Sant Ravidas Nagar",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Varanasi West Division",
+            "latitude": 25.320929,
+            "longitude": 82.477004
+        },
+        {
+            "officeName": "Pargaspur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Varanasi West Division",
+            "latitude": 25.409924,
+            "longitude": 82.601481
+        }
+    ]
+}

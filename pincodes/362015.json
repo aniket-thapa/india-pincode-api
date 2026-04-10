@@ -1,0 +1,46 @@
+{
+    "state": "GUJARAT",
+    "district": "JUNAGADH",
+    "offices": [
+        {
+            "officeName": "Timbavadi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Junagadh Division",
+            "latitude": 21.503042,
+            "longitude": 70.433184
+        },
+        {
+            "officeName": "Ivnagar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Junagadh Division",
+            "latitude": 21.4772384,
+            "longitude": 70.4346407
+        },
+        {
+            "officeName": "Plasva BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Junagadh Division",
+            "latitude": 21.4698136,
+            "longitude": 70.4608456
+        },
+        {
+            "officeName": "Vijapur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Junagadh Division",
+            "latitude": 21.4514754,
+            "longitude": 70.464992
+        }
+    ]
+}

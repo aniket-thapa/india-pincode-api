@@ -1,0 +1,46 @@
+{
+    "state": "GUJARAT",
+    "district": "NAVSARI",
+    "offices": [
+        {
+            "officeName": "Motikakrad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Navsari Division",
+            "latitude": 20.86,
+            "longitude": 72.85
+        },
+        {
+            "officeName": "Onjal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Navsari Division",
+            "latitude": 20.83,
+            "longitude": 72.84
+        },
+        {
+            "officeName": "Bori Falia SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Navsari Division",
+            "latitude": 20.84,
+            "longitude": 72.85
+        },
+        {
+            "officeName": "Onjal Machhivad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Navsari Division",
+            "latitude": 20.81,
+            "longitude": 72.83
+        }
+    ]
+}

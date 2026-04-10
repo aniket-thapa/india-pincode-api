@@ -1,0 +1,46 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "LAHUL AND SPITI",
+    "offices": [
+        {
+            "officeName": "Lalung BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rampur Bushahr Division",
+            "latitude": 32.619211,
+            "longitude": 77.378379
+        },
+        {
+            "officeName": "Tabo SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rampur Bushahr Division",
+            "latitude": 32.0953603042289,
+            "longitude": 78.3826190046966
+        },
+        {
+            "officeName": "Dhanker BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rampur Bushahr Division",
+            "latitude": 32.0909872,
+            "longitude": 78.2278556
+        },
+        {
+            "officeName": "Mane BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rampur Bushahr Division",
+            "latitude": 32.619211,
+            "longitude": 77.378379
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "RAJASTHAN",
+    "district": "CHITTORGARH",
+    "offices": [
+        {
+            "officeName": "Ranasanga  Bazar  Chittorgarh S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Chittorgarh Division",
+            "latitude": 24.887631,
+            "longitude": 74.63409
+        },
+        {
+            "officeName": "Chittorgarh H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Chittorgarh Division",
+            "latitude": 24.8827778,
+            "longitude": 74.6225
+        },
+        {
+            "officeName": "Collectorate  Chittorgarh S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Chittorgarh Division",
+            "latitude": 24.8881111,
+            "longitude": 74.6221389
+        },
+        {
+            "officeName": "COURT CAMPUS SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Chittorgarh Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

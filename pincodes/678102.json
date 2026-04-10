@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "PALAKKAD",
+    "offices": [
+        {
+            "officeName": "Chenthamaranagar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Palghat Division",
+            "latitude": 10.6812,
+            "longitude": 76.7052
+        },
+        {
+            "officeName": "Tattamangalam South SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Palghat Division",
+            "latitude": 10.6812,
+            "longitude": 76.7052
+        },
+        {
+            "officeName": "Tattamangalam SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Palghat Division",
+            "latitude": 10.799571,
+            "longitude": 76.642318
+        }
+    ]
+}

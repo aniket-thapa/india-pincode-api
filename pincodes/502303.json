@@ -1,0 +1,36 @@
+{
+    "state": "TELANGANA",
+    "district": "MEDAK",
+    "offices": [
+        {
+            "officeName": "Lingaipally B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.076462,
+            "longitude": 78.026724
+        },
+        {
+            "officeName": "Papannapet S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.038219,
+            "longitude": 78.087023
+        },
+        {
+            "officeName": "Mallampet BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.062425,
+            "longitude": 78.046482
+        }
+    ]
+}

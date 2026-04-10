@@ -1,0 +1,26 @@
+{
+    "state": "BIHAR",
+    "district": "PATNA",
+    "offices": [
+        {
+            "officeName": "KUMHRAR SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "PATNA SAHIB DIVISION",
+            "latitude": 25.6,
+            "longitude": 85.1738888
+        },
+        {
+            "officeName": "B H COLONY SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "PATNA SAHIB DIVISION",
+            "latitude": 25.592741,
+            "longitude": 85.174829
+        }
+    ]
+}

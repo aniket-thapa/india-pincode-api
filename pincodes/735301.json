@@ -1,0 +1,56 @@
+{
+    "state": "WEST BENGAL",
+    "district": "COOCHBEHAR",
+    "offices": [
+        {
+            "officeName": "Changrabandha SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Jalpaiguri Division",
+            "latitude": 26.41,
+            "longitude": 88.92
+        },
+        {
+            "officeName": "Bhotebari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Jalpaiguri Division",
+            "latitude": 26.41,
+            "longitude": 88.9
+        },
+        {
+            "officeName": "Doradabri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Jalpaiguri Division",
+            "latitude": 26.46,
+            "longitude": 88.96
+        },
+        {
+            "officeName": "Kamat Changrabandha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Jalpaiguri Division",
+            "latitude": 26.45,
+            "longitude": 88.93
+        },
+        {
+            "officeName": "Ranirhat BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Jalpaiguri Division",
+            "latitude": 26.51,
+            "longitude": 88.95
+        }
+    ]
+}

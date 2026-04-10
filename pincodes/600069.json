@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "KANCHIPURAM",
+    "offices": [
+        {
+            "officeName": "Sirukalathur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 12.981,
+            "longitude": 80.048
+        },
+        {
+            "officeName": "Kunnathur SO Kanchipuram",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 12.9251389,
+            "longitude": 80.1986944
+        },
+        {
+            "officeName": "Nandambakkam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 12.965,
+            "longitude": 80.038
+        },
+        {
+            "officeName": "South Malayambakkam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 12.996,
+            "longitude": 80.059
+        }
+    ]
+}

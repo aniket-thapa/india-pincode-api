@@ -1,0 +1,46 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "offices": [
+        {
+            "officeName": "Cumballa Hill S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City West Division",
+            "latitude": 18.9675836,
+            "longitude": 72.80398294
+        },
+        {
+            "officeName": "Dr Deshmukh Marg S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City West Division",
+            "latitude": 18.9708333,
+            "longitude": 72.8090833
+        },
+        {
+            "officeName": "Gowalia Tank S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City West Division",
+            "latitude": 18.9869722,
+            "longitude": 72.8421944
+        },
+        {
+            "officeName": "Cumballa Sea Face S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City West Division",
+            "latitude": 18.96725,
+            "longitude": 72.80375
+        }
+    ]
+}

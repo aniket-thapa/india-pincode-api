@@ -1,0 +1,66 @@
+{
+    "state": "RAJASTHAN",
+    "district": "AJMER",
+    "offices": [
+        {
+            "officeName": "Jeewana B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Beawar Division",
+            "latitude": 25.99,
+            "longitude": 74.41
+        },
+        {
+            "officeName": "Dewas B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Beawar Division",
+            "latitude": 26.09,
+            "longitude": 74.332
+        },
+        {
+            "officeName": "Dedpura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Beawar Division",
+            "latitude": 26.1,
+            "longitude": 74.31
+        },
+        {
+            "officeName": "Doulatpura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Beawar Division",
+            "latitude": 26.005,
+            "longitude": 74.424
+        },
+        {
+            "officeName": "RAMGARH S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Beawar Division",
+            "latitude": 26.16,
+            "longitude": 74.54
+        },
+        {
+            "officeName": "Shivpura Ghata B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Beawar Division",
+            "latitude": 26.09,
+            "longitude": 74.33
+        }
+    ]
+}

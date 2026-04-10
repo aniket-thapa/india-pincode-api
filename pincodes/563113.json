@@ -1,0 +1,46 @@
+{
+    "state": "KARNATAKA",
+    "district": "KOLAR",
+    "offices": [
+        {
+            "officeName": "Andersonpet S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Kolar Division",
+            "latitude": 12.9337222,
+            "longitude": 78.1672778
+        },
+        {
+            "officeName": "Doddakambali B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Kolar Division",
+            "latitude": 12.9087173,
+            "longitude": 78.2914045
+        },
+        {
+            "officeName": "Gattamadamangala B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Kolar Division",
+            "latitude": 12.8921949,
+            "longitude": 78.29016
+        },
+        {
+            "officeName": "Kempapura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Kolar Division",
+            "latitude": 12.8677761,
+            "longitude": 78.3055773
+        }
+    ]
+}

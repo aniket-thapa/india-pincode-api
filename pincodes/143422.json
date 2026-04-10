@@ -1,0 +1,46 @@
+{
+    "state": "PUNJAB",
+    "district": "Tarn Taran",
+    "offices": [
+        {
+            "officeName": "Dhunda BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.34,
+            "longitude": 75.13
+        },
+        {
+            "officeName": "Jhandher M Purkhan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.34,
+            "longitude": 75.12
+        },
+        {
+            "officeName": "Goindwal SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.37,
+            "longitude": 75.14
+        },
+        {
+            "officeName": "Manak Dheke BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.34,
+            "longitude": 75.1
+        }
+    ]
+}

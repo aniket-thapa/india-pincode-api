@@ -1,0 +1,56 @@
+{
+    "state": "GUJARAT",
+    "district": "GANDHINAGAR",
+    "offices": [
+        {
+            "officeName": "Dolarana Vasna BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Gandhinagar Division",
+            "latitude": 23.31,
+            "longitude": 72.7
+        },
+        {
+            "officeName": "Motipura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Gandhinagar Division",
+            "latitude": 23.339825,
+            "longitude": 72.752753
+        },
+        {
+            "officeName": "Jakhora BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Gandhinagar Division",
+            "latitude": 23.32,
+            "longitude": 72.74
+        },
+        {
+            "officeName": "Madhavgadh BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Gandhinagar Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Sadra SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Gandhinagar Division",
+            "latitude": 23.342591,
+            "longitude": 72.730393
+        }
+    ]
+}

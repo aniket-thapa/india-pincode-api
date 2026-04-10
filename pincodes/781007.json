@@ -1,0 +1,26 @@
+{
+    "state": "ASSAM",
+    "district": "KAMRUP METRO",
+    "offices": [
+        {
+            "officeName": "Lachitnagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Guwahati Division",
+            "latitude": 26.1714167,
+            "longitude": 91.7695
+        },
+        {
+            "officeName": "Ulubari S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Guwahati Division",
+            "latitude": 26.1749167,
+            "longitude": 91.7584444
+        }
+    ]
+}

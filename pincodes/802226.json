@@ -1,0 +1,26 @@
+{
+    "state": "BIHAR",
+    "district": "ROHTAS",
+    "offices": [
+        {
+            "officeName": "Dawath SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rohtas Division",
+            "latitude": 25.29539,
+            "longitude": 84.226284
+        },
+        {
+            "officeName": "A Kala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rohtas Division",
+            "latitude": 24.62874,
+            "longitude": 83.920166
+        }
+    ]
+}

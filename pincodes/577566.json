@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "DAVANGERE",
+    "offices": [
+        {
+            "officeName": "Doddabathi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "DAVANAGERE DIVISION",
+            "latitude": 14.4688889,
+            "longitude": 75.9197778
+        },
+        {
+            "officeName": "Kundawada B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "DAVANAGERE DIVISION",
+            "latitude": 14.463837,
+            "longitude": 75.895623
+        },
+        {
+            "officeName": "Hlebathi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "DAVANAGERE DIVISION",
+            "latitude": 26.315007,
+            "longitude": 28.418465
+        }
+    ]
+}

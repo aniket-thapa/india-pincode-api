@@ -1,0 +1,46 @@
+{
+    "state": "CHANDIGARH",
+    "district": "CHANDIGARH",
+    "offices": [
+        {
+            "officeName": "Sector 35 Chandigarh SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chandigarh Division",
+            "latitude": 30.7247778,
+            "longitude": 76.7592222
+        },
+        {
+            "officeName": "Sector 21 Chandigarh SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chandigarh Division",
+            "latitude": 30.7248056,
+            "longitude": 76.7795556
+        },
+        {
+            "officeName": "Sector 22 Chandigarh SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chandigarh Division",
+            "latitude": 30.7336667,
+            "longitude": 76.7725278
+        },
+        {
+            "officeName": "Sector 34Chandigarh SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chandigarh Division",
+            "latitude": 30.7170278,
+            "longitude": 76.7669722
+        }
+    ]
+}

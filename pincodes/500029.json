@@ -1,0 +1,36 @@
+{
+    "state": "TELANGANA",
+    "district": "HYDERABAD",
+    "offices": [
+        {
+            "officeName": "Gagan Mahal S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Hyderabad City Division",
+            "latitude": 17.68355556,
+            "longitude": 78.78558333
+        },
+        {
+            "officeName": "Himayathnagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Hyderabad City Division",
+            "latitude": 17.403017,
+            "longitude": 78.485317
+        },
+        {
+            "officeName": "Narayanguda S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Hyderabad City Division",
+            "latitude": 17.66544444,
+            "longitude": 78.81680556
+        }
+    ]
+}

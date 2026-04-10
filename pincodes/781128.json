@@ -1,0 +1,36 @@
+{
+    "state": "ASSAM",
+    "district": "KAMRUP METRO",
+    "offices": [
+        {
+            "officeName": "Agchia B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Guwahati Division",
+            "latitude": 26.0901,
+            "longitude": 91.3101
+        },
+        {
+            "officeName": "Palashbari S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Guwahati Division",
+            "latitude": 26.0901,
+            "longitude": 91.3101
+        },
+        {
+            "officeName": "Majirgaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Guwahati Division",
+            "latitude": 26.0901,
+            "longitude": 91.3101
+        }
+    ]
+}

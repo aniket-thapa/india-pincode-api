@@ -1,0 +1,46 @@
+{
+    "state": "RAJASTHAN",
+    "district": "SIKAR",
+    "offices": [
+        {
+            "officeName": "Hudera BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sikar Division",
+            "latitude": 28.0085757,
+            "longitude": 74.8338985
+        },
+        {
+            "officeName": "Rolsabsar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sikar Division",
+            "latitude": 28.0424722,
+            "longitude": 74.8639722
+        },
+        {
+            "officeName": "Sekhisar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sikar Division",
+            "latitude": 28.0160806,
+            "longitude": 74.8053829
+        },
+        {
+            "officeName": "Rosawa BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sikar Division",
+            "latitude": 27.9697109,
+            "longitude": 74.799533
+        }
+    ]
+}

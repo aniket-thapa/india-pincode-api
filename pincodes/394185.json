@@ -1,0 +1,56 @@
+{
+    "state": "GUJARAT",
+    "district": "SURAT",
+    "offices": [
+        {
+            "officeName": "Kathodara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bardoli Division",
+            "latitude": 21.183893,
+            "longitude": 72.9301757
+        },
+        {
+            "officeName": "Jokha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bardoli Division",
+            "latitude": 21.270253,
+            "longitude": 72.962454
+        },
+        {
+            "officeName": "Kamrej Char Rasta SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bardoli Division",
+            "latitude": 21.161077,
+            "longitude": 72.574741
+        },
+        {
+            "officeName": "Navagam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bardoli Division",
+            "latitude": 21.2623083,
+            "longitude": 72.9526934
+        },
+        {
+            "officeName": "Kosmadi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bardoli Division",
+            "latitude": 21.270255,
+            "longitude": 72.962452
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "IDUKKI",
+    "offices": [
+        {
+            "officeName": "Chemmannar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Idukki Division",
+            "latitude": 9.92581,
+            "longitude": 77.15475
+        },
+        {
+            "officeName": "Chathurangapara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Idukki Division",
+            "latitude": 9.89406,
+            "longitude": 77.21088
+        },
+        {
+            "officeName": "Udumbanchola SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Idukki Division",
+            "latitude": 9.90258,
+            "longitude": 77.17643
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "GUJARAT",
+    "district": "KACHCHH",
+    "offices": [
+        {
+            "officeName": "Naranpar R BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Kutch Division",
+            "latitude": 23.118672,
+            "longitude": 69.590176
+        },
+        {
+            "officeName": "Nakhatrana SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Kutch Division",
+            "latitude": 23.2197778,
+            "longitude": 69.7785278
+        },
+        {
+            "officeName": "Rampar R BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Kutch Division",
+            "latitude": 23.2688339,
+            "longitude": 69.2105077
+        }
+    ]
+}

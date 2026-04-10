@@ -1,0 +1,46 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "NANDED",
+    "offices": [
+        {
+            "officeName": "Wadepuri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Nanded Division",
+            "latitude": 19.048022,
+            "longitude": 77.255934
+        },
+        {
+            "officeName": "Asarjan B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Nanded Division",
+            "latitude": 19.1251338,
+            "longitude": 77.2924127
+        },
+        {
+            "officeName": "SRTMU Nanded S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Nanded Division",
+            "latitude": 19.102151,
+            "longitude": 77.284917
+        },
+        {
+            "officeName": "Vishnupuri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Nanded Division",
+            "latitude": 19.1106784,
+            "longitude": 77.2860241
+        }
+    ]
+}

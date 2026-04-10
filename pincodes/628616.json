@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "TUTICORIN",
+    "offices": [
+        {
+            "officeName": "Nazareth R S B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Tuticorin Division",
+            "latitude": 8.57187,
+            "longitude": 77.9751
+        },
+        {
+            "officeName": "Mukuperi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Tuticorin Division",
+            "latitude": 8.5681389,
+            "longitude": 77.9826944
+        },
+        {
+            "officeName": "Oyyangudi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Tuticorin Division",
+            "latitude": 8.573266,
+            "longitude": 77.992826
+        }
+    ]
+}

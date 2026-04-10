@@ -1,0 +1,26 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Kakinada",
+    "offices": [
+        {
+            "officeName": "Jagannaickpur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Kakinada Division",
+            "latitude": 16.9389167,
+            "longitude": 82.2322778
+        },
+        {
+            "officeName": "M S N Charties S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Kakinada Division",
+            "latitude": 16.9282222,
+            "longitude": 82.2336944
+        }
+    ]
+}

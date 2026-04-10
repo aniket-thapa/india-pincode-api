@@ -1,0 +1,26 @@
+{
+    "state": "PUNJAB",
+    "district": "PATIALA",
+    "offices": [
+        {
+            "officeName": "D C W SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patiala Division",
+            "latitude": 30.3569167,
+            "longitude": 76.4189167
+        },
+        {
+            "officeName": "Gurbax Colony SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patiala Division",
+            "latitude": 30.3414444,
+            "longitude": 76.4133889
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "TAMIL NADU",
+    "district": "CHENGALPATTU",
+    "offices": [
+        {
+            "officeName": "Illalur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chengalpattu Division",
+            "latitude": 12.7141292,
+            "longitude": 80.1502027
+        },
+        {
+            "officeName": "Kayar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chengalpattu Division",
+            "latitude": 12.7137,
+            "longitude": 80.18138
+        },
+        {
+            "officeName": "Venbedu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chengalpattu Division",
+            "latitude": 12.7137,
+            "longitude": 80.18138
+        },
+        {
+            "officeName": "Alathur Industrial Estate BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chengalpattu Division",
+            "latitude": 12.6617454,
+            "longitude": 80.1216765
+        },
+        {
+            "officeName": "Tiruporur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chengalpattu Division",
+            "latitude": 12.741067,
+            "longitude": 80.19055
+        }
+    ]
+}

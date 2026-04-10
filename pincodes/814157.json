@@ -1,0 +1,76 @@
+{
+    "state": "JHARKHAND",
+    "district": "DEOGHAR",
+    "offices": [
+        {
+            "officeName": "Chulhiya BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "B.Deoghar Division",
+            "latitude": 24.4931624,
+            "longitude": 86.7843566
+        },
+        {
+            "officeName": "Malhara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "B.Deoghar Division",
+            "latitude": 24.0786093,
+            "longitude": 86.9060501
+        },
+        {
+            "officeName": "Kharagdiha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "B.Deoghar Division",
+            "latitude": 24.4931644,
+            "longitude": 86.7843546
+        },
+        {
+            "officeName": "Mohanpur Hat B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "B.Deoghar Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Dehijore SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "B.Deoghar Division",
+            "latitude": 24.490417,
+            "longitude": 86.690601
+        },
+        {
+            "officeName": "Jamunia BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "B.Deoghar Division",
+            "latitude": 24.5423872,
+            "longitude": 86.9469465
+        },
+        {
+            "officeName": "Jhillighat BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "B.Deoghar Division",
+            "latitude": 24.0786123,
+            "longitude": 86.9060471
+        }
+    ]
+}

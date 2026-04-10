@@ -1,0 +1,66 @@
+{
+    "state": "PUDUCHERRY",
+    "district": "KARAIKAL",
+    "offices": [
+        {
+            "officeName": "Nallathur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 11.0,
+            "longitude": 79.77
+        },
+        {
+            "officeName": "Tirukottaram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.97,
+            "longitude": 79.77
+        },
+        {
+            "officeName": "Nedungadu S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.58,
+            "longitude": 79.46
+        },
+        {
+            "officeName": "Melakasakudi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.96,
+            "longitude": 79.78
+        },
+        {
+            "officeName": "Kurumbagaram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.98,
+            "longitude": 79.77
+        },
+        {
+            "officeName": "Velangudi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.71,
+            "longitude": 79.81
+        }
+    ]
+}

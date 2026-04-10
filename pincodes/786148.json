@@ -1,0 +1,26 @@
+{
+    "state": "ASSAM",
+    "district": "TINSUKIA",
+    "offices": [
+        {
+            "officeName": "Khetopathergaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Tinsukia Division",
+            "latitude": 27.48,
+            "longitude": 95.35
+        },
+        {
+            "officeName": "Monkhooli S.O.",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Tinsukia Division",
+            "latitude": 27.42969,
+            "longitude": 95.346856
+        }
+    ]
+}

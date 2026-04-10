@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "PASCHIM BARDHAMAN",
+    "offices": [
+        {
+            "officeName": "Egara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Asansol Division",
+            "latitude": 23.591753,
+            "longitude": 87.116268
+        },
+        {
+            "officeName": "Nupur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Asansol Division",
+            "latitude": 23.907543,
+            "longitude": 87.881665
+        },
+        {
+            "officeName": "Ballavpur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Asansol Division",
+            "latitude": 23.5865697,
+            "longitude": 87.119794
+        }
+    ]
+}

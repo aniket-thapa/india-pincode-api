@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "PATHANAMTHITTA",
+    "offices": [
+        {
+            "officeName": "Kuttapuzha SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Tiruvalla Division",
+            "latitude": 9.39,
+            "longitude": 76.57
+        },
+        {
+            "officeName": "Chumathra BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Tiruvalla Division",
+            "latitude": 9.457859,
+            "longitude": 76.621872
+        }
+    ]
+}

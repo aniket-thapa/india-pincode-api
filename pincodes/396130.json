@@ -1,0 +1,36 @@
+{
+    "state": "GUJARAT",
+    "district": "VALSAD",
+    "offices": [
+        {
+            "officeName": "Maroli Sanjan SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Valsad Division",
+            "latitude": 20.294686,
+            "longitude": 72.780643
+        },
+        {
+            "officeName": "Sarai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Valsad Division",
+            "latitude": 20.294686,
+            "longitude": 72.780643
+        },
+        {
+            "officeName": "Dhodipada BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Valsad Division",
+            "latitude": 20.282628,
+            "longitude": 72.792664
+        }
+    ]
+}

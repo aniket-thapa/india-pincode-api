@@ -1,0 +1,36 @@
+{
+    "state": "BIHAR",
+    "district": "SAHARSA",
+    "offices": [
+        {
+            "officeName": "Saharsa Bazar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Saharsa Division",
+            "latitude": 25.8840833,
+            "longitude": 86.5923611
+        },
+        {
+            "officeName": "Saharsa DistBoard SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Saharsa Division",
+            "latitude": 25.8833,
+            "longitude": 86.6
+        },
+        {
+            "officeName": "Saharsa HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Saharsa Division",
+            "latitude": 25.8840833,
+            "longitude": 86.5923611
+        }
+    ]
+}

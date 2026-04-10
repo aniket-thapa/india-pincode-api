@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "ALAPPUZHA",
+    "offices": [
+        {
+            "officeName": "Muthukulam South SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Mavelikara Division",
+            "latitude": 9.212466,
+            "longitude": 76.462262
+        },
+        {
+            "officeName": "Muthukulam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Mavelikara Division",
+            "latitude": 9.214685,
+            "longitude": 76.449746
+        },
+        {
+            "officeName": "Choolatheruvu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Mavelikara Division",
+            "latitude": 9.2332256,
+            "longitude": 76.442947
+        }
+    ]
+}

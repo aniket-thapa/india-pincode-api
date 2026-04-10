@@ -1,0 +1,46 @@
+{
+    "state": "GUJARAT",
+    "district": "NAVSARI",
+    "offices": [
+        {
+            "officeName": "Gurukulsupa SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Navsari Division",
+            "latitude": 20.98,
+            "longitude": 73.02
+        },
+        {
+            "officeName": "Tarsadi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Navsari Division",
+            "latitude": 20.97,
+            "longitude": 73.01
+        },
+        {
+            "officeName": "Pera BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Navsari Division",
+            "latitude": 21.0,
+            "longitude": 73.01
+        },
+        {
+            "officeName": "Supakurel BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Navsari Division",
+            "latitude": 20.99,
+            "longitude": 73.03
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "CHENGALPATTU",
+    "offices": [
+        {
+            "officeName": "Sendivakkam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chengalpattu Division",
+            "latitude": 12.6840062,
+            "longitude": 79.9833373
+        },
+        {
+            "officeName": "Sirunagalur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chengalpattu Division",
+            "latitude": 12.52485,
+            "longitude": 79.9555
+        },
+        {
+            "officeName": "Melmaruvathur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chengalpattu Division",
+            "latitude": 12.9251389,
+            "longitude": 80.1986944
+        }
+    ]
+}

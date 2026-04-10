@@ -1,0 +1,36 @@
+{
+    "state": "BIHAR",
+    "district": "VAISHALI",
+    "offices": [
+        {
+            "officeName": "Dharhara SO Vaishali",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Vaishali Division",
+            "latitude": 25.6916389,
+            "longitude": 85.2113333
+        },
+        {
+            "officeName": "Gurmia BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Vaishali Division",
+            "latitude": 25.6916389,
+            "longitude": 85.2113333
+        },
+        {
+            "officeName": "Paura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Vaishali Division",
+            "latitude": 25.6916389,
+            "longitude": 85.2113333
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "ERODE",
+    "offices": [
+        {
+            "officeName": "Bhavani HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Erode Division",
+            "latitude": 11.446932,
+            "longitude": 77.679578
+        },
+        {
+            "officeName": "Varnapuram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Erode Division",
+            "latitude": 11.459483,
+            "longitude": 77.68489
+        },
+        {
+            "officeName": "Kuruppanaickenpalayam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Erode Division",
+            "latitude": 11.471155,
+            "longitude": 77.689696
+        },
+        {
+            "officeName": "Bhavani Cutcherry SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Erode Division",
+            "latitude": 11.439185,
+            "longitude": 77.684432
+        }
+    ]
+}

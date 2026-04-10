@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "PERAMBALUR",
+    "offices": [
+        {
+            "officeName": "Madanagopalapuram S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Srirangam Division",
+            "latitude": 11.24,
+            "longitude": 78.87
+        },
+        {
+            "officeName": "Perambalur Collectorate S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Srirangam Division",
+            "latitude": 11.22,
+            "longitude": 78.88
+        },
+        {
+            "officeName": "Perambalur H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Srirangam Division",
+            "latitude": 11.24,
+            "longitude": 78.87
+        }
+    ]
+}

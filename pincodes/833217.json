@@ -1,0 +1,36 @@
+{
+    "state": "JHARKHAND",
+    "district": "WEST SINGHBHUM",
+    "offices": [
+        {
+            "officeName": "Noamundi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Singhbhum Division",
+            "latitude": 22.15822,
+            "longitude": 85.49386
+        },
+        {
+            "officeName": "Jojo Camp BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Singhbhum Division",
+            "latitude": 22.1609,
+            "longitude": 85.5042
+        },
+        {
+            "officeName": "Balijharan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Singhbhum Division",
+            "latitude": 20.409358,
+            "longitude": 85.222427
+        }
+    ]
+}

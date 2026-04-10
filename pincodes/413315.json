@@ -1,0 +1,46 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "SOLAPUR",
+    "offices": [
+        {
+            "officeName": "Hole B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pandharpur Division",
+            "latitude": 17.765175,
+            "longitude": 75.300401
+        },
+        {
+            "officeName": "Patwardhan Kuroli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pandharpur Division",
+            "latitude": 17.768386,
+            "longitude": 75.194625
+        },
+        {
+            "officeName": "Bhosa (K) S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pandharpur Division",
+            "latitude": 17.809436,
+            "longitude": 75.286183
+        },
+        {
+            "officeName": "Shevate B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pandharpur Division",
+            "latitude": 17.825515,
+            "longitude": 75.266039
+        }
+    ]
+}

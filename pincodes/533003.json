@@ -1,0 +1,46 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "EAST GODAVARI",
+    "offices": [
+        {
+            "officeName": "Sriramnagar S.O (Kakinada)",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Kakinada Division",
+            "latitude": 16.968486,
+            "longitude": 82.236258
+        },
+        {
+            "officeName": "Engg.College S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Kakinada Division",
+            "latitude": 16.9806944,
+            "longitude": 82.2408611
+        },
+        {
+            "officeName": "Mehernagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Kakinada Division",
+            "latitude": 16.8826944,
+            "longitude": 81.9266944
+        },
+        {
+            "officeName": "Bhaskarnagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Kakinada Division",
+            "latitude": 16.9695278,
+            "longitude": 82.2431944
+        }
+    ]
+}

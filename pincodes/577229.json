@@ -1,0 +1,46 @@
+{
+    "state": "KARNATAKA",
+    "district": "SHIVAMOGGA",
+    "offices": [
+        {
+            "officeName": "Siriyur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Shivamogga Division",
+            "latitude": 13.85,
+            "longitude": 75.67
+        },
+        {
+            "officeName": "Donabaghatta B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Shivamogga Division",
+            "latitude": 13.88,
+            "longitude": 75.74
+        },
+        {
+            "officeName": "Bilki BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Shivamogga Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Kawalgundi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Shivamogga Division",
+            "latitude": 13.9587778,
+            "longitude": 75.5866667
+        }
+    ]
+}

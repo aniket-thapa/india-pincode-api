@@ -1,0 +1,36 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "MATHURA",
+    "offices": [
+        {
+            "officeName": "Prem Nagar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Mathura Division",
+            "latitude": 27.47,
+            "longitude": 77.69
+        },
+        {
+            "officeName": "Gayatri Tapo Bhoomi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Mathura Division",
+            "latitude": 27.5190556,
+            "longitude": 77.6733056
+        },
+        {
+            "officeName": "Chhatikara  BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Mathura Division",
+            "latitude": 27.557919,
+            "longitude": 77.623649
+        }
+    ]
+}

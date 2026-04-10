@@ -1,0 +1,56 @@
+{
+    "state": "KERALA",
+    "district": "ALAPPUZHA",
+    "offices": [
+        {
+            "officeName": "Kannankara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Alleppey Division",
+            "latitude": 9.65175,
+            "longitude": 76.37965
+        },
+        {
+            "officeName": "Thanneermukkom SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Alleppey Division",
+            "latitude": 9.68294,
+            "longitude": 76.39883
+        },
+        {
+            "officeName": "Muttathiparambu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Alleppey Division",
+            "latitude": 9.66253,
+            "longitude": 76.34347
+        },
+        {
+            "officeName": "Kokkothamangalam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Alleppey Division",
+            "latitude": 9.68145,
+            "longitude": 76.37454
+        },
+        {
+            "officeName": "Karikkad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Alleppey Division",
+            "latitude": 9.628,
+            "longitude": 76.371
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "ASSAM",
+    "district": "SONITPUR",
+    "offices": [
+        {
+            "officeName": "Dolabari B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.6419429,
+            "longitude": 92.8352651
+        },
+        {
+            "officeName": "Kaliabhomora S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.71103,
+            "longitude": 92.9009
+        },
+        {
+            "officeName": "Bhojkhowa Chapori B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.71103,
+            "longitude": 92.9009
+        },
+        {
+            "officeName": "Balichapori B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.71103,
+            "longitude": 92.9009
+        }
+    ]
+}

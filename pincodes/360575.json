@@ -1,0 +1,36 @@
+{
+    "state": "GUJARAT",
+    "district": "PORBANDAR",
+    "offices": [
+        {
+            "officeName": "Porbandar Bhojeshwar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Porbandar Division",
+            "latitude": 21.64813,
+            "longitude": 69.613152
+        },
+        {
+            "officeName": "Porbandar M G Road SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Porbandar Division",
+            "latitude": 21.6400556,
+            "longitude": 69.6081944
+        },
+        {
+            "officeName": "Porbandar HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Porbandar Division",
+            "latitude": 21.6380556,
+            "longitude": 69.6056944
+        }
+    ]
+}

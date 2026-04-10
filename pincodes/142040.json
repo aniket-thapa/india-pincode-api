@@ -1,0 +1,56 @@
+{
+    "state": "PUNJAB",
+    "district": "MOGA",
+    "offices": [
+        {
+            "officeName": "Mallianwala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Faridkot Division",
+            "latitude": 30.7435745,
+            "longitude": 75.2030129
+        },
+        {
+            "officeName": "Ramuwala Harchoke BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Faridkot Division",
+            "latitude": 31.014,
+            "longitude": 74.93385
+        },
+        {
+            "officeName": "Ramuwala Kalan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Faridkot Division",
+            "latitude": 31.014,
+            "longitude": 74.93385
+        },
+        {
+            "officeName": "Butter SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Faridkot Division",
+            "latitude": 30.721378,
+            "longitude": 75.273548
+        },
+        {
+            "officeName": "Ramuwala Nawan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Faridkot Division",
+            "latitude": 31.014,
+            "longitude": 74.93385
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "WEST BENGAL",
+    "district": "24 PARAGANAS NORTH",
+    "offices": [
+        {
+            "officeName": "Kankpul BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Barasat Division",
+            "latitude": 22.8494193,
+            "longitude": 88.6258399
+        },
+        {
+            "officeName": "Samudrapur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Barasat Division",
+            "latitude": 22.8627744,
+            "longitude": 88.5888576
+        },
+        {
+            "officeName": "Sendanga BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Barasat Division",
+            "latitude": 22.8857788,
+            "longitude": 88.6120026
+        },
+        {
+            "officeName": "Kalyangarh SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Barasat Division",
+            "latitude": 22.8520556,
+            "longitude": 88.6344722
+        }
+    ]
+}

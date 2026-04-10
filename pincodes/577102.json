@@ -1,0 +1,46 @@
+{
+    "state": "KARNATAKA",
+    "district": "CHIKKAMAGALURU",
+    "offices": [
+        {
+            "officeName": "Hiremagalur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Chikkamagaluru Division",
+            "latitude": 13.3042238,
+            "longitude": 75.7961348
+        },
+        {
+            "officeName": "Kuruvangi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Chikkamagaluru Division",
+            "latitude": 13.3164333,
+            "longitude": 75.8145992
+        },
+        {
+            "officeName": "Jyothinagar S.O (Chikkamagaluru)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Chikkamagaluru Division",
+            "latitude": 13.3334492,
+            "longitude": 75.7950727
+        },
+        {
+            "officeName": "Chikkamagaluru ZP S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Chikkamagaluru Division",
+            "latitude": 13.3394444,
+            "longitude": 75.8098056
+        }
+    ]
+}

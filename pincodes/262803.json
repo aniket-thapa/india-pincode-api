@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "KHERI",
+    "offices": [
+        {
+            "officeName": "Mailani SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Kheri Division",
+            "latitude": 27.909842,
+            "longitude": 80.784535
+        },
+        {
+            "officeName": "Tharvaranpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Kheri Division",
+            "latitude": 28.19,
+            "longitude": 80.32
+        },
+        {
+            "officeName": "Suwabojh Jungle BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Kheri Division",
+            "latitude": 28.22,
+            "longitude": 80.33
+        },
+        {
+            "officeName": "Mailani Gram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Kheri Division",
+            "latitude": 28.29,
+            "longitude": 80.34
+        }
+    ]
+}

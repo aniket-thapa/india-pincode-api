@@ -1,0 +1,36 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "offices": [
+        {
+            "officeName": "Chiringa BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamoli Division",
+            "latitude": 30.006335,
+            "longitude": 79.3568573
+        },
+        {
+            "officeName": "Gwaldam SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamoli Division",
+            "latitude": 30.0045556,
+            "longitude": 79.5700556
+        },
+        {
+            "officeName": "Devsari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamoli Division",
+            "latitude": 30.006378,
+            "longitude": 79.56857
+        }
+    ]
+}

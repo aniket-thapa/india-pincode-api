@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "COIMBATORE",
+    "offices": [
+        {
+            "officeName": "Siruvani Adivaram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Coimbatore Division",
+            "latitude": 10.9434216,
+            "longitude": 76.7159983
+        },
+        {
+            "officeName": "Karunyanagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Coimbatore Division",
+            "latitude": 10.93975,
+            "longitude": 76.74585
+        },
+        {
+            "officeName": "Ishana Vihar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Coimbatore Division",
+            "latitude": 10.9765466,
+            "longitude": 76.7374116
+        },
+        {
+            "officeName": "Semmedu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Coimbatore Division",
+            "latitude": 10.9573216,
+            "longitude": 76.7583633
+        }
+    ]
+}

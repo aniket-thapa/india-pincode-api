@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "NAGPUR",
+    "offices": [
+        {
+            "officeName": "Kelod S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur Moffusil Division",
+            "latitude": 21.4609444,
+            "longitude": 78.8750556
+        },
+        {
+            "officeName": "Khairi Dhalgaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur Moffusil Division",
+            "latitude": 21.465201,
+            "longitude": 78.936603
+        },
+        {
+            "officeName": "Mangsa B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur Moffusil Division",
+            "latitude": 21.420106,
+            "longitude": 78.883201
+        }
+    ]
+}

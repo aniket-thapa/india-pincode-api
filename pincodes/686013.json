@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "KOTTAYAM",
+    "offices": [
+        {
+            "officeName": "Kottayam South BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Kottayam Division",
+            "latitude": 9.5634,
+            "longitude": 76.528
+        },
+        {
+            "officeName": "Mariappally BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Kottayam Division",
+            "latitude": 9.5634,
+            "longitude": 76.528
+        },
+        {
+            "officeName": "Nattakom SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Kottayam Division",
+            "latitude": 9.562151,
+            "longitude": 76.512517
+        }
+    ]
+}

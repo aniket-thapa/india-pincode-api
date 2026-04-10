@@ -1,0 +1,26 @@
+{
+    "state": "ASSAM",
+    "district": "JORHAT",
+    "offices": [
+        {
+            "officeName": "Bajalani Kohar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Sibsagar Division",
+            "latitude": 26.4242,
+            "longitude": 94.1212
+        },
+        {
+            "officeName": "Na Ali Dhekiajuli S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Sibsagar Division",
+            "latitude": 26.4242,
+            "longitude": 94.1212
+        }
+    ]
+}

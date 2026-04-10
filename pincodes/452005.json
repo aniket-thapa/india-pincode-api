@@ -1,0 +1,26 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "INDORE",
+    "offices": [
+        {
+            "officeName": "Indore Airport SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Indore City Division",
+            "latitude": 22.7277,
+            "longitude": 75.8044
+        },
+        {
+            "officeName": "Bijasan Road S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Indore City Division",
+            "latitude": 22.7246944,
+            "longitude": 75.8239167
+        }
+    ]
+}

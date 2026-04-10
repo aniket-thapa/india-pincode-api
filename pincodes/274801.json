@@ -1,0 +1,26 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "KUSHI NAGAR",
+    "offices": [
+        {
+            "officeName": "Chhitauni SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Deoria Division",
+            "latitude": 26.21,
+            "longitude": 83.26
+        },
+        {
+            "officeName": "Rampur Jungle BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Deoria Division",
+            "latitude": 27.14,
+            "longitude": 83.95
+        }
+    ]
+}

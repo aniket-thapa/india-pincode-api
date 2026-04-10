@@ -1,0 +1,56 @@
+{
+    "state": "TELANGANA",
+    "district": "SIDDIPET",
+    "offices": [
+        {
+            "officeName": "Timmapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 17.842964,
+            "longitude": 78.793908
+        },
+        {
+            "officeName": "Rimmanguda B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 17.858876,
+            "longitude": 78.74057
+        },
+        {
+            "officeName": "Watipally B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 17.823884,
+            "longitude": 78.850482
+        },
+        {
+            "officeName": "Munigadapa B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 17.815354,
+            "longitude": 78.818022
+        },
+        {
+            "officeName": "Kodakandla S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 17.864314,
+            "longitude": 78.761587
+        }
+    ]
+}

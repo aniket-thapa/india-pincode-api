@@ -1,0 +1,36 @@
+{
+    "state": "ODISHA",
+    "district": "ANUGUL",
+    "offices": [
+        {
+            "officeName": "Nalconagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Dhenkanal Division",
+            "latitude": 20.8437222,
+            "longitude": 85.1506111
+        },
+        {
+            "officeName": "Kandasar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Dhenkanal Division",
+            "latitude": 20.8453566,
+            "longitude": 85.1335283
+        },
+        {
+            "officeName": "Kulad B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Dhenkanal Division",
+            "latitude": 20.83832,
+            "longitude": 85.1669166
+        }
+    ]
+}

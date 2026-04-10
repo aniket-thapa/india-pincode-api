@@ -1,0 +1,36 @@
+{
+    "state": "NAGALAND",
+    "district": "DIMAPUR",
+    "offices": [
+        {
+            "officeName": "Circular Road S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Nagaland Division",
+            "latitude": 25.863216,
+            "longitude": 93.754315
+        },
+        {
+            "officeName": "Pwd Colony B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Nagaland Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Zeliangrong B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Nagaland Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

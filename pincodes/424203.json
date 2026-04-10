@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "JALGAON",
+    "offices": [
+        {
+            "officeName": "Chinchapura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Jalgaon Division",
+            "latitude": 20.608284,
+            "longitude": 75.469594
+        },
+        {
+            "officeName": "Pimpalgaon S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Jalgaon Division",
+            "latitude": 20.5820104,
+            "longitude": 75.4882763
+        }
+    ]
+}

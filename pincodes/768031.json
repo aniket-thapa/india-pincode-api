@@ -1,0 +1,26 @@
+{
+    "state": "ODISHA",
+    "district": "BARGARH",
+    "offices": [
+        {
+            "officeName": "DWARI B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sambalpur Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Ambabhana S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sambalpur Division",
+            "latitude": 21.578808,
+            "longitude": 83.475714
+        }
+    ]
+}

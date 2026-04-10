@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "KOTTAYAM",
+    "offices": [
+        {
+            "officeName": "Thirunakkara SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Kottayam Division",
+            "latitude": 9.5869,
+            "longitude": 76.5213
+        },
+        {
+            "officeName": "Kottayam HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Kottayam Division",
+            "latitude": 9.591238,
+            "longitude": 76.521798
+        },
+        {
+            "officeName": "Kottayam North SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Kottayam Division",
+            "latitude": 9.5954,
+            "longitude": 76.5202
+        }
+    ]
+}

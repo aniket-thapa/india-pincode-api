@@ -1,0 +1,36 @@
+{
+    "state": "JAMMU AND KASHMIR",
+    "district": "JAMMU",
+    "offices": [
+        {
+            "officeName": "Meghdoot Bhawan",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Jammu Division",
+            "latitude": 32.71018622763894,
+            "longitude": 74.87953785806894
+        },
+        {
+            "officeName": "Railway Station SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Jammu Division",
+            "latitude": 32.705905,
+            "longitude": 74.879967
+        },
+        {
+            "officeName": "New Fruit Market SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Jammu Division",
+            "latitude": 32.715987,
+            "longitude": 74.879969
+        }
+    ]
+}

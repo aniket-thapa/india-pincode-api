@@ -1,0 +1,36 @@
+{
+    "state": "ASSAM",
+    "district": "NAGAON",
+    "offices": [
+        {
+            "officeName": "Jumurmur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Nagaon Division",
+            "latitude": 26.1835,
+            "longitude": 92.7362
+        },
+        {
+            "officeName": "Kathiatoli S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Nagaon Division",
+            "latitude": 26.1835,
+            "longitude": 92.7362
+        },
+        {
+            "officeName": "Rengbeng B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Nagaon Division",
+            "latitude": 26.1835,
+            "longitude": 92.7362
+        }
+    ]
+}

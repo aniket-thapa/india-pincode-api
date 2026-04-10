@@ -1,0 +1,46 @@
+{
+    "state": "GUJARAT",
+    "district": "KHEDA",
+    "offices": [
+        {
+            "officeName": "Uttarsanda SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Kheda Division",
+            "latitude": 22.60975,
+            "longitude": 72.8961111
+        },
+        {
+            "officeName": "Bhumel BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Kheda Division",
+            "latitude": 22.6410669,
+            "longitude": 72.9204326
+        },
+        {
+            "officeName": "Fatepur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Kheda Division",
+            "latitude": 22.700007,
+            "longitude": 72.866693
+        },
+        {
+            "officeName": "Gutal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Kheda Division",
+            "latitude": 22.6863156,
+            "longitude": 72.8693912
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "HARYANA",
+    "district": "HISAR",
+    "offices": [
+        {
+            "officeName": "CSF Hisar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hissar Division",
+            "latitude": 29.191513,
+            "longitude": 75.695714
+        },
+        {
+            "officeName": "Glf Hisar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hissar Division",
+            "latitude": 29.217744,
+            "longitude": 75.681899
+        },
+        {
+            "officeName": "Ttc Hisar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hissar Division",
+            "latitude": 29.191513,
+            "longitude": 75.695714
+        },
+        {
+            "officeName": "BSF Hisar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hissar Division",
+            "latitude": 29.2275278,
+            "longitude": 75.6669167
+        }
+    ]
+}

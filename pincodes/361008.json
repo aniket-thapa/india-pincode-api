@@ -1,0 +1,26 @@
+{
+    "state": "GUJARAT",
+    "district": "JAMNAGAR",
+    "offices": [
+        {
+            "officeName": "Medical Campus SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Jamnagar Division",
+            "latitude": 22.4780556,
+            "longitude": 70.06525
+        },
+        {
+            "officeName": "Patel Colony SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Jamnagar Division",
+            "latitude": 22.4820278,
+            "longitude": 70.0602778
+        }
+    ]
+}

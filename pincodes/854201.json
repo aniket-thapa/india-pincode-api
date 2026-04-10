@@ -1,0 +1,56 @@
+{
+    "state": "BIHAR",
+    "district": "PURNIA",
+    "offices": [
+        {
+            "officeName": "Balua Kachahari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Purnea Division",
+            "latitude": 27.154417,
+            "longitude": 84.430396
+        },
+        {
+            "officeName": "Ramnagar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Purnea Division",
+            "latitude": 25.777139,
+            "longitude": 87.475255
+        },
+        {
+            "officeName": "Kala Balua BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Purnea Division",
+            "latitude": 25.990733,
+            "longitude": 87.275511
+        },
+        {
+            "officeName": "Malinia Diara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Purnea Division",
+            "latitude": 25.777139,
+            "longitude": 87.475255
+        },
+        {
+            "officeName": "Banaili SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Purnea Division",
+            "latitude": 25.9578,
+            "longitude": 87.331426
+        }
+    ]
+}

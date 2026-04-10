@@ -1,0 +1,26 @@
+{
+    "state": "HARYANA",
+    "district": "GURUGRAM",
+    "offices": [
+        {
+            "officeName": "Nsg Camp Manesar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gurgaon Division",
+            "latitude": 28.342,
+            "longitude": 76.9365278
+        },
+        {
+            "officeName": "Kasan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gurgaon Division",
+            "latitude": 28.344247,
+            "longitude": 76.943839
+        }
+    ]
+}

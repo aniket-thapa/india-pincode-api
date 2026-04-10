@@ -1,0 +1,36 @@
+{
+    "state": "GUJARAT",
+    "district": "JAMNAGAR",
+    "offices": [
+        {
+            "officeName": "Gagva BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Jamnagar Division",
+            "latitude": 22.39,
+            "longitude": 69.81
+        },
+        {
+            "officeName": "Digvijay Gram SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Jamnagar Division",
+            "latitude": 22.47,
+            "longitude": 70.05
+        },
+        {
+            "officeName": "Moti Khavdi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Jamnagar Division",
+            "latitude": 22.38,
+            "longitude": 69.86
+        }
+    ]
+}

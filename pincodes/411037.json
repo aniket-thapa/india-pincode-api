@@ -1,0 +1,46 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "PUNE",
+    "offices": [
+        {
+            "officeName": "Salisbury Park S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune City East Division",
+            "latitude": 18.82722222,
+            "longitude": 73.87294444
+        },
+        {
+            "officeName": "Bibvewadi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune City East Division",
+            "latitude": 18.47825,
+            "longitude": 73.86141667
+        },
+        {
+            "officeName": "T.V. Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune City East Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Market Yard S.O (Pune)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune City East Division",
+            "latitude": 18.48952,
+            "longitude": 73.869603
+        }
+    ]
+}

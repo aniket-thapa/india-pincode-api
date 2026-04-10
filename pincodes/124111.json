@@ -1,0 +1,56 @@
+{
+    "state": "HARYANA",
+    "district": "ROHTAK",
+    "offices": [
+        {
+            "officeName": "Girawar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rohtak Division",
+            "latitude": 28.735904,
+            "longitude": 76.510506
+        },
+        {
+            "officeName": "Madina SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rohtak Division",
+            "latitude": 28.9403611,
+            "longitude": 76.4338889
+        },
+        {
+            "officeName": "Ajaib BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rohtak Division",
+            "latitude": 28.681179,
+            "longitude": 76.510506
+        },
+        {
+            "officeName": "Bharan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rohtak Division",
+            "latitude": 28.735904,
+            "longitude": 76.510506
+        },
+        {
+            "officeName": "Kharkhara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rohtak Division",
+            "latitude": 28.735904,
+            "longitude": 76.510506
+        }
+    ]
+}

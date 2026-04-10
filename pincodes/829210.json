@@ -1,0 +1,26 @@
+{
+    "state": "JHARKHAND",
+    "district": "RANCHI",
+    "offices": [
+        {
+            "officeName": "Dakra Colliery SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Palamau Division",
+            "latitude": 23.645,
+            "longitude": 84.645
+        },
+        {
+            "officeName": "Churi Madhay B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Palamau Division",
+            "latitude": 23.66978,
+            "longitude": 85.02107
+        }
+    ]
+}

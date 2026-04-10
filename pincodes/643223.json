@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "THE NILGIRIS",
+    "offices": [
+        {
+            "officeName": "Moyarcamp B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Nilgiris Division",
+            "latitude": 11.6,
+            "longitude": 76.69
+        },
+        {
+            "officeName": "Singara B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Nilgiris Division",
+            "latitude": 11.53,
+            "longitude": 76.6
+        },
+        {
+            "officeName": "Masinagudi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Nilgiris Division",
+            "latitude": 11.34945,
+            "longitude": 76.802858
+        },
+        {
+            "officeName": "Mavanahalla B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Nilgiris Division",
+            "latitude": 11.54612,
+            "longitude": 76.680253
+        }
+    ]
+}

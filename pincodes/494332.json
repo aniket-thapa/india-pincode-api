@@ -1,0 +1,36 @@
+{
+    "state": "CHHATTISGARH",
+    "district": "RAIPUR",
+    "offices": [
+        {
+            "officeName": "Shriguhan B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bastar Division",
+            "latitude": 20.4263,
+            "longitude": 81.5248
+        },
+        {
+            "officeName": "Sarangpal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bastar Division",
+            "latitude": 20.3008,
+            "longitude": 81.5242
+        },
+        {
+            "officeName": "Govindpur S.O.",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bastar Division",
+            "latitude": 20.241,
+            "longitude": 81.4513
+        }
+    ]
+}

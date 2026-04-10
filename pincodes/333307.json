@@ -1,0 +1,76 @@
+{
+    "state": "RAJASTHAN",
+    "district": "JHUNJHUNU",
+    "offices": [
+        {
+            "officeName": "Inderpura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jhunjhunu Division",
+            "latitude": 27.761629,
+            "longitude": 75.459234
+        },
+        {
+            "officeName": "Kot B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jhunjhunu Division",
+            "latitude": 27.668938,
+            "longitude": 75.429367
+        },
+        {
+            "officeName": "Udaipurwati S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jhunjhunu Division",
+            "latitude": 27.7287778,
+            "longitude": 75.4740278
+        },
+        {
+            "officeName": "Dholekhera B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jhunjhunu Division",
+            "latitude": 27.789732,
+            "longitude": 75.458651
+        },
+        {
+            "officeName": "Girdharpura Shahpura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jhunjhunu Division",
+            "latitude": 27.779539,
+            "longitude": 75.425732
+        },
+        {
+            "officeName": "Nangal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jhunjhunu Division",
+            "latitude": 27.729129,
+            "longitude": 75.453212
+        },
+        {
+            "officeName": "Bagora B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jhunjhunu Division",
+            "latitude": 27.703519,
+            "longitude": 75.49271
+        }
+    ]
+}

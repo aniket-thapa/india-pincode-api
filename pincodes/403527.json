@@ -1,0 +1,26 @@
+{
+    "state": "GOA",
+    "district": "NORTH GOA",
+    "offices": [
+        {
+            "officeName": "Morjim B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Goa Division",
+            "latitude": 73.91,
+            "longitude": 15.7
+        },
+        {
+            "officeName": "Mandrem S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Goa Division",
+            "latitude": 15.6632819,
+            "longitude": 73.7260894
+        }
+    ]
+}

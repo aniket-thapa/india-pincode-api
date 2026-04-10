@@ -1,0 +1,66 @@
+{
+    "state": "JHARKHAND",
+    "district": "RANCHI",
+    "offices": [
+        {
+            "officeName": "Bamne B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Palamau Division",
+            "latitude": 23.68316,
+            "longitude": 85.05354
+        },
+        {
+            "officeName": "Ray SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Palamau Division",
+            "latitude": 23.6773,
+            "longitude": 85.0619
+        },
+        {
+            "officeName": "Hindgir BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Palamau Division",
+            "latitude": 23.6919309,
+            "longitude": 85.0759386
+        },
+        {
+            "officeName": "Churi East B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Palamau Division",
+            "latitude": 23.67907,
+            "longitude": 85.04478
+        },
+        {
+            "officeName": "Churi North B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Palamau Division",
+            "latitude": 23.67907,
+            "longitude": 85.04478
+        },
+        {
+            "officeName": "Patal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Palamau Division",
+            "latitude": 23.6773,
+            "longitude": 85.0619
+        }
+    ]
+}

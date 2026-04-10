@@ -1,0 +1,46 @@
+{
+    "state": "RAJASTHAN",
+    "district": "DAUSA",
+    "offices": [
+        {
+            "officeName": "Gudha Katla SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur Moffusil Division",
+            "latitude": 27.0628056,
+            "longitude": 76.4805833
+        },
+        {
+            "officeName": "Chandera BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur Moffusil Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Ancheri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur Moffusil Division",
+            "latitude": 10.514149,
+            "longitude": 76.223288
+        },
+        {
+            "officeName": "Muhi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur Moffusil Division",
+            "latitude": 22.266032,
+            "longitude": 113.994744
+        }
+    ]
+}

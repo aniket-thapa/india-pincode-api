@@ -1,0 +1,36 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "BALLIA",
+    "offices": [
+        {
+            "officeName": "Piprakala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Ballia Division",
+            "latitude": 25.66,
+            "longitude": 84.0
+        },
+        {
+            "officeName": "Surahi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Ballia Division",
+            "latitude": 25.66,
+            "longitude": 84.01
+        },
+        {
+            "officeName": "SOHAON SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Ballia Division",
+            "latitude": 25.65,
+            "longitude": 84.0
+        }
+    ]
+}

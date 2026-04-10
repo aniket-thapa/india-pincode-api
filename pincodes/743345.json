@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "24 PARAGANAS SOUTH",
+    "offices": [
+        {
+            "officeName": "Kashipur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Baruipur Division",
+            "latitude": 22.808,
+            "longitude": 88.703
+        },
+        {
+            "officeName": "Krishnanagar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Baruipur Division",
+            "latitude": 22.453,
+            "longitude": 88.34
+        },
+        {
+            "officeName": "Bijoyganj Bazar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Baruipur Division",
+            "latitude": 22.1076194,
+            "longitude": 89.5048333
+        }
+    ]
+}

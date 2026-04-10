@@ -1,0 +1,46 @@
+{
+    "state": "BIHAR",
+    "district": "PATNA",
+    "offices": [
+        {
+            "officeName": "Machhuatoli SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patna Division",
+            "latitude": 25.61625,
+            "longitude": 85.1595833
+        },
+        {
+            "officeName": "PMCH SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patna Division",
+            "latitude": 25.6201389,
+            "longitude": 85.1621389
+        },
+        {
+            "officeName": "Naya Tola SO Patna",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patna Division",
+            "latitude": 25.4445362,
+            "longitude": 85.5654863
+        },
+        {
+            "officeName": "Bankipore HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patna Division",
+            "latitude": 25.6201944,
+            "longitude": 85.1559722
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "RAJASTHAN",
+    "district": "JHUNJHUNU",
+    "offices": [
+        {
+            "officeName": "Jeeni B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jhunjhunu Division",
+            "latitude": 28.321839,
+            "longitude": 75.682138
+        },
+        {
+            "officeName": "Pharat B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jhunjhunu Division",
+            "latitude": 28.355077,
+            "longitude": 75.731627
+        },
+        {
+            "officeName": "Kajara S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jhunjhunu Division",
+            "latitude": 28.3455556,
+            "longitude": 75.6974167
+        },
+        {
+            "officeName": "Bhobia B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jhunjhunu Division",
+            "latitude": 28.309598,
+            "longitude": 75.658964
+        },
+        {
+            "officeName": "Dhindawa Aguna B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jhunjhunu Division",
+            "latitude": 28.348205,
+            "longitude": 75.658878
+        }
+    ]
+}

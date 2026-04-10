@@ -1,0 +1,36 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "LUCKNOW",
+    "offices": [
+        {
+            "officeName": "NADWA SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Lucknow Division",
+            "latitude": 26.86596,
+            "longitude": 80.951235
+        },
+        {
+            "officeName": "New Hyderabad SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Lucknow Division",
+            "latitude": 26.8659444,
+            "longitude": 80.9511666
+        },
+        {
+            "officeName": "R P Line SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Lucknow Division",
+            "latitude": 26.86596,
+            "longitude": 80.951235
+        }
+    ]
+}

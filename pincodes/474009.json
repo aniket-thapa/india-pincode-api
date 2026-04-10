@@ -1,0 +1,36 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "GWALIOR",
+    "offices": [
+        {
+            "officeName": "Naya Bazar S.O (Gwalior",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gwalior Division",
+            "latitude": 26.178647,
+            "longitude": 78.144908
+        },
+        {
+            "officeName": "Phalka Bazar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gwalior Division",
+            "latitude": 26.178647,
+            "longitude": 78.144908
+        },
+        {
+            "officeName": "Lashkar City S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gwalior Division",
+            "latitude": 26.202625,
+            "longitude": 78.162234
+        }
+    ]
+}

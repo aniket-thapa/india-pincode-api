@@ -1,0 +1,36 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "KANGRA",
+    "offices": [
+        {
+            "officeName": "Haler BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dharamsala Division",
+            "latitude": 31.891926,
+            "longitude": 76.619908
+        },
+        {
+            "officeName": "Harsi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dharamsala Division",
+            "latitude": 31.877423,
+            "longitude": 76.646
+        },
+        {
+            "officeName": "Sanghole SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dharamsala Division",
+            "latitude": 31.8880833,
+            "longitude": 76.6326944
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "WEST BENGAL",
+    "district": "24 PARAGANAS NORTH",
+    "offices": [
+        {
+            "officeName": "Nandan Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "BARRACKPORE DIVISION",
+            "latitude": 22.67,
+            "longitude": 88.39
+        },
+        {
+            "officeName": "Basudebpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "BARRACKPORE DIVISION",
+            "latitude": 22.52,
+            "longitude": 88.32
+        },
+        {
+            "officeName": "D P Nagar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "BARRACKPORE DIVISION",
+            "latitude": 22.67,
+            "longitude": 88.38
+        },
+        {
+            "officeName": "East Belghoria SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "BARRACKPORE DIVISION",
+            "latitude": 22.66,
+            "longitude": 88.39
+        }
+    ]
+}

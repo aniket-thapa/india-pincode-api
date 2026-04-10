@@ -1,0 +1,36 @@
+{
+    "state": "GUJARAT",
+    "district": "BHARUCH",
+    "offices": [
+        {
+            "officeName": "Kavli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bharuch Division",
+            "latitude": 22.1713,
+            "longitude": 72.7465
+        },
+        {
+            "officeName": "Samoj BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bharuch Division",
+            "latitude": 22.141203,
+            "longitude": 72.731322
+        },
+        {
+            "officeName": "Sarod SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bharuch Division",
+            "latitude": 22.169629,
+            "longitude": 72.746193
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "PUNE",
+    "offices": [
+        {
+            "officeName": "Dighi Camp S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune City East Division",
+            "latitude": 18.588353,
+            "longitude": 73.874684
+        },
+        {
+            "officeName": "Dhanori B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune City East Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Vishrantwadi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pune City East Division",
+            "latitude": 18.5719167,
+            "longitude": 73.87825
+        }
+    ]
+}

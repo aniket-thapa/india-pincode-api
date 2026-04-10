@@ -1,0 +1,46 @@
+{
+    "state": "BIHAR",
+    "district": "DARBHANGA",
+    "offices": [
+        {
+            "officeName": "Atihar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Darbhanga Division",
+            "latitude": 25.0054,
+            "longitude": 85.9035
+        },
+        {
+            "officeName": "Bhuskaul BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Darbhanga Division",
+            "latitude": 26.0054,
+            "longitude": 85.9035
+        },
+        {
+            "officeName": "GBasailha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Darbhanga Division",
+            "latitude": 26.0054,
+            "longitude": 85.9035
+        },
+        {
+            "officeName": "Saramohanpur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Darbhanga Division",
+            "latitude": 26.172545,
+            "longitude": 85.931229
+        }
+    ]
+}

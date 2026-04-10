@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "PILIBHIT",
+    "offices": [
+        {
+            "officeName": "Hardaspur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Bareilly Division",
+            "latitude": 28.8710077,
+            "longitude": 79.80445
+        },
+        {
+            "officeName": "Majhola SO Bareilly",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Bareilly Division",
+            "latitude": 28.3387778,
+            "longitude": 79.4212778
+        },
+        {
+            "officeName": "Sunpahar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Bareilly Division",
+            "latitude": 28.632186,
+            "longitude": 79.802979
+        },
+        {
+            "officeName": "Dunidam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Bareilly Division",
+            "latitude": 28.2855,
+            "longitude": 80.62705
+        }
+    ]
+}

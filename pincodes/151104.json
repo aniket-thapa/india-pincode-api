@@ -1,0 +1,56 @@
+{
+    "state": "PUNJAB",
+    "district": "BATHINDA",
+    "offices": [
+        {
+            "officeName": "Alike BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Bhatinda Division",
+            "latitude": 30.3383,
+            "longitude": 75.3208
+        },
+        {
+            "officeName": "Dhapali BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Bhatinda Division",
+            "latitude": 30.3181,
+            "longitude": 75.2357
+        },
+        {
+            "officeName": "Sailbrah BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Bhatinda Division",
+            "latitude": 30.3798,
+            "longitude": 75.2027
+        },
+        {
+            "officeName": "Phul SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Bhatinda Division",
+            "latitude": 30.321784,
+            "longitude": 75.24012
+        },
+        {
+            "officeName": "Raiya BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Bhatinda Division",
+            "latitude": 30.3181,
+            "longitude": 75.2357
+        }
+    ]
+}

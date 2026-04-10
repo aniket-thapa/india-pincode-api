@@ -1,0 +1,26 @@
+{
+    "state": "RAJASTHAN",
+    "district": "SAWAI MADHOPUR",
+    "offices": [
+        {
+            "officeName": "Mahapura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sawaimadhopur Division",
+            "latitude": 26.225546,
+            "longitude": 76.079801
+        },
+        {
+            "officeName": "Shiwar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sawaimadhopur Division",
+            "latitude": 26.2008889,
+            "longitude": 76.0325278
+        }
+    ]
+}

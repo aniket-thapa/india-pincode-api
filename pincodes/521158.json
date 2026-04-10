@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "KRISHNA",
+    "offices": [
+        {
+            "officeName": "Nimmakuru S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Machilipatnam Division",
+            "latitude": 16.27030556,
+            "longitude": 80.99669444
+        },
+        {
+            "officeName": "Nimmaluru B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Machilipatnam Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Palankipadu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Machilipatnam Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

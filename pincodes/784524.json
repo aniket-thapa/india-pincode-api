@@ -1,0 +1,46 @@
+{
+    "state": "ASSAM",
+    "district": "UDALGURI",
+    "offices": [
+        {
+            "officeName": "Ghograbazar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.720832,
+            "longitude": 92.223228
+        },
+        {
+            "officeName": "Hatigarh S.O (Darrang",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.720828,
+            "longitude": 92.223232
+        },
+        {
+            "officeName": "Ajodhyapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.7612,
+            "longitude": 93.0521
+        },
+        {
+            "officeName": "Teliapara B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.7612,
+            "longitude": 93.0521
+        }
+    ]
+}

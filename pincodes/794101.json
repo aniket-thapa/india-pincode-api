@@ -1,0 +1,46 @@
+{
+    "state": "MEGHALAYA",
+    "district": "WEST GARO HILLS",
+    "offices": [
+        {
+            "officeName": "Araimile S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Meghalaya Division",
+            "latitude": 25.5124722,
+            "longitude": 90.2206389
+        },
+        {
+            "officeName": "Gambarigre",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Meghalaya Division",
+            "latitude": 25.653438,
+            "longitude": 90.19481
+        },
+        {
+            "officeName": "Captain Reserve B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Meghalaya Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Dakopgiri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Meghalaya Division",
+            "latitude": 25.57835,
+            "longitude": 90.184
+        }
+    ]
+}

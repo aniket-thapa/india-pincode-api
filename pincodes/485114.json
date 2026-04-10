@@ -1,0 +1,36 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "SATNA",
+    "offices": [
+        {
+            "officeName": "Sagmania S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Satna Division",
+            "latitude": 24.1028,
+            "longitude": 80.7549
+        },
+        {
+            "officeName": "Bharjuna Kala B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Satna Division",
+            "latitude": 24.579,
+            "longitude": 81.832
+        },
+        {
+            "officeName": "Satna Siding B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Satna Division",
+            "latitude": 24.579,
+            "longitude": 81.832
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "PUNJAB",
+    "district": "PATIALA",
+    "offices": [
+        {
+            "officeName": "Majithia Enclave SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patiala Division",
+            "latitude": 30.339139,
+            "longitude": 76.356081
+        },
+        {
+            "officeName": "Kalyan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patiala Division",
+            "latitude": 30.35,
+            "longitude": 76.3
+        },
+        {
+            "officeName": "Ranbirpura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patiala Division",
+            "latitude": 30.32,
+            "longitude": 76.32
+        }
+    ]
+}

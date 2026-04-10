@@ -1,0 +1,56 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "GORAKHPUR",
+    "offices": [
+        {
+            "officeName": "Pac Camp SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gorakhpur Division",
+            "latitude": 26.7636944,
+            "longitude": 83.3972778
+        },
+        {
+            "officeName": "Jungle Laxmipur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gorakhpur Division",
+            "latitude": 27.021145,
+            "longitude": 83.320149
+        },
+        {
+            "officeName": "Jungle Saligram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gorakhpur Division",
+            "latitude": 26.760555,
+            "longitude": 83.373168
+        },
+        {
+            "officeName": "Jungle Dhushar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gorakhpur Division",
+            "latitude": 26.794749,
+            "longitude": 83.431646
+        },
+        {
+            "officeName": "Jungle Tulshiram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gorakhpur Division",
+            "latitude": 26.760872,
+            "longitude": 83.403666
+        }
+    ]
+}

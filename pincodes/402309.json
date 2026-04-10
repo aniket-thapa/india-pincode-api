@@ -1,0 +1,56 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "RAIGAD",
+    "offices": [
+        {
+            "officeName": "Midc Mahad SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Raigad Division",
+            "latitude": 18.0982204,
+            "longitude": 73.4646273
+        },
+        {
+            "officeName": "Kamble Tarfe Mahad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Raigad Division",
+            "latitude": 18.08163,
+            "longitude": 73.4522303
+        },
+        {
+            "officeName": "Kusgaon BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Raigad Division",
+            "latitude": 18.149435,
+            "longitude": 73.4525453
+        },
+        {
+            "officeName": "Rajewadi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Raigad Division",
+            "latitude": 18.0862298,
+            "longitude": 73.4450734
+        },
+        {
+            "officeName": "Kamble Tarfe Birwadi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Raigad Division",
+            "latitude": 18.1080399,
+            "longitude": 73.4532453
+        }
+    ]
+}

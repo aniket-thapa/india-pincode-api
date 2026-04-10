@@ -1,0 +1,56 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "BIJNOR",
+    "offices": [
+        {
+            "officeName": "Sofatpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Bijnor Division",
+            "latitude": 25.694714,
+            "longitude": 82.909813
+        },
+        {
+            "officeName": "Sabalpur Bitra BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Bijnor Division",
+            "latitude": 29.601278,
+            "longitude": 78.188505
+        },
+        {
+            "officeName": "Nagal SO Bijnor",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Bijnor Division",
+            "latitude": 29.3735278,
+            "longitude": 78.1348056
+        },
+        {
+            "officeName": "Rajpur Nawada BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Bijnor Division",
+            "latitude": 29.625104,
+            "longitude": 78.231238
+        },
+        {
+            "officeName": "Jalpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Bijnor Division",
+            "latitude": 29.663274,
+            "longitude": 78.226966
+        }
+    ]
+}

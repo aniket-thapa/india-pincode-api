@@ -1,0 +1,26 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "PRAYAGRAJ",
+    "offices": [
+        {
+            "officeName": "Agriculture Institute SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Prayagraj Division",
+            "latitude": 25.41301,
+            "longitude": 81.84878
+        },
+        {
+            "officeName": "Mohabbatganj Uparhar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Prayagraj Division",
+            "latitude": 25.453182,
+            "longitude": 81.827474
+        }
+    ]
+}

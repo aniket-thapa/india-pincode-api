@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "COIMBATORE",
+    "offices": [
+        {
+            "officeName": "Vellanaipatti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Coimbatore Division",
+            "latitude": 11.0968659,
+            "longitude": 77.0704878
+        },
+        {
+            "officeName": "Kalapatti SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Coimbatore Division",
+            "latitude": 11.07592,
+            "longitude": 77.03151
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "ASSAM",
+    "district": "TINSUKIA",
+    "offices": [
+        {
+            "officeName": "Balijan T.E. B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Tinsukia Division",
+            "latitude": 27.39,
+            "longitude": 95.29
+        },
+        {
+            "officeName": "Hoogrijan S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Tinsukia Division",
+            "latitude": 27.3996944,
+            "longitude": 95.3131111
+        },
+        {
+            "officeName": "Bisfootia B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Tinsukia Division",
+            "latitude": 27.39,
+            "longitude": 95.29
+        }
+    ]
+}

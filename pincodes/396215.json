@@ -1,0 +1,46 @@
+{
+    "state": "GUJARAT",
+    "district": "VALSAD",
+    "offices": [
+        {
+            "officeName": "Kunta BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Valsad Division",
+            "latitude": 20.416184,
+            "longitude": 72.873333
+        },
+        {
+            "officeName": "Daman IE SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Valsad Division",
+            "latitude": 20.405837,
+            "longitude": 72.876499
+        },
+        {
+            "officeName": "Dabhel BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Valsad Division",
+            "latitude": 20.40115,
+            "longitude": 72.892162
+        },
+        {
+            "officeName": "Kachigam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Valsad Division",
+            "latitude": 20.405635,
+            "longitude": 72.877843
+        }
+    ]
+}

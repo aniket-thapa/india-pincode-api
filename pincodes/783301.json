@@ -1,0 +1,26 @@
+{
+    "state": "ASSAM",
+    "district": "DHUBRI",
+    "offices": [
+        {
+            "officeName": "Dhubri H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 26.0186944,
+            "longitude": 89.9942778
+        },
+        {
+            "officeName": "Bhotgaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 26.502896,
+            "longitude": 90.106628
+        }
+    ]
+}

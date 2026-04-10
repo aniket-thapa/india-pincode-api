@@ -1,0 +1,56 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Konaseema",
+    "offices": [
+        {
+            "officeName": "Nelaturu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Rajahmundry Division",
+            "latitude": 16.8446,
+            "longitude": 81.9405
+        },
+        {
+            "officeName": "Maredubaka B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Rajahmundry Division",
+            "latitude": 16.8669,
+            "longitude": 81.9487
+        },
+        {
+            "officeName": "Valluru B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Rajahmundry Division",
+            "latitude": 16.8265,
+            "longitude": 81.9439
+        },
+        {
+            "officeName": "Mandapeta Bazar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Rajahmundry Division",
+            "latitude": 16.8689722,
+            "longitude": 81.9273611
+        },
+        {
+            "officeName": "Mandapeta S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Rajahmundry Division",
+            "latitude": 16.87125,
+            "longitude": 81.9280556
+        }
+    ]
+}

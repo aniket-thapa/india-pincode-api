@@ -1,0 +1,46 @@
+{
+    "state": "WEST BENGAL",
+    "district": "NADIA",
+    "offices": [
+        {
+            "officeName": "Swarnakhali BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Nadia South Division",
+            "latitude": 23.455833,
+            "longitude": 88.697653
+        },
+        {
+            "officeName": "Durgapur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Nadia South Division",
+            "latitude": 23.417143,
+            "longitude": 88.697653
+        },
+        {
+            "officeName": "Krishnaganj SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Nadia South Division",
+            "latitude": 23.4134444,
+            "longitude": 88.7103889
+        },
+        {
+            "officeName": "Tangra BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Nadia South Division",
+            "latitude": 23.417143,
+            "longitude": 88.697653
+        }
+    ]
+}

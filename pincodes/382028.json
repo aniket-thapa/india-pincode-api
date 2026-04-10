@@ -1,0 +1,26 @@
+{
+    "state": "GUJARAT",
+    "district": "GANDHINAGAR",
+    "offices": [
+        {
+            "officeName": "Kolavada BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Gandhinagar Division",
+            "latitude": 23.27,
+            "longitude": 72.61
+        },
+        {
+            "officeName": "Gandhinagar Sector 28 SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Gandhinagar Division",
+            "latitude": 23.246814,
+            "longitude": 72.656311
+        }
+    ]
+}

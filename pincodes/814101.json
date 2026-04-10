@@ -1,0 +1,46 @@
+{
+    "state": "JHARKHAND",
+    "district": "DUMKA",
+    "offices": [
+        {
+            "officeName": "Bandarjori SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Santhal Parganas Division",
+            "latitude": 24.244502,
+            "longitude": 87.241744
+        },
+        {
+            "officeName": "Dumka Court SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Santhal Parganas Division",
+            "latitude": 24.244502,
+            "longitude": 87.241744
+        },
+        {
+            "officeName": "Dumka HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Santhal Parganas Division",
+            "latitude": 24.264313,
+            "longitude": 87.250339
+        },
+        {
+            "officeName": "SPCollege SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Santhal Parganas Division",
+            "latitude": 24.244502,
+            "longitude": 87.241744
+        }
+    ]
+}

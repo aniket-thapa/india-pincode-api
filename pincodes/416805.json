@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "SINDHUDURG",
+    "offices": [
+        {
+            "officeName": "Pural B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "SINDHUDURG DIVISION",
+            "latitude": 16.4682143,
+            "longitude": 73.3587253
+        },
+        {
+            "officeName": "Nadan B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "SINDHUDURG DIVISION",
+            "latitude": 16.4602043,
+            "longitude": 73.4017403
+        },
+        {
+            "officeName": "Vada S.O (Sindhudurg)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "SINDHUDURG DIVISION",
+            "latitude": 15.9108056,
+            "longitude": 73.8230833
+        }
+    ]
+}

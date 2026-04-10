@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "MAYILADUTHURAI",
+    "offices": [
+        {
+            "officeName": "Tirumeignanam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Mayiladuthurai Division",
+            "latitude": 11.08,
+            "longitude": 79.82
+        },
+        {
+            "officeName": "Tirucadaiyur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Mayiladuthurai Division",
+            "latitude": 10.7603056,
+            "longitude": 79.8465278
+        }
+    ]
+}

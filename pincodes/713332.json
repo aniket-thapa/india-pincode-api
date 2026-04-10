@@ -1,0 +1,26 @@
+{
+    "state": "WEST BENGAL",
+    "district": "PASCHIM BARDHAMAN",
+    "offices": [
+        {
+            "officeName": "Bogra BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Asansol Division",
+            "latitude": 19.180409,
+            "longitude": 72.849892
+        },
+        {
+            "officeName": "Devchandnagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Asansol Division",
+            "latitude": 23.830249,
+            "longitude": 88.069867
+        }
+    ]
+}

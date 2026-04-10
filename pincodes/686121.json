@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "KOTTAYAM",
+    "offices": [
+        {
+            "officeName": "Nadackal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Kottayam Division",
+            "latitude": 15.5934,
+            "longitude": 76.7833
+        },
+        {
+            "officeName": "Erattupetta SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Kottayam Division",
+            "latitude": 9.688024,
+            "longitude": 76.776751
+        }
+    ]
+}

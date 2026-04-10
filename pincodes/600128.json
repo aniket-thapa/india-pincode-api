@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "KANCHIPURAM",
+    "offices": [
+        {
+            "officeName": "Kovur SO Tamilnadu Circle",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 13.1271389,
+            "longitude": 79.9108889
+        },
+        {
+            "officeName": "Thandalam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 12.988,
+            "longitude": 80.085
+        },
+        {
+            "officeName": "Gerugambakkam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 12.999,
+            "longitude": 80.107
+        }
+    ]
+}

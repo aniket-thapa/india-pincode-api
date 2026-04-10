@@ -1,0 +1,56 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "LUCKNOW",
+    "offices": [
+        {
+            "officeName": "Dayalpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Lucknow Division",
+            "latitude": 26.748259,
+            "longitude": 80.629917
+        },
+        {
+            "officeName": "Nigohan SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Lucknow Division",
+            "latitude": 26.868479,
+            "longitude": 80.907941
+        },
+        {
+            "officeName": "Mastipur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Lucknow Division",
+            "latitude": 27.777229,
+            "longitude": 81.169437
+        },
+        {
+            "officeName": "Utrawan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Lucknow Division",
+            "latitude": 26.562347,
+            "longitude": 81.029918
+        },
+        {
+            "officeName": "Meerak Nagar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Lucknow Division",
+            "latitude": 26.562339,
+            "longitude": 81.029918
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "HARYANA",
+    "district": "PANIPAT",
+    "offices": [
+        {
+            "officeName": "Binjhol B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Karnal Division",
+            "latitude": 36.87,
+            "longitude": 25.85
+        },
+        {
+            "officeName": "Bursham B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Karnal Division",
+            "latitude": 36.39,
+            "longitude": 32.36
+        },
+        {
+            "officeName": "Panipat NFL S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Karnal Division",
+            "latitude": 29.36213889,
+            "longitude": 76.97230556
+        }
+    ]
+}

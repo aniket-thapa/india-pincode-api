@@ -1,0 +1,26 @@
+{
+    "state": "ASSAM",
+    "district": "KAMRUP METRO",
+    "offices": [
+        {
+            "officeName": "Japorigog B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Guwahati Division",
+            "latitude": 26.15058,
+            "longitude": 91.7848
+        },
+        {
+            "officeName": "Dispur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Guwahati Division",
+            "latitude": 26.1505833,
+            "longitude": 91.7848056
+        }
+    ]
+}

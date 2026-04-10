@@ -1,0 +1,56 @@
+{
+    "state": "PUNJAB",
+    "district": "JALANDHAR",
+    "offices": [
+        {
+            "officeName": "Dhina BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Jalandhar Division",
+            "latitude": 31.300299,
+            "longitude": 75.630428
+        },
+        {
+            "officeName": "Sadar Bazar Jalandhar Cantt SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Jalandhar Division",
+            "latitude": 31.28968678,
+            "longitude": 75.62601113
+        },
+        {
+            "officeName": "Jalandhar Cantt HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Jalandhar Division",
+            "latitude": 31.29153377,
+            "longitude": 75.61625696
+        },
+        {
+            "officeName": "Mithapur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Jalandhar Division",
+            "latitude": 31.3261,
+            "longitude": 75.5768
+        },
+        {
+            "officeName": "Rama Mandi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Jalandhar Division",
+            "latitude": 31.30867431,
+            "longitude": 75.62740926
+        }
+    ]
+}

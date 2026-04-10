@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "KALABURAGI",
+    "offices": [
+        {
+            "officeName": "GB Jagath S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Kalaburagi Division",
+            "latitude": 17.3361667,
+            "longitude": 76.8369444
+        },
+        {
+            "officeName": "Kalaburagi H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Kalaburagi Division",
+            "latitude": 17.341323,
+            "longitude": 76.834492
+        },
+        {
+            "officeName": "GB Shahabazar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Kalaburagi Division",
+            "latitude": 17.3453333,
+            "longitude": 76.8271111
+        }
+    ]
+}

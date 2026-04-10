@@ -1,0 +1,26 @@
+{
+    "state": "BIHAR",
+    "district": "PATNA",
+    "offices": [
+        {
+            "officeName": "Aunta BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "PATNA SAHIB DIVISION",
+            "latitude": 25.389738,
+            "longitude": 85.953971
+        },
+        {
+            "officeName": "Mokama Ghat S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "PATNA SAHIB DIVISION",
+            "latitude": 25.22493,
+            "longitude": 86.12071
+        }
+    ]
+}

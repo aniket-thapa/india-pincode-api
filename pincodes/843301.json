@@ -1,0 +1,26 @@
+{
+    "state": "BIHAR",
+    "district": "SITAMARHI",
+    "offices": [
+        {
+            "officeName": "Sitamarhi HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Sitamarhi Division",
+            "latitude": 26.5637222,
+            "longitude": 85.5243333
+        },
+        {
+            "officeName": "Shaktipith Chandidham SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Sitamarhi Division",
+            "latitude": 26.5637222,
+            "longitude": 85.5243333
+        }
+    ]
+}

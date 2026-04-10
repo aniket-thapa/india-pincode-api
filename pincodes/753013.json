@@ -1,0 +1,26 @@
+{
+    "state": "ODISHA",
+    "district": "CUTTACK",
+    "offices": [
+        {
+            "officeName": "Sri Aurobinda Marg S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Cuttack City Division",
+            "latitude": 20.4534316,
+            "longitude": 85.8986573
+        },
+        {
+            "officeName": "Kalyani Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Cuttack City Division",
+            "latitude": 20.4503545,
+            "longitude": 85.9031803
+        }
+    ]
+}

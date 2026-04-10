@@ -1,0 +1,66 @@
+{
+    "state": "RAJASTHAN",
+    "district": "BHARATPUR",
+    "offices": [
+        {
+            "officeName": "Naroli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bharatpur Division",
+            "latitude": 27.145821,
+            "longitude": 77.024781
+        },
+        {
+            "officeName": "Babekhar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bharatpur Division",
+            "latitude": 27.113158,
+            "longitude": 76.984468
+        },
+        {
+            "officeName": "Bhaiseena B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bharatpur Division",
+            "latitude": 27.119083,
+            "longitude": 77.047811
+        },
+        {
+            "officeName": "Pathena S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bharatpur Division",
+            "latitude": 27.1451111,
+            "longitude": 77.0153056
+        },
+        {
+            "officeName": "Alipur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bharatpur Division",
+            "latitude": 27.154138,
+            "longitude": 76.990228
+        },
+        {
+            "officeName": "Jharauti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bharatpur Division",
+            "latitude": 27.181549,
+            "longitude": 77.686538
+        }
+    ]
+}

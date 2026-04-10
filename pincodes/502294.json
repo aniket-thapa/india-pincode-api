@@ -1,0 +1,36 @@
+{
+    "state": "TELANGANA",
+    "district": "SANGAREDDY",
+    "offices": [
+        {
+            "officeName": "Tadlapally B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Sangareddy Division",
+            "latitude": 17.640825798117007,
+            "longitude": 78.08653117779063
+        },
+        {
+            "officeName": "Fasalwadi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Sangareddy Division",
+            "latitude": 17.640316754064898,
+            "longitude": 78.12442837223203
+        },
+        {
+            "officeName": "Manjira Barrage S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Sangareddy Division",
+            "latitude": 17.1146944,
+            "longitude": 78.1022778
+        }
+    ]
+}

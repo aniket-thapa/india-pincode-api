@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "SATARA",
+    "offices": [
+        {
+            "officeName": "Hol B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Satara Division",
+            "latitude": 17.67985,
+            "longitude": 73.9744
+        },
+        {
+            "officeName": "Jinti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Satara Division",
+            "latitude": 17.19825,
+            "longitude": 74.07045
+        },
+        {
+            "officeName": "Sakharwadi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Satara Division",
+            "latitude": 18.0518333,
+            "longitude": 74.33625
+        }
+    ]
+}

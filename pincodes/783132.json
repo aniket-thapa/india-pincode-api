@@ -1,0 +1,66 @@
+{
+    "state": "ASSAM",
+    "district": "DHUBRI",
+    "offices": [
+        {
+            "officeName": "Dhumerghat B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 25.991772,
+            "longitude": 90.17818
+        },
+        {
+            "officeName": "Tulsibari B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Jaleswar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 26.0157,
+            "longitude": 89.9919
+        },
+        {
+            "officeName": "Dharai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Katarihara B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Gaurnagar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

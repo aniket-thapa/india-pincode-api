@@ -1,0 +1,36 @@
+{
+    "state": "JAMMU AND KASHMIR",
+    "district": "SRINAGAR",
+    "offices": [
+        {
+            "officeName": "Khanyar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 34.0733056,
+            "longitude": 74.8165556
+        },
+        {
+            "officeName": "Rainawari SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 34.0980833,
+            "longitude": 74.8289444
+        },
+        {
+            "officeName": "Nandpora BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 34.126103,
+            "longitude": 74.673205
+        }
+    ]
+}

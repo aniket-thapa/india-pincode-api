@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI SUBURBAN",
+    "offices": [
+        {
+            "officeName": "Charkop SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North West Division",
+            "latitude": 19.2133056,
+            "longitude": 72.8246944
+        },
+        {
+            "officeName": "Kandivali West SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North West Division",
+            "latitude": 19.205341,
+            "longitude": 72.827705
+        },
+        {
+            "officeName": "Kandivali RS SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North West Division",
+            "latitude": 19.2318889,
+            "longitude": 72.8404444
+        }
+    ]
+}

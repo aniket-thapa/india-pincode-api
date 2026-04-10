@@ -1,0 +1,56 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "GUNTUR",
+    "offices": [
+        {
+            "officeName": "Kuragallu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Guntur Division",
+            "latitude": 16.453231,
+            "longitude": 80.526481
+        },
+        {
+            "officeName": "Neerukonda B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Guntur Division",
+            "latitude": 16.461282,
+            "longitude": 80.495216
+        },
+        {
+            "officeName": "Nidamarru B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Guntur Division",
+            "latitude": 16.4309624,
+            "longitude": 80.5626428
+        },
+        {
+            "officeName": "SRM University S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Guntur Division",
+            "latitude": 16.519217,
+            "longitude": 80.485569
+        },
+        {
+            "officeName": "Bethapudi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Guntur Division",
+            "latitude": 16.43132,
+            "longitude": 80.568327
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "DELHI",
+    "district": "SOUTH",
+    "offices": [
+        {
+            "officeName": "Madanpur Khadar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South Division",
+            "latitude": 28.53,
+            "longitude": 77.3
+        },
+        {
+            "officeName": "Ali BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South Division",
+            "latitude": 28.52,
+            "longitude": 77.31
+        },
+        {
+            "officeName": "Sarita Vihar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South Division",
+            "latitude": 28.5348333,
+            "longitude": 77.2911667
+        }
+    ]
+}

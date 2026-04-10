@@ -1,0 +1,26 @@
+{
+    "state": "ASSAM",
+    "district": "BONGAIGAON",
+    "offices": [
+        {
+            "officeName": "Boitamari S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 24.1319,
+            "longitude": 92.1411
+        },
+        {
+            "officeName": "Kayetpara B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 26.315286,
+            "longitude": 90.48091
+        }
+    ]
+}

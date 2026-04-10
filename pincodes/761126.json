@@ -1,0 +1,56 @@
+{
+    "state": "ODISHA",
+    "district": "GANJAM",
+    "offices": [
+        {
+            "officeName": "Bhanjamargo S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Aska Division",
+            "latitude": 19.9356966,
+            "longitude": 84.5796
+        },
+        {
+            "officeName": "Bhanjanagar H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Aska Division",
+            "latitude": 19.947172,
+            "longitude": 84.583545
+        },
+        {
+            "officeName": "Bhejiput S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Aska Division",
+            "latitude": 19.948015,
+            "longitude": 84.5711649
+        },
+        {
+            "officeName": "Bhanjanagar  College S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Aska Division",
+            "latitude": 19.950525,
+            "longitude": 84.5745666
+        },
+        {
+            "officeName": "Bhanjanagar Bazar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Aska Division",
+            "latitude": 19.92604,
+            "longitude": 84.5791616
+        }
+    ]
+}

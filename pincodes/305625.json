@@ -1,0 +1,46 @@
+{
+    "state": "RAJASTHAN",
+    "district": "AJMER",
+    "offices": [
+        {
+            "officeName": "Jalia  II S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Beawar Division",
+            "latitude": 25.9221667,
+            "longitude": 74.6278056
+        },
+        {
+            "officeName": "Hanutia B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Beawar Division",
+            "latitude": 25.94,
+            "longitude": 75.0
+        },
+        {
+            "officeName": "Kaniya B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Beawar Division",
+            "latitude": 25.94,
+            "longitude": 75.0
+        },
+        {
+            "officeName": "Lodiyana B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Beawar Division",
+            "latitude": 25.94,
+            "longitude": 75.0
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "TELANGANA",
+    "district": "MEDCHAL MALKAJGIRI",
+    "offices": [
+        {
+            "officeName": "Kukatpally S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Secunderabad Division",
+            "latitude": 17.49278988552387,
+            "longitude": 78.39661174608246
+        },
+        {
+            "officeName": "Vivekanandanagar Colony S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Secunderabad Division",
+            "latitude": 17.49291667,
+            "longitude": 78.40905556
+        },
+        {
+            "officeName": "Kukatpally Court Complex SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Secunderabad Division",
+            "latitude": 17.464567,
+            "longitude": 78.390157
+        }
+    ]
+}

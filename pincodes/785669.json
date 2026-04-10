@@ -1,0 +1,36 @@
+{
+    "state": "ASSAM",
+    "district": "SIVASAGAR",
+    "offices": [
+        {
+            "officeName": "Mohkhuti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Sibsagar Division",
+            "latitude": 27.152078,
+            "longitude": 94.214333
+        },
+        {
+            "officeName": "Moran S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Sibsagar Division",
+            "latitude": 27.152078,
+            "longitude": 94.214333
+        },
+        {
+            "officeName": "Deorihabi Chakalia B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Sibsagar Division",
+            "latitude": 27.152078,
+            "longitude": 94.214333
+        }
+    ]
+}

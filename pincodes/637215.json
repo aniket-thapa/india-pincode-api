@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "NAMAKKAL",
+    "offices": [
+        {
+            "officeName": "Kuchipalayam S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Namakkal Division",
+            "latitude": 11.3634444,
+            "longitude": 77.8281667
+        },
+        {
+            "officeName": "Thokkavadi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Namakkal Division",
+            "latitude": 11.3657516,
+            "longitude": 77.8429699
+        }
+    ]
+}

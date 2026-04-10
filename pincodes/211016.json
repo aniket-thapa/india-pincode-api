@@ -1,0 +1,36 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "PRAYAGRAJ",
+    "offices": [
+        {
+            "officeName": "G T B Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Prayagraj Division",
+            "latitude": 25.42847,
+            "longitude": 81.81825
+        },
+        {
+            "officeName": "Kesaria Road SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Prayagraj Division",
+            "latitude": 25.42847,
+            "longitude": 81.81825
+        },
+        {
+            "officeName": "Purshottam Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Prayagraj Division",
+            "latitude": 25.43969,
+            "longitude": 81.81771
+        }
+    ]
+}

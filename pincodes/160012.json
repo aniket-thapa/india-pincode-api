@@ -1,0 +1,26 @@
+{
+    "state": "CHANDIGARH",
+    "district": "CHANDIGARH",
+    "offices": [
+        {
+            "officeName": "Engg College SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chandigarh Division",
+            "latitude": 30.7665555,
+            "longitude": 76.7836111
+        },
+        {
+            "officeName": "Sector 12 Chandigarh SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chandigarh Division",
+            "latitude": 30.7420833,
+            "longitude": 76.7833611
+        }
+    ]
+}

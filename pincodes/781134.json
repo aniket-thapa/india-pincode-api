@@ -1,0 +1,36 @@
+{
+    "state": "ASSAM",
+    "district": "KAMRUP",
+    "offices": [
+        {
+            "officeName": "Kukurmara S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Guwahati Division",
+            "latitude": 26.0736111,
+            "longitude": 91.4286111
+        },
+        {
+            "officeName": "Amtala B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Guwahati Division",
+            "latitude": 26.073611,
+            "longitude": 91.428611
+        },
+        {
+            "officeName": "Jiakur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Guwahati Division",
+            "latitude": 26.073611,
+            "longitude": 91.428611
+        }
+    ]
+}

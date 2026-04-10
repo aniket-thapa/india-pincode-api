@@ -1,0 +1,46 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "offices": [
+        {
+            "officeName": "Jeolikote SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nainital Division",
+            "latitude": 29.3451,
+            "longitude": 79.4823
+        },
+        {
+            "officeName": "Gethia BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nainital Division",
+            "latitude": 29.360473,
+            "longitude": 79.4832591
+        },
+        {
+            "officeName": "Bist Estatre BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nainital Division",
+            "latitude": 29.34,
+            "longitude": 79.48
+        },
+        {
+            "officeName": "Chopra BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nainital Division",
+            "latitude": 29.3248643,
+            "longitude": 79.5013207
+        }
+    ]
+}

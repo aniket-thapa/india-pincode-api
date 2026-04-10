@@ -1,0 +1,26 @@
+{
+    "state": "WEST BENGAL",
+    "district": "HOWRAH",
+    "offices": [
+        {
+            "officeName": "Ghusuri SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Howrah Division",
+            "latitude": 22.6128333,
+            "longitude": 88.3483889
+        },
+        {
+            "officeName": "Howrah VicCotMill SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Howrah Division",
+            "latitude": 22.6161111,
+            "longitude": 88.355
+        }
+    ]
+}

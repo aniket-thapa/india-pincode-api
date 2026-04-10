@@ -1,0 +1,36 @@
+{
+    "state": "RAJASTHAN",
+    "district": "JODHPUR",
+    "offices": [
+        {
+            "officeName": "Jodhpur Marudhar Ind  Area SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Jodhpur Division",
+            "latitude": 26.225,
+            "longitude": 73.0045556
+        },
+        {
+            "officeName": "Jodhpur KUM Bhagat Ki Kothi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Jodhpur Division",
+            "latitude": 26.2326111,
+            "longitude": 73.0149167
+        },
+        {
+            "officeName": "Saraswati Nagar NDTSO Jodhpur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Jodhpur Division",
+            "latitude": 26.2284545,
+            "longitude": 73.0449461
+        }
+    ]
+}

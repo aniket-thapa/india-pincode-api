@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "CHENGALPATTU",
+    "offices": [
+        {
+            "officeName": "Hasthinapuram SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 12.0678056,
+            "longitude": 80.2354444
+        },
+        {
+            "officeName": "Chitlapakkam SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tambaram Division",
+            "latitude": 12.9351944,
+            "longitude": 80.1484444
+        }
+    ]
+}

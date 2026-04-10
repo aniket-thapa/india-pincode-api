@@ -1,0 +1,56 @@
+{
+    "state": "TAMIL NADU",
+    "district": "MADURAI",
+    "offices": [
+        {
+            "officeName": "Andipatti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Madurai Division",
+            "latitude": 10.1109,
+            "longitude": 78.044596
+        },
+        {
+            "officeName": "Kulasekarankottai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Madurai Division",
+            "latitude": 10.090954,
+            "longitude": 77.961441
+        },
+        {
+            "officeName": "Pandiarajapuram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Madurai Division",
+            "latitude": 10.108921,
+            "longitude": 77.938883
+        },
+        {
+            "officeName": "Vadipatti SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Madurai Division",
+            "latitude": 10.0816667,
+            "longitude": 77.9669722
+        },
+        {
+            "officeName": "Kachakatti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Madurai Division",
+            "latitude": 10.0838,
+            "longitude": 77.998297
+        }
+    ]
+}

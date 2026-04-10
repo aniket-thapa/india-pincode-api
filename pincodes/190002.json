@@ -1,0 +1,46 @@
+{
+    "state": "JAMMU AND KASHMIR",
+    "district": "SRINAGAR",
+    "offices": [
+        {
+            "officeName": "Fateh Kadal SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 34.0893611,
+            "longitude": 74.8056388
+        },
+        {
+            "officeName": "SR Gunj SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 34.097,
+            "longitude": 74.80475
+        },
+        {
+            "officeName": "Safa Kadal SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 2.5,
+            "longitude": 3.6
+        },
+        {
+            "officeName": "Jamia Masjid SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 34.0833611,
+            "longitude": 74.8080556
+        }
+    ]
+}

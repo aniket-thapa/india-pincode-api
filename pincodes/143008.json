@@ -1,0 +1,66 @@
+{
+    "state": "PUNJAB",
+    "district": "AMRITSAR",
+    "offices": [
+        {
+            "officeName": "Dist Jail BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.71,
+            "longitude": 75.04
+        },
+        {
+            "officeName": "Sjs Avenue SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.66,
+            "longitude": 74.84
+        },
+        {
+            "officeName": "Nangli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.68,
+            "longitude": 74.87
+        },
+        {
+            "officeName": "Naushehra Nangli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.71,
+            "longitude": 75.04
+        },
+        {
+            "officeName": "Pandori Warraich BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.69,
+            "longitude": 74.91
+        },
+        {
+            "officeName": "Gumtala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.67,
+            "longitude": 74.85
+        }
+    ]
+}

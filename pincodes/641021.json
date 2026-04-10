@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "COIMBATORE",
+    "offices": [
+        {
+            "officeName": "Eachanari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Coimbatore Division",
+            "latitude": 10.922975,
+            "longitude": 76.982915
+        },
+        {
+            "officeName": "Coimbatore Industrial Estate SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Coimbatore Division",
+            "latitude": 10.94123,
+            "longitude": 76.97203
+        }
+    ]
+}

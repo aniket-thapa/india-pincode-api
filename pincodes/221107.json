@@ -1,0 +1,36 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "VARANASI",
+    "offices": [
+        {
+            "officeName": "Koruta Bazar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Varanasi West Division",
+            "latitude": 25.307233,
+            "longitude": 82.936711
+        },
+        {
+            "officeName": "Mangalpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Varanasi West Division",
+            "latitude": 25.307233,
+            "longitude": 82.936711
+        },
+        {
+            "officeName": "Lohta SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Varanasi West Division",
+            "latitude": 25.2745556,
+            "longitude": 82.9383889
+        }
+    ]
+}

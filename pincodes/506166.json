@@ -1,0 +1,26 @@
+{
+    "state": "TELANGANA",
+    "district": "HANUMAKONDA",
+    "offices": [
+        {
+            "officeName": "Mamnoor B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Warangal Division",
+            "latitude": 17.907326,
+            "longitude": 79.592432
+        },
+        {
+            "officeName": "Mamnoor S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Warangal Division",
+            "latitude": 17.916908,
+            "longitude": 79.594092
+        }
+    ]
+}

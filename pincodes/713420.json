@@ -1,0 +1,26 @@
+{
+    "state": "WEST BENGAL",
+    "district": "PURBA BARDHAMAN",
+    "offices": [
+        {
+            "officeName": "Panagar SO Bardhaman",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Burdwan Division",
+            "latitude": 23.8371222,
+            "longitude": 86.909973
+        },
+        {
+            "officeName": "Rondia BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Burdwan Division",
+            "latitude": 23.38,
+            "longitude": 87.48
+        }
+    ]
+}

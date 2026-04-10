@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "MADURAI",
+    "offices": [
+        {
+            "officeName": "Thanakkankulam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Madurai Division",
+            "latitude": 9.884812,
+            "longitude": 78.042068
+        },
+        {
+            "officeName": "Pandian Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Madurai Division",
+            "latitude": 9.879,
+            "longitude": 78.0585556
+        },
+        {
+            "officeName": "Vilacheri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Madurai Division",
+            "latitude": 9.894959,
+            "longitude": 78.06181
+        },
+        {
+            "officeName": "Tirunagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Madurai Division",
+            "latitude": 9.8815833,
+            "longitude": 78.0584167
+        }
+    ]
+}

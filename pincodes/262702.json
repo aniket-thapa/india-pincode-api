@@ -1,0 +1,26 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "KHERI",
+    "offices": [
+        {
+            "officeName": "Gopalapur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Kheri Division",
+            "latitude": 27.88,
+            "longitude": 80.83
+        },
+        {
+            "officeName": "Kheri Town SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Kheri Division",
+            "latitude": 27.909842,
+            "longitude": 80.784535
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "TELANGANA",
+    "district": "NALGONDA",
+    "offices": [
+        {
+            "officeName": "Nalgonda H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Nalgonda Division",
+            "latitude": 17.058425,
+            "longitude": 79.272626
+        },
+        {
+            "officeName": "Clocktower S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Nalgonda Division",
+            "latitude": 17.0612206,
+            "longitude": 79.2741524
+        },
+        {
+            "officeName": "Bottuguda S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Nalgonda Division",
+            "latitude": 17.0539821,
+            "longitude": 79.2713087
+        },
+        {
+            "officeName": "Oldabadi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Nalgonda Division",
+            "latitude": 17.0531102,
+            "longitude": 79.2590548
+        },
+        {
+            "officeName": "Manyamchalka S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Nalgonda Division",
+            "latitude": 17.0507669,
+            "longitude": 79.2752221
+        }
+    ]
+}

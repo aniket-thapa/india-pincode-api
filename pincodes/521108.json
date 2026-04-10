@@ -1,0 +1,26 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "NTR",
+    "offices": [
+        {
+            "officeName": "Enikepadu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Vijayawada Division",
+            "latitude": 16.510915,
+            "longitude": 80.701
+        },
+        {
+            "officeName": "Ramavarappadu S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Vijayawada Division",
+            "latitude": 16.5239722,
+            "longitude": 80.6855833
+        }
+    ]
+}

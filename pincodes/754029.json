@@ -1,0 +1,26 @@
+{
+    "state": "ODISHA",
+    "district": "CUTTACK",
+    "offices": [
+        {
+            "officeName": "Athagarh College S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Cuttack South Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Athagarh H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Cuttack South Division",
+            "latitude": 20.5171111,
+            "longitude": 85.62575
+        }
+    ]
+}

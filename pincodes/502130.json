@@ -1,0 +1,56 @@
+{
+    "state": "TELANGANA",
+    "district": "MEDAK",
+    "offices": [
+        {
+            "officeName": "Kuchanpally S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.0659167,
+            "longitude": 78.22925
+        },
+        {
+            "officeName": "Toguta B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.076586,
+            "longitude": 78.248778
+        },
+        {
+            "officeName": "Sardana B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.082205,
+            "longitude": 78.176114
+        },
+        {
+            "officeName": "Fareedpur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.07673,
+            "longitude": 78.199602
+        },
+        {
+            "officeName": "Maddulwai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.068468,
+            "longitude": 78.245165
+        }
+    ]
+}

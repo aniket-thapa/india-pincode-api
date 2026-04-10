@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "THRISSUR",
+    "offices": [
+        {
+            "officeName": "Ayyanthole North BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Trichur Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Ayyanthole SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Trichur Division",
+            "latitude": 10.523982,
+            "longitude": 76.189762
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "state": "TELANGANA",
+    "district": "SIDDIPET",
+    "offices": [
+        {
+            "officeName": "Lingareddipally B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.0729,
+            "longitude": 78.5214
+        },
+        {
+            "officeName": "Ramancha B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.1003,
+            "longitude": 78.5
+        },
+        {
+            "officeName": "Gurralagondi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.205734,
+            "longitude": 78.828645
+        },
+        {
+            "officeName": "Chandlapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.1018,
+            "longitude": 78.5155
+        },
+        {
+            "officeName": "Pedda Koduru B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.147749,
+            "longitude": 78.887996
+        },
+        {
+            "officeName": "Kodurkurd S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.157142,
+            "longitude": 78.898883
+        },
+        {
+            "officeName": "Jakkapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.241068,
+            "longitude": 78.82778
+        }
+    ]
+}

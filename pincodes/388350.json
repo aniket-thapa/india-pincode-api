@@ -1,0 +1,26 @@
+{
+    "state": "GUJARAT",
+    "district": "ANAND",
+    "offices": [
+        {
+            "officeName": "Khadol BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Anand Division",
+            "latitude": 22.448,
+            "longitude": 72.9977
+        },
+        {
+            "officeName": "Napad SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Anand Division",
+            "latitude": 22.4853,
+            "longitude": 72.963901
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "NANDED",
+    "offices": [
+        {
+            "officeName": "Karimabad Nanded S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Nanded Division",
+            "latitude": 19.8402504,
+            "longitude": 77.19356412
+        },
+        {
+            "officeName": "Chauphala S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Nanded Division",
+            "latitude": 19.145665,
+            "longitude": 77.330183
+        },
+        {
+            "officeName": "Itwara Nanded S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Nanded Division",
+            "latitude": 19.144468,
+            "longitude": 77.326358
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "WEST BENGAL",
+    "district": "MURSHIDABAD",
+    "offices": [
+        {
+            "officeName": "Khiddirpore SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "South Kolkata Division",
+            "latitude": 22.5388888,
+            "longitude": 88.3190555
+        },
+        {
+            "officeName": "Mansatala SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "South Kolkata Division",
+            "latitude": 22.5395277,
+            "longitude": 88.3268888
+        },
+        {
+            "officeName": "Raja J.N.Market S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "South Kolkata Division",
+            "latitude": 22.54633333,
+            "longitude": 88.322
+        },
+        {
+            "officeName": "Watgunge SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "South Kolkata Division",
+            "latitude": 22.5419444,
+            "longitude": 88.3264722
+        }
+    ]
+}

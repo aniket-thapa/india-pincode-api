@@ -1,0 +1,46 @@
+{
+    "state": "KARNATAKA",
+    "district": "KODAGU",
+    "offices": [
+        {
+            "officeName": "Badaga B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Kodagu Division",
+            "latitude": 12.0045602,
+            "longitude": 76.0044751
+        },
+        {
+            "officeName": "Kurchi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Kodagu Division",
+            "latitude": 11.9721465,
+            "longitude": 75.9877673
+        },
+        {
+            "officeName": "Srimangala S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Kodagu Division",
+            "latitude": 12.02072222,
+            "longitude": 75.98858333
+        },
+        {
+            "officeName": "Nalkeri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Kodagu Division",
+            "latitude": 12.0397507,
+            "longitude": 76.018208
+        }
+    ]
+}

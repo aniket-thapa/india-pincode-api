@@ -1,0 +1,56 @@
+{
+    "state": "GUJARAT",
+    "district": "SURAT",
+    "offices": [
+        {
+            "officeName": "Harsani BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Surat Division",
+            "latitude": 21.481259,
+            "longitude": 73.179212
+        },
+        {
+            "officeName": "Bhilvada BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Surat Division",
+            "latitude": 21.487487,
+            "longitude": 73.211658
+        },
+        {
+            "officeName": "Shah BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Surat Division",
+            "latitude": 21.276011,
+            "longitude": 72.683853
+        },
+        {
+            "officeName": "Mosali SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Surat Division",
+            "latitude": 21.1984722,
+            "longitude": 72.8342778
+        },
+        {
+            "officeName": "Vasravi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Surat Division",
+            "latitude": 21.42647,
+            "longitude": 73.165938
+        }
+    ]
+}

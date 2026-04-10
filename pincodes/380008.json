@@ -1,0 +1,56 @@
+{
+    "state": "GUJARAT",
+    "district": "AHMADABAD",
+    "offices": [
+        {
+            "officeName": "Maninagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Ahmedabad City Division",
+            "latitude": 22.998855,
+            "longitude": 72.601144
+        },
+        {
+            "officeName": "Jawahar Chowk SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Ahmedabad City Division",
+            "latitude": 22.99508,
+            "longitude": 72.603594
+        },
+        {
+            "officeName": "Khokhara Mehmadabad SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Ahmedabad City Division",
+            "latitude": 23.001658,
+            "longitude": 72.616878
+        },
+        {
+            "officeName": "Daxini Society SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Ahmedabad City Division",
+            "latitude": 22.991151,
+            "longitude": 72.614369
+        },
+        {
+            "officeName": "S A Mills SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Ahmedabad City Division",
+            "latitude": 23.002886,
+            "longitude": 72.619061
+        }
+    ]
+}

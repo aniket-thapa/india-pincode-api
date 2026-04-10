@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Eluru",
+    "offices": [
+        {
+            "officeName": "Eluru R.S S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Eluru Division",
+            "latitude": 16.7146389,
+            "longitude": 81.1127778
+        },
+        {
+            "officeName": "Tangellamudi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Eluru Division",
+            "latitude": 16.7220833,
+            "longitude": 81.1052222
+        },
+        {
+            "officeName": "Beedi Colony S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Eluru Division",
+            "latitude": 16.737828,
+            "longitude": 81.10241
+        }
+    ]
+}

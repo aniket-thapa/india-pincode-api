@@ -1,0 +1,36 @@
+{
+    "state": "ASSAM",
+    "district": "JORHAT",
+    "offices": [
+        {
+            "officeName": "Itakhuli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Sibsagar Division",
+            "latitude": 26.44441,
+            "longitude": 94.1502
+        },
+        {
+            "officeName": "Hatigarh B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Sibsagar Division",
+            "latitude": 26.44441,
+            "longitude": 94.1502
+        },
+        {
+            "officeName": "Jorhat Engg College S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Sibsagar Division",
+            "latitude": 26.44441,
+            "longitude": 94.1502
+        }
+    ]
+}

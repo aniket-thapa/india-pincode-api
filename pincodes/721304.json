@@ -1,0 +1,46 @@
+{
+    "state": "WEST BENGAL",
+    "district": "MEDINIPUR WEST",
+    "offices": [
+        {
+            "officeName": "Dharenda BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Midnapore Division",
+            "latitude": 22.3377,
+            "longitude": 87.2693
+        },
+        {
+            "officeName": "Nimpura SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Midnapore Division",
+            "latitude": 22.3379167,
+            "longitude": 87.2790278
+        },
+        {
+            "officeName": "Hariatara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Midnapore Division",
+            "latitude": 22.3377,
+            "longitude": 87.2693
+        },
+        {
+            "officeName": "Dhekia SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Midnapore Division",
+            "latitude": 23.6530083,
+            "longitude": 88.2227972
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "ODISHA",
+    "district": "KENDRAPARA",
+    "offices": [
+        {
+            "officeName": "Kendrapara H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "KENDRAPARA DIVISION",
+            "latitude": 20.50437856,
+            "longitude": 86.41902155
+        },
+        {
+            "officeName": "Keshpur Bazar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "KENDRAPARA DIVISION",
+            "latitude": 20.51755,
+            "longitude": 86.3876
+        },
+        {
+            "officeName": "Kendrapara College S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "KENDRAPARA DIVISION",
+            "latitude": 20.51755,
+            "longitude": 86.3876
+        },
+        {
+            "officeName": "Tinimuhani S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "KENDRAPARA DIVISION",
+            "latitude": 20.51755,
+            "longitude": 86.3876
+        }
+    ]
+}

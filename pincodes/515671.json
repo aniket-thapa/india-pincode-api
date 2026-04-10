@@ -1,0 +1,26 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "ANANTAPUR",
+    "offices": [
+        {
+            "officeName": "Dharmavaram Bazar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Hindupur Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Dharmavaram H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Hindupur Division",
+            "latitude": 14.41236111,
+            "longitude": 77.72305556
+        }
+    ]
+}

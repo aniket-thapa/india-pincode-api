@@ -1,0 +1,46 @@
+{
+    "state": "GUJARAT",
+    "district": "RAJKOT",
+    "offices": [
+        {
+            "officeName": "Rajkot Bhomeswar NDT SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Rajkot Division",
+            "latitude": 22.3135,
+            "longitude": 70.7881666
+        },
+        {
+            "officeName": "SRPF GrXIII  Ghanteshwar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Rajkot Division",
+            "latitude": 22.3419421,
+            "longitude": 70.7243734
+        },
+        {
+            "officeName": "Rajkot Madhapar DSO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Rajkot Division",
+            "latitude": 22.3135,
+            "longitude": 70.7881667
+        },
+        {
+            "officeName": "Para  Pipaliya BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Rajkot Division",
+            "latitude": 22.3569496,
+            "longitude": 70.7377804
+        }
+    ]
+}

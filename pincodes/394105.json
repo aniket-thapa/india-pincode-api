@@ -1,0 +1,26 @@
+{
+    "state": "GUJARAT",
+    "district": "SURAT",
+    "offices": [
+        {
+            "officeName": "Utran BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Surat Division",
+            "latitude": 21.2305298,
+            "longitude": 72.86389
+        },
+        {
+            "officeName": "Utran Power House SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Surat Division",
+            "latitude": 21.1984722,
+            "longitude": 72.8342778
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "RAE BARELI",
+    "offices": [
+        {
+            "officeName": "Purepandey SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Rae Bareilly Division",
+            "latitude": 26.123,
+            "longitude": 80.8423333
+        },
+        {
+            "officeName": "Dudhwan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Rae Bareilly Division",
+            "latitude": 30.76,
+            "longitude": 76.7
+        },
+        {
+            "officeName": "Tejgaon BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Rae Bareilly Division",
+            "latitude": 23.75,
+            "longitude": 90.39
+        },
+        {
+            "officeName": "Jhampur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Rae Bareilly Division",
+            "latitude": 30.76,
+            "longitude": 76.7
+        },
+        {
+            "officeName": "Malkegaon BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Rae Bareilly Division",
+            "latitude": 20.55,
+            "longitude": 74.51
+        },
+        {
+            "officeName": "Raipur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Rae Bareilly Division",
+            "latitude": 21.25,
+            "longitude": 81.62
+        }
+    ]
+}

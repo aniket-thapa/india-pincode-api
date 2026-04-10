@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "AMRAVATI",
+    "offices": [
+        {
+            "officeName": "Chhota Bazar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Amaravati Division",
+            "latitude": 21.2980833,
+            "longitude": 77.5161389
+        },
+        {
+            "officeName": "Paratwada H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Amaravati Division",
+            "latitude": 21.303488932135824,
+            "longitude": 77.51486860225016
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "GUJARAT",
+    "district": "AHMADABAD",
+    "offices": [
+        {
+            "officeName": "Jagatpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Ahmedabad City Division",
+            "latitude": 23.111883,
+            "longitude": 72.545069
+        },
+        {
+            "officeName": "Kali BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Ahmedabad City Division",
+            "latitude": 23.09422,
+            "longitude": 72.57487
+        },
+        {
+            "officeName": "Tragad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Ahmedabad City Division",
+            "latitude": 23.12918,
+            "longitude": 72.5586
+        },
+        {
+            "officeName": "New Ranip",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Ahmedabad City Division",
+            "latitude": 23.0943538735,
+            "longitude": 72.566752231
+        },
+        {
+            "officeName": "Digvijaynagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Ahmedabad City Division",
+            "latitude": 23.11254,
+            "longitude": 72.56382
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "state": "RAJASTHAN",
+    "district": "BHARATPUR",
+    "offices": [
+        {
+            "officeName": "Dana Khedli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dholpur Division",
+            "latitude": 26.945638,
+            "longitude": 77.53026
+        },
+        {
+            "officeName": "Jatmasi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dholpur Division",
+            "latitude": 26.971432,
+            "longitude": 77.519574
+        },
+        {
+            "officeName": "Banshi Paharpur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dholpur Division",
+            "latitude": 26.5658611,
+            "longitude": 77.4585556
+        },
+        {
+            "officeName": "Sirrond BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dholpur Division",
+            "latitude": 26.931712,
+            "longitude": 77.458076
+        },
+        {
+            "officeName": "Jotroli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dholpur Division",
+            "latitude": 26.974874,
+            "longitude": 77.496314
+        },
+        {
+            "officeName": "Mahalpur Choora BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dholpur Division",
+            "latitude": 26.948787,
+            "longitude": 77.488332
+        }
+    ]
+}

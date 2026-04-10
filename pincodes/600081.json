@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "CHENNAI",
+    "offices": [
+        {
+            "officeName": "Tondiarpet Bazaar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City North Division",
+            "latitude": 13.1380835,
+            "longitude": 80.2946712
+        },
+        {
+            "officeName": "Tondiarpet S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City North Division",
+            "latitude": 13.142477,
+            "longitude": 80.296466
+        },
+        {
+            "officeName": "Tondiarpet West S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City North Division",
+            "latitude": 13.129938,
+            "longitude": 80.279685
+        }
+    ]
+}

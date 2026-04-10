@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "KOLKATA",
+    "offices": [
+        {
+            "officeName": "Hindustan Building SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata Central Division",
+            "latitude": 22.5663889,
+            "longitude": 88.3538889
+        },
+        {
+            "officeName": "Princep Street SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata Central Division",
+            "latitude": 22.5479444,
+            "longitude": 88.3580556
+        },
+        {
+            "officeName": "Sooterkin Street SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata Central Division",
+            "latitude": 22.5661944,
+            "longitude": 88.3545556
+        }
+    ]
+}

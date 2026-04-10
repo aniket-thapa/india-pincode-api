@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "KOZHIKODE",
+    "offices": [
+        {
+            "officeName": "Nanminda SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Calicut Division",
+            "latitude": 11.4204659,
+            "longitude": 75.8315301
+        },
+        {
+            "officeName": "Pavandur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Calicut Division",
+            "latitude": 11.37,
+            "longitude": 75.82
+        },
+        {
+            "officeName": "Kakkur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Calicut Division",
+            "latitude": 11.39,
+            "longitude": 75.84
+        }
+    ]
+}

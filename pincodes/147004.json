@@ -1,0 +1,66 @@
+{
+    "state": "PUNJAB",
+    "district": "PATIALA",
+    "offices": [
+        {
+            "officeName": "Govt Printing Press SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patiala Division",
+            "latitude": 30.3539,
+            "longitude": 76.401934
+        },
+        {
+            "officeName": "Mullepur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patiala Division",
+            "latitude": 30.84,
+            "longitude": 75.67
+        },
+        {
+            "officeName": "TIET SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patiala Division",
+            "latitude": 30.3528611,
+            "longitude": 76.3703889
+        },
+        {
+            "officeName": "JAIL ROAD SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patiala Division",
+            "latitude": 30.3731,
+            "longitude": 76.3716
+        },
+        {
+            "officeName": "Tripri SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patiala Division",
+            "latitude": 30.3588889,
+            "longitude": 76.3919444
+        },
+        {
+            "officeName": "Nandpur Kesho BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patiala Division",
+            "latitude": 30.45,
+            "longitude": 76.43
+        }
+    ]
+}

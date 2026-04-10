@@ -1,0 +1,56 @@
+{
+    "state": "KARNATAKA",
+    "district": "RAMANAGARA",
+    "offices": [
+        {
+            "officeName": "Mayaganahalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Channapatna Division",
+            "latitude": 12.76,
+            "longitude": 77.35
+        },
+        {
+            "officeName": "Hagalahalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Channapatna Division",
+            "latitude": 12.84,
+            "longitude": 77.33
+        },
+        {
+            "officeName": "Manchanabele B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Channapatna Division",
+            "latitude": 12.87,
+            "longitude": 77.34
+        },
+        {
+            "officeName": "Sugganahalli S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Channapatna Division",
+            "latitude": 13.1563889,
+            "longitude": 77.1294444
+        },
+        {
+            "officeName": "Harisandra B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Channapatna Division",
+            "latitude": 12.8,
+            "longitude": 77.32
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "state": "DELHI",
+    "district": "SHAHDARA",
+    "offices": [
+        {
+            "officeName": "Gandhi Nagar Bazar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.6606111,
+            "longitude": 77.2664167
+        },
+        {
+            "officeName": "Kailash Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.6646111,
+            "longitude": 77.2593611
+        },
+        {
+            "officeName": "Shastri Nagar SO East Delhi",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.69225,
+            "longitude": 77.2742222
+        },
+        {
+            "officeName": "Gandhi Nagar SO East Delhi",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.6921111,
+            "longitude": 77.3042222
+        },
+        {
+            "officeName": "Geeta Colony SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.653,
+            "longitude": 77.2741667
+        },
+        {
+            "officeName": "Rajgarh Colony SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.65925,
+            "longitude": 77.2742222
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "RAJASTHAN",
+    "district": "PALI",
+    "offices": [
+        {
+            "officeName": "Falna Village B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Pali Division",
+            "latitude": 25.2314626,
+            "longitude": 73.2381886
+        },
+        {
+            "officeName": "Falna  I. E. S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Pali Division",
+            "latitude": 25.23145,
+            "longitude": 73.238202
+        },
+        {
+            "officeName": "Falna S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Pali Division",
+            "latitude": 25.2377778,
+            "longitude": 73.2363889
+        },
+        {
+            "officeName": "Deotra B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Pali Division",
+            "latitude": 25.195906,
+            "longitude": 73.291071
+        },
+        {
+            "officeName": "Dhani B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Pali Division",
+            "latitude": 25.2711836,
+            "longitude": 73.2956959
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "CHHATTISGARH",
+    "district": "RAIPUR",
+    "offices": [
+        {
+            "officeName": "Pandri SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Raipur Division",
+            "latitude": 21.2551944,
+            "longitude": 81.6523889
+        },
+        {
+            "officeName": "Shanker Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Raipur Division",
+            "latitude": 21.2539444,
+            "longitude": 81.6617778
+        }
+    ]
+}

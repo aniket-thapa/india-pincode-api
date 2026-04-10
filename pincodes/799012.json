@@ -1,0 +1,36 @@
+{
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+        {
+            "officeName": "Durgabari",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - I Region",
+            "divisionName": "Agartala Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Salbagan S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - I Region",
+            "divisionName": "Agartala Division",
+            "latitude": 23.888027,
+            "longitude": 91.292465
+        },
+        {
+            "officeName": "Gandhigram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - I Region",
+            "divisionName": "Agartala Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

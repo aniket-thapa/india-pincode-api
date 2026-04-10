@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI SUBURBAN",
+    "offices": [
+        {
+            "officeName": "Andheri H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North Division",
+            "latitude": 19.1238889,
+            "longitude": 72.8307778
+        },
+        {
+            "officeName": "Azad Nagar S.O (Mumbai)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North Division",
+            "latitude": 19.1283268200551,
+            "longitude": 72.8326252913119
+        }
+    ]
+}

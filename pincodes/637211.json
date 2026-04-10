@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "NAMAKKAL",
+    "offices": [
+        {
+            "officeName": "Tiruchengodu South S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Namakkal Division",
+            "latitude": 11.3690278,
+            "longitude": 77.8891667
+        },
+        {
+            "officeName": "Tiruchengodu H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Namakkal Division",
+            "latitude": 11.37975,
+            "longitude": 77.8855278
+        }
+    ]
+}

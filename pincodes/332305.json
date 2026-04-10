@@ -1,0 +1,46 @@
+{
+    "state": "RAJASTHAN",
+    "district": "SIKAR",
+    "offices": [
+        {
+            "officeName": "Balod Bhakaran BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sikar Division",
+            "latitude": 28.0193327,
+            "longitude": 75.0790214
+        },
+        {
+            "officeName": "Balod Chhoti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sikar Division",
+            "latitude": 28.039703,
+            "longitude": 75.0552739
+        },
+        {
+            "officeName": "Dabri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sikar Division",
+            "latitude": 28.0474054,
+            "longitude": 75.0990746
+        },
+        {
+            "officeName": "Sadinsar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sikar Division",
+            "latitude": 27.7935,
+            "longitude": 75.7551667
+        }
+    ]
+}

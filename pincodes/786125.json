@@ -1,0 +1,56 @@
+{
+    "state": "ASSAM",
+    "district": "TINSUKIA",
+    "offices": [
+        {
+            "officeName": "Senairam Bazar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Tinsukia Division",
+            "latitude": 27.4883333,
+            "longitude": 95.3629722
+        },
+        {
+            "officeName": "Tinsukia H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Tinsukia Division",
+            "latitude": 27.492191,
+            "longitude": 95.346775
+        },
+        {
+            "officeName": "Durgabari S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Tinsukia Division",
+            "latitude": 27.2409,
+            "longitude": 95.3829
+        },
+        {
+            "officeName": "Parbotia S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Tinsukia Division",
+            "latitude": 27.294,
+            "longitude": 95.221
+        },
+        {
+            "officeName": "Prakash Bazar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Tinsukia Division",
+            "latitude": 27.2915,
+            "longitude": 95.212
+        }
+    ]
+}

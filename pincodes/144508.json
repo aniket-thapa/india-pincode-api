@@ -1,0 +1,46 @@
+{
+    "state": "PUNJAB",
+    "district": "Shahid Bhagat Singh Nagar",
+    "offices": [
+        {
+            "officeName": "Malpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Jalandhar Division",
+            "latitude": 31.300299,
+            "longitude": 75.630428
+        },
+        {
+            "officeName": "Bains BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Jalandhar Division",
+            "latitude": 31.300299,
+            "longitude": 75.630428
+        },
+        {
+            "officeName": "Naura SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Jalandhar Division",
+            "latitude": 31.19011489,
+            "longitude": 76.0491833
+        },
+        {
+            "officeName": "Kariha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Jalandhar Division",
+            "latitude": 31.300299,
+            "longitude": 75.630428
+        }
+    ]
+}

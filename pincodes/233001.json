@@ -1,0 +1,66 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "GHAZIPUR",
+    "offices": [
+        {
+            "officeName": "Ghazipur City SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Ghazipur Division",
+            "latitude": 25.5825833,
+            "longitude": 83.5875
+        },
+        {
+            "officeName": "DEGREE COLLEGE SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Ghazipur Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Ghazipur RS SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Ghazipur Division",
+            "latitude": 25.5836944,
+            "longitude": 83.5716944
+        },
+        {
+            "officeName": "Ghazipur HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Ghazipur Division",
+            "latitude": 25.5765,
+            "longitude": 83.57319444
+        },
+        {
+            "officeName": "Markeenganj SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Ghazipur Division",
+            "latitude": 25.5835833,
+            "longitude": 83.5920833
+        },
+        {
+            "officeName": "Subhashnagar SO Ghazipur",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Ghazipur Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

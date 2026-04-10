@@ -1,0 +1,46 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "PALGHAR",
+    "offices": [
+        {
+            "officeName": "Gass B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Palghar Division",
+            "latitude": 19.4035935,
+            "longitude": 72.7968932
+        },
+        {
+            "officeName": "Nala B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Palghar Division",
+            "latitude": 19.4178206,
+            "longitude": 72.8108543
+        },
+        {
+            "officeName": "Umrale B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Palghar Division",
+            "latitude": 19.423721,
+            "longitude": 72.7968932
+        },
+        {
+            "officeName": "Sopara S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Palghar Division",
+            "latitude": 19.4176389,
+            "longitude": 72.7989167
+        }
+    ]
+}

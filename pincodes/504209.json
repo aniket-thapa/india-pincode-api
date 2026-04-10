@@ -1,0 +1,66 @@
+{
+    "state": "TELANGANA",
+    "district": "MANCHERIAL",
+    "offices": [
+        {
+            "officeName": "Vempalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Adilabad Division",
+            "latitude": 18.8730283,
+            "longitude": 79.4118699
+        },
+        {
+            "officeName": "Gadapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Adilabad Division",
+            "latitude": 18.9510525,
+            "longitude": 79.3650356
+        },
+        {
+            "officeName": "Timmapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Adilabad Division",
+            "latitude": 18.893166,
+            "longitude": 79.4404369
+        },
+        {
+            "officeName": "Mancherial Cement Works S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Adilabad Division",
+            "latitude": 18.897649,
+            "longitude": 79.447076
+        },
+        {
+            "officeName": "Mulkala B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Adilabad Division",
+            "latitude": 18.8697833,
+            "longitude": 79.3837949
+        },
+        {
+            "officeName": "Patha Mancherial B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Adilabad Division",
+            "latitude": 18.872924,
+            "longitude": 79.445187
+        }
+    ]
+}

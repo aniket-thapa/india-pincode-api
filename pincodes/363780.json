@@ -1,0 +1,36 @@
+{
+    "state": "GUJARAT",
+    "district": "SURENDRANAGAR",
+    "offices": [
+        {
+            "officeName": "Adariyana SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Surendranagar Division",
+            "latitude": 22.7248611,
+            "longitude": 71.6273056
+        },
+        {
+            "officeName": "Surel BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Surendranagar Division",
+            "latitude": 23.4789,
+            "longitude": 71.6205
+        },
+        {
+            "officeName": "Zadiyana BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Surendranagar Division",
+            "latitude": 23.4397,
+            "longitude": 71.7363
+        }
+    ]
+}

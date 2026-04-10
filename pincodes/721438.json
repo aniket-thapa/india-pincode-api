@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "MEDINIPUR EAST",
+    "offices": [
+        {
+            "officeName": "Ghatua Purusottampur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Contai Division",
+            "latitude": 21.955279,
+            "longitude": 87.560406
+        },
+        {
+            "officeName": "Panchetgarh SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Contai Division",
+            "latitude": 21.9552786,
+            "longitude": 87.5604062
+        },
+        {
+            "officeName": "Chandanpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Contai Division",
+            "latitude": 21.973062,
+            "longitude": 87.566775
+        }
+    ]
+}

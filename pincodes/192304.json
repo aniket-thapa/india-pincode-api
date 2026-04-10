@@ -1,0 +1,36 @@
+{
+    "state": "JAMMU AND KASHMIR",
+    "district": "PULWAMA",
+    "offices": [
+        {
+            "officeName": "Ratnipora BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 33.920852,
+            "longitude": 74.943838
+        },
+        {
+            "officeName": "Kakapora",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 33.9473333,
+            "longitude": 74.9273333
+        },
+        {
+            "officeName": "Sumboora BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 33.963659,
+            "longitude": 74.93537
+        }
+    ]
+}

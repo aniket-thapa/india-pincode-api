@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "AMBEDKAR NAGAR",
+    "offices": [
+        {
+            "officeName": "UPSS Mill SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Faizabad Division",
+            "latitude": 26.468395,
+            "longitude": 82.691543
+        },
+        {
+            "officeName": "Lorpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Faizabad Division",
+            "latitude": 26.388226,
+            "longitude": 82.55916
+        },
+        {
+            "officeName": "Naugaon BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Faizabad Division",
+            "latitude": 26.22136,
+            "longitude": 82.595659
+        },
+        {
+            "officeName": "Sijhauli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Faizabad Division",
+            "latitude": 26.468395,
+            "longitude": 82.691543
+        }
+    ]
+}

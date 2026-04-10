@@ -1,0 +1,26 @@
+{
+    "state": "JHARKHAND",
+    "district": "BOKARO",
+    "offices": [
+        {
+            "officeName": "Chalkari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Giridih Division",
+            "latitude": 24.45,
+            "longitude": 85.56
+        },
+        {
+            "officeName": "Jaridih Bazar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Giridih Division",
+            "latitude": 23.764,
+            "longitude": 85.94735
+        }
+    ]
+}

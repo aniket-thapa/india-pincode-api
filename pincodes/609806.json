@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "MAYILADUTHURAI",
+    "offices": [
+        {
+            "officeName": "Vanathirajapuram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Kumbakonam Division",
+            "latitude": 11.09,
+            "longitude": 79.59
+        },
+        {
+            "officeName": "Malliyam S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Kumbakonam Division",
+            "latitude": 11.080965,
+            "longitude": 79.597198
+        },
+        {
+            "officeName": "Moovalur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Kumbakonam Division",
+            "latitude": 11.09,
+            "longitude": 79.61
+        },
+        {
+            "officeName": "Maraiyur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Kumbakonam Division",
+            "latitude": 11.07,
+            "longitude": 79.62
+        }
+    ]
+}

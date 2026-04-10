@@ -1,0 +1,56 @@
+{
+    "state": "RAJASTHAN",
+    "district": "ALWAR",
+    "offices": [
+        {
+            "officeName": "Kutina S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Alwar Division",
+            "latitude": 28.0716111,
+            "longitude": 76.4290278
+        },
+        {
+            "officeName": "Santo B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Alwar Division",
+            "latitude": 28.123574,
+            "longitude": 76.476552
+        },
+        {
+            "officeName": "Nagli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Alwar Division",
+            "latitude": 28.998148,
+            "longitude": 79.512566
+        },
+        {
+            "officeName": "Raisarana B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Alwar Division",
+            "latitude": 28.106621,
+            "longitude": 76.450524
+        },
+        {
+            "officeName": "Siryani B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Alwar Division",
+            "latitude": 28.043126,
+            "longitude": 76.434529
+        }
+    ]
+}

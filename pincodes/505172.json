@@ -1,0 +1,26 @@
+{
+    "state": "TELANGANA",
+    "district": "PEDDAPALLI",
+    "offices": [
+        {
+            "officeName": "Peddapalli H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Peddapalli Division",
+            "latitude": 18.6115954,
+            "longitude": 79.3733967
+        },
+        {
+            "officeName": "Peddapalli R.S S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Peddapalli Division",
+            "latitude": 18.6159722,
+            "longitude": 79.3861944
+        }
+    ]
+}

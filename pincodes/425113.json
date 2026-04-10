@@ -1,0 +1,56 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "JALGAON",
+    "offices": [
+        {
+            "officeName": "Bholane B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Jalgaon Division",
+            "latitude": 20.911621,
+            "longitude": 74.971975
+        },
+        {
+            "officeName": "Shevage B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Jalgaon Division",
+            "latitude": 20.904998,
+            "longitude": 75.079193
+        },
+        {
+            "officeName": "Bahadarpur S.O (Jalgaon)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Jalgaon Division",
+            "latitude": 20.9146374,
+            "longitude": 75.0416633
+        },
+        {
+            "officeName": "Jirali B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Jalgaon Division",
+            "latitude": 20.93899,
+            "longitude": 75.005098
+        },
+        {
+            "officeName": "Bhilali B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Jalgaon Division",
+            "latitude": 20.956797,
+            "longitude": 75.05465
+        }
+    ]
+}

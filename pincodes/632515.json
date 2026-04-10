@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "VELLORE",
+    "offices": [
+        {
+            "officeName": "Gugainallore BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Arakkonam Division",
+            "latitude": 13.00585,
+            "longitude": 79.20795
+        },
+        {
+            "officeName": "Seekarajapuram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Arakkonam Division",
+            "latitude": 13.00585,
+            "longitude": 79.20795
+        },
+        {
+            "officeName": "Tempalle BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Arakkonam Division",
+            "latitude": 13.00585,
+            "longitude": 79.20795
+        },
+        {
+            "officeName": "Tiruvalam SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Arakkonam Division",
+            "latitude": 13.00585,
+            "longitude": 79.20795
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "ODISHA",
+    "district": "KHORDHA",
+    "offices": [
+        {
+            "officeName": "Pokhariput S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhubaneswar Division",
+            "latitude": 20.2381583,
+            "longitude": 85.8067416
+        },
+        {
+            "officeName": "Airport S.O (Khorda)",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhubaneswar Division",
+            "latitude": 20.2381351,
+            "longitude": 85.8068555
+        },
+        {
+            "officeName": "Aerodrome Area S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhubaneswar Division",
+            "latitude": 20.5041666,
+            "longitude": 85.97
+        }
+    ]
+}

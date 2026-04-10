@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "KASARAGOD",
+    "offices": [
+        {
+            "officeName": "Trikarpur South BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Kasaragod Division",
+            "latitude": 12.1417813,
+            "longitude": 75.1720487
+        },
+        {
+            "officeName": "Udumbanthala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Kasaragod Division",
+            "latitude": 12.1072537,
+            "longitude": 75.1764261
+        },
+        {
+            "officeName": "Elambachi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Kasaragod Division",
+            "latitude": 12.1197988,
+            "longitude": 75.18267058
+        }
+    ]
+}

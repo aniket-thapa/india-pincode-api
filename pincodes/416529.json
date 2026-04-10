@@ -1,0 +1,46 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "SINDHUDURG",
+    "offices": [
+        {
+            "officeName": "Matond B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "SINDHUDURG DIVISION",
+            "latitude": 15.8375729,
+            "longitude": 73.7309111
+        },
+        {
+            "officeName": "Hodavade B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "SINDHUDURG DIVISION",
+            "latitude": 15.8881893,
+            "longitude": 73.6976003
+        },
+        {
+            "officeName": "Pendhryachiwadi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "SINDHUDURG DIVISION",
+            "latitude": 15.8433544,
+            "longitude": 73.7260654
+        },
+        {
+            "officeName": "Talavade S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "SINDHUDURG DIVISION",
+            "latitude": 15.8719167,
+            "longitude": 73.736
+        }
+    ]
+}

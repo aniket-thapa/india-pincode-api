@@ -1,0 +1,76 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "TEHRI GARHWAL",
+    "offices": [
+        {
+            "officeName": "Jaulangi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Tehri Division",
+            "latitude": 30.4100571,
+            "longitude": 78.4155033
+        },
+        {
+            "officeName": "Kafal Pani BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Tehri Division",
+            "latitude": 30.3800295,
+            "longitude": 78.4682264
+        },
+        {
+            "officeName": "VKPuram SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Tehri Division",
+            "latitude": 30.4046111,
+            "longitude": 78.3603333
+        },
+        {
+            "officeName": "Dharkotudaikot BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Tehri Division",
+            "latitude": 30.3801284,
+            "longitude": 78.4682364
+        },
+        {
+            "officeName": "Jaakhchoura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Tehri Division",
+            "latitude": 30.3800354,
+            "longitude": 78.468368
+        },
+        {
+            "officeName": "Pali BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Tehri Division",
+            "latitude": 30.3800284,
+            "longitude": 78.4682262
+        },
+        {
+            "officeName": "Nail BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Tehri Division",
+            "latitude": 30.3800294,
+            "longitude": 78.4682263
+        }
+    ]
+}

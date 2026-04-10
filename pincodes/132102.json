@@ -1,0 +1,46 @@
+{
+    "state": "HARYANA",
+    "district": "PANIPAT",
+    "offices": [
+        {
+            "officeName": "Gandhi Samarak Nidhi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Karnal Division",
+            "latitude": 33.33,
+            "longitude": 25.36
+        },
+        {
+            "officeName": "Patti Kalyana S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Karnal Division",
+            "latitude": 29.2116944,
+            "longitude": 77.2351667
+        },
+        {
+            "officeName": "Bhodwal Majri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Karnal Division",
+            "latitude": 33.36,
+            "longitude": 29.88
+        },
+        {
+            "officeName": "Mahoti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Karnal Division",
+            "latitude": 33.66,
+            "longitude": 33.99
+        }
+    ]
+}

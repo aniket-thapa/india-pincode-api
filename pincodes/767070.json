@@ -1,0 +1,26 @@
+{
+    "state": "ODISHA",
+    "district": "BALANGIR",
+    "offices": [
+        {
+            "officeName": "Kamarlaga B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Balangir Division",
+            "latitude": 20.4227266,
+            "longitude": 83.3171566
+        },
+        {
+            "officeName": "Of Badmal S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Balangir Division",
+            "latitude": 20.381142,
+            "longitude": 83.282943
+        }
+    ]
+}

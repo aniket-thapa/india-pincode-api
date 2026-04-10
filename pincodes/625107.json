@@ -1,0 +1,56 @@
+{
+    "state": "TAMIL NADU",
+    "district": "MADURAI",
+    "offices": [
+        {
+            "officeName": "Uthangudi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Madurai Division",
+            "latitude": 9.951356,
+            "longitude": 78.1688
+        },
+        {
+            "officeName": "Othakadai SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Madurai Division",
+            "latitude": 9.943568,
+            "longitude": 78.155196
+        },
+        {
+            "officeName": "Puduthamaraipatti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Madurai Division",
+            "latitude": 9.0950259,
+            "longitude": 78.222693
+        },
+        {
+            "officeName": "Rajakkur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Madurai Division",
+            "latitude": 9.927083,
+            "longitude": 78.239037
+        },
+        {
+            "officeName": "Tirumoghur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Madurai Division",
+            "latitude": 9.949703,
+            "longitude": 78.207025
+        }
+    ]
+}

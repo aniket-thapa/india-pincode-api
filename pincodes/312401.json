@@ -1,0 +1,46 @@
+{
+    "state": "RAJASTHAN",
+    "district": "CHITTORGARH",
+    "offices": [
+        {
+            "officeName": "Mahuda B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Chittorgarh Division",
+            "latitude": 24.354579,
+            "longitude": 74.365617
+        },
+        {
+            "officeName": "Kewalpura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Chittorgarh Division",
+            "latitude": 24.312247,
+            "longitude": 74.436442
+        },
+        {
+            "officeName": "Badwal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Chittorgarh Division",
+            "latitude": 24.342421,
+            "longitude": 74.410211
+        },
+        {
+            "officeName": "Bansi S.O (Chittorgarh)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Chittorgarh Division",
+            "latitude": 24.8827778,
+            "longitude": 74.6225
+        }
+    ]
+}

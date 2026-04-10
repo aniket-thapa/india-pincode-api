@@ -1,0 +1,26 @@
+{
+    "state": "ASSAM",
+    "district": "JORHAT",
+    "offices": [
+        {
+            "officeName": "Bongalpukhuri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Sibsagar Division",
+            "latitude": 26.6361,
+            "longitude": 93.6711
+        },
+        {
+            "officeName": "Rajabari S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Sibsagar Division",
+            "latitude": 26.6361,
+            "longitude": 93.6711
+        }
+    ]
+}

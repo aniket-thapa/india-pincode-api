@@ -1,0 +1,26 @@
+{
+    "state": "ODISHA",
+    "district": "ANUGUL",
+    "offices": [
+        {
+            "officeName": "Gadasila B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Dhenkanal Division",
+            "latitude": 21.091666,
+            "longitude": 85.08305556
+        },
+        {
+            "officeName": "Deepasikha S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Dhenkanal Division",
+            "latitude": 20.950999,
+            "longitude": 85.22583
+        }
+    ]
+}

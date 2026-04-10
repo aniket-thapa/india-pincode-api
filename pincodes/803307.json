@@ -1,0 +1,26 @@
+{
+    "state": "BIHAR",
+    "district": "PATNA",
+    "offices": [
+        {
+            "officeName": "Baruane BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "PATNA SAHIB DIVISION",
+            "latitude": 25.334001,
+            "longitude": 85.746067
+        },
+        {
+            "officeName": "Bhadaur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "PATNA SAHIB DIVISION",
+            "latitude": 21.63228,
+            "longitude": 85.89566
+        }
+    ]
+}

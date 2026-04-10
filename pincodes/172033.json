@@ -1,0 +1,36 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "KULLU",
+    "offices": [
+        {
+            "officeName": "Tandi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rampur Bushahr Division",
+            "latitude": 31.34745,
+            "longitude": 77.642
+        },
+        {
+            "officeName": "Nither SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rampur Bushahr Division",
+            "latitude": 31.387228,
+            "longitude": 77.433509
+        },
+        {
+            "officeName": "Durah BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rampur Bushahr Division",
+            "latitude": 31.34745,
+            "longitude": 77.642
+        }
+    ]
+}

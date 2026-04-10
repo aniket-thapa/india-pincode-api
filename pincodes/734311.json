@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "KALIMPONG",
+    "offices": [
+        {
+            "officeName": "Sakyong BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Darjeeling Division",
+            "latitude": 27.0593,
+            "longitude": 88.4694
+        },
+        {
+            "officeName": "Pedong SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Darjeeling Division",
+            "latitude": 27.116849,
+            "longitude": 88.58595
+        },
+        {
+            "officeName": "Kagay Bazar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Darjeeling Division",
+            "latitude": 27.15507,
+            "longitude": 88.64071
+        }
+    ]
+}

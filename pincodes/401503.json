@@ -1,0 +1,46 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "PALGHAR",
+    "offices": [
+        {
+            "officeName": "Varor B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Palghar Division",
+            "latitude": 19.8862591,
+            "longitude": 72.6890255
+        },
+        {
+            "officeName": "Vadhavan B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Palghar Division",
+            "latitude": 19.8862591,
+            "longitude": 72.6890255
+        },
+        {
+            "officeName": "Tanashi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Palghar Division",
+            "latitude": 19.8862591,
+            "longitude": 72.6890255
+        },
+        {
+            "officeName": "Chinchani S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Palghar Division",
+            "latitude": 19.8751667,
+            "longitude": 72.6855833
+        }
+    ]
+}

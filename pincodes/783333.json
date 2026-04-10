@@ -1,0 +1,36 @@
+{
+    "state": "ASSAM",
+    "district": "KOKRAJHAR",
+    "offices": [
+        {
+            "officeName": "Grahampur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 26.351465,
+            "longitude": 89.885592
+        },
+        {
+            "officeName": "Dingdinga S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 26.4036944,
+            "longitude": 90.2721944
+        },
+        {
+            "officeName": "Failaguri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 26.400156,
+            "longitude": 89.877407
+        }
+    ]
+}

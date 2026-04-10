@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "MAYILADUTHURAI",
+    "offices": [
+        {
+            "officeName": "Kattuchery B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Mayiladuthurai Division",
+            "latitude": 11.01,
+            "longitude": 79.82
+        },
+        {
+            "officeName": "Ayappadi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Mayiladuthurai Division",
+            "latitude": 10.7603056,
+            "longitude": 79.8465278
+        }
+    ]
+}

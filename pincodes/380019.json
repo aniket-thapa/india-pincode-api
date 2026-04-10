@@ -1,0 +1,26 @@
+{
+    "state": "GUJARAT",
+    "district": "AHMADABAD",
+    "offices": [
+        {
+            "officeName": "Railway Colony SO Ahmedabad",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Ahmedabad City Division",
+            "latitude": 23.098261,
+            "longitude": 72.580299
+        },
+        {
+            "officeName": "D Cabin SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Ahmedabad City Division",
+            "latitude": 23.104082,
+            "longitude": 72.570112
+        }
+    ]
+}

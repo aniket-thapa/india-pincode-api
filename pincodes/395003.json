@@ -1,0 +1,66 @@
+{
+    "state": "GUJARAT",
+    "district": "SURAT",
+    "offices": [
+        {
+            "officeName": "Surat HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Surat Division",
+            "latitude": 21.1984722,
+            "longitude": 72.8342778
+        },
+        {
+            "officeName": "IBC SURAT",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Surat Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Muglisara SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Surat Division",
+            "latitude": 20.1989722,
+            "longitude": 72.8203611
+        },
+        {
+            "officeName": "Jhampa SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Surat Division",
+            "latitude": 21.1970556,
+            "longitude": 72.8325
+        },
+        {
+            "officeName": "Surat City SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Surat Division",
+            "latitude": 21.1978333,
+            "longitude": 72.8237222
+        },
+        {
+            "officeName": "Surat RS SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Surat Division",
+            "latitude": 21.2046389,
+            "longitude": 72.8390556
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "offices": [
+        {
+            "officeName": "New Prabhadevi Road S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City West Division",
+            "latitude": 19.0105833,
+            "longitude": 72.8285278
+        },
+        {
+            "officeName": "Prabhadevi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City West Division",
+            "latitude": 19.015347,
+            "longitude": 72.836983
+        }
+    ]
+}

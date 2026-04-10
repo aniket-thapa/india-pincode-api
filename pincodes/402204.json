@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "RAIGAD",
+    "offices": [
+        {
+            "officeName": "Akshi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Raigad Division",
+            "latitude": 18.6288807,
+            "longitude": 72.8816377
+        },
+        {
+            "officeName": "Bamangaon BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Raigad Division",
+            "latitude": 18.6398753,
+            "longitude": 72.9078405
+        },
+        {
+            "officeName": "Nagaon SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Raigad Division",
+            "latitude": 18.6166986,
+            "longitude": 72.9019996
+        }
+    ]
+}

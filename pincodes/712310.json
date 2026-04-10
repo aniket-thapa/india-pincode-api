@@ -1,0 +1,26 @@
+{
+    "state": "WEST BENGAL",
+    "district": "HOOGHLY",
+    "offices": [
+        {
+            "officeName": "Chakundi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Hooghly South Division",
+            "latitude": 22.685,
+            "longitude": 88.2988888
+        },
+        {
+            "officeName": "Dankuni Coal Complex SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Hooghly South Division",
+            "latitude": 22.685,
+            "longitude": 88.2988888
+        }
+    ]
+}

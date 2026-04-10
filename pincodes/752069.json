@@ -1,0 +1,36 @@
+{
+    "state": "ODISHA",
+    "district": "NAYAGARH",
+    "offices": [
+        {
+            "officeName": "Nayagarh College S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Nayagarh Division",
+            "latitude": 20.199171,
+            "longitude": 85.097533
+        },
+        {
+            "officeName": "Nayagarh H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Nayagarh Division",
+            "latitude": 20.1271944,
+            "longitude": 85.1091111
+        },
+        {
+            "officeName": "Sinduria S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Nayagarh Division",
+            "latitude": 20.12917,
+            "longitude": 85.097533
+        }
+    ]
+}

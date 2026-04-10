@@ -1,0 +1,56 @@
+{
+    "state": "TAMIL NADU",
+    "district": "Ranipet",
+    "offices": [
+        {
+            "officeName": "Ayarpadi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Arakkonam Division",
+            "latitude": 12.93035,
+            "longitude": 79.51515
+        },
+        {
+            "officeName": "Kalathur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Arakkonam Division",
+            "latitude": 12.93035,
+            "longitude": 79.51515
+        },
+        {
+            "officeName": "Ocheri SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Arakkonam Division",
+            "latitude": 12.9002347,
+            "longitude": 79.5083433
+        },
+        {
+            "officeName": "Sirukarumbur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Arakkonam Division",
+            "latitude": 12.8931895,
+            "longitude": 79.4921827
+        },
+        {
+            "officeName": "Perumbulipakkam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Arakkonam Division",
+            "latitude": 12.93035,
+            "longitude": 79.51515
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "PUNJAB",
+    "district": "S.A.S Nagar",
+    "offices": [
+        {
+            "officeName": "Kubaheri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chandigarh Division",
+            "latitude": 30.9666111,
+            "longitude": 76.3715277
+        },
+        {
+            "officeName": "Khizrabad West SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chandigarh Division",
+            "latitude": 30.8801944,
+            "longitude": 76.6578889
+        }
+    ]
+}

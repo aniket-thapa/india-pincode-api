@@ -1,0 +1,46 @@
+{
+    "state": "RAJASTHAN",
+    "district": "NAGAUR",
+    "offices": [
+        {
+            "officeName": "Lichana B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Nagaur Division",
+            "latitude": 27.1011,
+            "longitude": 74.9486
+        },
+        {
+            "officeName": "Palrinawa B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Nagaur Division",
+            "latitude": 27.04869,
+            "longitude": 74.9148
+        },
+        {
+            "officeName": "Banwaligudha B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Nagaur Division",
+            "latitude": 27.04869,
+            "longitude": 74.9148
+        },
+        {
+            "officeName": "Mithri S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Nagaur Division",
+            "latitude": 25.4500278,
+            "longitude": 72.7001667
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "HARYANA",
+    "district": "PANCHKULA",
+    "offices": [
+        {
+            "officeName": "Devi Nagar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.692,
+            "longitude": 76.8696
+        },
+        {
+            "officeName": "Railly B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.686194,
+            "longitude": 76.839263
+        },
+        {
+            "officeName": "Suketri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.7457402,
+            "longitude": 76.8468634
+        },
+        {
+            "officeName": "Panchkula Sector 8 S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.565659,
+            "longitude": 76.937756
+        }
+    ]
+}

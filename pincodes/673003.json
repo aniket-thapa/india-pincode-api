@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "KOZHIKODE",
+    "offices": [
+        {
+            "officeName": "Kallaikozhikode SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Calicut Division",
+            "latitude": 11.219558,
+            "longitude": 75.795726
+        },
+        {
+            "officeName": "Kannancheri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Calicut Division",
+            "latitude": 11.19,
+            "longitude": 75.82
+        },
+        {
+            "officeName": "Sreerama Krishna Mission BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Calicut Division",
+            "latitude": 11.29,
+            "longitude": 75.79
+        }
+    ]
+}

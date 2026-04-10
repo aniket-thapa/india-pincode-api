@@ -1,0 +1,26 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "KANGRA",
+    "offices": [
+        {
+            "officeName": "Thill SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehra Gopipur Division",
+            "latitude": 31.956497,
+            "longitude": 76.387319
+        },
+        {
+            "officeName": "Barikalan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehra Gopipur Division",
+            "latitude": 31.0512513,
+            "longitude": 76.654266
+        }
+    ]
+}

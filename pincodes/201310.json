@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "GAUTAM BUDDHA NAGAR",
+    "offices": [
+        {
+            "officeName": "Sakipur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Gautam Buddha Nagar Division office",
+            "latitude": 28.501498,
+            "longitude": 77.523246
+        },
+        {
+            "officeName": "Alpha Greater Noida SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Gautam Buddha Nagar Division office",
+            "latitude": 25.46158,
+            "longitude": 74.85687
+        },
+        {
+            "officeName": "Ghori BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Gautam Buddha Nagar Division office",
+            "latitude": 28.479522,
+            "longitude": 77.572063
+        },
+        {
+            "officeName": "Knowledge ParkI SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Gautam Buddha Nagar Division office",
+            "latitude": 28.4746872015621,
+            "longitude": 77.5094461235252
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "SEHORE",
+    "offices": [
+        {
+            "officeName": "Gwali B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Sehore Division",
+            "latitude": 22.951866,
+            "longitude": 76.531482
+        },
+        {
+            "officeName": "Guradiyavarma B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Sehore Division",
+            "latitude": 22.903164,
+            "longitude": 76.508356
+        },
+        {
+            "officeName": "Metwada S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Sehore Division",
+            "latitude": 22.983141,
+            "longitude": 76.485769
+        }
+    ]
+}

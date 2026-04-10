@@ -1,0 +1,26 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "ANANTAPUR",
+    "offices": [
+        {
+            "officeName": "Hindupur Extns S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Hindupur Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Hindupur H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Hindupur Division",
+            "latitude": 13.826869,
+            "longitude": 77.494508
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "JHARKHAND",
+    "district": "BOKARO",
+    "offices": [
+        {
+            "officeName": "Sunday Bazar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Giridih Division",
+            "latitude": 23.766931,
+            "longitude": 85.933366
+        },
+        {
+            "officeName": "Bedkaro BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Giridih Division",
+            "latitude": 24.46,
+            "longitude": 85.56
+        },
+        {
+            "officeName": "Kurpania B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Giridih Division",
+            "latitude": 23.77,
+            "longitude": 85.89
+        }
+    ]
+}

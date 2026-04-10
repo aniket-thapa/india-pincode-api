@@ -1,0 +1,46 @@
+{
+    "state": "PUNJAB",
+    "district": "MOGA",
+    "offices": [
+        {
+            "officeName": "Kokri Wehniwal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Ferozpur Division",
+            "latitude": 30.92545,
+            "longitude": 75.32885
+        },
+        {
+            "officeName": "Datta BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Ferozpur Division",
+            "latitude": 30.92545,
+            "longitude": 75.32885
+        },
+        {
+            "officeName": "Bhinder SO Firozpur",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Ferozpur Division",
+            "latitude": 30.889704,
+            "longitude": 75.285454
+        },
+        {
+            "officeName": "Talwandi Mallian BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Ferozpur Division",
+            "latitude": 30.90989,
+            "longitude": 74.1386607
+        }
+    ]
+}

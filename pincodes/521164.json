@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "KRISHNA",
+    "offices": [
+        {
+            "officeName": "Kadavakollu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Vijayawada Division",
+            "latitude": 16.414567,
+            "longitude": 80.845493
+        },
+        {
+            "officeName": "Kalavapamula B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Vijayawada Division",
+            "latitude": 16.439265,
+            "longitude": 80.879181
+        },
+        {
+            "officeName": "Katuru S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Vijayawada Division",
+            "latitude": 16.42175,
+            "longitude": 80.8589722
+        }
+    ]
+}

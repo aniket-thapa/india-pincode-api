@@ -1,0 +1,56 @@
+{
+    "state": "DELHI",
+    "district": "SOUTH WEST",
+    "offices": [
+        {
+            "officeName": "Raj Nagar   II S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.5748056,
+            "longitude": 77.0787222
+        },
+        {
+            "officeName": "Bagdola B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.571529,
+            "longitude": 77.072995
+        },
+        {
+            "officeName": "Barthal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.542804,
+            "longitude": 77.049144
+        },
+        {
+            "officeName": "Dhulsiras B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.564173,
+            "longitude": 77.041334
+        },
+        {
+            "officeName": "Palam Extn (Harijan Basti) S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.587944,
+            "longitude": 77.072276
+        }
+    ]
+}

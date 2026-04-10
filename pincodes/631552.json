@@ -1,0 +1,56 @@
+{
+    "state": "TAMIL NADU",
+    "district": "KANCHIPURAM",
+    "offices": [
+        {
+            "officeName": "Karai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Kanchipuram Division",
+            "latitude": 12.8341785,
+            "longitude": 79.7036352
+        },
+        {
+            "officeName": "Siruvallur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Kanchipuram Division",
+            "latitude": 12.87735,
+            "longitude": 79.7713
+        },
+        {
+            "officeName": "Karaipettai S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Kanchipuram Division",
+            "latitude": 12.8706,
+            "longitude": 79.7104
+        },
+        {
+            "officeName": "Parandur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Kanchipuram Division",
+            "latitude": 12.8341815,
+            "longitude": 79.7036322
+        },
+        {
+            "officeName": "Siruvakkam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Kanchipuram Division",
+            "latitude": 12.8341835,
+            "longitude": 79.7036302
+        }
+    ]
+}

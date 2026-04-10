@@ -1,0 +1,36 @@
+{
+    "state": "ODISHA",
+    "district": "KENDRAPARA",
+    "offices": [
+        {
+            "officeName": "Kalaspur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "KENDRAPARA DIVISION",
+            "latitude": 20.6624666,
+            "longitude": 86.56529
+        },
+        {
+            "officeName": "Bhuinpur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "KENDRAPARA DIVISION",
+            "latitude": 20.68125,
+            "longitude": 86.5863
+        },
+        {
+            "officeName": "Padanipal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "KENDRAPARA DIVISION",
+            "latitude": 20.6764582,
+            "longitude": 86.5857386
+        }
+    ]
+}

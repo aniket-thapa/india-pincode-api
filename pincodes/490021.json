@@ -1,0 +1,46 @@
+{
+    "state": "CHHATTISGARH",
+    "district": "DURG",
+    "offices": [
+        {
+            "officeName": "Sirsakala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Durg Division",
+            "latitude": 21.189998,
+            "longitude": 81.460864
+        },
+        {
+            "officeName": "Bhilai East SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Durg Division",
+            "latitude": 21.521137,
+            "longitude": 81.480026
+        },
+        {
+            "officeName": "Auri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Durg Division",
+            "latitude": 21.167895,
+            "longitude": 81.480075
+        },
+        {
+            "officeName": "Aundhi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Durg Division",
+            "latitude": 21.179872,
+            "longitude": 81.468407
+        }
+    ]
+}

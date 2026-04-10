@@ -1,0 +1,36 @@
+{
+    "state": "TELANGANA",
+    "district": "MEDAK",
+    "offices": [
+        {
+            "officeName": "Medak H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.049,
+            "longitude": 78.2673333
+        },
+        {
+            "officeName": "Medak Buss stand S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.0415556,
+            "longitude": 78.2608333
+        },
+        {
+            "officeName": "Medak Town S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.04675,
+            "longitude": 78.2581667
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "KERALA",
+    "district": "KOZHIKODE",
+    "offices": [
+        {
+            "officeName": "Perumanna BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Calicut Division",
+            "latitude": 11.24,
+            "longitude": 75.89
+        },
+        {
+            "officeName": "Vellayikkode BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Calicut Division",
+            "latitude": 11.24,
+            "longitude": 75.89
+        },
+        {
+            "officeName": "Pantheerankavu SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Calicut Division",
+            "latitude": 11.2305956,
+            "longitude": 75.8501629
+        },
+        {
+            "officeName": "Olavanna BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Calicut Division",
+            "latitude": 11.21,
+            "longitude": 75.85
+        },
+        {
+            "officeName": "Manakkadavu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Calicut Division",
+            "latitude": 11.21981,
+            "longitude": 75.871369
+        }
+    ]
+}

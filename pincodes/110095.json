@@ -1,0 +1,86 @@
+{
+    "state": "DELHI",
+    "district": "SHAHDARA",
+    "offices": [
+        {
+            "officeName": "Dilshad Garden SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.6794722,
+            "longitude": 77.3086944
+        },
+        {
+            "officeName": "Jhilmil HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.6739167,
+            "longitude": 77.3198333
+        },
+        {
+            "officeName": "GTB Hospital SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.6888056,
+            "longitude": 77.3076944
+        },
+        {
+            "officeName": "New Seemapuri SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.6891667,
+            "longitude": 77.3285
+        },
+        {
+            "officeName": "Old Seemapuri SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.6805556,
+            "longitude": 77.3303333
+        },
+        {
+            "officeName": "Vivek Vihar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.6759722,
+            "longitude": 77.3267778
+        },
+        {
+            "officeName": "Jhilmil Tahirpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.68254,
+            "longitude": 77.31315
+        },
+        {
+            "officeName": "Vishwakarma Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.6721111,
+            "longitude": 77.3069722
+        }
+    ]
+}

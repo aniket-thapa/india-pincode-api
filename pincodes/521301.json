@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "KRISHNA",
+    "offices": [
+        {
+            "officeName": "Rajendranagar Colony S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Gudivada Division",
+            "latitude": 16.4013611,
+            "longitude": 81.02025
+        },
+        {
+            "officeName": "Satyanarayanapuram S.O (Gudivada)",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Gudivada Division",
+            "latitude": 16.429103,
+            "longitude": 80.996047
+        },
+        {
+            "officeName": "Gudivada H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Gudivada Division",
+            "latitude": 16.4338333,
+            "longitude": 80.9916667
+        }
+    ]
+}

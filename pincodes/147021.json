@@ -1,0 +1,66 @@
+{
+    "state": "PUNJAB",
+    "district": "PATIALA",
+    "offices": [
+        {
+            "officeName": "Chappar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patiala Division",
+            "latitude": 30.33,
+            "longitude": 76.41
+        },
+        {
+            "officeName": "Jogipur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patiala Division",
+            "latitude": 30.33,
+            "longitude": 76.5
+        },
+        {
+            "officeName": "Janherian BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patiala Division",
+            "latitude": 30.41,
+            "longitude": 76.47
+        },
+        {
+            "officeName": "Daunkalan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patiala Division",
+            "latitude": 30.39,
+            "longitude": 76.47
+        },
+        {
+            "officeName": "Kheri Mandlan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patiala Division",
+            "latitude": 30.37,
+            "longitude": 76.51
+        },
+        {
+            "officeName": "Guruteghbahadurgarh SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patiala Division",
+            "latitude": 30.360573,
+            "longitude": 76.463713
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "RAJASTHAN",
+    "district": "BANSWARA",
+    "offices": [
+        {
+            "officeName": "Badgun B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Dungarpur Division",
+            "latitude": 23.703301,
+            "longitude": 74.505329
+        },
+        {
+            "officeName": "Cheev B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Dungarpur Division",
+            "latitude": 23.613284,
+            "longitude": 74.502668
+        },
+        {
+            "officeName": "Mahidam S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Dungarpur Division",
+            "latitude": 23.8294167,
+            "longitude": 74.64525
+        },
+        {
+            "officeName": "Kherdabada B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Dungarpur Division",
+            "latitude": 23.622957,
+            "longitude": 74.484472
+        },
+        {
+            "officeName": "Bhungda B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Dungarpur Division",
+            "latitude": 23.66213,
+            "longitude": 74.506777
+        }
+    ]
+}

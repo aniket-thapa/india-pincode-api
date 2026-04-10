@@ -1,0 +1,56 @@
+{
+    "state": "RAJASTHAN",
+    "district": "JALORE",
+    "offices": [
+        {
+            "officeName": "Elana B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 25.396936,
+            "longitude": 72.390289
+        },
+        {
+            "officeName": "Ummedabad S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 25.376599,
+            "longitude": 72.434691
+        },
+        {
+            "officeName": "Othwala B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 25.347662,
+            "longitude": 72.398179
+        },
+        {
+            "officeName": "Dangra B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 24.825955,
+            "longitude": 71.803764
+        },
+        {
+            "officeName": "Nimblana B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 25.442963,
+            "longitude": 72.456142
+        }
+    ]
+}

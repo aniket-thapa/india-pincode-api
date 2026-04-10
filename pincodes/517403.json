@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "CHITTOOR",
+    "offices": [
+        {
+            "officeName": "Adilakshmambapuram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Chittoor Division",
+            "latitude": 13.1009,
+            "longitude": 79.1842
+        },
+        {
+            "officeName": "Naragallu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Chittoor Division",
+            "latitude": 13.1009,
+            "longitude": 79.1842
+        },
+        {
+            "officeName": "Ramapuram S.O (Chittoor)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Chittoor Division",
+            "latitude": 13.1009,
+            "longitude": 79.1842
+        }
+    ]
+}

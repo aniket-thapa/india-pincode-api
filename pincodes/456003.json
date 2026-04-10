@@ -1,0 +1,56 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "UJJAIN",
+    "offices": [
+        {
+            "officeName": "Kaliadeh B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Ujjain Division",
+            "latitude": 21.371804,
+            "longitude": 73.013962
+        },
+        {
+            "officeName": "Rooi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Ujjain Division",
+            "latitude": 22.960942,
+            "longitude": 76.060301
+        },
+        {
+            "officeName": "Goyalabujurg B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Ujjain Division",
+            "latitude": 21.371804,
+            "longitude": 73.013962
+        },
+        {
+            "officeName": "Sodang B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Ujjain Division",
+            "latitude": 22.960942,
+            "longitude": 76.060301
+        },
+        {
+            "officeName": "Ujjain  Bherugarh S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Ujjain Division",
+            "latitude": 23.2245278,
+            "longitude": 75.7763333
+        }
+    ]
+}

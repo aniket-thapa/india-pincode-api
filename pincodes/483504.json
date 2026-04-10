@@ -1,0 +1,46 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "KATNI",
+    "offices": [
+        {
+            "officeName": "Katni Madhav Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Jabalpur Division",
+            "latitude": 23.7984444,
+            "longitude": 80.3848056
+        },
+        {
+            "officeName": "Katni Ordinance Factory S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Jabalpur Division",
+            "latitude": 23.80758,
+            "longitude": 80.396396
+        },
+        {
+            "officeName": "Katni Cement Factory S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Jabalpur Division",
+            "latitude": 23.8057222,
+            "longitude": 80.3930278
+        },
+        {
+            "officeName": "Mangal Nagar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Jabalpur Division",
+            "latitude": 23.811835,
+            "longitude": 80.407613
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "IDUKKI",
+    "offices": [
+        {
+            "officeName": "Vazhithala SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Idukki Division",
+            "latitude": 9.88292,
+            "longitude": 76.64231
+        },
+        {
+            "officeName": "Kuninji BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Idukki Division",
+            "latitude": 9.846294,
+            "longitude": 76.650088
+        },
+        {
+            "officeName": "Purapuzha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Idukki Division",
+            "latitude": 9.87186,
+            "longitude": 76.65957
+        }
+    ]
+}

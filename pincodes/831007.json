@@ -1,0 +1,26 @@
+{
+    "state": "JHARKHAND",
+    "district": "EAST SINGHBUM",
+    "offices": [
+        {
+            "officeName": "Burma Mines SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Singhbhum Division",
+            "latitude": 22.77722,
+            "longitude": 86.20981
+        },
+        {
+            "officeName": "N M L SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Singhbhum Division",
+            "latitude": 22.77794,
+            "longitude": 86.20489
+        }
+    ]
+}

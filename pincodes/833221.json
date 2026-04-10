@@ -1,0 +1,36 @@
+{
+    "state": "JHARKHAND",
+    "district": "WEST SINGHBHUM",
+    "offices": [
+        {
+            "officeName": "DIRIBURU BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Singhbhum Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Barajamda SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Singhbhum Division",
+            "latitude": 22.16536,
+            "longitude": 85.41244
+        },
+        {
+            "officeName": "Baraiburu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Singhbhum Division",
+            "latitude": 22.2538,
+            "longitude": 85.4293
+        }
+    ]
+}

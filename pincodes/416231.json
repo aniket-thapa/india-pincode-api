@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "KOLHAPUR",
+    "offices": [
+        {
+            "officeName": "Panori B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Kolhapur Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Dudhganganagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "Kolhapur Division",
+            "latitude": 16.3642423,
+            "longitude": 74.010363
+        }
+    ]
+}

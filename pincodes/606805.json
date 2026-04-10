@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "TIRUVANNAMALAI",
+    "offices": [
+        {
+            "officeName": "Kalasthambadi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tiruvannamalai Division",
+            "latitude": 12.4935,
+            "longitude": 79.4438
+        },
+        {
+            "officeName": "Mallavadi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tiruvannamalai Division",
+            "latitude": 12.4935,
+            "longitude": 79.4438
+        },
+        {
+            "officeName": "Turinjapuram SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tiruvannamalai Division",
+            "latitude": 12.2351944,
+            "longitude": 79.0765833
+        },
+        {
+            "officeName": "Kolakkaravadi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tiruvannamalai Division",
+            "latitude": 12.4935,
+            "longitude": 79.4438
+        }
+    ]
+}

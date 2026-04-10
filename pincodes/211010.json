@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "PRAYAGRAJ",
+    "offices": [
+        {
+            "officeName": "Khandesara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Prayagraj Division",
+            "latitude": 25.435801,
+            "longitude": 81.846311
+        },
+        {
+            "officeName": "I T I Naini SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Prayagraj Division",
+            "latitude": 25.38532,
+            "longitude": 81.86763
+        },
+        {
+            "officeName": "Deys Medical Tiraha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Prayagraj Division",
+            "latitude": 25.453182,
+            "longitude": 81.827474
+        },
+        {
+            "officeName": "T S L SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Prayagraj Division",
+            "latitude": 25.37923,
+            "longitude": 81.87964
+        }
+    ]
+}

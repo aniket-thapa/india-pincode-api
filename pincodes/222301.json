@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "SULTANPUR",
+    "offices": [
+        {
+            "officeName": "Malhipur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Sultanpur Division",
+            "latitude": 26.0297,
+            "longitude": 82.2341798
+        },
+        {
+            "officeName": "Sonawan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Sultanpur Division",
+            "latitude": 26.058041,
+            "longitude": 82.358948
+        },
+        {
+            "officeName": "Bainti Kalan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Sultanpur Division",
+            "latitude": 26.058041,
+            "longitude": 82.358948
+        },
+        {
+            "officeName": "Koiripur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Sultanpur Division",
+            "latitude": 26.0303056,
+            "longitude": 82.3422778
+        }
+    ]
+}

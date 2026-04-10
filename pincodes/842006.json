@@ -1,0 +1,26 @@
+{
+    "state": "BIHAR",
+    "district": "MUZAFFARPUR",
+    "offices": [
+        {
+            "officeName": "Dhamauli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Muzaffarpur Division",
+            "latitude": 26.214979,
+            "longitude": 85.297022
+        },
+        {
+            "officeName": "Kalwari SO Muzaffarpur",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Muzaffarpur Division",
+            "latitude": 26.1264167,
+            "longitude": 85.3818056
+        }
+    ]
+}

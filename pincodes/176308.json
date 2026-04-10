@@ -1,0 +1,56 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "CHAMBA",
+    "offices": [
+        {
+            "officeName": "Simni BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamba Division",
+            "latitude": 31.0808,
+            "longitude": 76.80903
+        },
+        {
+            "officeName": "Matti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamba Division",
+            "latitude": 32.63378,
+            "longitude": 76.00292
+        },
+        {
+            "officeName": "BHALEI SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamba Division",
+            "latitude": 32.63116,
+            "longitude": 76.00696
+        },
+        {
+            "officeName": "Ohra BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamba Division",
+            "latitude": 32.54564,
+            "longitude": 76.08125
+        },
+        {
+            "officeName": "Wangal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamba Division",
+            "latitude": 32.60763,
+            "longitude": 75.98265
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "ASSAM",
+    "district": "KAMRUP METRO",
+    "offices": [
+        {
+            "officeName": "Dharapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Guwahati Division",
+            "latitude": 26.137,
+            "longitude": 91.627
+        },
+        {
+            "officeName": "Bhattaparagaral B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Guwahati Division",
+            "latitude": 26.1373,
+            "longitude": 91.6278
+        },
+        {
+            "officeName": "Azara S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Guwahati Division",
+            "latitude": 26.11453,
+            "longitude": 91.61293
+        }
+    ]
+}

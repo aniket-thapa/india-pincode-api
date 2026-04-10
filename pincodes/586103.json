@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "VIJAYAPURA",
+    "offices": [
+        {
+            "officeName": "Bhutnal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Vijayapura Division",
+            "latitude": 16.8973549,
+            "longitude": 75.7190179
+        },
+        {
+            "officeName": "B.L.D.E.A Campus SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Vijayapura Division",
+            "latitude": 16.8463781,
+            "longitude": 75.7103326
+        },
+        {
+            "officeName": "Darga (Vijayapura) B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Vijayapura Division",
+            "latitude": 16.8497266,
+            "longitude": 75.6958007
+        }
+    ]
+}

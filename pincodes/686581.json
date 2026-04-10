@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "KOTTAYAM",
+    "offices": [
+        {
+            "officeName": "Chennad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Kottayam Division",
+            "latitude": 10.3473,
+            "longitude": 76.3741
+        },
+        {
+            "officeName": "Poonjar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Kottayam Division",
+            "latitude": 9.671564,
+            "longitude": 76.797723
+        }
+    ]
+}

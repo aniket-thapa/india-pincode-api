@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "SALEM",
+    "offices": [
+        {
+            "officeName": "Kaveripatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Namakkal Division",
+            "latitude": 11.5417542,
+            "longitude": 77.7321471
+        },
+        {
+            "officeName": "Mettangadu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Namakkal Division",
+            "latitude": 11.5606087,
+            "longitude": 77.7494086
+        },
+        {
+            "officeName": "Pullagoundampatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Namakkal Division",
+            "latitude": 11.53193,
+            "longitude": 77.688326
+        },
+        {
+            "officeName": "Thevur S.O (Namakkal)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Namakkal Division",
+            "latitude": 11.2155833,
+            "longitude": 78.1702778
+        }
+    ]
+}

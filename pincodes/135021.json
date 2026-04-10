@@ -1,0 +1,46 @@
+{
+    "state": "HARYANA",
+    "district": "YAMUNANAGAR",
+    "offices": [
+        {
+            "officeName": "Bakarwala B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.31587,
+            "longitude": 77.52009
+        },
+        {
+            "officeName": "Partap Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 77.4979167,
+            "longitude": 30.2894444
+        },
+        {
+            "officeName": "Deodhar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.3781858,
+            "longitude": 76.77669
+        },
+        {
+            "officeName": "Muzafatkalan B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.37819,
+            "longitude": 76.776685
+        }
+    ]
+}

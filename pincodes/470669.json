@@ -1,0 +1,66 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "SAGAR",
+    "offices": [
+        {
+            "officeName": "Tada B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Sagar Division",
+            "latitude": 23.906379,
+            "longitude": 79.095572
+        },
+        {
+            "officeName": "Khera Udaet B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Sagar Division",
+            "latitude": 23.872577,
+            "longitude": 79.033429
+        },
+        {
+            "officeName": "Barpani",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Sagar Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Manjala B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Sagar Division",
+            "latitude": 23.945349,
+            "longitude": 79.024952
+        },
+        {
+            "officeName": "Gorakhurd B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Sagar Division",
+            "latitude": 23.958007,
+            "longitude": 79.078628
+        },
+        {
+            "officeName": "Shahpur Magrone S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Sagar Division",
+            "latitude": 23.892772,
+            "longitude": 79.048969
+        }
+    ]
+}

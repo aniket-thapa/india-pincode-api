@@ -1,0 +1,46 @@
+{
+    "state": "KARNATAKA",
+    "district": "UTTARA KANNADA",
+    "offices": [
+        {
+            "officeName": "Hosapete B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Sirsi Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Sirsi Courts S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Sirsi Division",
+            "latitude": 14.62172222,
+            "longitude": 74.83019444
+        },
+        {
+            "officeName": "Maratikoppa B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Sirsi Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Sirsi H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Sirsi Division",
+            "latitude": 14.618606,
+            "longitude": 74.829809
+        }
+    ]
+}

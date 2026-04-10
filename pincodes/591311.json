@@ -1,0 +1,76 @@
+{
+    "state": "KARNATAKA",
+    "district": "BELAGAVI",
+    "offices": [
+        {
+            "officeName": "Khemalapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Chikodi Division",
+            "latitude": 16.5807514,
+            "longitude": 74.9530698
+        },
+        {
+            "officeName": "Parmanandwadi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Chikodi Division",
+            "latitude": 16.5944893,
+            "longitude": 74.9210705
+        },
+        {
+            "officeName": "Gundwad B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Chikodi Division",
+            "latitude": 16.6452961,
+            "longitude": 74.9077512
+        },
+        {
+            "officeName": "Kudchi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Chikodi Division",
+            "latitude": 16.624491,
+            "longitude": 74.857015
+        },
+        {
+            "officeName": "Yelparhatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Chikodi Division",
+            "latitude": 16.5713134,
+            "longitude": 74.9475419
+        },
+        {
+            "officeName": "Shirgur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Chikodi Division",
+            "latitude": 16.6066723,
+            "longitude": 74.9163342
+        },
+        {
+            "officeName": "Kudchi Town B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Chikodi Division",
+            "latitude": 16.6346259,
+            "longitude": 74.8473163
+        }
+    ]
+}

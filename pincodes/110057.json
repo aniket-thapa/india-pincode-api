@@ -1,0 +1,26 @@
+{
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "offices": [
+        {
+            "officeName": "Vasant Vihar2 SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South West Division",
+            "latitude": 28.5578889,
+            "longitude": 77.15575
+        },
+        {
+            "officeName": "Vasant Vihar1 SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South West Division",
+            "latitude": 28.568,
+            "longitude": 77.1594167
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "RAJASTHAN",
+    "district": "CHITTORGARH",
+    "offices": [
+        {
+            "officeName": "Sarsi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Chittorgarh Division",
+            "latitude": 24.694095,
+            "longitude": 74.921705
+        },
+        {
+            "officeName": "Kanera S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Chittorgarh Division",
+            "latitude": 24.7032222,
+            "longitude": 74.9008056
+        },
+        {
+            "officeName": "Bangreda Ghata B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Chittorgarh Division",
+            "latitude": 24.733236,
+            "longitude": 74.88982
+        },
+        {
+            "officeName": "Melana B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Chittorgarh Division",
+            "latitude": 24.666565,
+            "longitude": 74.9075
+        }
+    ]
+}

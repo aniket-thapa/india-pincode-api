@@ -1,0 +1,56 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "PARBHANI",
+    "offices": [
+        {
+            "officeName": "Bhogaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Pharbhani Division",
+            "latitude": 19.300222,
+            "longitude": 76.616993
+        },
+        {
+            "officeName": "Jamb B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Pharbhani Division",
+            "latitude": 19.277646,
+            "longitude": 76.685141
+        },
+        {
+            "officeName": "Mandakhali B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Pharbhani Division",
+            "latitude": 19.245072,
+            "longitude": 76.643257
+        },
+        {
+            "officeName": "Pimpalgaon B.O PEDGAON",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Pharbhani Division",
+            "latitude": 19.377679,
+            "longitude": 76.641268
+        },
+        {
+            "officeName": "Pedgaon S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Pharbhani Division",
+            "latitude": 19.323624,
+            "longitude": 76.661305
+        }
+    ]
+}

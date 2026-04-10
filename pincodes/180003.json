@@ -1,0 +1,66 @@
+{
+    "state": "JAMMU AND KASHMIR",
+    "district": "JAMMU",
+    "offices": [
+        {
+            "officeName": "Mandal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Jammu Division",
+            "latitude": 33.880683,
+            "longitude": 75.436391
+        },
+        {
+            "officeName": "Jammu Cantt SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Jammu Division",
+            "latitude": 32.68929,
+            "longitude": 74.833106
+        },
+        {
+            "officeName": "NATC SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Jammu Division",
+            "latitude": 32.6898889,
+            "longitude": 74.8366667
+        },
+        {
+            "officeName": "Makwal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Jammu Division",
+            "latitude": 32.521456,
+            "longitude": 75.012015
+        },
+        {
+            "officeName": "Sohanjana BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Jammu Division",
+            "latitude": 32.880653,
+            "longitude": 75.05219
+        },
+        {
+            "officeName": "Industrial Estate SO Jammu",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Jammu Division",
+            "latitude": 32.674886,
+            "longitude": 74.875566
+        }
+    ]
+}

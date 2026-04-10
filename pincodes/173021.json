@@ -1,0 +1,46 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "SIRMAUR",
+    "offices": [
+        {
+            "officeName": "Kotribyas BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Solan Division",
+            "latitude": 30.849989,
+            "longitude": 77.299414
+        },
+        {
+            "officeName": "Sainwala Mubarakpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Solan Division",
+            "latitude": 30.4843359,
+            "longitude": 77.5074774
+        },
+        {
+            "officeName": "Misserwala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Solan Division",
+            "latitude": 30.4768835,
+            "longitude": 77.5476117
+        },
+        {
+            "officeName": "Majra SO Sirmaur",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Solan Division",
+            "latitude": 30.49,
+            "longitude": 77.53
+        }
+    ]
+}

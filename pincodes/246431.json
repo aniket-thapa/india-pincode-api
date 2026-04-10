@@ -1,0 +1,46 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "offices": [
+        {
+            "officeName": "Koonigarh Bichali BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamoli Division",
+            "latitude": 29.95601,
+            "longitude": 79.300076
+        },
+        {
+            "officeName": "Beena Lohba BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamoli Division",
+            "latitude": 29.98238,
+            "longitude": 79.322967
+        },
+        {
+            "officeName": "Malkot BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamoli Division",
+            "latitude": 29.95601,
+            "longitude": 79.371899
+        },
+        {
+            "officeName": "Mehalchauri SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamoli Division",
+            "latitude": 29.9846389,
+            "longitude": 79.32275
+        }
+    ]
+}

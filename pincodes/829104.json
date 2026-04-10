@@ -1,0 +1,26 @@
+{
+    "state": "JHARKHAND",
+    "district": "BOKARO",
+    "offices": [
+        {
+            "officeName": "Amlo BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Giridih Division",
+            "latitude": 25.47,
+            "longitude": 85.57
+        },
+        {
+            "officeName": "Bermo SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Giridih Division",
+            "latitude": 23.7673056,
+            "longitude": 85.9874722
+        }
+    ]
+}

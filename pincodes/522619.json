@@ -1,0 +1,46 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Palnadu",
+    "offices": [
+        {
+            "officeName": "Sandepudi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Narasaraopet Division",
+            "latitude": 16.0941,
+            "longitude": 80.2461
+        },
+        {
+            "officeName": "Veluru B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Narasaraopet Division",
+            "latitude": 16.1048,
+            "longitude": 80.2095
+        },
+        {
+            "officeName": "Ganapavaram S.O (Guntur)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Narasaraopet Division",
+            "latitude": 16.122641,
+            "longitude": 80.174145
+        },
+        {
+            "officeName": "Turlapadu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Narasaraopet Division",
+            "latitude": 16.1003,
+            "longitude": 80.2606
+        }
+    ]
+}

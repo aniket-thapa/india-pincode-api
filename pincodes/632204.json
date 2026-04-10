@@ -1,0 +1,56 @@
+{
+    "state": "TAMIL NADU",
+    "district": "VELLORE",
+    "offices": [
+        {
+            "officeName": "Mudinambattu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Vellore Division",
+            "latitude": 12.9428,
+            "longitude": 79.0147
+        },
+        {
+            "officeName": "Kavasambattu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Vellore Division",
+            "latitude": 12.9347,
+            "longitude": 78.9987
+        },
+        {
+            "officeName": "Kilmuttukur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Vellore Division",
+            "latitude": 12.9928,
+            "longitude": 79.0137
+        },
+        {
+            "officeName": "Vaduganthangal S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Vellore Division",
+            "latitude": 12.9156389,
+            "longitude": 79.7571111
+        },
+        {
+            "officeName": "Angarankuppam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Vellore Division",
+            "latitude": 12.9853,
+            "longitude": 79.0195
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "SOLAPUR",
+    "offices": [
+        {
+            "officeName": "Malinagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pandharpur Division",
+            "latitude": 17.895616,
+            "longitude": 75.052171
+        },
+        {
+            "officeName": "Tambave B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pandharpur Division",
+            "latitude": 18.035357,
+            "longitude": 75.244989
+        }
+    ]
+}

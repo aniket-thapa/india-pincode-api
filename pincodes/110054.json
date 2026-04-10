@@ -1,0 +1,56 @@
+{
+    "state": "DELHI",
+    "district": "CENTRAL",
+    "offices": [
+        {
+            "officeName": "Civil Lines SO North Delhi",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.6624167,
+            "longitude": 77.2348333
+        },
+        {
+            "officeName": "District Courts SO North Delhi",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.667094,
+            "longitude": 77.216534
+        },
+        {
+            "officeName": "Patrachar Vidyalay SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7060278,
+            "longitude": 77.2217778
+        },
+        {
+            "officeName": "Aruna Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.697557,
+            "longitude": 77.225067
+        },
+        {
+            "officeName": "Timarpur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7032778,
+            "longitude": 77.2228611
+        }
+    ]
+}

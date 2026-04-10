@@ -1,0 +1,76 @@
+{
+    "state": "KARNATAKA",
+    "district": "BALLARI",
+    "offices": [
+        {
+            "officeName": "Allipur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Ballari Division",
+            "latitude": 15.1656214,
+            "longitude": 76.8584691
+        },
+        {
+            "officeName": "Kolagallu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Ballari Division",
+            "latitude": 15.1948467,
+            "longitude": 76.8651425
+        },
+        {
+            "officeName": "B Belagal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Ballari Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Haraginadoni B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Ballari Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Ballari Cantonment S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Ballari Division",
+            "latitude": 15.1514722,
+            "longitude": 76.8964167
+        },
+        {
+            "officeName": "Sanjay Gandhi Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Ballari Division",
+            "latitude": 15.1534176,
+            "longitude": 76.9134167
+        },
+        {
+            "officeName": "Janekunta B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Ballari Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "ASSAM",
+    "district": "NAGAON",
+    "offices": [
+        {
+            "officeName": "Amoni B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Nagaon Division",
+            "latitude": 26.3503,
+            "longitude": 92.6922
+        },
+        {
+            "officeName": "Barbhagia B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Nagaon Division",
+            "latitude": 26.3503,
+            "longitude": 92.6922
+        },
+        {
+            "officeName": "Missa S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Nagaon Division",
+            "latitude": 26.3503,
+            "longitude": 92.6922
+        }
+    ]
+}

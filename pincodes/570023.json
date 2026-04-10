@@ -1,0 +1,26 @@
+{
+    "state": "KARNATAKA",
+    "district": "MYSURU",
+    "offices": [
+        {
+            "officeName": "Kuvempunagar S.O (Mysuru)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Mysuru Division",
+            "latitude": 12.3141667,
+            "longitude": 76.6565556
+        },
+        {
+            "officeName": "Kuvempunagar II Stage S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Mysuru Division",
+            "latitude": 12.29094444,
+            "longitude": 76.62483333
+        }
+    ]
+}

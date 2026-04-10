@@ -1,0 +1,46 @@
+{
+    "state": "RAJASTHAN",
+    "district": "GANGANAGAR",
+    "offices": [
+        {
+            "officeName": "Sardarpura Jiwan B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sriganganagar Division",
+            "latitude": 29.749851,
+            "longitude": 74.054981
+        },
+        {
+            "officeName": "Lalgarh Jatan S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sriganganagar Division",
+            "latitude": 29.903523,
+            "longitude": 73.879739
+        },
+        {
+            "officeName": "Morjand Khari B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sriganganagar Division",
+            "latitude": 29.798459,
+            "longitude": 74.365087
+        },
+        {
+            "officeName": "Panniwali B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sriganganagar Division",
+            "latitude": 29.60839,
+            "longitude": 74.429846
+        }
+    ]
+}

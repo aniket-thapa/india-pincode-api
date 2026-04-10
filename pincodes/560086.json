@@ -1,0 +1,26 @@
+{
+    "state": "KARNATAKA",
+    "district": "BENGALURU URBAN",
+    "offices": [
+        {
+            "officeName": "West of Chord Road II stage S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Bengaluru West Division",
+            "latitude": 13.002878,
+            "longitude": 77.546369
+        },
+        {
+            "officeName": "Mahalakshmipuram Layout S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Bengaluru West Division",
+            "latitude": 13.010635,
+            "longitude": 77.546496
+        }
+    ]
+}

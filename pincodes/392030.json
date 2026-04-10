@@ -1,0 +1,46 @@
+{
+    "state": "GUJARAT",
+    "district": "BHARUCH",
+    "offices": [
+        {
+            "officeName": "Mangleshwar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bharuch Division",
+            "latitude": 21.765374,
+            "longitude": 73.13251
+        },
+        {
+            "officeName": "Angareshwar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bharuch Division",
+            "latitude": 21.800447,
+            "longitude": 73.135029
+        },
+        {
+            "officeName": "Nikora BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bharuch Division",
+            "latitude": 21.780384,
+            "longitude": 73.132358
+        },
+        {
+            "officeName": "Shuklatirth SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bharuch Division",
+            "latitude": 21.753667,
+            "longitude": 73.121511
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "TELANGANA",
+    "district": "RANGA REDDY",
+    "offices": [
+        {
+            "officeName": "Abdullapurmet BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Hyderabad South East Division",
+            "latitude": 17.313878,
+            "longitude": 78.684983
+        },
+        {
+            "officeName": "Pedda Amberpet SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Hyderabad South East Division",
+            "latitude": 17.320687,
+            "longitude": 78.635925
+        }
+    ]
+}

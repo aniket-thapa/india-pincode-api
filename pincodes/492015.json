@@ -1,0 +1,36 @@
+{
+    "state": "CHHATTISGARH",
+    "district": "RAIPUR",
+    "offices": [
+        {
+            "officeName": "Deopuri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Raipur Division",
+            "latitude": 21.5,
+            "longitude": 81.5
+        },
+        {
+            "officeName": "Sejbahar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Raipur Division",
+            "latitude": 21.5,
+            "longitude": 81.5
+        },
+        {
+            "officeName": "Mana Camp SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Raipur Division",
+            "latitude": 21.1933056,
+            "longitude": 81.7170556
+        }
+    ]
+}

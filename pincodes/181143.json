@@ -1,0 +1,46 @@
+{
+    "state": "JAMMU AND KASHMIR",
+    "district": "SAMBA",
+    "offices": [
+        {
+            "officeName": "Rahya BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Jammu Division",
+            "latitude": 32.622581,
+            "longitude": 74.992705
+        },
+        {
+            "officeName": "Rajinderpura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Jammu Division",
+            "latitude": 32.266851,
+            "longitude": 74.596705
+        },
+        {
+            "officeName": "CENTRAL UNIVERSITY BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Jammu Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Gurah Salathia SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Jammu Division",
+            "latitude": 32.6047778,
+            "longitude": 75.0431389
+        }
+    ]
+}

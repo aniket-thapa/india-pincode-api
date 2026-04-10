@@ -1,0 +1,46 @@
+{
+    "state": "WEST BENGAL",
+    "district": "HOOGHLY",
+    "offices": [
+        {
+            "officeName": "Sogandha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Hooghly North Division",
+            "latitude": 22.92,
+            "longitude": 88.33
+        },
+        {
+            "officeName": "Chinsurah RS SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Hooghly North Division",
+            "latitude": 22.8880833,
+            "longitude": 88.3725278
+        },
+        {
+            "officeName": "Kamdebpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Hooghly North Division",
+            "latitude": 22.54,
+            "longitude": 88.56
+        },
+        {
+            "officeName": "Katsara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Hooghly North Division",
+            "latitude": 22.85,
+            "longitude": 88.56
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "BIHAR",
+    "district": "PATNA",
+    "offices": [
+        {
+            "officeName": "Patna Aerodrome SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patna Division",
+            "latitude": 25.594433,
+            "longitude": 85.090806
+        },
+        {
+            "officeName": "BV College SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patna Division",
+            "latitude": 25.594095,
+            "longitude": 85.137565
+        },
+        {
+            "officeName": "Sheikhpura SO Patna",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patna Division",
+            "latitude": 25.605808,
+            "longitude": 85.096745
+        }
+    ]
+}

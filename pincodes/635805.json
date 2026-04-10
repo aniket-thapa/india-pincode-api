@@ -1,0 +1,66 @@
+{
+    "state": "TAMIL NADU",
+    "district": "VELLORE",
+    "offices": [
+        {
+            "officeName": "Pallalakuppam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupattur Division",
+            "latitude": 12.88741,
+            "longitude": 78.762389
+        },
+        {
+            "officeName": "Rajakkal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupattur Division",
+            "latitude": 12.835901,
+            "longitude": 78.758355
+        },
+        {
+            "officeName": "Mailpatti S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupattur Division",
+            "latitude": 12.860449,
+            "longitude": 78.791979
+        },
+        {
+            "officeName": "Kilpatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupattur Division",
+            "latitude": 12.873538,
+            "longitude": 78.816679
+        },
+        {
+            "officeName": "Chendathur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupattur Division",
+            "latitude": 12.872164,
+            "longitude": 78.78372
+        },
+        {
+            "officeName": "Melvayathinankuppam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupattur Division",
+            "latitude": 12.849505,
+            "longitude": 78.77548
+        }
+    ]
+}

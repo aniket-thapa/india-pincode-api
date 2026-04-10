@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "CHENNAI",
+    "offices": [
+        {
+            "officeName": "Koyambedu Wholesale Mkt",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City North Division",
+            "latitude": 13.0665737,
+            "longitude": 80.191583
+        },
+        {
+            "officeName": "Koyambedu S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City North Division",
+            "latitude": 13.069608,
+            "longitude": 80.1818
+        },
+        {
+            "officeName": "Nerkundram S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City North Division",
+            "latitude": 13.0704727,
+            "longitude": 80.183588
+        }
+    ]
+}

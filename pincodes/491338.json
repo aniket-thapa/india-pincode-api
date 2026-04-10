@@ -1,0 +1,36 @@
+{
+    "state": "CHHATTISGARH",
+    "district": "BEMETARA",
+    "offices": [
+        {
+            "officeName": "Hatranka BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Durg Division",
+            "latitude": 21.735848,
+            "longitude": 81.370188
+        },
+        {
+            "officeName": "Tipani BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Durg Division",
+            "latitude": 21.806227,
+            "longitude": 81.359191
+        },
+        {
+            "officeName": "Khamaria SO Durg",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Durg Division",
+            "latitude": 21.228115,
+            "longitude": 81.374858
+        }
+    ]
+}

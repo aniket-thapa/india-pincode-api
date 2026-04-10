@@ -1,0 +1,66 @@
+{
+    "state": "DELHI",
+    "district": "WEST",
+    "offices": [
+        {
+            "officeName": "Rajouri Market S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.6455278,
+            "longitude": 77.1274722
+        },
+        {
+            "officeName": "Janta Market S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.6426944,
+            "longitude": 77.1232222
+        },
+        {
+            "officeName": "Rajouri Garden J 6 S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.6427222,
+            "longitude": 77.12325
+        },
+        {
+            "officeName": "Subhash Nagar West S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.6371111,
+            "longitude": 77.1098889
+        },
+        {
+            "officeName": "Subhash Nagar S.O (West Delhi)",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.640446,
+            "longitude": 77.104918
+        },
+        {
+            "officeName": "Tagore Garden S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.6467222,
+            "longitude": 77.1124722
+        }
+    ]
+}

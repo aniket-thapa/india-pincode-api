@@ -1,0 +1,36 @@
+{
+    "state": "PUNJAB",
+    "district": "GURDASPUR",
+    "offices": [
+        {
+            "officeName": "Gurdaspur HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Gurdaspur Division",
+            "latitude": 32.043274,
+            "longitude": 75.39888
+        },
+        {
+            "officeName": "Gurdaspur Kutchery SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Gurdaspur Division",
+            "latitude": 32.043274,
+            "longitude": 75.39888
+        },
+        {
+            "officeName": "Kalanaur Road Gurdaspur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Gurdaspur Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

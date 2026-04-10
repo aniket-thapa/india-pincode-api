@@ -1,0 +1,66 @@
+{
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "offices": [
+        {
+            "officeName": "Chanakya Puri SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South West Division",
+            "latitude": 28.583723,
+            "longitude": 77.190064
+        },
+        {
+            "officeName": "Anand Niketan SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South West Division",
+            "latitude": 28.5787222,
+            "longitude": 77.1648889
+        },
+        {
+            "officeName": "Moti Bagh SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South West Division",
+            "latitude": 28.6139722,
+            "longitude": 77.1256111
+        },
+        {
+            "officeName": "Nanak Pura SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South West Division",
+            "latitude": 28.5807778,
+            "longitude": 77.1727222
+        },
+        {
+            "officeName": "Malcha Marg SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South West Division",
+            "latitude": 28.6040833,
+            "longitude": 77.18725
+        },
+        {
+            "officeName": "South Delhi Campus SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South West Division",
+            "latitude": 28.5829722,
+            "longitude": 77.1615
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "RAJASTHAN",
+    "district": "JALORE",
+    "offices": [
+        {
+            "officeName": "Dhamseen B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 24.643437,
+            "longitude": 72.244686
+        },
+        {
+            "officeName": "Vadgaon S.O (Jalor)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 24.685251,
+            "longitude": 72.242301
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "UTTARA KANNADA",
+    "offices": [
+        {
+            "officeName": "Bailur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Karwar Division",
+            "latitude": 14.1266038,
+            "longitude": 74.484788
+        },
+        {
+            "officeName": "Anantwadi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Karwar Division",
+            "latitude": 14.1459479,
+            "longitude": 74.5033918
+        },
+        {
+            "officeName": "Murdeshwar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Karwar Division",
+            "latitude": 14.0992238,
+            "longitude": 74.4896911
+        }
+    ]
+}

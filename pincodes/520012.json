@@ -1,0 +1,66 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "NTR",
+    "offices": [
+        {
+            "officeName": "Kamakotinagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Vijayawada Division",
+            "latitude": 16.5306944,
+            "longitude": 80.6009444
+        },
+        {
+            "officeName": "Ambapuram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Vijayawada Division",
+            "latitude": 16.598632,
+            "longitude": 80.623568
+        },
+        {
+            "officeName": "A.P.H.B.Colony S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Vijayawada Division",
+            "latitude": 16.5384722,
+            "longitude": 80.5794444
+        },
+        {
+            "officeName": "Bhavanipuram S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Vijayawada Division",
+            "latitude": 16.5307778,
+            "longitude": 80.5971944
+        },
+        {
+            "officeName": "Jaccampudi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Vijayawada Division",
+            "latitude": 16.756923,
+            "longitude": 80.659832
+        },
+        {
+            "officeName": "Tadepalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Vijayawada Division",
+            "latitude": 16.532897,
+            "longitude": 80.658924
+        }
+    ]
+}

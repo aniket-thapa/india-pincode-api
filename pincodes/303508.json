@@ -1,0 +1,56 @@
+{
+    "state": "RAJASTHAN",
+    "district": "DAUSA",
+    "offices": [
+        {
+            "officeName": "Sikrai SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur Moffusil Division",
+            "latitude": 26.9161389,
+            "longitude": 76.6933333
+        },
+        {
+            "officeName": "Heengwa BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur Moffusil Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Kalwan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur Moffusil Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Kundera Doongar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur Moffusil Division",
+            "latitude": 26.014,
+            "longitude": 75.101
+        },
+        {
+            "officeName": "Namner BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Jaipur Moffusil Division",
+            "latitude": 26.014,
+            "longitude": 75.101
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "JHANSI",
+    "offices": [
+        {
+            "officeName": "Hasari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Jhansi Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Bijauli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Jhansi Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "33 Bn Pac Jhansi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Jhansi Division",
+            "latitude": 25.3920833,
+            "longitude": 78.5552778
+        }
+    ]
+}

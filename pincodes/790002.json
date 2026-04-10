@@ -1,0 +1,36 @@
+{
+    "state": "ARUNACHAL PRADESH",
+    "district": "WEST KAMENG",
+    "offices": [
+        {
+            "officeName": "Balemu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Arunachal Pradesh Division",
+            "latitude": 26.9597611,
+            "longitude": 92.1453397
+        },
+        {
+            "officeName": "Tenzingaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Arunachal Pradesh Division",
+            "latitude": 27.1097351,
+            "longitude": 92.2582725
+        },
+        {
+            "officeName": "Kalaktang S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Arunachal Pradesh Division",
+            "latitude": 27.292854,
+            "longitude": 92.497434
+        }
+    ]
+}

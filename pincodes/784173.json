@@ -1,0 +1,26 @@
+{
+    "state": "ASSAM",
+    "district": "Biswanath",
+    "offices": [
+        {
+            "officeName": "Tinikhuti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.56647,
+            "longitude": 92.69865
+        },
+        {
+            "officeName": "Mijikajan S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.8436864,
+            "longitude": 93.1985574
+        }
+    ]
+}

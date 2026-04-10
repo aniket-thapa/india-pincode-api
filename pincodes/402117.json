@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "RAIGAD",
+    "offices": [
+        {
+            "officeName": "Degaon BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Raigad Division",
+            "latitude": 18.19731,
+            "longitude": 73.2427402
+        },
+        {
+            "officeName": "Morba SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Raigad Division",
+            "latitude": 18.2145708,
+            "longitude": 73.2472054
+        },
+        {
+            "officeName": "Dahivali BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Raigad Division",
+            "latitude": 18.1975849,
+            "longitude": 73.2583809
+        }
+    ]
+}

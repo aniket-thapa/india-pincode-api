@@ -1,0 +1,46 @@
+{
+    "state": "GUJARAT",
+    "district": "RAJKOT",
+    "offices": [
+        {
+            "officeName": "Dholara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Rajkot Division",
+            "latitude": 22.192736,
+            "longitude": 70.7729653
+        },
+        {
+            "officeName": "KothariaTB Hosp BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Rajkot Division",
+            "latitude": 22.1929837,
+            "longitude": 70.801387
+        },
+        {
+            "officeName": "KOTHARIA SO Rajkot",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Rajkot Division",
+            "latitude": 22.2986944,
+            "longitude": 70.7997778
+        },
+        {
+            "officeName": "Khokhaddad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Rajkot Division",
+            "latitude": 22.1929837,
+            "longitude": 70.8013874
+        }
+    ]
+}

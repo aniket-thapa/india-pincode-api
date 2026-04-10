@@ -1,0 +1,36 @@
+{
+    "state": "JAMMU AND KASHMIR",
+    "district": "SRINAGAR",
+    "offices": [
+        {
+            "officeName": "Central Market SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 34.0709444,
+            "longitude": 74.8016111
+        },
+        {
+            "officeName": "Rambagh SO Srinagar",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 36.9,
+            "longitude": 25.9
+        },
+        {
+            "officeName": "New Secretariat Srinagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 34.0746388,
+            "longitude": 74.8010833
+        }
+    ]
+}

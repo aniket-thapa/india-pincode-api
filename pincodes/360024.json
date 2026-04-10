@@ -1,0 +1,26 @@
+{
+    "state": "GUJARAT",
+    "district": "RAJKOT",
+    "offices": [
+        {
+            "officeName": "Pardi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Rajkot Division",
+            "latitude": 22.1852138,
+            "longitude": 70.7973364
+        },
+        {
+            "officeName": "Veraval Shapar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Rajkot Division",
+            "latitude": 22.1647778,
+            "longitude": 70.7954167
+        }
+    ]
+}

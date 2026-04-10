@@ -1,0 +1,26 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "KANPUR NAGAR",
+    "offices": [
+        {
+            "officeName": "Bima Vihar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Kanpur City Division",
+            "latitude": 26.4946944,
+            "longitude": 80.2853889
+        },
+        {
+            "officeName": "K P University SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Kanpur City Division",
+            "latitude": 26.4970556,
+            "longitude": 80.2673889
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Alluri Sitharama Raju",
+    "offices": [
+        {
+            "officeName": "Duppulavada B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Anakapalle Division",
+            "latitude": 18.0218367,
+            "longitude": 82.0900765
+        },
+        {
+            "officeName": "Sileru Project S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Anakapalle Division",
+            "latitude": 18.0370833,
+            "longitude": 82.0191944
+        },
+        {
+            "officeName": "Darakonda B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Anakapalle Division",
+            "latitude": 17.996951,
+            "longitude": 82.124777
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "HARYANA",
+    "district": "SONIPAT",
+    "offices": [
+        {
+            "officeName": "Rohat SO Sonipat",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sonepat Division",
+            "latitude": 28.9926944,
+            "longitude": 77.0179722
+        },
+        {
+            "officeName": "Badhana BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sonepat Division",
+            "latitude": 28.95,
+            "longitude": 76.93
+        },
+        {
+            "officeName": "Bindroli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sonepat Division",
+            "latitude": 28.95,
+            "longitude": 76.93
+        },
+        {
+            "officeName": "Jharot BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sonepat Division",
+            "latitude": 29.1,
+            "longitude": 76.94
+        },
+        {
+            "officeName": "Kanwali BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sonepat Division",
+            "latitude": 29.1,
+            "longitude": 76.94
+        }
+    ]
+}

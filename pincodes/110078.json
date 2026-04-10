@@ -1,0 +1,36 @@
+{
+    "state": "DELHI",
+    "district": "SOUTH WEST",
+    "offices": [
+        {
+            "officeName": "N.S.I.T. Dwarka S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.6102222,
+            "longitude": 77.0376667
+        },
+        {
+            "officeName": "Kakrola B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.598435,
+            "longitude": 77.022021
+        },
+        {
+            "officeName": "GGSIP University S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.6330278,
+            "longitude": 77.1366389
+        }
+    ]
+}

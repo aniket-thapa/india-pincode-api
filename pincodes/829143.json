@@ -1,0 +1,46 @@
+{
+    "state": "JHARKHAND",
+    "district": "RAMGARH",
+    "offices": [
+        {
+            "officeName": "Bicha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hazaribagh Division",
+            "latitude": 23.62767,
+            "longitude": 85.5105
+        },
+        {
+            "officeName": "Balkudra SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hazaribagh Division",
+            "latitude": 24.1044,
+            "longitude": 85.7349
+        },
+        {
+            "officeName": "Gegda BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hazaribagh Division",
+            "latitude": 23.6197492,
+            "longitude": 85.315179
+        },
+        {
+            "officeName": "BHANDRA BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hazaribagh Division",
+            "latitude": 23.6393,
+            "longitude": 85.3188
+        }
+    ]
+}

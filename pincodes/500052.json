@@ -1,0 +1,26 @@
+{
+    "state": "TELANGANA",
+    "district": "RANGA REDDY",
+    "offices": [
+        {
+            "officeName": "Gaganpahad B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Hyderabad South East Division",
+            "latitude": 17.29681,
+            "longitude": 78.4189
+        },
+        {
+            "officeName": "S.V.P.N.P.A. S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Hyderabad South East Division",
+            "latitude": 17.328043,
+            "longitude": 78.435922
+        }
+    ]
+}

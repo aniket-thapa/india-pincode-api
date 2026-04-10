@@ -1,0 +1,46 @@
+{
+    "state": "RAJASTHAN",
+    "district": "KOTA",
+    "offices": [
+        {
+            "officeName": "Nayapura Kota S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Kota Division",
+            "latitude": 25.1915,
+            "longitude": 75.8482778
+        },
+        {
+            "officeName": "Subhash Marg Kota S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Kota Division",
+            "latitude": 25.2134444,
+            "longitude": 75.8660833
+        },
+        {
+            "officeName": "Kota H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Kota Division",
+            "latitude": 25.21,
+            "longitude": 75.86
+        },
+        {
+            "officeName": "Kota Kutchery S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Kota Division",
+            "latitude": 25.2045,
+            "longitude": 75.8605556
+        }
+    ]
+}

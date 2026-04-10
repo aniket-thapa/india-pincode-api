@@ -1,0 +1,36 @@
+{
+    "state": "ODISHA",
+    "district": "BALESHWAR",
+    "offices": [
+        {
+            "officeName": "Kakhra S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Balasore Division",
+            "latitude": 21.79655,
+            "longitude": 87.2282
+        },
+        {
+            "officeName": "Udayganjapatna B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Balasore Division",
+            "latitude": 21.6539149,
+            "longitude": 87.4402233
+        },
+        {
+            "officeName": "Barbatia Bazar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Balasore Division",
+            "latitude": 21.6472016,
+            "longitude": 87.4345033
+        }
+    ]
+}

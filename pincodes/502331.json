@@ -1,0 +1,56 @@
+{
+    "state": "TELANGANA",
+    "district": "MEDAK",
+    "offices": [
+        {
+            "officeName": "Kurthiwada B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.061658,
+            "longitude": 78.116385
+        },
+        {
+            "officeName": "Yousufpet S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.04811,
+            "longitude": 78.13701
+        },
+        {
+            "officeName": "Kodapaka B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 17.98018,
+            "longitude": 78.137638
+        },
+        {
+            "officeName": "Nagasanipally B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.009494,
+            "longitude": 78.159146
+        },
+        {
+            "officeName": "Kothapalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.05019,
+            "longitude": 78.156488
+        }
+    ]
+}

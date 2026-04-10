@@ -1,0 +1,36 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "BARABANKI",
+    "offices": [
+        {
+            "officeName": "Somaiya Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Barabanki Division",
+            "latitude": 26.9121667,
+            "longitude": 81.2035278
+        },
+        {
+            "officeName": "Para Khandauli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Barabanki Division",
+            "latitude": 26.93251,
+            "longitude": 81.3977
+        },
+        {
+            "officeName": "Banwa BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Barabanki Division",
+            "latitude": 26.931613,
+            "longitude": 81.202245
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "JHARKHAND",
+    "district": "RANCHI",
+    "offices": [
+        {
+            "officeName": "Buti Chowk S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ranchi Division",
+            "latitude": 23.63995,
+            "longitude": 85.5113
+        },
+        {
+            "officeName": "Hotwar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ranchi Division",
+            "latitude": 23.373269,
+            "longitude": 85.393277
+        },
+        {
+            "officeName": "Dumardaga B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ranchi Division",
+            "latitude": 23.40901,
+            "longitude": 85.4068
+        },
+        {
+            "officeName": "Buti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ranchi Division",
+            "latitude": 23.411474,
+            "longitude": 85.394986
+        }
+    ]
+}

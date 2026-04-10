@@ -1,0 +1,96 @@
+{
+    "state": "DELHI",
+    "district": "CENTRAL",
+    "offices": [
+        {
+            "officeName": "AGCR SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi Central Division",
+            "latitude": 28.6284722,
+            "longitude": 77.2445556
+        },
+        {
+            "officeName": "Ajmeri Gate Extn SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi Central Division",
+            "latitude": 28.6445,
+            "longitude": 77.2231389
+        },
+        {
+            "officeName": "Rouse Avenue Extension Counter SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi Central Division",
+            "latitude": 28.6352,
+            "longitude": 77.2469
+        },
+        {
+            "officeName": "Indraprastha HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi Central Division",
+            "latitude": 28.6317778,
+            "longitude": 77.24025
+        },
+        {
+            "officeName": "Civic Centre PO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi Central Division",
+            "latitude": 28.6411,
+            "longitude": 77.2272
+        },
+        {
+            "officeName": "IPEstate SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi Central Division",
+            "latitude": 28.6274167,
+            "longitude": 77.2435833
+        },
+        {
+            "officeName": "Darya Ganj SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi Central Division",
+            "latitude": 28.6471667,
+            "longitude": 77.2399444
+        },
+        {
+            "officeName": "Minto Road SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi Central Division",
+            "latitude": 28.6339722,
+            "longitude": 77.2175556
+        },
+        {
+            "officeName": "Gandhi Smarak Nidhi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi Central Division",
+            "latitude": 28.6338611,
+            "longitude": 77.2462222
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "BIHAR",
+    "district": "BUXAR",
+    "offices": [
+        {
+            "officeName": "Dumraon Textiles SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhojpur Division",
+            "latitude": 25.5697222,
+            "longitude": 84.1430555
+        },
+        {
+            "officeName": "Khirauli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhojpur Division",
+            "latitude": 25.527039,
+            "longitude": 84.135155
+        }
+    ]
+}

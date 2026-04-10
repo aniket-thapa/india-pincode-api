@@ -1,0 +1,76 @@
+{
+    "state": "DELHI",
+    "district": "WEST",
+    "offices": [
+        {
+            "officeName": "Hastal Village B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.637713,
+            "longitude": 77.049026
+        },
+        {
+            "officeName": "Uttam Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.6270833,
+            "longitude": 77.8844167
+        },
+        {
+            "officeName": "Matiala B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.609409,
+            "longitude": 77.054325
+        },
+        {
+            "officeName": "D. K. Mohan Garden S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.6215,
+            "longitude": 77.0415278
+        },
+        {
+            "officeName": "Jeevan Park B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Sanjay Enclave PO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.613029,
+            "longitude": 77.059756
+        },
+        {
+            "officeName": "K5 Extn. Mohan Garden",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.635437,
+            "longitude": 77.043958
+        }
+    ]
+}

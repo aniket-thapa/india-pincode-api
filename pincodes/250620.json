@@ -1,0 +1,36 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "BAGHPAT",
+    "offices": [
+        {
+            "officeName": "Bijrol BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Baghpat Division",
+            "latitude": 29.12,
+            "longitude": 77.31
+        },
+        {
+            "officeName": "Bamnauli SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Baghpat Division",
+            "latitude": 29.1462222,
+            "longitude": 77.3500556
+        },
+        {
+            "officeName": "Kandera BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Baghpat Division",
+            "latitude": 29.15965,
+            "longitude": 77.3231
+        }
+    ]
+}

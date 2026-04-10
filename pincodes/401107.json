@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "THANE",
+    "offices": [
+        {
+            "officeName": "Mira Road S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Palghar Division",
+            "latitude": 19.2790833,
+            "longitude": 72.8567222
+        },
+        {
+            "officeName": "Mira S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Palghar Division",
+            "latitude": 19.2734722,
+            "longitude": 72.8774167
+        },
+        {
+            "officeName": "Ghodbander B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Palghar Division",
+            "latitude": 19.2890688,
+            "longitude": 72.8914233
+        }
+    ]
+}

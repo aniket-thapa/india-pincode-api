@@ -1,0 +1,46 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Eluru",
+    "offices": [
+        {
+            "officeName": "Ramasingavaram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Eluru Division",
+            "latitude": 16.8673,
+            "longitude": 81.1251
+        },
+        {
+            "officeName": "Koppulavarigudem B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Eluru Division",
+            "latitude": 16.8293,
+            "longitude": 81.1424
+        },
+        {
+            "officeName": "Kuchimpudi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Eluru Division",
+            "latitude": 16.8505,
+            "longitude": 81.11
+        },
+        {
+            "officeName": "Pedavegi",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Eluru Division",
+            "latitude": 16.8101873,
+            "longitude": 81.1065055
+        }
+    ]
+}

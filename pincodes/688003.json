@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "ALAPPUZHA",
+    "offices": [
+        {
+            "officeName": "Vadackal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Alleppey Division",
+            "latitude": 9.4602,
+            "longitude": 76.33219
+        },
+        {
+            "officeName": "Sanathanapuram SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Alleppey Division",
+            "latitude": 9.2008889,
+            "longitude": 76.2006389
+        }
+    ]
+}

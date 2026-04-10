@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "SATARA",
+    "offices": [
+        {
+            "officeName": "Marali B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Karad Division",
+            "latitude": 17.321245,
+            "longitude": 73.955305
+        },
+        {
+            "officeName": "Daulat Nagar S.O (Satara)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Karad Division",
+            "latitude": 17.3161424,
+            "longitude": 73.9544281
+        },
+        {
+            "officeName": "Sonawade B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Karad Division",
+            "latitude": 17.304872,
+            "longitude": 73.928429
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI SUBURBAN",
+    "offices": [
+        {
+            "officeName": "Marol Naka S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North Division",
+            "latitude": 19.1161667,
+            "longitude": 72.8826111
+        },
+        {
+            "officeName": "J.B. Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North Division",
+            "latitude": 19.1162595630983,
+            "longitude": 72.8822186274394
+        },
+        {
+            "officeName": "Marol Bazar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North Division",
+            "latitude": 19.1103333,
+            "longitude": 72.8738889
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "KARNATAKA",
+    "district": "BENGALURU URBAN",
+    "offices": [
+        {
+            "officeName": "Basavanagudi H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Bengaluru South Division",
+            "latitude": 12.9454166,
+            "longitude": 77.5734762
+        },
+        {
+            "officeName": "Gaviopuram Extension S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Bengaluru South Division",
+            "latitude": 12.9435713,
+            "longitude": 77.5658587
+        },
+        {
+            "officeName": "Pampamahakavi Road S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Bengaluru South Division",
+            "latitude": 12.9537529,
+            "longitude": 77.5722102
+        },
+        {
+            "officeName": "Mavalli S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Bengaluru South Division",
+            "latitude": 12.9514033,
+            "longitude": 77.581555
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "JAMMU AND KASHMIR",
+    "district": "REASI",
+    "offices": [
+        {
+            "officeName": "Salal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Udhampur Division",
+            "latitude": 1.0,
+            "longitude": 1.0
+        },
+        {
+            "officeName": "Jyotipuram SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Udhampur Division",
+            "latitude": 33.10625,
+            "longitude": 74.8941389
+        }
+    ]
+}

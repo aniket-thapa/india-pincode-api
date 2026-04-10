@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "PALGHAR",
+    "offices": [
+        {
+            "officeName": "Parnali B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Palghar Division",
+            "latitude": 19.8270777,
+            "longitude": 72.730405
+        },
+        {
+            "officeName": "Tarapur App S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Palghar Division",
+            "latitude": 19.8130556,
+            "longitude": 72.7423333
+        },
+        {
+            "officeName": "Salwad B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Palghar Division",
+            "latitude": 19.8034749,
+            "longitude": 72.724494
+        }
+    ]
+}

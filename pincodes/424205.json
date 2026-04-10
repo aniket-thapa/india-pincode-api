@@ -1,0 +1,46 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "JALGAON",
+    "offices": [
+        {
+            "officeName": "Nachankheda B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Bhusaval Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Pahur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Bhusaval Division",
+            "latitude": 20.7113089,
+            "longitude": 75.6811561
+        },
+        {
+            "officeName": "Paldhi Pahur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Bhusaval Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Wakod B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Bhusaval Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "BALLIA",
+    "offices": [
+        {
+            "officeName": "Kewara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Ballia Division",
+            "latitude": 25.86,
+            "longitude": 84.26
+        },
+        {
+            "officeName": "Chhata SO Ballia",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Ballia Division",
+            "latitude": 25.8363281,
+            "longitude": 84.2481294
+        },
+        {
+            "officeName": "Chhotaki Seriya BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Ballia Division",
+            "latitude": 25.23,
+            "longitude": 84.55
+        },
+        {
+            "officeName": "Sahodih BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Ballia Division",
+            "latitude": 25.83,
+            "longitude": 84.31
+        }
+    ]
+}

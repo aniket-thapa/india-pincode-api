@@ -1,0 +1,26 @@
+{
+    "state": "BIHAR",
+    "district": "MADHUBANI",
+    "offices": [
+        {
+            "officeName": "Madhubani HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Madhubani Division",
+            "latitude": 26.34725,
+            "longitude": 86.0718611
+        },
+        {
+            "officeName": "Madhubani Court SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Madhubani Division",
+            "latitude": 26.344714,
+            "longitude": 86.07112
+        }
+    ]
+}

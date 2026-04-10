@@ -1,0 +1,46 @@
+{
+    "state": "WEST BENGAL",
+    "district": "24 PARAGANAS NORTH",
+    "offices": [
+        {
+            "officeName": "Balisa Chowmatha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Barasat Division",
+            "latitude": 22.4657208,
+            "longitude": 88.6144936
+        },
+        {
+            "officeName": "Rajibpur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Barasat Division",
+            "latitude": 22.81238,
+            "longitude": 88.578469
+        },
+        {
+            "officeName": "Dogachia BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Barasat Division",
+            "latitude": 22.8095684,
+            "longitude": 88.5784416
+        },
+        {
+            "officeName": "Paschim Malikberia BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Barasat Division",
+            "latitude": 22.4608824,
+            "longitude": 88.6138499
+        }
+    ]
+}

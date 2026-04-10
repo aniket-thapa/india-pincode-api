@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "PURBA BARDHAMAN",
+    "offices": [
+        {
+            "officeName": "Parisha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Burdwan Division",
+            "latitude": 23.51,
+            "longitude": 87.53
+        },
+        {
+            "officeName": "Kuldiha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Burdwan Division",
+            "latitude": 23.48,
+            "longitude": 87.56
+        },
+        {
+            "officeName": "Bhatkunda SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Burdwan Division",
+            "latitude": 23.53944,
+            "longitude": 87.5774
+        }
+    ]
+}

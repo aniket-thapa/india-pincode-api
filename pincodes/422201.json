@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "NASHIK",
+    "offices": [
+        {
+            "officeName": "Kherwadi R.S B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Nasik Division",
+            "latitude": 20.0435918,
+            "longitude": 73.9734408
+        },
+        {
+            "officeName": "Chandori S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Nasik Division",
+            "latitude": 20.0280604,
+            "longitude": 73.9709312
+        }
+    ]
+}

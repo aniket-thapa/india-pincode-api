@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "THRISSUR",
+    "offices": [
+        {
+            "officeName": "Peringavu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Trichur Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Cherur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Trichur Division",
+            "latitude": 10.546367,
+            "longitude": 76.226178
+        }
+    ]
+}

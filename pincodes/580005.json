@@ -1,0 +1,26 @@
+{
+    "state": "KARNATAKA",
+    "district": "DHARWAD",
+    "offices": [
+        {
+            "officeName": "Narendra B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Dharwad Division",
+            "latitude": 15.5053597,
+            "longitude": 74.9744663
+        },
+        {
+            "officeName": "Dharwad U A S S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Dharwad Division",
+            "latitude": 15.4874077,
+            "longitude": 74.9817789
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "RAJASTHAN",
+    "district": "SIKAR",
+    "offices": [
+        {
+            "officeName": "Sutod BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sikar Division",
+            "latitude": 27.672803,
+            "longitude": 74.752726
+        },
+        {
+            "officeName": "Tiroki Badi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sikar Division",
+            "latitude": 27.70146,
+            "longitude": 74.7658918
+        },
+        {
+            "officeName": "Bochi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sikar Division",
+            "latitude": 27.6090517,
+            "longitude": 74.7073692
+        },
+        {
+            "officeName": "Ganeri SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sikar Division",
+            "latitude": 27.6341111,
+            "longitude": 74.7308333
+        }
+    ]
+}

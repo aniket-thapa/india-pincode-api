@@ -1,0 +1,26 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "INDORE",
+    "offices": [
+        {
+            "officeName": "Lokmanya Nagar Indore S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Indore City Division",
+            "latitude": 22.6878611,
+            "longitude": 75.8198889
+        },
+        {
+            "officeName": "Sudama Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Indore City Division",
+            "latitude": 22.6953333,
+            "longitude": 75.8360556
+        }
+    ]
+}

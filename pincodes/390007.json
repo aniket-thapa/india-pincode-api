@@ -1,0 +1,46 @@
+{
+    "state": "GUJARAT",
+    "district": "VADODARA",
+    "offices": [
+        {
+            "officeName": "Vidhyut Nagar Colony SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Vadodara West Division",
+            "latitude": 22.2995833,
+            "longitude": 73.1665556
+        },
+        {
+            "officeName": "District Court S.O.",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Vadodara West Division",
+            "latitude": 22.3049,
+            "longitude": 73.1601
+        },
+        {
+            "officeName": "Racecourse SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Vadodara West Division",
+            "latitude": 22.3078333,
+            "longitude": 73.1635833
+        },
+        {
+            "officeName": "Alkapuri SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Vadodara West Division",
+            "latitude": 22.3136944,
+            "longitude": 73.1770278
+        }
+    ]
+}

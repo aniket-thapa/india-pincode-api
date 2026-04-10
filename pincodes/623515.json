@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "RAMANATHAPURAM",
+    "offices": [
+        {
+            "officeName": "Mayakulam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Ramanathapuram Division",
+            "latitude": 9.24,
+            "longitude": 78.74
+        },
+        {
+            "officeName": "Ervadi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Ramanathapuram Division",
+            "latitude": 9.260879,
+            "longitude": 78.798094
+        },
+        {
+            "officeName": "Idambadal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Ramanathapuram Division",
+            "latitude": 9.26,
+            "longitude": 78.68
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "GUJARAT",
+    "district": "AMRELI",
+    "offices": [
+        {
+            "officeName": "Kovaya BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Amreli Division",
+            "latitude": 20.93931,
+            "longitude": 71.458716
+        },
+        {
+            "officeName": "UTCL Kovaya SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Amreli Division",
+            "latitude": 21.395061,
+            "longitude": 71.127304
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "state": "CHHATTISGARH",
+    "district": "BILASPUR",
+    "offices": [
+        {
+            "officeName": "Sirgitti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bilaspur Division",
+            "latitude": 22.041771,
+            "longitude": 82.152918
+        },
+        {
+            "officeName": "Harditonakala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bilaspur Division",
+            "latitude": 22.006546,
+            "longitude": 82.168644
+        },
+        {
+            "officeName": "Deorikhurd BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bilaspur Division",
+            "latitude": 22.128621,
+            "longitude": 81.999837
+        },
+        {
+            "officeName": "Bilaspur RS SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bilaspur Division",
+            "latitude": 22.05943,
+            "longitude": 82.17029
+        },
+        {
+            "officeName": "Cmd College Bilaspur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bilaspur Division",
+            "latitude": 22.0668,
+            "longitude": 82.15724
+        },
+        {
+            "officeName": "Dhuma BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bilaspur Division",
+            "latitude": 22.020462,
+            "longitude": 82.212142
+        },
+        {
+            "officeName": "Ramdas Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bilaspur Division",
+            "latitude": 22.07113,
+            "longitude": 82.16828
+        }
+    ]
+}

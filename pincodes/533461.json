@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Kakinada",
+    "offices": [
+        {
+            "officeName": "Chollangipeta B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Kakinada Division",
+            "latitude": 18.1,
+            "longitude": 83.48
+        },
+        {
+            "officeName": "Patavala B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Kakinada Division",
+            "latitude": 16.82,
+            "longitude": 82.22
+        },
+        {
+            "officeName": "Coringa S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Kakinada Division",
+            "latitude": 16.8123611,
+            "longitude": 82.2317778
+        }
+    ]
+}

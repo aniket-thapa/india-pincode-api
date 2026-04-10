@@ -1,0 +1,76 @@
+{
+    "state": "TELANGANA",
+    "district": "MAHABUBNAGAR",
+    "offices": [
+        {
+            "officeName": "Mahabubnagar H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Mahabubnagar Division",
+            "latitude": 16.7490833,
+            "longitude": 77.9942222
+        },
+        {
+            "officeName": "Mbn Rs S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Mahabubnagar Division",
+            "latitude": 16.754213,
+            "longitude": 77.999376
+        },
+        {
+            "officeName": "Pathapalamur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Mahabubnagar Division",
+            "latitude": 16.734606,
+            "longitude": 77.992601
+        },
+        {
+            "officeName": "T.D. Gutta S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Mahabubnagar Division",
+            "latitude": 16.75061,
+            "longitude": 77.991257
+        },
+        {
+            "officeName": "Veerannapet S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Mahabubnagar Division",
+            "latitude": 16.743694,
+            "longitude": 77.977912
+        },
+        {
+            "officeName": "Hanumanpura S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Mahabubnagar Division",
+            "latitude": 16.732063,
+            "longitude": 77.984567
+        },
+        {
+            "officeName": "Osmangunj S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Mahabubnagar Division",
+            "latitude": 16.739776,
+            "longitude": 77.988398
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "TELANGANA",
+    "district": "HYDERABAD",
+    "offices": [
+        {
+            "officeName": "Yousufguda S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Hyderabad City Division",
+            "latitude": 17.441504,
+            "longitude": 78.424536
+        },
+        {
+            "officeName": "A.Gs. Staff Quarters S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Hyderabad City Division",
+            "latitude": 17.44788889,
+            "longitude": 78.42883333
+        }
+    ]
+}

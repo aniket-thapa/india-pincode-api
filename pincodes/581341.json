@@ -1,0 +1,46 @@
+{
+    "state": "KARNATAKA",
+    "district": "UTTARA KANNADA",
+    "offices": [
+        {
+            "officeName": "Konkar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Karwar Division",
+            "latitude": 14.3236832,
+            "longitude": 74.4333445
+        },
+        {
+            "officeName": "Vandur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Karwar Division",
+            "latitude": 14.3279104,
+            "longitude": 74.4632029
+        },
+        {
+            "officeName": "Karki S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Karwar Division",
+            "latitude": 14.3102615,
+            "longitude": 74.4310593
+        },
+        {
+            "officeName": "Pavinkurve B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Karwar Division",
+            "latitude": 14.3087594,
+            "longitude": 74.4181847
+        }
+    ]
+}

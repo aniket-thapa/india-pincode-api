@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "HAVERI",
+    "offices": [
+        {
+            "officeName": "Kamadod B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Haveri Division",
+            "latitude": 14.5743199,
+            "longitude": 75.6811756
+        },
+        {
+            "officeName": "Karur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Haveri Division",
+            "latitude": 14.5629902,
+            "longitude": 75.742287
+        },
+        {
+            "officeName": "Chalageri S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Haveri Division",
+            "latitude": 14.5677096,
+            "longitude": 75.7205617
+        }
+    ]
+}

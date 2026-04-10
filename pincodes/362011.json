@@ -1,0 +1,56 @@
+{
+    "state": "GUJARAT",
+    "district": "JUNAGADH",
+    "offices": [
+        {
+            "officeName": "Majevadi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Junagadh Division",
+            "latitude": 21.6066111,
+            "longitude": 70.4058611
+        },
+        {
+            "officeName": "Goladhar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Junagadh Division",
+            "latitude": 21.6248547,
+            "longitude": 70.3964733
+        },
+        {
+            "officeName": "Makhiyala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Junagadh Division",
+            "latitude": 21.6165675,
+            "longitude": 70.4511485
+        },
+        {
+            "officeName": "Patrapasar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Junagadh Division",
+            "latitude": 21.5775113,
+            "longitude": 70.3773572
+        },
+        {
+            "officeName": "Jhalansar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Junagadh Division",
+            "latitude": 21.6460867,
+            "longitude": 70.4392254
+        }
+    ]
+}

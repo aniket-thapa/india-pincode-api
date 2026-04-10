@@ -1,0 +1,36 @@
+{
+    "state": "ODISHA",
+    "district": "KHORDHA",
+    "offices": [
+        {
+            "officeName": "Budheswari Colony S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhubaneswar Division",
+            "latitude": 20.2565278,
+            "longitude": 85.846
+        },
+        {
+            "officeName": "Laxmisagar S.O (Khorda)",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhubaneswar Division",
+            "latitude": 20.2714654,
+            "longitude": 85.8580854
+        },
+        {
+            "officeName": "Kalpana Square S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhubaneswar Division",
+            "latitude": 20.2591666,
+            "longitude": 85.8455555
+        }
+    ]
+}

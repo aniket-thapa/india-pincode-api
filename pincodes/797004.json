@@ -1,0 +1,36 @@
+{
+    "state": "NAGALAND",
+    "district": "KOHIMA",
+    "offices": [
+        {
+            "officeName": "Meriema B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Nagaland Division",
+            "latitude": 25.7245655,
+            "longitude": 94.0956445
+        },
+        {
+            "officeName": "Thizama B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Nagaland Division",
+            "latitude": 25.7455895,
+            "longitude": 94.1087275
+        },
+        {
+            "officeName": "New Sectt Complex S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Nagaland Division",
+            "latitude": 25.6707778,
+            "longitude": 94.1075833
+        }
+    ]
+}

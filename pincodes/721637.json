@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "MEDINIPUR EAST",
+    "offices": [
+        {
+            "officeName": "Abasbari SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Tamluk Division",
+            "latitude": 22.293121,
+            "longitude": 87.923554
+        },
+        {
+            "officeName": "Dhalhara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Tamluk Division",
+            "latitude": 22.302,
+            "longitude": 87.925
+        },
+        {
+            "officeName": "Biswas BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Tamluk Division",
+            "latitude": 22.302,
+            "longitude": 87.925
+        }
+    ]
+}

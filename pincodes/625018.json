@@ -1,0 +1,66 @@
+{
+    "state": "TAMIL NADU",
+    "district": "MADURAI",
+    "offices": [
+        {
+            "officeName": "Vilangudi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Madurai Division",
+            "latitude": 9.947614,
+            "longitude": 78.90865
+        },
+        {
+            "officeName": "Visalakshi Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Madurai Division",
+            "latitude": 9.9561944,
+            "longitude": 78.0838611
+        },
+        {
+            "officeName": "Shanthi Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Madurai Division",
+            "latitude": 9.9546389,
+            "longitude": 78.0980278
+        },
+        {
+            "officeName": "Podumbu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Madurai Division",
+            "latitude": 9.985126,
+            "longitude": 78.084448
+        },
+        {
+            "officeName": "Kumaram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Madurai Division",
+            "latitude": 10.009818,
+            "longitude": 78.093361
+        },
+        {
+            "officeName": "Thathaneri SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Madurai Division",
+            "latitude": 9.9413333,
+            "longitude": 78.1007778
+        }
+    ]
+}

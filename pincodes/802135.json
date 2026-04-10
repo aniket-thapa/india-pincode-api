@@ -1,0 +1,26 @@
+{
+    "state": "BIHAR",
+    "district": "BUXAR",
+    "offices": [
+        {
+            "officeName": "Simari SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Buxar Division",
+            "latitude": 25.641932,
+            "longitude": 84.109206
+        },
+        {
+            "officeName": "Asha Parari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Buxar Division",
+            "latitude": 25.636048,
+            "longitude": 84.133726
+        }
+    ]
+}

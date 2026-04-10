@@ -1,0 +1,36 @@
+{
+    "state": "DELHI",
+    "district": "WEST",
+    "offices": [
+        {
+            "officeName": "Inderpuri SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi Central Division",
+            "latitude": 28.6320278,
+            "longitude": 77.1484167
+        },
+        {
+            "officeName": "IARI SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi Central Division",
+            "latitude": 28.6401944,
+            "longitude": 77.1659722
+        },
+        {
+            "officeName": "National Physical Laboratory SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi Central Division",
+            "latitude": 28.6368611,
+            "longitude": 77.1696111
+        }
+    ]
+}

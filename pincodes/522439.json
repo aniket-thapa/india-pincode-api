@@ -1,0 +1,26 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Palnadu",
+    "offices": [
+        {
+            "officeName": "Thimmareddipuram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Narasaraopet Division",
+            "latitude": 16.1345,
+            "longitude": 79.6985
+        },
+        {
+            "officeName": "Vijayapuri South S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Narasaraopet Division",
+            "latitude": 16.5579444,
+            "longitude": 79.3085278
+        }
+    ]
+}

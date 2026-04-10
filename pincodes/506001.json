@@ -1,0 +1,36 @@
+{
+    "state": "TELANGANA",
+    "district": "HANUMAKONDA",
+    "offices": [
+        {
+            "officeName": "Hanamkonda H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Hanamkonda Division",
+            "latitude": 18.005522,
+            "longitude": 79.557726
+        },
+        {
+            "officeName": "Lashkar Bazar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Hanamkonda Division",
+            "latitude": 18.0098611,
+            "longitude": 79.5643611
+        },
+        {
+            "officeName": "Subedari S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Hanamkonda Division",
+            "latitude": 17.1526111,
+            "longitude": 79.9022778
+        }
+    ]
+}

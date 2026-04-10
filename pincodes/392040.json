@@ -1,0 +1,56 @@
+{
+    "state": "GUJARAT",
+    "district": "BHARUCH",
+    "offices": [
+        {
+            "officeName": "Islampur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bharuch Division",
+            "latitude": 21.976233,
+            "longitude": 72.64148
+        },
+        {
+            "officeName": "Madafar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bharuch Division",
+            "latitude": 22.056248,
+            "longitude": 72.644599
+        },
+        {
+            "officeName": "Nada BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bharuch Division",
+            "latitude": 21.951733,
+            "longitude": 72.559193
+        },
+        {
+            "officeName": "Devla BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bharuch Division",
+            "latitude": 21.996704,
+            "longitude": 72.578763
+        },
+        {
+            "officeName": "Tankari SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bharuch Division",
+            "latitude": 21.938796,
+            "longitude": 73.540571
+        }
+    ]
+}

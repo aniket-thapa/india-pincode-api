@@ -1,0 +1,46 @@
+{
+    "state": "MANIPUR",
+    "district": "KANGPOKPI",
+    "offices": [
+        {
+            "officeName": "Tumuyan Khullen B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Manipur Division",
+            "latitude": 25.184706,
+            "longitude": 93.98124
+        },
+        {
+            "officeName": "Senapati S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Manipur Division",
+            "latitude": 25.325855,
+            "longitude": 94.12465
+        },
+        {
+            "officeName": "Oklong B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Manipur Division",
+            "latitude": 25.392983,
+            "longitude": 94.00543
+        },
+        {
+            "officeName": "Khamsom B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Manipur Division",
+            "latitude": 25.182595,
+            "longitude": 94.154297
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "ASSAM",
+    "district": "GOALPARA",
+    "offices": [
+        {
+            "officeName": "Darrangiri S.O.",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 26.0186944,
+            "longitude": 89.9942778
+        },
+        {
+            "officeName": "Melopara B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Kachadal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Sesapani B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

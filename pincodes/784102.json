@@ -1,0 +1,26 @@
+{
+    "state": "ASSAM",
+    "district": "SONITPUR",
+    "offices": [
+        {
+            "officeName": "Sonaipam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.94854,
+            "longitude": 92.79405
+        },
+        {
+            "officeName": "Lokra S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.8511297,
+            "longitude": 92.8047488
+        }
+    ]
+}

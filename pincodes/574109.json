@@ -1,0 +1,46 @@
+{
+    "state": "KARNATAKA",
+    "district": "UDUPI",
+    "offices": [
+        {
+            "officeName": "Idu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Puttur Division",
+            "latitude": 13.1433276,
+            "longitude": 75.154812
+        },
+        {
+            "officeName": "Naravi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Puttur Division",
+            "latitude": 13.1211944,
+            "longitude": 75.1478611
+        },
+        {
+            "officeName": "Kutlur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Puttur Division",
+            "latitude": 13.0933848,
+            "longitude": 75.1696929
+        },
+        {
+            "officeName": "Sulkeri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Puttur Division",
+            "latitude": 13.07506,
+            "longitude": 75.1912364
+        }
+    ]
+}

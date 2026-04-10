@@ -1,0 +1,26 @@
+{
+    "state": "TELANGANA",
+    "district": "HYDERABAD",
+    "offices": [
+        {
+            "officeName": "Sanjeev Reddy Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Hyderabad City Division",
+            "latitude": 17.437388,
+            "longitude": 78.444238
+        },
+        {
+            "officeName": "Vengal Rao Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Hyderabad City Division",
+            "latitude": 17.73716667,
+            "longitude": 78.73511111
+        }
+    ]
+}

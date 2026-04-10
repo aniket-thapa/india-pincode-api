@@ -1,0 +1,56 @@
+{
+    "state": "RAJASTHAN",
+    "district": "SIROHI",
+    "offices": [
+        {
+            "officeName": "Dantrai S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 24.7291389,
+            "longitude": 72.5176944
+        },
+        {
+            "officeName": "Nimbaj B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 24.730968,
+            "longitude": 72.445054
+        },
+        {
+            "officeName": "Sanpur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 24.786303,
+            "longitude": 72.59294
+        },
+        {
+            "officeName": "Amlari B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 24.772391,
+            "longitude": 72.548581
+        },
+        {
+            "officeName": "Dhan B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 24.702247,
+            "longitude": 72.550299
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "KRISHNA",
+    "offices": [
+        {
+            "officeName": "Kummaripalem B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Machilipatnam Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Pedakallepalli S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Machilipatnam Division",
+            "latitude": 16.08227778,
+            "longitude": 80.98855556
+        },
+        {
+            "officeName": "Venaktapuram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Machilipatnam Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

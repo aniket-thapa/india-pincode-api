@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "SALEM",
+    "offices": [
+        {
+            "officeName": "Kamaraj Nagar Colony S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Salem East Division",
+            "latitude": 11.6621438,
+            "longitude": 78.1977143
+        },
+        {
+            "officeName": "Tadampatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Salem East Division",
+            "latitude": 11.6672936,
+            "longitude": 78.2003322
+        }
+    ]
+}

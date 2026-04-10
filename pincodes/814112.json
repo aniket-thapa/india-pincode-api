@@ -1,0 +1,46 @@
+{
+    "state": "JHARKHAND",
+    "district": "DEOGHAR",
+    "offices": [
+        {
+            "officeName": "Jhaunsagarhi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "B.Deoghar Division",
+            "latitude": 24.490417,
+            "longitude": 86.690601
+        },
+        {
+            "officeName": "B MANDIR SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "B.Deoghar Division",
+            "latitude": 24.490417,
+            "longitude": 86.690601
+        },
+        {
+            "officeName": "BDeoghar HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "B.Deoghar Division",
+            "latitude": 24.490417,
+            "longitude": 86.690601
+        },
+        {
+            "officeName": "Deoghar Court SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "B.Deoghar Division",
+            "latitude": 24.490417,
+            "longitude": 86.690601
+        }
+    ]
+}

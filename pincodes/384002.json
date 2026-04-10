@@ -1,0 +1,26 @@
+{
+    "state": "GUJARAT",
+    "district": "MAHESANA",
+    "offices": [
+        {
+            "officeName": "Mahesana Radhanpur Road S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Mahesana Division",
+            "latitude": 23.657895,
+            "longitude": 72.118538
+        },
+        {
+            "officeName": "Mahesana I E SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Mahesana Division",
+            "latitude": 23.588142,
+            "longitude": 72.370791
+        }
+    ]
+}

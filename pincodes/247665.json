@@ -1,0 +1,46 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "offices": [
+        {
+            "officeName": "Jhabrera SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehradun Division",
+            "latitude": 29.8094444,
+            "longitude": 77.7751667
+        },
+        {
+            "officeName": "Majhaul BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehradun Division",
+            "latitude": 29.85426,
+            "longitude": 77.88799
+        },
+        {
+            "officeName": "Makdoompur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehradun Division",
+            "latitude": 29.8042,
+            "longitude": 77.967
+        },
+        {
+            "officeName": "Sherpur Khelmau BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehradun Division",
+            "latitude": 29.79,
+            "longitude": 77.79
+        }
+    ]
+}

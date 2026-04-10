@@ -1,0 +1,46 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Bapatla",
+    "offices": [
+        {
+            "officeName": "Railpeta Bapatla S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Tenali Division",
+            "latitude": 15.9,
+            "longitude": 80.46669444
+        },
+        {
+            "officeName": "Rangaraothota S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Tenali Division",
+            "latitude": 15.90308333,
+            "longitude": 80.46825
+        },
+        {
+            "officeName": "Snpagraharam S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Tenali Division",
+            "latitude": 15.90991667,
+            "longitude": 80.47913889
+        },
+        {
+            "officeName": "Bapatla H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Tenali Division",
+            "latitude": 15.90369444,
+            "longitude": 80.46794444
+        }
+    ]
+}

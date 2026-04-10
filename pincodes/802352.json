@@ -1,0 +1,56 @@
+{
+    "state": "BIHAR",
+    "district": "BHOJPUR",
+    "offices": [
+        {
+            "officeName": "Akhagaon SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhojpur Division",
+            "latitude": 25.5587222,
+            "longitude": 84.6674722
+        },
+        {
+            "officeName": "Jokta BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhojpur Division",
+            "latitude": 25.515277,
+            "longitude": 84.705496
+        },
+        {
+            "officeName": "Jalpura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhojpur Division",
+            "latitude": 25.487059,
+            "longitude": 84.73847
+        },
+        {
+            "officeName": "Nasaratpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhojpur Division",
+            "latitude": 25.452184,
+            "longitude": 84.747216
+        },
+        {
+            "officeName": "Pratappur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhojpur Division",
+            "latitude": 25.291887,
+            "longitude": 85.407851
+        }
+    ]
+}

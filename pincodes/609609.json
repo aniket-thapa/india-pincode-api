@@ -1,0 +1,36 @@
+{
+    "state": "PUDUCHERRY",
+    "district": "KARAIKAL",
+    "offices": [
+        {
+            "officeName": "Kottuchery S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.96,
+            "longitude": 79.83
+        },
+        {
+            "officeName": "Tiruvettakudi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.98,
+            "longitude": 79.84
+        },
+        {
+            "officeName": "Varichikudi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.99,
+            "longitude": 79.82
+        }
+    ]
+}

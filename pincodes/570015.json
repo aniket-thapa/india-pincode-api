@@ -1,0 +1,26 @@
+{
+    "state": "KARNATAKA",
+    "district": "MYSURU",
+    "offices": [
+        {
+            "officeName": "Shivaraathreeswar Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Mysuru Division",
+            "latitude": 12.34366667,
+            "longitude": 76.65372222
+        },
+        {
+            "officeName": "Bannimantap S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Mysuru Division",
+            "latitude": 12.33166667,
+            "longitude": 76.65038889
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "ASSAM",
+    "district": "HOJAI",
+    "offices": [
+        {
+            "officeName": "Jogijan Bazar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Nagaon Division",
+            "latitude": 26.3503,
+            "longitude": 92.6922
+        },
+        {
+            "officeName": "Sibpur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Nagaon Division",
+            "latitude": 26.3503,
+            "longitude": 92.6922
+        },
+        {
+            "officeName": "Radhanagar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Nagaon Division",
+            "latitude": 26.3503,
+            "longitude": 92.6922
+        }
+    ]
+}

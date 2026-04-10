@@ -1,0 +1,46 @@
+{
+    "state": "PUNJAB",
+    "district": "SANGRUR",
+    "offices": [
+        {
+            "officeName": "Sangrur Kty SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sangrur Division",
+            "latitude": 30.2471944,
+            "longitude": 75.84575
+        },
+        {
+            "officeName": "Sangrur HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sangrur Division",
+            "latitude": 30.2455278,
+            "longitude": 75.8443056
+        },
+        {
+            "officeName": "Mini Secteriate Sangrur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sangrur Division",
+            "latitude": 30.2473889,
+            "longitude": 75.8388611
+        },
+        {
+            "officeName": "N G M Sangrur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sangrur Division",
+            "latitude": 30.2416667,
+            "longitude": 75.8326667
+        }
+    ]
+}

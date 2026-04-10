@@ -1,0 +1,56 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "MEERUT",
+    "offices": [
+        {
+            "officeName": "Kanshi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Meerut Division",
+            "latitude": 28.887,
+            "longitude": 77.65705
+        },
+        {
+            "officeName": "Kazamabad Goon BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Meerut Division",
+            "latitude": 28.9004,
+            "longitude": 77.57066
+        },
+        {
+            "officeName": "Muzakkipur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Meerut Division",
+            "latitude": 28.9187,
+            "longitude": 77.54154
+        },
+        {
+            "officeName": "Mohiuddinpur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Meerut Division",
+            "latitude": 28.8835,
+            "longitude": 77.61867
+        },
+        {
+            "officeName": "Chhajupur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Meerut Division",
+            "latitude": 28.9105,
+            "longitude": 77.60169
+        }
+    ]
+}

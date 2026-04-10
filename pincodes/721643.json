@@ -1,0 +1,26 @@
+{
+    "state": "WEST BENGAL",
+    "district": "MEDINIPUR EAST",
+    "offices": [
+        {
+            "officeName": "Khanchi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Tamluk Division",
+            "latitude": 22.8786111,
+            "longitude": 88.0141666
+        },
+        {
+            "officeName": "Dhanyaghar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Tamluk Division",
+            "latitude": 22.7639,
+            "longitude": 88.1081
+        }
+    ]
+}

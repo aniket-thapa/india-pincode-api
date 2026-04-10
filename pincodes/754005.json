@@ -1,0 +1,36 @@
+{
+    "state": "ODISHA",
+    "district": "CUTTACK",
+    "offices": [
+        {
+            "officeName": "B G P Pur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Cuttack City Division",
+            "latitude": 20.4502861,
+            "longitude": 85.8233191
+        },
+        {
+            "officeName": "Belgachhia B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Cuttack City Division",
+            "latitude": 20.4254616,
+            "longitude": 85.8521297
+        },
+        {
+            "officeName": "Barang S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Cuttack City Division",
+            "latitude": 20.4078689,
+            "longitude": 85.8337794
+        }
+    ]
+}

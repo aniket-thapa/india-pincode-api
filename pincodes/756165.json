@@ -1,0 +1,36 @@
+{
+    "state": "ODISHA",
+    "district": "BHADRAK",
+    "offices": [
+        {
+            "officeName": "Bachhipur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhadrak Division",
+            "latitude": 21.1191233,
+            "longitude": 86.6967283
+        },
+        {
+            "officeName": "Kiapada B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhadrak Division",
+            "latitude": 21.1052466,
+            "longitude": 86.697165
+        },
+        {
+            "officeName": "Brahmanigaon S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhadrak Division",
+            "latitude": 20.93568,
+            "longitude": 86.7976
+        }
+    ]
+}

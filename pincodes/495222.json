@@ -1,0 +1,26 @@
+{
+    "state": "CHHATTISGARH",
+    "district": "BILASPUR",
+    "offices": [
+        {
+            "officeName": "Hirri Mines SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bilaspur Division",
+            "latitude": 22.0242288,
+            "longitude": 82.08437
+        },
+        {
+            "officeName": "Hirri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bilaspur Division",
+            "latitude": 21.976835,
+            "longitude": 82.043438
+        }
+    ]
+}

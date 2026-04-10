@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "MALAPPURAM",
+    "offices": [
+        {
+            "officeName": "Vallikkunnu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Tirur Division",
+            "latitude": 11.0927244,
+            "longitude": 75.8446802
+        },
+        {
+            "officeName": "Vallikkunnu North BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Tirur Division",
+            "latitude": 11.0927244,
+            "longitude": 75.8446802
+        },
+        {
+            "officeName": "Kadalundinagaram SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Tirur Division",
+            "latitude": 11.1182014,
+            "longitude": 75.8307373
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "KARNATAKA",
+    "district": "DAKSHINA KANNADA",
+    "offices": [
+        {
+            "officeName": "Bannur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Puttur Division",
+            "latitude": 12.7774861,
+            "longitude": 75.1965605
+        },
+        {
+            "officeName": "Nehrunagar(Puttur DK) S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Puttur Division",
+            "latitude": 12.7770278,
+            "longitude": 75.1822222
+        },
+        {
+            "officeName": "Ujirpade B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Puttur Division",
+            "latitude": 12.7484431,
+            "longitude": 75.1841044
+        },
+        {
+            "officeName": "Chickmudnoor B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Puttur Division",
+            "latitude": 12.7810159,
+            "longitude": 75.2089416
+        }
+    ]
+}

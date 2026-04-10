@@ -1,0 +1,56 @@
+{
+    "state": "GUJARAT",
+    "district": "PANCH MAHALS",
+    "offices": [
+        {
+            "officeName": "Boru Bakorl BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Panchmahals Division",
+            "latitude": 22.5991,
+            "longitude": 72.5713
+        },
+        {
+            "officeName": "Madhvas BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Panchmahals Division",
+            "latitude": 23.1954,
+            "longitude": 73.6213
+        },
+        {
+            "officeName": "Maghasar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Panchmahals Division",
+            "latitude": 22.5623,
+            "longitude": 73.459
+        },
+        {
+            "officeName": "Ratanpura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Panchmahals Division",
+            "latitude": 22.5938,
+            "longitude": 73.396
+        },
+        {
+            "officeName": "Kalol SO Panch Mahals",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Panchmahals Division",
+            "latitude": 22.77675,
+            "longitude": 73.6124444
+        }
+    ]
+}

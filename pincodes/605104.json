@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "VILLUPURAM",
+    "offices": [
+        {
+            "officeName": "Bommayarpalayam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Pondicherry Division",
+            "latitude": 11.991509,
+            "longitude": 79.849453
+        },
+        {
+            "officeName": "Kottakuppam SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Pondicherry Division",
+            "latitude": 11.9580833,
+            "longitude": 79.8362222
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "KANPUR NAGAR",
+    "offices": [
+        {
+            "officeName": "Hns Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Kanpur City Division",
+            "latitude": 26.4673889,
+            "longitude": 80.3026944
+        },
+        {
+            "officeName": "Sarvodaya Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Kanpur City Division",
+            "latitude": 26.4800278,
+            "longitude": 80.3194722
+        },
+        {
+            "officeName": "Shivaji Nagar SO Kanpur Nagar",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Kanpur City Division",
+            "latitude": 26.479,
+            "longitude": 80.29
+        },
+        {
+            "officeName": "Vijai Nagar SO Kanpur Nagar",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Kanpur City Division",
+            "latitude": 26.4735556,
+            "longitude": 80.3506944
+        }
+    ]
+}

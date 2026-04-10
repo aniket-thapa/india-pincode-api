@@ -1,0 +1,46 @@
+{
+    "state": "MEGHALAYA",
+    "district": "EAST KHASI HILLS",
+    "offices": [
+        {
+            "officeName": "Mawpat S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Meghalaya Division",
+            "latitude": 25.5739167,
+            "longitude": 91.8848611
+        },
+        {
+            "officeName": "Diengpasoh B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Meghalaya Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Mawkhanu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Meghalaya Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Tynring B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Meghalaya Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

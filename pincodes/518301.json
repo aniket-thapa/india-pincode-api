@@ -1,0 +1,46 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "KURNOOL",
+    "offices": [
+        {
+            "officeName": "Adoni town S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Kurnool Division",
+            "latitude": 15.63316667,
+            "longitude": 77.27386111
+        },
+        {
+            "officeName": "Adoni H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Kurnool Division",
+            "latitude": 15.65838889,
+            "longitude": 77.2735
+        },
+        {
+            "officeName": "Bhar Peta Adoni S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Kurnool Division",
+            "latitude": 15.61877778,
+            "longitude": 77.2685
+        },
+        {
+            "officeName": "S.K.D.Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Kurnool Division",
+            "latitude": 15.62230556,
+            "longitude": 77.269
+        }
+    ]
+}

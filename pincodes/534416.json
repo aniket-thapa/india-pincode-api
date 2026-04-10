@@ -1,0 +1,26 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "WEST GODAVARI",
+    "offices": [
+        {
+            "officeName": "A.Gokavaram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Eluru Division",
+            "latitude": 16.8171,
+            "longitude": 81.385
+        },
+        {
+            "officeName": "Kaikaram S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Eluru Division",
+            "latitude": 16.81175,
+            "longitude": 81.3660556
+        }
+    ]
+}

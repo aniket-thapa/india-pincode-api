@@ -1,0 +1,86 @@
+{
+    "state": "PUNJAB",
+    "district": "LUDHIANA",
+    "offices": [
+        {
+            "officeName": "Boothgarh BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ludhiana City Division",
+            "latitude": 30.98,
+            "longitude": 75.95
+        },
+        {
+            "officeName": "Mattewara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ludhiana City Division",
+            "latitude": 30.98,
+            "longitude": 75.98
+        },
+        {
+            "officeName": "Mangat BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ludhiana City Division",
+            "latitude": 30.98,
+            "longitude": 75.91
+        },
+        {
+            "officeName": "Basti Jodhewal SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ludhiana City Division",
+            "latitude": 30.9314638,
+            "longitude": 75.8716944
+        },
+        {
+            "officeName": "Hawas BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ludhiana City Division",
+            "latitude": 30.96,
+            "longitude": 75.95
+        },
+        {
+            "officeName": "Eros Bajra Road SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ludhiana City Division",
+            "latitude": 30.9566972,
+            "longitude": 75.8886194
+        },
+        {
+            "officeName": "Khwajke BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ludhiana City Division",
+            "latitude": 30.96,
+            "longitude": 75.92
+        },
+        {
+            "officeName": "Noorwala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ludhiana City Division",
+            "latitude": 30.96,
+            "longitude": 75.86
+        }
+    ]
+}

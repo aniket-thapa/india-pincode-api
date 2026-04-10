@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "KARUR",
+    "offices": [
+        {
+            "officeName": "Moolapatti S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Karur Division",
+            "latitude": 10.8471111,
+            "longitude": 77.9716111
+        },
+        {
+            "officeName": "Varikkapatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Karur Division",
+            "latitude": 10.8,
+            "longitude": 78.03
+        },
+        {
+            "officeName": "Nagampalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Karur Division",
+            "latitude": 10.83,
+            "longitude": 77.93
+        },
+        {
+            "officeName": "Venjamangudalur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Karur Division",
+            "latitude": 10.82,
+            "longitude": 78.0
+        }
+    ]
+}

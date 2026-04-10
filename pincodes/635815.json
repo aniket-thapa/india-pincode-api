@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "Tirupathur",
+    "offices": [
+        {
+            "officeName": "Kethandapatti Sugar Mills S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupattur Division",
+            "latitude": 12.620767,
+            "longitude": 78.564316
+        },
+        {
+            "officeName": "Athurkuppam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupattur Division",
+            "latitude": 12.599899,
+            "longitude": 78.542161
+        },
+        {
+            "officeName": "Kethandapatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupattur Division",
+            "latitude": 12.619801,
+            "longitude": 78.570517
+        }
+    ]
+}

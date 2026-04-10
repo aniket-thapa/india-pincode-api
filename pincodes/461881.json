@@ -1,0 +1,56 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "HOSHANGABAD",
+    "offices": [
+        {
+            "officeName": "Pagara",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hoshangabad Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Pachmarhi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hoshangabad Division",
+            "latitude": 22.4591111,
+            "longitude": 78.4373611
+        },
+        {
+            "officeName": "Nandiya",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hoshangabad Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Jhiriya",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hoshangabad Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Pachmarhi Cantt S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hoshangabad Division",
+            "latitude": 22.46,
+            "longitude": 78.43
+        }
+    ]
+}

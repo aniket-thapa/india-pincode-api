@@ -1,0 +1,36 @@
+{
+    "state": "ODISHA",
+    "district": "JAJAPUR",
+    "offices": [
+        {
+            "officeName": "CHHATIA S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "JAJPUR DIVISION",
+            "latitude": 20.61226,
+            "longitude": 86.0679966
+        },
+        {
+            "officeName": "Bandalo B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "JAJPUR DIVISION",
+            "latitude": 20.6324325,
+            "longitude": 86.0827244
+        },
+        {
+            "officeName": "GobindpurSidhagiri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "JAJPUR DIVISION",
+            "latitude": 20.5764218,
+            "longitude": 86.0524236
+        }
+    ]
+}

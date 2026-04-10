@@ -1,0 +1,56 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "MUZAFFARNAGAR",
+    "offices": [
+        {
+            "officeName": "Gadhla BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Muzaffarnagar Division",
+            "latitude": 29.526507,
+            "longitude": 77.831205
+        },
+        {
+            "officeName": "Khaikheri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Muzaffarnagar Division",
+            "latitude": 29.59763,
+            "longitude": 77.85656
+        },
+        {
+            "officeName": "Basera SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Muzaffarnagar Division",
+            "latitude": 29.55556,
+            "longitude": 77.85326
+        },
+        {
+            "officeName": "Tejalhera BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Muzaffarnagar Division",
+            "latitude": 29.58316,
+            "longitude": 77.84168
+        },
+        {
+            "officeName": "Tuglakpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Muzaffarnagar Division",
+            "latitude": 29.60072,
+            "longitude": 77.88712
+        }
+    ]
+}

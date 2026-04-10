@@ -1,0 +1,76 @@
+{
+    "state": "TELANGANA",
+    "district": "HANUMAKONDA",
+    "offices": [
+        {
+            "officeName": "Rampur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Hanamkonda Division",
+            "latitude": 17.9379139,
+            "longitude": 79.4502193
+        },
+        {
+            "officeName": "Shodesha Palli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Hanamkonda Division",
+            "latitude": 17.9650772,
+            "longitude": 79.3465524
+        },
+        {
+            "officeName": "Kyathampalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Hanamkonda Division",
+            "latitude": 17.9503245,
+            "longitude": 79.3831235
+        },
+        {
+            "officeName": "Tatikayala B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Hanamkonda Division",
+            "latitude": 17.9137956,
+            "longitude": 79.388352
+        },
+        {
+            "officeName": "Janakipuram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Hanamkonda Division",
+            "latitude": 17.951692,
+            "longitude": 79.3714851
+        },
+        {
+            "officeName": "Mallikudurla B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Hanamkonda Division",
+            "latitude": 17.958325,
+            "longitude": 79.350933
+        },
+        {
+            "officeName": "Peddapendyal S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Hanamkonda Division",
+            "latitude": 17.9207282537268,
+            "longitude": 79.4091188040228
+        }
+    ]
+}

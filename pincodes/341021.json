@@ -1,0 +1,56 @@
+{
+    "state": "RAJASTHAN",
+    "district": "NAGAUR",
+    "offices": [
+        {
+            "officeName": "Basni S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Nagaur Division",
+            "latitude": 27.1718889,
+            "longitude": 73.6475833
+        },
+        {
+            "officeName": "Raidhanu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Nagaur Division",
+            "latitude": 27.1599,
+            "longitude": 73.5241
+        },
+        {
+            "officeName": "Boodhi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Nagaur Division",
+            "latitude": 27.1723,
+            "longitude": 73.6452
+        },
+        {
+            "officeName": "Kumari B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Nagaur Division",
+            "latitude": 26.53021,
+            "longitude": 74.40151
+        },
+        {
+            "officeName": "Barangaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Nagaur Division",
+            "latitude": 27.1062,
+            "longitude": 73.6006
+        }
+    ]
+}

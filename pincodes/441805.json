@@ -1,0 +1,56 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "BHANDARA",
+    "offices": [
+        {
+            "officeName": "Barwa B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur Moffusil Division",
+            "latitude": 20.8585221,
+            "longitude": 79.861795
+        },
+        {
+            "officeName": "Pardi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur Moffusil Division",
+            "latitude": 20.845063,
+            "longitude": 79.899679
+        },
+        {
+            "officeName": "Hardoli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur Moffusil Division",
+            "latitude": 20.875415,
+            "longitude": 79.815667
+        },
+        {
+            "officeName": "Kharashi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur Moffusil Division",
+            "latitude": 20.914779,
+            "longitude": 79.882883
+        },
+        {
+            "officeName": "Dighori S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur Moffusil Division",
+            "latitude": 20.97975,
+            "longitude": 79.8888056
+        }
+    ]
+}

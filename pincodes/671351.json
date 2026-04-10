@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "KASARAGOD",
+    "offices": [
+        {
+            "officeName": "Achanthuruthi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Kasaragod Division",
+            "latitude": 12.2184468,
+            "longitude": 75.1238895
+        },
+        {
+            "officeName": "Thuruthi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Kasaragod Division",
+            "latitude": 12.21766425,
+            "longitude": 75.12840563
+        }
+    ]
+}

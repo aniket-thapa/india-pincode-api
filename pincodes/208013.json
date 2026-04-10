@@ -1,0 +1,36 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "KANPUR NAGAR",
+    "offices": [
+        {
+            "officeName": "Shyam Nagar SO Kanpur Nagar",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Kanpur City Division",
+            "latitude": 26.5106944,
+            "longitude": 80.3194444
+        },
+        {
+            "officeName": "COD SO Kanpur Nagar",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Kanpur City Division",
+            "latitude": 26.4735556,
+            "longitude": 80.3506944
+        },
+        {
+            "officeName": "Dmsrde SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Kanpur City Division",
+            "latitude": 26.4311944,
+            "longitude": 80.3626944
+        }
+    ]
+}

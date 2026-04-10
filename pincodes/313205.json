@@ -1,0 +1,56 @@
+{
+    "state": "RAJASTHAN",
+    "district": "UDAIPUR",
+    "offices": [
+        {
+            "officeName": "Intali B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Udaipur Division",
+            "latitude": 24.68,
+            "longitude": 74.13
+        },
+        {
+            "officeName": "Vasni Kalan B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Udaipur Division",
+            "latitude": 24.8,
+            "longitude": 74.06
+        },
+        {
+            "officeName": "Fatehnagar S.O (Udaipur)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Udaipur Division",
+            "latitude": 24.0725,
+            "longitude": 73.6888889
+        },
+        {
+            "officeName": "Badgaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Udaipur Division",
+            "latitude": 24.72,
+            "longitude": 74.11
+        },
+        {
+            "officeName": "Changedi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Udaipur Division",
+            "latitude": 24.78,
+            "longitude": 74.08
+        }
+    ]
+}

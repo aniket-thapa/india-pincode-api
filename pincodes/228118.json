@@ -1,0 +1,26 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "SULTANPUR",
+    "offices": [
+        {
+            "officeName": "Angnakol BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Sultanpur Division",
+            "latitude": 26.264776,
+            "longitude": 82.072706
+        },
+        {
+            "officeName": "Kamla Nehru Institute SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Sultanpur Division",
+            "latitude": 26.289,
+            "longitude": 82.0795
+        }
+    ]
+}

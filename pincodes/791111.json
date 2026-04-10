@@ -1,0 +1,26 @@
+{
+    "state": "ARUNACHAL PRADESH",
+    "district": "PAPUM PARE",
+    "offices": [
+        {
+            "officeName": "Arunachal Pradesh Secretariat S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Arunachal Pradesh Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Itanagar H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Arunachal Pradesh Division",
+            "latitude": 27.09902778,
+            "longitude": 93.62633333
+        }
+    ]
+}

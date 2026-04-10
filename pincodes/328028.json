@@ -1,0 +1,66 @@
+{
+    "state": "RAJASTHAN",
+    "district": "DHOLPUR",
+    "offices": [
+        {
+            "officeName": "Basainadang BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dholpur Division",
+            "latitude": 26.547533,
+            "longitude": 77.760029
+        },
+        {
+            "officeName": "Varipura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dholpur Division",
+            "latitude": 26.599119,
+            "longitude": 77.778568
+        },
+        {
+            "officeName": "Keshar Bagh SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dholpur Division",
+            "latitude": 26.53725,
+            "longitude": 77.9838611
+        },
+        {
+            "officeName": "Nagar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dholpur Division",
+            "latitude": 26.548224,
+            "longitude": 77.808352
+        },
+        {
+            "officeName": "Visnoda BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dholpur Division",
+            "latitude": 26.663043,
+            "longitude": 77.795606
+        },
+        {
+            "officeName": "Kotra BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dholpur Division",
+            "latitude": 26.636654,
+            "longitude": 77.799382
+        }
+    ]
+}

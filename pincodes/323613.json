@@ -1,0 +1,36 @@
+{
+    "state": "RAJASTHAN",
+    "district": "BUNDI",
+    "offices": [
+        {
+            "officeName": "Indergarh S.O (Bundi)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Tonk Division",
+            "latitude": 25.4383333,
+            "longitude": 76.17
+        },
+        {
+            "officeName": "Mohanpura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Tonk Division",
+            "latitude": 26.823767,
+            "longitude": 75.740056
+        },
+        {
+            "officeName": "Babai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Tonk Division",
+            "latitude": 27.88731,
+            "longitude": 75.76622
+        }
+    ]
+}

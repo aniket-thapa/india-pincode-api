@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "THIRUVARUR",
+    "offices": [
+        {
+            "officeName": "Tiruturaipundi H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Pattukottai Division",
+            "latitude": 10.5316111,
+            "longitude": 79.6388333
+        },
+        {
+            "officeName": "Tiruturaipundi R.S. S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Pattukottai Division",
+            "latitude": 10.5360278,
+            "longitude": 79.636
+        },
+        {
+            "officeName": "Tiruturaipundi Bazaar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Pattukottai Division",
+            "latitude": 10.536171,
+            "longitude": 79.6396
+        }
+    ]
+}

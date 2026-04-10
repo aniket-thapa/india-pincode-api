@@ -1,0 +1,26 @@
+{
+    "state": "PUNJAB",
+    "district": "LUDHIANA",
+    "offices": [
+        {
+            "officeName": "Daba Road SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ludhiana City Division",
+            "latitude": 30.8695972,
+            "longitude": 75.882925
+        },
+        {
+            "officeName": "Dhandari Kalan SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ludhiana City Division",
+            "latitude": 30.8682222,
+            "longitude": 75.9192222
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "ODISHA",
+    "district": "KORAPUT",
+    "offices": [
+        {
+            "officeName": "Deoghati B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Koraput Division",
+            "latitude": 18.8021216,
+            "longitude": 82.60354
+        },
+        {
+            "officeName": "Kolab Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Koraput Division",
+            "latitude": 18.8021116,
+            "longitude": 82.6035833
+        }
+    ]
+}

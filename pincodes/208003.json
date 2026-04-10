@@ -1,0 +1,26 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "KANPUR NAGAR",
+    "offices": [
+        {
+            "officeName": "Chauki Jarib SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Kanpur City Division",
+            "latitude": 26.4632778,
+            "longitude": 80.328
+        },
+        {
+            "officeName": "Anwarganj SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Kanpur City Division",
+            "latitude": 26.4568056,
+            "longitude": 80.3329444
+        }
+    ]
+}

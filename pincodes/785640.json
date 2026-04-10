@@ -1,0 +1,56 @@
+{
+    "state": "ASSAM",
+    "district": "SIVASAGAR",
+    "offices": [
+        {
+            "officeName": "Phukannagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Sibsagar Division",
+            "latitude": 26.5832,
+            "longitude": 94.3835
+        },
+        {
+            "officeName": "Rongpurnagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Sibsagar Division",
+            "latitude": 26.5716,
+            "longitude": 94.3951
+        },
+        {
+            "officeName": "Betbari B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Sibsagar Division",
+            "latitude": 26.9836944,
+            "longitude": 94.6500833
+        },
+        {
+            "officeName": "Towkok B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Sibsagar Division",
+            "latitude": 26.9886944,
+            "longitude": 94.6318889
+        },
+        {
+            "officeName": "Sivasagar H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Sibsagar Division",
+            "latitude": 26.9886944,
+            "longitude": 94.6318889
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "PUNJAB",
+    "district": "MANSA",
+    "offices": [
+        {
+            "officeName": "Joga SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Bhatinda Division",
+            "latitude": 30.16179,
+            "longitude": 75.42432
+        },
+        {
+            "officeName": "Aklia BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Bhatinda Division",
+            "latitude": 30.14507,
+            "longitude": 75.42302
+        },
+        {
+            "officeName": "Balloh BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Bhatinda Division",
+            "latitude": 30.14507,
+            "longitude": 75.42302
+        },
+        {
+            "officeName": "Chauke BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Bhatinda Division",
+            "latitude": 30.1824,
+            "longitude": 75.3383
+        },
+        {
+            "officeName": "Ralla BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Bhatinda Division",
+            "latitude": 30.1196,
+            "longitude": 75.4333
+        }
+    ]
+}

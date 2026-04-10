@@ -1,0 +1,56 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "AMRAVATI",
+    "offices": [
+        {
+            "officeName": "Wani B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Amaravati Division",
+            "latitude": 34.59,
+            "longitude": 71.82
+        },
+        {
+            "officeName": "Surali B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Amaravati Division",
+            "latitude": 21.31,
+            "longitude": 76.73
+        },
+        {
+            "officeName": "Ghatladki B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Amaravati Division",
+            "latitude": 21.37,
+            "longitude": 76.69
+        },
+        {
+            "officeName": "Brahmanwada Thadi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Amaravati Division",
+            "latitude": 21.2572,
+            "longitude": 77.5086
+        },
+        {
+            "officeName": "Vishroli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Amaravati Division",
+            "latitude": 21.35,
+            "longitude": 77.76
+        }
+    ]
+}

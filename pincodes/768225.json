@@ -1,0 +1,36 @@
+{
+    "state": "ODISHA",
+    "district": "JHARSUGUDA",
+    "offices": [
+        {
+            "officeName": "R. Kudapali B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sundargarh Division",
+            "latitude": 21.7918507,
+            "longitude": 83.9140404
+        },
+        {
+            "officeName": "Katabaga B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sundargarh Division",
+            "latitude": 21.7556871,
+            "longitude": 83.9164133
+        },
+        {
+            "officeName": "Rampur Colliery S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sundargarh Division",
+            "latitude": 21.803025,
+            "longitude": 83.925035
+        }
+    ]
+}

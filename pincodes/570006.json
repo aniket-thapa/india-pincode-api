@@ -1,0 +1,26 @@
+{
+    "state": "KARNATAKA",
+    "district": "MYSURU",
+    "offices": [
+        {
+            "officeName": "University Campus S.O (Mysuru)",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Mysuru Division",
+            "latitude": 12.3131667,
+            "longitude": 76.61325
+        },
+        {
+            "officeName": "Manasagangothri S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Mysuru Division",
+            "latitude": 12.31316667,
+            "longitude": 76.61325
+        }
+    ]
+}

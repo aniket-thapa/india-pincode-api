@@ -1,0 +1,46 @@
+{
+    "state": "KARNATAKA",
+    "district": "DHARWAD",
+    "offices": [
+        {
+            "officeName": "Kalas B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Dharwad Division",
+            "latitude": 15.0982248,
+            "longitude": 75.4067294
+        },
+        {
+            "officeName": "Harlapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Dharwad Division",
+            "latitude": 15.121603,
+            "longitude": 75.4158919
+        },
+        {
+            "officeName": "Goudageri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Dharwad Division",
+            "latitude": 15.073806,
+            "longitude": 75.3725581
+        },
+        {
+            "officeName": "Gudgeri S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Dharwad Division",
+            "latitude": 15.1207474,
+            "longitude": 75.3629691
+        }
+    ]
+}

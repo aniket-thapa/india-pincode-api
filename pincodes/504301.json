@@ -1,0 +1,26 @@
+{
+    "state": "TELANGANA",
+    "district": "MANCHERIAL",
+    "offices": [
+        {
+            "officeName": "Ramakrishnapur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Adilabad Division",
+            "latitude": 18.939792,
+            "longitude": 79.464901
+        },
+        {
+            "officeName": "Kyathanpalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Adilabad Division",
+            "latitude": 18.9287266,
+            "longitude": 79.4573499
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "PUNJAB",
+    "district": "BATHINDA",
+    "offices": [
+        {
+            "officeName": "Kotha Guru BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Bhatinda Division",
+            "latitude": 30.4433,
+            "longitude": 75.0947
+        },
+        {
+            "officeName": "Hamirgarh BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Bhatinda Division",
+            "latitude": 25.1882,
+            "longitude": 74.6269
+        },
+        {
+            "officeName": "Siryewala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Bhatinda Division",
+            "latitude": 30.4882,
+            "longitude": 75.0451
+        },
+        {
+            "officeName": "Maluka BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Bhatinda Division",
+            "latitude": 30.4295,
+            "longitude": 75.0545
+        },
+        {
+            "officeName": "Bhagta Bhai SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Bhatinda Division",
+            "latitude": 30.48222,
+            "longitude": 75.09502
+        }
+    ]
+}

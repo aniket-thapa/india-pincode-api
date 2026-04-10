@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Annamayya",
+    "offices": [
+        {
+            "officeName": "Rishivalley S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Chittoor Division",
+            "latitude": 13.63330556,
+            "longitude": 78.45066667
+        },
+        {
+            "officeName": "Thettu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Chittoor Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Erraballe B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Chittoor Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

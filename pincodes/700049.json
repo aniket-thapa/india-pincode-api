@@ -1,0 +1,26 @@
+{
+    "state": "WEST BENGAL",
+    "district": "24 PARAGANAS NORTH",
+    "offices": [
+        {
+            "officeName": "Udaipur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "BARRACKPORE DIVISION",
+            "latitude": 22.66,
+            "longitude": 88.4
+        },
+        {
+            "officeName": "Nimta SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "BARRACKPORE DIVISION",
+            "latitude": 22.66,
+            "longitude": 88.4
+        }
+    ]
+}

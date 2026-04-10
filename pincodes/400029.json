@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI SUBURBAN",
+    "offices": [
+        {
+            "officeName": "A I Staff Colony S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North Division",
+            "latitude": 19.0811111,
+            "longitude": 72.8683056
+        },
+        {
+            "officeName": "Santacruz P and T  Colony S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City North Division",
+            "latitude": 19.0823363167732,
+            "longitude": 72.8574000970019
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "GHAZIABAD",
+    "offices": [
+        {
+            "officeName": "Badshahpur Siroli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Ghaziabad Division",
+            "latitude": 28.78861,
+            "longitude": 77.342493
+        },
+        {
+            "officeName": "Teela Shahbazpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Ghaziabad Division",
+            "latitude": 28.714208,
+            "longitude": 77.317409
+        },
+        {
+            "officeName": "Chirori BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Ghaziabad Division",
+            "latitude": 28.768557,
+            "longitude": 77.328976
+        },
+        {
+            "officeName": "Behta Hazipur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Ghaziabad Division",
+            "latitude": 28.727002,
+            "longitude": 77.31234
+        },
+        {
+            "officeName": "Loni SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Ghaziabad Division",
+            "latitude": 28.7493611,
+            "longitude": 77.2861111
+        },
+        {
+            "officeName": "Jaoli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Ghaziabad Division",
+            "latitude": 28.669156,
+            "longitude": 77.453758
+        },
+        {
+            "officeName": "Mandola BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Ghaziabad Division",
+            "latitude": 28.794585,
+            "longitude": 77.277287
+        }
+    ]
+}

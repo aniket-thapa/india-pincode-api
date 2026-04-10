@@ -1,0 +1,56 @@
+{
+    "state": "ARUNACHAL PRADESH",
+    "district": "TAWANG",
+    "offices": [
+        {
+            "officeName": "Lhou B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Arunachal Pradesh Division",
+            "latitude": 27.5803743,
+            "longitude": 91.9418236
+        },
+        {
+            "officeName": "Mukto B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Arunachal Pradesh Division",
+            "latitude": 91.9081572,
+            "longitude": 27.5464455
+        },
+        {
+            "officeName": "Jang S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Arunachal Pradesh Division",
+            "latitude": 27.631776,
+            "longitude": 92.103496
+        },
+        {
+            "officeName": "Thingbu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Arunachal Pradesh Division",
+            "latitude": 92.1062844,
+            "longitude": 27.6370439
+        },
+        {
+            "officeName": "Yuthumbu",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Arunachal Pradesh Division",
+            "latitude": 27.3457926,
+            "longitude": 91.5849689
+        }
+    ]
+}

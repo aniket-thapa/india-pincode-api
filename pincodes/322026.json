@@ -1,0 +1,76 @@
+{
+    "state": "RAJASTHAN",
+    "district": "SAWAI MADHOPUR",
+    "offices": [
+        {
+            "officeName": "Lahsoda BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sawaimadhopur Division",
+            "latitude": 25.82953,
+            "longitude": 76.33075
+        },
+        {
+            "officeName": "Phalodi Quarry SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sawaimadhopur Division",
+            "latitude": 26.7023333,
+            "longitude": 73.9203056
+        },
+        {
+            "officeName": "Phalodi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sawaimadhopur Division",
+            "latitude": 25.932767,
+            "longitude": 76.3821
+        },
+        {
+            "officeName": "Chitara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sawaimadhopur Division",
+            "latitude": 25.7808,
+            "longitude": 76.392667
+        },
+        {
+            "officeName": "Bhairoonpura",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sawaimadhopur Division",
+            "latitude": 25.879923,
+            "longitude": 76.398454
+        },
+        {
+            "officeName": "Dangarwada BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sawaimadhopur Division",
+            "latitude": 23.842453,
+            "longitude": 77.53328
+        },
+        {
+            "officeName": "Dumoda BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sawaimadhopur Division",
+            "latitude": 25.868199,
+            "longitude": 76.366623
+        }
+    ]
+}

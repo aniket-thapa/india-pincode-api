@@ -1,0 +1,56 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "BULANDSHAHR",
+    "offices": [
+        {
+            "officeName": "Belon BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Bulandshahar Division",
+            "latitude": 28.1777076,
+            "longitude": 78.3506488
+        },
+        {
+            "officeName": "NAPP SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Bulandshahar Division",
+            "latitude": 28.2044317,
+            "longitude": 78.3757057
+        },
+        {
+            "officeName": "Narora SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Bulandshahar Division",
+            "latitude": 28.1951087,
+            "longitude": 78.3859491
+        },
+        {
+            "officeName": "Rampur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Bulandshahar Division",
+            "latitude": 28.1616111,
+            "longitude": 78.3755207
+        },
+        {
+            "officeName": "Vijay  Nagliya BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Bulandshahar Division",
+            "latitude": 28.1478004,
+            "longitude": 78.3465957
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "GUJARAT",
+    "district": "SURAT",
+    "offices": [
+        {
+            "officeName": "Mota SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bardoli Division",
+            "latitude": 21.11983,
+            "longitude": 73.11412
+        },
+        {
+            "officeName": "Umrakh BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bardoli Division",
+            "latitude": 21.1439083,
+            "longitude": 73.081478
+        }
+    ]
+}

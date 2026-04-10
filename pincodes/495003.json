@@ -1,0 +1,66 @@
+{
+    "state": "CHHATTISGARH",
+    "district": "BILASPUR",
+    "offices": [
+        {
+            "officeName": "Sakri",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bilaspur Division",
+            "latitude": 22.1073352,
+            "longitude": 82.08392967
+        },
+        {
+            "officeName": "Bahatarai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bilaspur Division",
+            "latitude": 22.111756,
+            "longitude": 82.078845
+        },
+        {
+            "officeName": "Mochh BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bilaspur Division",
+            "latitude": 22.106816,
+            "longitude": 81.968651
+        },
+        {
+            "officeName": "Girdhauna BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bilaspur Division",
+            "latitude": 22.072937,
+            "longitude": 81.950754
+        },
+        {
+            "officeName": "Kathakoni BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bilaspur Division",
+            "latitude": 22.123503,
+            "longitude": 82.01619
+        },
+        {
+            "officeName": "Saida BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bilaspur Division",
+            "latitude": 22.071992,
+            "longitude": 82.082929
+        }
+    ]
+}

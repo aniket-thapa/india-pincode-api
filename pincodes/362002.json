@@ -1,0 +1,76 @@
+{
+    "state": "GUJARAT",
+    "district": "JUNAGADH",
+    "offices": [
+        {
+            "officeName": "Vadhavi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Junagadh Division",
+            "latitude": 21.5649423,
+            "longitude": 70.3985938
+        },
+        {
+            "officeName": "Dhandhusar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Junagadh Division",
+            "latitude": 21.5477335,
+            "longitude": 70.3542837
+        },
+        {
+            "officeName": "Nandarkhi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Junagadh Division",
+            "latitude": 21.5275771,
+            "longitude": 70.389061
+        },
+        {
+            "officeName": "Bhavnath BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Junagadh Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Junagadh Joshipura SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Junagadh Division",
+            "latitude": 21.531218,
+            "longitude": 70.452841
+        },
+        {
+            "officeName": "Junagadh Bhavnath ND TSO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Junagadh Division",
+            "latitude": 21.5262379,
+            "longitude": 70.5017268
+        },
+        {
+            "officeName": "Ravni BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Junagadh Division",
+            "latitude": 21.5626422,
+            "longitude": 70.3107193
+        }
+    ]
+}

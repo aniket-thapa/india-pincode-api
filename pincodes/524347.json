@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "SPSR NELLORE",
+    "offices": [
+        {
+            "officeName": "AP Genco Nelatur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Nellore Division",
+            "latitude": 14.33633,
+            "longitude": 80.122619
+        },
+        {
+            "officeName": "Ananthapuram B.O-A",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Nellore Division",
+            "latitude": 14.364043,
+            "longitude": 80.114941
+        },
+        {
+            "officeName": "Nelatur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Nellore Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

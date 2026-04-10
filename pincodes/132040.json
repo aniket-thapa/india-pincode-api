@@ -1,0 +1,46 @@
+{
+    "state": "HARYANA",
+    "district": "KARNAL",
+    "offices": [
+        {
+            "officeName": "Munak B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Karnal Division",
+            "latitude": 100.0,
+            "longitude": 100.0
+        },
+        {
+            "officeName": "Ballah S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Karnal Division",
+            "latitude": 29.5053611,
+            "longitude": 76.7852222
+        },
+        {
+            "officeName": "MUNAK",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Karnal Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Bal Rangan B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Karnal Division",
+            "latitude": 100.0,
+            "longitude": 100.0
+        }
+    ]
+}

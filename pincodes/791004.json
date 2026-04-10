@@ -1,0 +1,26 @@
+{
+    "state": "ARUNACHAL PRADESH",
+    "district": "EAST SIANG",
+    "offices": [
+        {
+            "officeName": "Babuk",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Arunachal Pradesh Division",
+            "latitude": 28.746423,
+            "longitude": 95.62642
+        },
+        {
+            "officeName": "BOLENG SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Arunachal Pradesh Division",
+            "latitude": 28.3361746,
+            "longitude": 94.9616457
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "24 PARAGANAS SOUTH",
+    "offices": [
+        {
+            "officeName": "Garia Garden SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Baruipur Division",
+            "latitude": 22.3421,
+            "longitude": 88.215
+        },
+        {
+            "officeName": "Garia SO South 24 Parganas",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Baruipur Division",
+            "latitude": 22.47265,
+            "longitude": 88.37986
+        },
+        {
+            "officeName": "Kamda Hari SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Baruipur Division",
+            "latitude": 22.2728,
+            "longitude": 88.232
+        }
+    ]
+}

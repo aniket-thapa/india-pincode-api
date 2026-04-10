@@ -1,0 +1,36 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "MEERUT",
+    "offices": [
+        {
+            "officeName": "Mahal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Meerut Division",
+            "latitude": 29.13083,
+            "longitude": 77.78535
+        },
+        {
+            "officeName": "Lawar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Meerut Division",
+            "latitude": 29.1017,
+            "longitude": 77.9184
+        },
+        {
+            "officeName": "Mahalka BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Meerut Division",
+            "latitude": 29.11,
+            "longitude": 77.77
+        }
+    ]
+}

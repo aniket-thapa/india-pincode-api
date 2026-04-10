@@ -1,0 +1,56 @@
+{
+    "state": "BIHAR",
+    "district": "PURNIA",
+    "offices": [
+        {
+            "officeName": "Tarauna BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Purnea Division",
+            "latitude": 26.01252,
+            "longitude": 87.634062
+        },
+        {
+            "officeName": "Ekamba Nishara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Purnea Division",
+            "latitude": 25.979941,
+            "longitude": 87.584069
+        },
+        {
+            "officeName": "Sohangaon BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Purnea Division",
+            "latitude": 26.013608,
+            "longitude": 87.655647
+        },
+        {
+            "officeName": "Jalalgarh SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Purnea Division",
+            "latitude": 25.960965,
+            "longitude": 87.509906
+        },
+        {
+            "officeName": "Ahilgaon BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Purnea Division",
+            "latitude": 25.9697,
+            "longitude": 87.502483
+        }
+    ]
+}

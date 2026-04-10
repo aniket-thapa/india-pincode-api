@@ -1,0 +1,36 @@
+{
+    "state": "BIHAR",
+    "district": "ROHTAS",
+    "offices": [
+        {
+            "officeName": "Nawadih BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rohtas Division",
+            "latitude": 24.605844,
+            "longitude": 83.94829
+        },
+        {
+            "officeName": "Shankarpuri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rohtas Division",
+            "latitude": 24.869616,
+            "longitude": 84.140875
+        },
+        {
+            "officeName": "Indrapuri SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rohtas Division",
+            "latitude": 24.834177,
+            "longitude": 84.137082
+        }
+    ]
+}

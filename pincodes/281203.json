@@ -1,0 +1,36 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "MATHURA",
+    "offices": [
+        {
+            "officeName": "Nauhjhil SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Mathura Division",
+            "latitude": 27.8477222,
+            "longitude": 77.6485833
+        },
+        {
+            "officeName": "Musmuna BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Mathura Division",
+            "latitude": 27.47,
+            "longitude": 77.69
+        },
+        {
+            "officeName": "Chhinparai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Mathura Division",
+            "latitude": 27.47,
+            "longitude": 77.69
+        }
+    ]
+}

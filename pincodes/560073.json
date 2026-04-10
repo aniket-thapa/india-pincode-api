@@ -1,0 +1,46 @@
+{
+    "state": "KARNATAKA",
+    "district": "BENGALURU URBAN",
+    "offices": [
+        {
+            "officeName": "Nelakadiranahalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Bengaluru West Division",
+            "latitude": 13.443093,
+            "longitude": 77.62927
+        },
+        {
+            "officeName": "Nagasandra S.O (Bengaluru)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Bengaluru West Division",
+            "latitude": 13.056573,
+            "longitude": 77.508083
+        },
+        {
+            "officeName": "Chikkabidarkal S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Bengaluru West Division",
+            "latitude": 13.047907,
+            "longitude": 77.486483
+        },
+        {
+            "officeName": "BAGALGUNTE S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Bengaluru West Division",
+            "latitude": 13.056573,
+            "longitude": 77.508083
+        }
+    ]
+}

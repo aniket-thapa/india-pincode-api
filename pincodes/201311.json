@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "GAUTAM BUDDHA NAGAR",
+    "offices": [
+        {
+            "officeName": "Pali BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Gautam Buddha Nagar Division office",
+            "latitude": 28.576679,
+            "longitude": 77.327169
+        },
+        {
+            "officeName": "Container Depot SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Gautam Buddha Nagar Division office",
+            "latitude": 28.5308833954802,
+            "longitude": 77.5326151613065
+        },
+        {
+            "officeName": "Tilapta Karanwas BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Gautam Buddha Nagar Division office",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Kheri Bhanota BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Gautam Buddha Nagar Division office",
+            "latitude": 28.535516,
+            "longitude": 77.391026
+        }
+    ]
+}

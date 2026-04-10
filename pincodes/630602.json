@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "SIVAGANGA",
+    "offices": [
+        {
+            "officeName": "Idaikattur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Sivaganga Division",
+            "latitude": 9.759191,
+            "longitude": 78.38856
+        },
+        {
+            "officeName": "Muthanendhal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Sivaganga Division",
+            "latitude": 9.75,
+            "longitude": 78.39
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Y.S.R.",
+    "offices": [
+        {
+            "officeName": "Ankalammapeta S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Proddatur Division",
+            "latitude": 15.4222056,
+            "longitude": 78.2210534
+        },
+        {
+            "officeName": "Pulivendla H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Proddatur Division",
+            "latitude": 14.422056,
+            "longitude": 78.2210534
+        }
+    ]
+}

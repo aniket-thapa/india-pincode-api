@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "offices": [
+        {
+            "officeName": "Naigaon S.O (Mumbai)",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City East Division",
+            "latitude": 19.004842,
+            "longitude": 72.846009
+        },
+        {
+            "officeName": "Dadar H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City East Division",
+            "latitude": 19.0160278,
+            "longitude": 72.8458611
+        },
+        {
+            "officeName": "Dadar Colony S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City East Division",
+            "latitude": 19.0208333,
+            "longitude": 72.8491667
+        }
+    ]
+}

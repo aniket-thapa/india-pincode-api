@@ -1,0 +1,36 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "GAUTAM BUDDHA NAGAR",
+    "offices": [
+        {
+            "officeName": "Kasna BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Gautam Buddha Nagar Division office",
+            "latitude": 28.452212,
+            "longitude": 77.525161
+        },
+        {
+            "officeName": "Gautam Budh University SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Gautam Buddha Nagar Division office",
+            "latitude": 23.5614,
+            "longitude": 78.45986
+        },
+        {
+            "officeName": "Maicha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Gautam Buddha Nagar Division office",
+            "latitude": 28.480896,
+            "longitude": 77.325981
+        }
+    ]
+}

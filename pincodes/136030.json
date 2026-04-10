@@ -1,0 +1,66 @@
+{
+    "state": "HARYANA",
+    "district": "KURUKSHETRA",
+    "offices": [
+        {
+            "officeName": "Seonsar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Kurukshetra Division",
+            "latitude": 29.93617,
+            "longitude": 76.551097
+        },
+        {
+            "officeName": "Gumthala Garhu S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Kurukshetra Division",
+            "latitude": 29.9361944,
+            "longitude": 76.551
+        },
+        {
+            "officeName": "Batheri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Kurukshetra Division",
+            "latitude": 29.93617,
+            "longitude": 76.551097
+        },
+        {
+            "officeName": "Thana B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Kurukshetra Division",
+            "latitude": 29.93617,
+            "longitude": 76.551097
+        },
+        {
+            "officeName": "Kakral Gujran B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Kurukshetra Division",
+            "latitude": 29.93617,
+            "longitude": 76.551097
+        },
+        {
+            "officeName": "Ramgarh Ror B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Kurukshetra Division",
+            "latitude": 29.93617,
+            "longitude": 76.551097
+        }
+    ]
+}

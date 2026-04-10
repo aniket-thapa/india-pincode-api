@@ -1,0 +1,46 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "GUNA",
+    "offices": [
+        {
+            "officeName": "Bhamawad B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Guna Division",
+            "latitude": 24.44,
+            "longitude": 77.11
+        },
+        {
+            "officeName": "N.F.L.Vijaipur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Guna Division",
+            "latitude": 24.66526,
+            "longitude": 77.360686
+        },
+        {
+            "officeName": "Vijaypur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Guna Division",
+            "latitude": 24.49,
+            "longitude": 77.17
+        },
+        {
+            "officeName": "Dongar Vijaypur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Guna Division",
+            "latitude": 24.48,
+            "longitude": 77.12
+        }
+    ]
+}

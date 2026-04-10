@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "SULTANPUR",
+    "offices": [
+        {
+            "officeName": "Baranpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Sultanpur Division",
+            "latitude": 26.548268,
+            "longitude": 82.113553
+        },
+        {
+            "officeName": "Bisawan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Sultanpur Division",
+            "latitude": 26.390367,
+            "longitude": 81.902094
+        },
+        {
+            "officeName": "Wallipur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Sultanpur Division",
+            "latitude": 26.4293611,
+            "longitude": 81.9345833
+        },
+        {
+            "officeName": "Saraiya Mafi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Sultanpur Division",
+            "latitude": 26.390367,
+            "longitude": 81.902094
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "KOZHIKODE",
+    "offices": [
+        {
+            "officeName": "Kolathara SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Calicut Division",
+            "latitude": 11.1948573,
+            "longitude": 75.8193814
+        },
+        {
+            "officeName": "Cheruvannur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Calicut Division",
+            "latitude": 11.191916,
+            "longitude": 75.827176
+        }
+    ]
+}

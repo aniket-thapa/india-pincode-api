@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "SALEM",
+    "offices": [
+        {
+            "officeName": "Pethanaickenpalayam S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Salem East Division",
+            "latitude": 11.6486111,
+            "longitude": 78.5074722
+        },
+        {
+            "officeName": "Kalpaganur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Salem East Division",
+            "latitude": 11.6356626,
+            "longitude": 78.5403194
+        },
+        {
+            "officeName": "Dalavaipatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Salem East Division",
+            "latitude": 11.6214696,
+            "longitude": 78.5154762
+        },
+        {
+            "officeName": "Olapadi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Salem East Division",
+            "latitude": 11.6201302,
+            "longitude": 78.5152855
+        }
+    ]
+}

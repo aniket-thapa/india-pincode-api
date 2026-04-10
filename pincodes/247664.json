@@ -1,0 +1,26 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "offices": [
+        {
+            "officeName": "Toda Kalyanpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehradun Division",
+            "latitude": 29.838,
+            "longitude": 77.9296
+        },
+        {
+            "officeName": "Landhaura SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehradun Division",
+            "latitude": 29.7950278,
+            "longitude": 77.9080278
+        }
+    ]
+}

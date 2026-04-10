@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "CHENNAI",
+    "offices": [
+        {
+            "officeName": "Ramapuram S.O (Kanchipuram)",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City South Division",
+            "latitude": 13.030113,
+            "longitude": 80.179668
+        },
+        {
+            "officeName": "Nandambakkam Kudiyiruppu S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City South Division",
+            "latitude": 13.0178611,
+            "longitude": 80.1891389
+        }
+    ]
+}

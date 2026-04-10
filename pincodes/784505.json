@@ -1,0 +1,56 @@
+{
+    "state": "ASSAM",
+    "district": "SONITPUR",
+    "offices": [
+        {
+            "officeName": "Rangapara S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.8214324,
+            "longitude": 92.682479
+        },
+        {
+            "officeName": "Kailajuli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.90918,
+            "longitude": 92.65265
+        },
+        {
+            "officeName": "Thakurbari B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.8214334,
+            "longitude": 92.682478
+        },
+        {
+            "officeName": "Urahiloga B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.90918,
+            "longitude": 92.65265
+        },
+        {
+            "officeName": "Dopdopi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.812921,
+            "longitude": 92.693167
+        }
+    ]
+}

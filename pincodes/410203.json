@@ -1,0 +1,66 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "RAIGAD",
+    "offices": [
+        {
+            "officeName": "Shilphata S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Navi Mumbai Division",
+            "latitude": 18.7995556,
+            "longitude": 73.3270278
+        },
+        {
+            "officeName": "Khambewadi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Navi Mumbai Division",
+            "latitude": 18.83,
+            "longitude": 73.28
+        },
+        {
+            "officeName": "Sajgaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Navi Mumbai Division",
+            "latitude": 18.83,
+            "longitude": 72.38
+        },
+        {
+            "officeName": "Vavoshi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Navi Mumbai Division",
+            "latitude": 18.83,
+            "longitude": 73.28
+        },
+        {
+            "officeName": "Donwat B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Navi Mumbai Division",
+            "latitude": 18.77,
+            "longitude": 73.33
+        },
+        {
+            "officeName": "Khopoli S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Navi Mumbai Division",
+            "latitude": 18.7861667,
+            "longitude": 73.3474167
+        }
+    ]
+}

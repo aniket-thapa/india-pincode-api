@@ -1,0 +1,46 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "UJJAIN",
+    "offices": [
+        {
+            "officeName": "Durgapura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Ujjain Division",
+            "latitude": 23.520444,
+            "longitude": 87.311923
+        },
+        {
+            "officeName": "Mehatvas B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Ujjain Division",
+            "latitude": 26.827816,
+            "longitude": 75.771503
+        },
+        {
+            "officeName": "Bhatisuda B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Ujjain Division",
+            "latitude": 26.078521,
+            "longitude": 73.28833
+        },
+        {
+            "officeName": "Birlagram  Nagda S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Ujjain Division",
+            "latitude": 23.4525833,
+            "longitude": 75.40525
+        }
+    ]
+}

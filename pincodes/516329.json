@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Y.S.R.",
+    "offices": [
+        {
+            "officeName": "Vaimpalle S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Proddatur Division",
+            "latitude": 14.3728333,
+            "longitude": 78.4443889
+        },
+        {
+            "officeName": "Tangedupalle B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Proddatur Division",
+            "latitude": 14.3923581,
+            "longitude": 78.480938
+        },
+        {
+            "officeName": "Veerannagattupalle B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Proddatur Division",
+            "latitude": 14.3375832,
+            "longitude": 78.4862963
+        }
+    ]
+}

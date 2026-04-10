@@ -1,0 +1,56 @@
+{
+    "state": "RAJASTHAN",
+    "district": "PALI",
+    "offices": [
+        {
+            "officeName": "Ana B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Pali Division",
+            "latitude": 25.2860123,
+            "longitude": 73.5083383
+        },
+        {
+            "officeName": "Sumer B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Pali Division",
+            "latitude": 25.270969,
+            "longitude": 73.565393
+        },
+        {
+            "officeName": "Narlai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Pali Division",
+            "latitude": 25.27097,
+            "longitude": 73.565392
+        },
+        {
+            "officeName": "Desuri S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Pali Division",
+            "latitude": 25.2731944,
+            "longitude": 73.5656111
+        },
+        {
+            "officeName": "Madpur",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Pali Division",
+            "latitude": 25.353208,
+            "longitude": 73.5773814
+        }
+    ]
+}

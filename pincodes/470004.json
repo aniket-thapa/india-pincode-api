@@ -1,0 +1,56 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "SAGAR",
+    "offices": [
+        {
+            "officeName": "Gambhiriyia B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Sagar Division",
+            "latitude": 23.813138,
+            "longitude": 78.601567
+        },
+        {
+            "officeName": "Pamakhedi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Sagar Division",
+            "latitude": 23.844611,
+            "longitude": 78.849589
+        },
+        {
+            "officeName": "Sidguya B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Sagar Division",
+            "latitude": 23.844611,
+            "longitude": 78.849589
+        },
+        {
+            "officeName": "Sagar Makronia Camp S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Sagar Division",
+            "latitude": 23.86344,
+            "longitude": 78.800773
+        },
+        {
+            "officeName": "Sagar Rajakhedi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Sagar Division",
+            "latitude": 23.86344,
+            "longitude": 78.800773
+        }
+    ]
+}

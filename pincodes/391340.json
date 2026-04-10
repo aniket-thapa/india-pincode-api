@@ -1,0 +1,56 @@
+{
+    "state": "GUJARAT",
+    "district": "VADODARA",
+    "offices": [
+        {
+            "officeName": "Nandesari Ind Estate SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Vadodara West Division",
+            "latitude": 22.3035833,
+            "longitude": 73.1976944
+        },
+        {
+            "officeName": "Fazalpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Vadodara West Division",
+            "latitude": 15.59,
+            "longitude": 73.46
+        },
+        {
+            "officeName": "Dodka BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Vadodara West Division",
+            "latitude": 15.59,
+            "longitude": 73.46
+        },
+        {
+            "officeName": "Nandesari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Vadodara West Division",
+            "latitude": 15.59,
+            "longitude": 73.46
+        },
+        {
+            "officeName": "Raika BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Vadodara West Division",
+            "latitude": 15.59,
+            "longitude": 73.46
+        }
+    ]
+}

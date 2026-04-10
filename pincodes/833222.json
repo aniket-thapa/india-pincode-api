@@ -1,0 +1,26 @@
+{
+    "state": "JHARKHAND",
+    "district": "WEST SINGHBHUM",
+    "offices": [
+        {
+            "officeName": "Bhangaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Singhbhum Division",
+            "latitude": 22.033833,
+            "longitude": 85.234615
+        },
+        {
+            "officeName": "Kiriburu Base Camp SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Singhbhum Division",
+            "latitude": 22.10958,
+            "longitude": 85.29733
+        }
+    ]
+}

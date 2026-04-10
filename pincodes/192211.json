@@ -1,0 +1,46 @@
+{
+    "state": "JAMMU AND KASHMIR",
+    "district": "ANANTNAG",
+    "offices": [
+        {
+            "officeName": "Hiller Shahabad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 256.2,
+            "longitude": 284.2
+        },
+        {
+            "officeName": "Obindora BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 75.158101,
+            "longitude": 77.14259
+        },
+        {
+            "officeName": "Dooru SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 33.5711667,
+            "longitude": 75.22325
+        },
+        {
+            "officeName": "Kriri Nowpora BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 32.5,
+            "longitude": 12.5
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "DHULE",
+    "offices": [
+        {
+            "officeName": "Mudawad B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Dhule Division",
+            "latitude": 21.224476,
+            "longitude": 74.939588
+        },
+        {
+            "officeName": "Ajande BK B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Dhule Division",
+            "latitude": 21.143928,
+            "longitude": 74.887954
+        },
+        {
+            "officeName": "Betawad S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Dhule Division",
+            "latitude": 21.163661,
+            "longitude": 74.91156
+        },
+        {
+            "officeName": "Padhavad B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Dhule Division",
+            "latitude": 21.176139,
+            "longitude": 74.938637
+        }
+    ]
+}

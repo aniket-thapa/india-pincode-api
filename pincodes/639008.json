@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "KARUR",
+    "offices": [
+        {
+            "officeName": "Athur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Karur Division",
+            "latitude": 10.99,
+            "longitude": 78.03
+        },
+        {
+            "officeName": "Andankoil S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Karur Division",
+            "latitude": 10.95,
+            "longitude": 78.07
+        },
+        {
+            "officeName": "Poolampalayam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Karur Division",
+            "latitude": 11.02,
+            "longitude": 78.04
+        }
+    ]
+}

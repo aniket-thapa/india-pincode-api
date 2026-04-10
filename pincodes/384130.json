@@ -1,0 +1,66 @@
+{
+    "state": "GUJARAT",
+    "district": "MAHESANA",
+    "offices": [
+        {
+            "officeName": "Bhunav BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Mahesana Division",
+            "latitude": 23.867982,
+            "longitude": 72.442807
+        },
+        {
+            "officeName": "Mahervada BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Mahesana Division",
+            "latitude": 23.857522,
+            "longitude": 72.462673
+        },
+        {
+            "officeName": "Machhava BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Mahesana Division",
+            "latitude": 23.869247,
+            "longitude": 72.513659
+        },
+        {
+            "officeName": "Mandali BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Mahesana Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Kahoda SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Mahesana Division",
+            "latitude": 23.890341,
+            "longitude": 72.439023
+        },
+        {
+            "officeName": "Lunva BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Mahesana Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

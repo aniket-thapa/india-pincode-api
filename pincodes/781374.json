@@ -1,0 +1,36 @@
+{
+    "state": "ASSAM",
+    "district": "NALBARI",
+    "offices": [
+        {
+            "officeName": "Bhojkuchi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nalbari Division",
+            "latitude": 26.4198,
+            "longitude": 91.2554
+        },
+        {
+            "officeName": "Makhibaha S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nalbari Division",
+            "latitude": 26.2621,
+            "longitude": 91.1551
+        },
+        {
+            "officeName": "Jalkhana B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nalbari Division",
+            "latitude": 26.4198,
+            "longitude": 91.2554
+        }
+    ]
+}

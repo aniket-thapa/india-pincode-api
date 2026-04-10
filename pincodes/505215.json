@@ -1,0 +1,26 @@
+{
+    "state": "TELANGANA",
+    "district": "PEDDAPALLI",
+    "offices": [
+        {
+            "officeName": "Annapoorna colony S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Peddapalli Division",
+            "latitude": 18.7615203,
+            "longitude": 79.4736835
+        },
+        {
+            "officeName": "Jyothinagar NTPC S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Peddapalli Division",
+            "latitude": 18.755468,
+            "longitude": 79.48932
+        }
+    ]
+}

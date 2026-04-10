@@ -1,0 +1,26 @@
+{
+    "state": "ASSAM",
+    "district": "BAKSA",
+    "offices": [
+        {
+            "officeName": "Darkuchi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Guwahati Division",
+            "latitude": 24.1819,
+            "longitude": 92.4039
+        },
+        {
+            "officeName": "Tulsibari B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Guwahati Division",
+            "latitude": 24.1819,
+            "longitude": 92.4039
+        }
+    ]
+}

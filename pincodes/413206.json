@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "SOLAPUR",
+    "offices": [
+        {
+            "officeName": "Washimbe B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pandharpur Division",
+            "latitude": 18.279741,
+            "longitude": 74.999589
+        },
+        {
+            "officeName": "Sogaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pandharpur Division",
+            "latitude": 18.303188,
+            "longitude": 75.065976
+        },
+        {
+            "officeName": "Kettur II S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Pandharpur Division",
+            "latitude": 18.289352,
+            "longitude": 74.954322
+        }
+    ]
+}

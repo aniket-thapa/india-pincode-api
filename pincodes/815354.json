@@ -1,0 +1,66 @@
+{
+    "state": "JHARKHAND",
+    "district": "JAMTARA",
+    "offices": [
+        {
+            "officeName": "Kewatjali BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "B.Deoghar Division",
+            "latitude": 23.94388,
+            "longitude": 86.832541
+        },
+        {
+            "officeName": "Kelahi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "B.Deoghar Division",
+            "latitude": 23.943877,
+            "longitude": 86.832544
+        },
+        {
+            "officeName": "Sahardal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "B.Deoghar Division",
+            "latitude": 23.87293,
+            "longitude": 86.87791
+        },
+        {
+            "officeName": "Chandra Dhipa BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "B.Deoghar Division",
+            "latitude": 23.87293,
+            "longitude": 86.87791
+        },
+        {
+            "officeName": "Tarrah BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "B.Deoghar Division",
+            "latitude": 23.87293,
+            "longitude": 86.87791
+        },
+        {
+            "officeName": "Mihijam SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "B.Deoghar Division",
+            "latitude": 24.490417,
+            "longitude": 86.690601
+        }
+    ]
+}

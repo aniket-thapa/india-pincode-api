@@ -1,0 +1,76 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "INDORE",
+    "offices": [
+        {
+            "officeName": "Barlai Jagir B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Indore Moffusil Division",
+            "latitude": 22.889313,
+            "longitude": 75.95213
+        },
+        {
+            "officeName": "Manglia S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Indore Moffusil Division",
+            "latitude": 22.3889,
+            "longitude": 75.7431
+        },
+        {
+            "officeName": "Todi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Indore Moffusil Division",
+            "latitude": 42.781935,
+            "longitude": 12.406569
+        },
+        {
+            "officeName": "Dakachiya B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Indore Moffusil Division",
+            "latitude": 22.857512,
+            "longitude": 75.955033
+        },
+        {
+            "officeName": "Kadwali Bujurg B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Indore Moffusil Division",
+            "latitude": 22.82963,
+            "longitude": 75.98551
+        },
+        {
+            "officeName": "Lasudia B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Indore Moffusil Division",
+            "latitude": 22.908674,
+            "longitude": 76.099738
+        },
+        {
+            "officeName": "Panod B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Indore Moffusil Division",
+            "latitude": 40.42198,
+            "longitude": 3.695456
+        }
+    ]
+}

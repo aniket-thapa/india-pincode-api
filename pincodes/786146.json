@@ -1,0 +1,46 @@
+{
+    "state": "ASSAM",
+    "district": "TINSUKIA",
+    "offices": [
+        {
+            "officeName": "Chalihanagar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Tinsukia Division",
+            "latitude": 26.34,
+            "longitude": 94.07
+        },
+        {
+            "officeName": "Sukhanpukhuri S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Tinsukia Division",
+            "latitude": 26.3418,
+            "longitude": 94.072
+        },
+        {
+            "officeName": "Pakharijan B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Tinsukia Division",
+            "latitude": 26.34,
+            "longitude": 94.07
+        },
+        {
+            "officeName": "Lohari B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Tinsukia Division",
+            "latitude": 26.34,
+            "longitude": 94.07
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "SHIVAMOGGA",
+    "offices": [
+        {
+            "officeName": "Harnahalli S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Shivamogga Division",
+            "latitude": 14.7871944,
+            "longitude": 75.9881111
+        },
+        {
+            "officeName": "Byranakoppa B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Shivamogga Division",
+            "latitude": 14.06,
+            "longitude": 75.48
+        },
+        {
+            "officeName": "Kongavalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Shivamogga Division",
+            "latitude": 14.03,
+            "longitude": 75.53
+        }
+    ]
+}

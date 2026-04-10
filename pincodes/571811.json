@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "MANDYA",
+    "offices": [
+        {
+            "officeName": "Kanchanahalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Mandya Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "G Nagathihalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Mandya Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Chunchanahalli S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Mandya Division",
+            "latitude": 13.02,
+            "longitude": 76.74
+        }
+    ]
+}

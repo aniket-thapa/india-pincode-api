@@ -1,0 +1,56 @@
+{
+    "state": "TAMIL NADU",
+    "district": "SIVAGANGA",
+    "offices": [
+        {
+            "officeName": "Salur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Sivaganga Division",
+            "latitude": 9.93,
+            "longitude": 78.45
+        },
+        {
+            "officeName": "Idayamelur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Sivaganga Division",
+            "latitude": 9.91,
+            "longitude": 78.46
+        },
+        {
+            "officeName": "Malampatti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Sivaganga Division",
+            "latitude": 9.95,
+            "longitude": 78.41
+        },
+        {
+            "officeName": "Kilapungudi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Sivaganga Division",
+            "latitude": 9.963937,
+            "longitude": 78.490545
+        },
+        {
+            "officeName": "Tirumalaikoneripatti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Sivaganga Division",
+            "latitude": 9.98,
+            "longitude": 78.47
+        }
+    ]
+}

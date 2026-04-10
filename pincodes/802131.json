@@ -1,0 +1,66 @@
+{
+    "state": "BIHAR",
+    "district": "BUXAR",
+    "offices": [
+        {
+            "officeName": "Rajpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Buxar Division",
+            "latitude": 25.074054,
+            "longitude": 84.203341
+        },
+        {
+            "officeName": "Ekauna Dubauli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Buxar Division",
+            "latitude": 25.658652,
+            "longitude": 84.168677
+        },
+        {
+            "officeName": "Sahiyar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Buxar Division",
+            "latitude": 25.654806,
+            "longitude": 84.154914
+        },
+        {
+            "officeName": "Gangauli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhojpur Division",
+            "latitude": 25.68615,
+            "longitude": 84.188024
+        },
+        {
+            "officeName": "Sheopur Diar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Buxar Division",
+            "latitude": 25.628782,
+            "longitude": 84.215905
+        },
+        {
+            "officeName": "Niazipur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Buxar Division",
+            "latitude": 25.675556,
+            "longitude": 84.154444
+        }
+    ]
+}

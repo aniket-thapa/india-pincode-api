@@ -1,0 +1,56 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "JALGAON",
+    "offices": [
+        {
+            "officeName": "Loni B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Bhusaval Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Mandve K H B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Bhusaval Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Wakadi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Bhusaval Division",
+            "latitude": 20.6718,
+            "longitude": 75.81949
+        },
+        {
+            "officeName": "Tondapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Bhusaval Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Shengole B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Bhusaval Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

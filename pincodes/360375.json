@@ -1,0 +1,26 @@
+{
+    "state": "GUJARAT",
+    "district": "RAJKOT",
+    "offices": [
+        {
+            "officeName": "Sardharpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Gondal Division",
+            "latitude": 21.784969,
+            "longitude": 70.591192
+        },
+        {
+            "officeName": "Navagadh SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Gondal Division",
+            "latitude": 21.7732222,
+            "longitude": 70.6172778
+        }
+    ]
+}

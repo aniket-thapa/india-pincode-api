@@ -1,0 +1,66 @@
+{
+    "state": "TAMIL NADU",
+    "district": "Ranipet",
+    "offices": [
+        {
+            "officeName": "Federation Buildings BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Arakkonam Division",
+            "latitude": 12.91145,
+            "longitude": 79.2726
+        },
+        {
+            "officeName": "Hakeemnagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Arakkonam Division",
+            "latitude": 12.9249656,
+            "longitude": 79.3668455
+        },
+        {
+            "officeName": "Arungundram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Arakkonam Division",
+            "latitude": 12.91145,
+            "longitude": 79.2726
+        },
+        {
+            "officeName": "Ayilam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Arakkonam Division",
+            "latitude": 12.91145,
+            "longitude": 79.2726
+        },
+        {
+            "officeName": "Kilvisharam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Arakkonam Division",
+            "latitude": 12.9249656,
+            "longitude": 79.3668455
+        },
+        {
+            "officeName": "Melvisharam SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Arakkonam Division",
+            "latitude": 12.9249656,
+            "longitude": 79.3668455
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "ALAPPUZHA",
+    "offices": [
+        {
+            "officeName": "Arookutty SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Alleppey Division",
+            "latitude": 9.87275,
+            "longitude": 76.32372
+        },
+        {
+            "officeName": "Vaduthala Jetty BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Alleppey Division",
+            "latitude": 9.85538,
+            "longitude": 76.33832
+        }
+    ]
+}

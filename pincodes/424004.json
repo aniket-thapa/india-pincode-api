@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "DHULE",
+    "offices": [
+        {
+            "officeName": "Agriculture College B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Dhule Division",
+            "latitude": 20.8991,
+            "longitude": 74.801447
+        },
+        {
+            "officeName": "Dhule Market Yard S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Dhule Division",
+            "latitude": 20.9042371,
+            "longitude": 74.7748809
+        }
+    ]
+}

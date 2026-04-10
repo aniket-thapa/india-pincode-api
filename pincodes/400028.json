@@ -1,0 +1,66 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "offices": [
+        {
+            "officeName": "Ranade Road S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City West Division",
+            "latitude": 19.0207778,
+            "longitude": 72.8406944
+        },
+        {
+            "officeName": "S V S Marg S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City West Division",
+            "latitude": 19.02362,
+            "longitude": 72.834683
+        },
+        {
+            "officeName": "Bhawani Shankar Rd S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City West Division",
+            "latitude": 19.0156389,
+            "longitude": 72.8370833
+        },
+        {
+            "officeName": "Bhawani Shankar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City West Division",
+            "latitude": 19.0255833,
+            "longitude": 72.8475833
+        },
+        {
+            "officeName": "Gokhale Road S.O (Mumbai)",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City West Division",
+            "latitude": 19.01624,
+            "longitude": 72.83513
+        },
+        {
+            "officeName": "Shivaji Park S.O (Mumbai)",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City West Division",
+            "latitude": 19.023342,
+            "longitude": 72.8416
+        }
+    ]
+}

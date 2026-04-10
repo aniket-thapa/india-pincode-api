@@ -1,0 +1,66 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "VIZIANAGARAM",
+    "offices": [
+        {
+            "officeName": "Nandabalaga B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Parvathipuram Division",
+            "latitude": 83.4706,
+            "longitude": 18.5439
+        },
+        {
+            "officeName": "Pinapenki B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Parvathipuram Division",
+            "latitude": 83.4529,
+            "longitude": 18.5322
+        },
+        {
+            "officeName": "Kondadevupalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Parvathipuram Division",
+            "latitude": 83.4431,
+            "longitude": 18.5763
+        },
+        {
+            "officeName": "Sivadavalasa B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Parvathipuram Division",
+            "latitude": 83.4549,
+            "longitude": 18.5325
+        },
+        {
+            "officeName": "Karada B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Parvathipuram Division",
+            "latitude": 83.4279,
+            "longitude": 18.5488
+        },
+        {
+            "officeName": "Piridi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Parvathipuram Division",
+            "latitude": 18.575,
+            "longitude": 83.4156389
+        }
+    ]
+}

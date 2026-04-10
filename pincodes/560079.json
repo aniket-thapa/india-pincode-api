@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "BENGALURU URBAN",
+    "offices": [
+        {
+            "officeName": "Kamakshipalya S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Bengaluru West Division",
+            "latitude": 12.987462,
+            "longitude": 77.528282
+        },
+        {
+            "officeName": "Basaveshwaranagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Bengaluru West Division",
+            "latitude": 12.993702,
+            "longitude": 77.539097
+        },
+        {
+            "officeName": "K H B Colony S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Bengaluru West Division",
+            "latitude": 12.982047,
+            "longitude": 77.533118
+        }
+    ]
+}

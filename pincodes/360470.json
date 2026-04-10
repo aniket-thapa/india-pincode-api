@@ -1,0 +1,46 @@
+{
+    "state": "GUJARAT",
+    "district": "RAJKOT",
+    "offices": [
+        {
+            "officeName": "Kharachiya BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Gondal Division",
+            "latitude": 22.104868,
+            "longitude": 71.008175
+        },
+        {
+            "officeName": "Mekha Timbi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Gondal Division",
+            "latitude": 21.740068,
+            "longitude": 70.2133
+        },
+        {
+            "officeName": "Rabarika BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Gondal Division",
+            "latitude": 20.968627,
+            "longitude": 71.146337
+        },
+        {
+            "officeName": "Kolki SO Rajkot",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Gondal Division",
+            "latitude": 22.2986944,
+            "longitude": 70.7997778
+        }
+    ]
+}

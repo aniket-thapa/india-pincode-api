@@ -1,0 +1,56 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "JALAUN",
+    "offices": [
+        {
+            "officeName": "Nadigaon SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Jhansi Division",
+            "latitude": 26.1072778,
+            "longitude": 79.0225833
+        },
+        {
+            "officeName": "Gaindoli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Jhansi Division",
+            "latitude": 26.05812,
+            "longitude": 79.05604
+        },
+        {
+            "officeName": "Sajera BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Jhansi Division",
+            "latitude": 26.12116,
+            "longitude": 78.97478
+        },
+        {
+            "officeName": "Baseeth BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Jhansi Division",
+            "latitude": 26.1324,
+            "longitude": 79.0351
+        },
+        {
+            "officeName": "Ghillaur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Jhansi Division",
+            "latitude": 26.2541,
+            "longitude": 79.0632
+        }
+    ]
+}

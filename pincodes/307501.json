@@ -1,0 +1,56 @@
+{
+    "state": "RAJASTHAN",
+    "district": "SIROHI",
+    "offices": [
+        {
+            "officeName": "Shergaon",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 24.686461,
+            "longitude": 72.821513
+        },
+        {
+            "officeName": "Oriya B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 24.624128,
+            "longitude": 72.738676
+        },
+        {
+            "officeName": "Utraj B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 24.590547,
+            "longitude": 72.711853
+        },
+        {
+            "officeName": "Abu S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 24.5888333,
+            "longitude": 72.714
+        },
+        {
+            "officeName": "Delwara B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 24.609382,
+            "longitude": 72.72298
+        }
+    ]
+}

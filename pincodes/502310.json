@@ -1,0 +1,46 @@
+{
+    "state": "TELANGANA",
+    "district": "SIDDIPET",
+    "offices": [
+        {
+            "officeName": "Vittalapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.231706,
+            "longitude": 78.864603
+        },
+        {
+            "officeName": "Allipur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.241323,
+            "longitude": 78.922867
+        },
+        {
+            "officeName": "Choudaram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.187477,
+            "longitude": 78.93519
+        },
+        {
+            "officeName": "Mylaram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.224815,
+            "longitude": 78.918601
+        }
+    ]
+}

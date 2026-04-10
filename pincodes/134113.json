@@ -1,0 +1,26 @@
+{
+    "state": "HARYANA",
+    "district": "PANCHKULA",
+    "offices": [
+        {
+            "officeName": "Industrial Estate  Panchkula S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.6765722,
+            "longitude": 76.8369361
+        },
+        {
+            "officeName": "Sector 15 Panchkula S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.6852778,
+            "longitude": 76.8392222
+        }
+    ]
+}

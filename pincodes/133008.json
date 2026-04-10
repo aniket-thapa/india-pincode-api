@@ -1,0 +1,56 @@
+{
+    "state": "HARYANA",
+    "district": "AMBALA",
+    "offices": [
+        {
+            "officeName": "Durana B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.230788,
+            "longitude": 76.795873
+        },
+        {
+            "officeName": "Majri S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.378179,
+            "longitude": 76.776697
+        },
+        {
+            "officeName": "Mardon Sahib B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.250459,
+            "longitude": 76.776315
+        },
+        {
+            "officeName": "Baraula B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.210836,
+            "longitude": 76.758583
+        },
+        {
+            "officeName": "Tharwa B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.279928,
+            "longitude": 76.786277
+        }
+    ]
+}

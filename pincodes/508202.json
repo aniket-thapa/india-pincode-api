@@ -1,0 +1,66 @@
+{
+    "state": "TELANGANA",
+    "district": "NALGONDA",
+    "offices": [
+        {
+            "officeName": "Vijayapuri North B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Nalgonda Division",
+            "latitude": 17.05662,
+            "longitude": 79.268333
+        },
+        {
+            "officeName": "Nellikal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Nalgonda Division",
+            "latitude": 17.0586693,
+            "longitude": 79.265585
+        },
+        {
+            "officeName": "Hillcolony S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Nalgonda Division",
+            "latitude": 16.6033889,
+            "longitude": 79.3013889
+        },
+        {
+            "officeName": "Powerhousehostel S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Nalgonda Division",
+            "latitude": 16.698986,
+            "longitude": 79.1704836
+        },
+        {
+            "officeName": "Chalakurthi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Nalgonda Division",
+            "latitude": 16.6086,
+            "longitude": 79.3043
+        },
+        {
+            "officeName": "Chinthalapalem B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Nalgonda Division",
+            "latitude": 16.6086,
+            "longitude": 79.3043
+        }
+    ]
+}

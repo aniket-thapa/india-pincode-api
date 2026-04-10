@@ -1,0 +1,46 @@
+{
+    "state": "KARNATAKA",
+    "district": "BELAGAVI",
+    "offices": [
+        {
+            "officeName": "Bhiradi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Chikodi Division",
+            "latitude": 16.5512656,
+            "longitude": 74.7972251
+        },
+        {
+            "officeName": "Chinchali S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Chikodi Division",
+            "latitude": 16.566975,
+            "longitude": 74.815663
+        },
+        {
+            "officeName": "Nilaji B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Chikodi Division",
+            "latitude": 16.5583577,
+            "longitude": 74.8877598
+        },
+        {
+            "officeName": "Suttatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Chikodi Division",
+            "latitude": 16.5734626,
+            "longitude": 74.8849935
+        }
+    ]
+}

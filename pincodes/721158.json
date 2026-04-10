@@ -1,0 +1,26 @@
+{
+    "state": "WEST BENGAL",
+    "district": "MEDINIPUR EAST",
+    "offices": [
+        {
+            "officeName": "Baishnabchak SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Tamluk Division",
+            "latitude": 22.7247833,
+            "longitude": 88.6107944
+        },
+        {
+            "officeName": "Sulani BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Tamluk Division",
+            "latitude": 22.503,
+            "longitude": 87.837
+        }
+    ]
+}

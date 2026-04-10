@@ -1,0 +1,76 @@
+{
+    "state": "DELHI",
+    "district": "NORTH",
+    "offices": [
+        {
+            "officeName": "Samai Pur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7441111,
+            "longitude": 77.145
+        },
+        {
+            "officeName": "Siraspur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7441111,
+            "longitude": 77.145
+        },
+        {
+            "officeName": "Mukundpur Village",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.744111,
+            "longitude": 77.145
+        },
+        {
+            "officeName": "Shahbad Dairy PO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.741421,
+            "longitude": 77.094711
+        },
+        {
+            "officeName": "Pehlad Pur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.72775,
+            "longitude": 77.1636111
+        },
+        {
+            "officeName": "Badli SO North West Delhi",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.74469,
+            "longitude": 77.145037
+        },
+        {
+            "officeName": "Delhi Engg College SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7463611,
+            "longitude": 77.1185278
+        }
+    ]
+}

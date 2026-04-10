@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "HATHRAS",
+    "offices": [
+        {
+            "officeName": "Rasgaon BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Mathura Division",
+            "latitude": 27.49,
+            "longitude": 78.01
+        },
+        {
+            "officeName": "Mahrara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Mathura Division",
+            "latitude": 27.49,
+            "longitude": 78.01
+        },
+        {
+            "officeName": "Unchagaon BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Mathura Division",
+            "latitude": 27.49,
+            "longitude": 78.01
+        },
+        {
+            "officeName": "Jalesar RS SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Mathura Division",
+            "latitude": 27.2819,
+            "longitude": 78.1806
+        }
+    ]
+}

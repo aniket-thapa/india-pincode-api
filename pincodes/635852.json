@@ -1,0 +1,76 @@
+{
+    "state": "TAMIL NADU",
+    "district": "Tirupathur",
+    "offices": [
+        {
+            "officeName": "Vettapattu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupattur Division",
+            "latitude": 12.565663,
+            "longitude": 78.520968
+        },
+        {
+            "officeName": "Natrampalli S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupattur Division",
+            "latitude": 12.585887,
+            "longitude": 78.503641
+        },
+        {
+            "officeName": "Kathari B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupattur Division",
+            "latitude": 12.604748,
+            "longitude": 78.521376
+        },
+        {
+            "officeName": "Athiperumanur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupattur Division",
+            "latitude": 12.591359,
+            "longitude": 78.52821
+        },
+        {
+            "officeName": "Mallagunta B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupattur Division",
+            "latitude": 12.633738,
+            "longitude": 78.519091
+        },
+        {
+            "officeName": "Nayanacheruvu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupattur Division",
+            "latitude": 12.61537,
+            "longitude": 78.496292
+        },
+        {
+            "officeName": "Jangalapuram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupattur Division",
+            "latitude": 12.590694,
+            "longitude": 78.542898
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "state": "CHHATTISGARH",
+    "district": "KORBA",
+    "offices": [
+        {
+            "officeName": "Gerwa BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bilaspur Division",
+            "latitude": 22.349639,
+            "longitude": 82.541099
+        },
+        {
+            "officeName": "Gopalpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bilaspur Division",
+            "latitude": 22.43905,
+            "longitude": 82.646994
+        },
+        {
+            "officeName": "Jamnipali SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bilaspur Division",
+            "latitude": 22.41748,
+            "longitude": 82.66002
+        },
+        {
+            "officeName": "Chhuri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bilaspur Division",
+            "latitude": 22.484719,
+            "longitude": 82.609172
+        },
+        {
+            "officeName": "Vikas Bhawan SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bilaspur Division",
+            "latitude": 22.38299,
+            "longitude": 82.6763
+        },
+        {
+            "officeName": "Vidyut Nagar Korba SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bilaspur Division",
+            "latitude": 22.42416,
+            "longitude": 82.67784
+        }
+    ]
+}

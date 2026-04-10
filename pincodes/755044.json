@@ -1,0 +1,36 @@
+{
+    "state": "ODISHA",
+    "district": "JAJAPUR",
+    "offices": [
+        {
+            "officeName": "Darpanigarh B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "JAJPUR DIVISION",
+            "latitude": 20.7072966,
+            "longitude": 86.0690968
+        },
+        {
+            "officeName": "Chandikhol S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "JAJPUR DIVISION",
+            "latitude": 20.7152777,
+            "longitude": 86.1108333
+        },
+        {
+            "officeName": "Siha B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "JAJPUR DIVISION",
+            "latitude": 20.7144243,
+            "longitude": 86.0367537
+        }
+    ]
+}

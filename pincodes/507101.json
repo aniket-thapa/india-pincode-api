@@ -1,0 +1,36 @@
+{
+    "state": "TELANGANA",
+    "district": "BHADRADRI KOTHAGUDEM",
+    "offices": [
+        {
+            "officeName": "Kothagudem Colls H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Khammam Division",
+            "latitude": 17.5435556,
+            "longitude": 80.6184444
+        },
+        {
+            "officeName": "Bhajanamandir S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Khammam Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Sca Bldg S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Khammam Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "DELHI",
+    "district": "South East",
+    "offices": [
+        {
+            "officeName": "East Of Kailash PhaseI SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South Division",
+            "latitude": 28.5593611,
+            "longitude": 77.2568056
+        },
+        {
+            "officeName": "East Of Kailash SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South Division",
+            "latitude": 28.5579444,
+            "longitude": 77.2459722
+        },
+        {
+            "officeName": "Nehru Nagar SO South Delhi",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South Division",
+            "latitude": 28.569126,
+            "longitude": 77.253601
+        },
+        {
+            "officeName": "Sant Nagar SO South Delhi",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South Division",
+            "latitude": 28.554003,
+            "longitude": 77.24903
+        },
+        {
+            "officeName": "Sriniwaspuri SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South Division",
+            "latitude": 28.5646944,
+            "longitude": 77.2555833
+        }
+    ]
+}

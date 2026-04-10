@@ -1,0 +1,56 @@
+{
+    "state": "RAJASTHAN",
+    "district": "TONK",
+    "offices": [
+        {
+            "officeName": "Chandli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Tonk Division",
+            "latitude": 25.770212,
+            "longitude": 75.516024
+        },
+        {
+            "officeName": "Polyada B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Tonk Division",
+            "latitude": 25.83324,
+            "longitude": 75.5102
+        },
+        {
+            "officeName": "Panwar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Tonk Division",
+            "latitude": 26.28125,
+            "longitude": 75.8483056
+        },
+        {
+            "officeName": "Niwaria B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Tonk Division",
+            "latitude": 25.835599,
+            "longitude": 75.533493
+        },
+        {
+            "officeName": "Sanwatgarh B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Tonk Division",
+            "latitude": 25.765492,
+            "longitude": 75.469429
+        }
+    ]
+}

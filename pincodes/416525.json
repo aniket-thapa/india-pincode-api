@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "SINDHUDURG",
+    "offices": [
+        {
+            "officeName": "Nerur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "SINDHUDURG DIVISION",
+            "latitude": 16.0120833,
+            "longitude": 73.6431027
+        },
+        {
+            "officeName": "Deulwada Nerur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Goa-Panaji Region",
+            "divisionName": "SINDHUDURG DIVISION",
+            "latitude": 16.0235556,
+            "longitude": 73.6201111
+        }
+    ]
+}

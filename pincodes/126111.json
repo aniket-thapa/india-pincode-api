@@ -1,0 +1,66 @@
+{
+    "state": "HARYANA",
+    "district": "JIND",
+    "offices": [
+        {
+            "officeName": "Pegan B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Karnal Division",
+            "latitude": 23.36,
+            "longitude": 36.32
+        },
+        {
+            "officeName": "Bighana B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Karnal Division",
+            "latitude": 36.32,
+            "longitude": 25.36
+        },
+        {
+            "officeName": "Durana B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Karnal Division",
+            "latitude": 25.36,
+            "longitude": 32.36
+        },
+        {
+            "officeName": "Khanda B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Karnal Division",
+            "latitude": 28.55,
+            "longitude": 23.36
+        },
+        {
+            "officeName": "Dhilluwal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Karnal Division",
+            "latitude": 25.36,
+            "longitude": 36.32
+        },
+        {
+            "officeName": "Alewa S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Karnal Division",
+            "latitude": 29.4753,
+            "longitude": 76.4476
+        }
+    ]
+}

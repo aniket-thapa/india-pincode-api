@@ -1,0 +1,26 @@
+{
+    "state": "WEST BENGAL",
+    "district": "HOOGHLY",
+    "offices": [
+        {
+            "officeName": "Telinipara SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Hooghly South Division",
+            "latitude": 22.88825,
+            "longitude": 88.40225
+        },
+        {
+            "officeName": "Rajabazar SO Hooghly",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Hooghly South Division",
+            "latitude": 22.572989,
+            "longitude": 88.0375602
+        }
+    ]
+}

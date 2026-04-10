@@ -1,0 +1,66 @@
+{
+    "state": "RAJASTHAN",
+    "district": "ALWAR",
+    "offices": [
+        {
+            "officeName": "Khohrana B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Alwar Division",
+            "latitude": 27.937941,
+            "longitude": 76.190649
+        },
+        {
+            "officeName": "Khohri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Alwar Division",
+            "latitude": 27.621564,
+            "longitude": 76.311623
+        },
+        {
+            "officeName": "Jakhrana S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Alwar Division",
+            "latitude": 28.0054167,
+            "longitude": 76.2024167
+        },
+        {
+            "officeName": "Anantpura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Alwar Division",
+            "latitude": 27.95446,
+            "longitude": 76.204285
+        },
+        {
+            "officeName": "Guwana B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Alwar Division",
+            "latitude": 28.008963,
+            "longitude": 76.179823
+        },
+        {
+            "officeName": "Maharajawas B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Alwar Division",
+            "latitude": 27.929664,
+            "longitude": 76.225461
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "GUJARAT",
+    "district": "BHAVNAGAR",
+    "offices": [
+        {
+            "officeName": "Bhumbhli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Bhavnagar Division",
+            "latitude": 21.668924,
+            "longitude": 72.231178
+        },
+        {
+            "officeName": "Gogha SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Bhavnagar Division",
+            "latitude": 21.678711,
+            "longitude": 72.253304
+        },
+        {
+            "officeName": "Thordi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Bhavnagar Division",
+            "latitude": 21.646545,
+            "longitude": 72.191764
+        }
+    ]
+}

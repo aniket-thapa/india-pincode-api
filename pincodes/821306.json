@@ -1,0 +1,46 @@
+{
+    "state": "BIHAR",
+    "district": "ROHTAS",
+    "offices": [
+        {
+            "officeName": "Baraon Kala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rohtas Division",
+            "latitude": 24.62874,
+            "longitude": 83.920166
+        },
+        {
+            "officeName": "Sohagi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rohtas Division",
+            "latitude": 25.015537,
+            "longitude": 84.264094
+        },
+        {
+            "officeName": "Darihat SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rohtas Division",
+            "latitude": 24.965245,
+            "longitude": 84.263685
+        },
+        {
+            "officeName": "Paruhar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rohtas Division",
+            "latitude": 24.990365,
+            "longitude": 84.262777
+        }
+    ]
+}

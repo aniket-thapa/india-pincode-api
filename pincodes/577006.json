@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "DAVANGERE",
+    "offices": [
+        {
+            "officeName": "CHIKKABUDIHAL BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "DAVANAGERE DIVISION",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Vinobhanagara Extn DVG S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "DAVANAGERE DIVISION",
+            "latitude": 13.949046,
+            "longitude": 75.56195
+        },
+        {
+            "officeName": "Devaraj Urs Layout Dvg S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "DAVANAGERE DIVISION",
+            "latitude": 14.4713333,
+            "longitude": 75.9073056
+        }
+    ]
+}

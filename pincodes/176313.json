@@ -1,0 +1,46 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "CHAMBA",
+    "offices": [
+        {
+            "officeName": "Awan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamba Division",
+            "latitude": 32.46382,
+            "longitude": 76.00727
+        },
+        {
+            "officeName": "Kakira SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamba Division",
+            "latitude": 32.45591,
+            "longitude": 75.93435
+        },
+        {
+            "officeName": "Hobar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamba Division",
+            "latitude": 32.45344,
+            "longitude": 75.9768
+        },
+        {
+            "officeName": "Kuddi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamba Division",
+            "latitude": 32.47129,
+            "longitude": 75.98943
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "Tirupathur",
+    "offices": [
+        {
+            "officeName": "Vinnamangalam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupattur Division",
+            "latitude": 12.741809,
+            "longitude": 78.692461
+        },
+        {
+            "officeName": "Minnur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupattur Division",
+            "latitude": 12.729761,
+            "longitude": 78.677258
+        }
+    ]
+}

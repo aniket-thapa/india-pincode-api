@@ -1,0 +1,46 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "INDORE",
+    "offices": [
+        {
+            "officeName": "Indore DDU Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Indore City Division",
+            "latitude": 22.7560833,
+            "longitude": 75.8752222
+        },
+        {
+            "officeName": "Vijay Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Indore City Division",
+            "latitude": 22.7603056,
+            "longitude": 75.8863333
+        },
+        {
+            "officeName": "Sanwer Link Road Indore S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Indore City Division",
+            "latitude": 22.3889,
+            "longitude": 75.7431
+        },
+        {
+            "officeName": "Indore Nipaniya SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Indore City Division",
+            "latitude": 22.75874,
+            "longitude": 75.929845
+        }
+    ]
+}

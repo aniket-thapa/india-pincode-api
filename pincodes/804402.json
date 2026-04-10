@@ -1,0 +1,56 @@
+{
+    "state": "BIHAR",
+    "district": "ARWAL",
+    "offices": [
+        {
+            "officeName": "Baidrabad S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "AurangabadBihar Division",
+            "latitude": 25.606039,
+            "longitude": 85.096863
+        },
+        {
+            "officeName": "Abgila B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "AurangabadBihar Division",
+            "latitude": 25.2078,
+            "longitude": 84.6288
+        },
+        {
+            "officeName": "Fatehpur Sanda B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "AurangabadBihar Division",
+            "latitude": 25.3,
+            "longitude": 84.63
+        },
+        {
+            "officeName": "Bara Koriun B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "AurangabadBihar Division",
+            "latitude": 25.3,
+            "longitude": 84.8
+        },
+        {
+            "officeName": "Sarouti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "AurangabadBihar Division",
+            "latitude": 25.22699,
+            "longitude": 84.64429
+        }
+    ]
+}

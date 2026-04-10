@@ -1,0 +1,36 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "SONBHADRA",
+    "offices": [
+        {
+            "officeName": "Renusagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Mirzapur Division",
+            "latitude": 24.1059,
+            "longitude": 82.5508
+        },
+        {
+            "officeName": "Khajura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Mirzapur Division",
+            "latitude": 24.182517,
+            "longitude": 82.794866
+        },
+        {
+            "officeName": "Pati B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Mirzapur Division",
+            "latitude": 82.285547,
+            "longitude": 82.959538
+        }
+    ]
+}

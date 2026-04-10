@@ -1,0 +1,56 @@
+{
+    "state": "GUJARAT",
+    "district": "GIR SOMNATH",
+    "offices": [
+        {
+            "officeName": "Gir Devli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Junagadh Division",
+            "latitude": 20.9017337,
+            "longitude": 70.7302128
+        },
+        {
+            "officeName": "Sandhnidhar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Junagadh Division",
+            "latitude": 20.9389063,
+            "longitude": 70.7120219
+        },
+        {
+            "officeName": "Ghantvad SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Junagadh Division",
+            "latitude": 20.930322,
+            "longitude": 70.758747
+        },
+        {
+            "officeName": "Chhachhar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Junagadh Division",
+            "latitude": 20.8661444,
+            "longitude": 70.7576324
+        },
+        {
+            "officeName": "Sindhaj BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Junagadh Division",
+            "latitude": 20.8715818,
+            "longitude": 70.7213103
+        }
+    ]
+}

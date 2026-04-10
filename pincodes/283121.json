@@ -1,0 +1,56 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "AGRA",
+    "offices": [
+        {
+            "officeName": "Bhilawali BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Agra Division",
+            "latitude": 26.9812022,
+            "longitude": 77.8281514
+        },
+        {
+            "officeName": "Nagla Dulhe Khan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Agra Division",
+            "latitude": 26.9347777,
+            "longitude": 77.7280395
+        },
+        {
+            "officeName": "KHERAGARH SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Agra Division",
+            "latitude": 21.4173718,
+            "longitude": 80.9799772
+        },
+        {
+            "officeName": "Bhakar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Agra Division",
+            "latitude": 26.9610092,
+            "longitude": 77.8624545
+        },
+        {
+            "officeName": "Rasoolpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Agra Division",
+            "latitude": 26.9420149,
+            "longitude": 77.7688751
+        }
+    ]
+}

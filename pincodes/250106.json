@@ -1,0 +1,56 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "MEERUT",
+    "offices": [
+        {
+            "officeName": "Hasanpur Kalan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Meerut Division",
+            "latitude": 28.8937,
+            "longitude": 77.8717
+        },
+        {
+            "officeName": "Rachhauti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Meerut Division",
+            "latitude": 28.87689,
+            "longitude": 77.8632
+        },
+        {
+            "officeName": "Machhara SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Meerut Division",
+            "latitude": 28.9004,
+            "longitude": 77.89571
+        },
+        {
+            "officeName": "Paswara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Meerut Division",
+            "latitude": 28.93454,
+            "longitude": 77.8934
+        },
+        {
+            "officeName": "Sholda BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Meerut Division",
+            "latitude": 28.87906,
+            "longitude": 77.8958
+        }
+    ]
+}

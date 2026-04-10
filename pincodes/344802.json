@@ -1,0 +1,36 @@
+{
+    "state": "RAJASTHAN",
+    "district": "BARMER",
+    "offices": [
+        {
+            "officeName": "GIRA",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Barmer Division",
+            "latitude": 26.138284,
+            "longitude": 71.964094
+        },
+        {
+            "officeName": "Lapundara Barthan",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Barmer Division",
+            "latitude": 26.049171,
+            "longitude": 72.076342
+        },
+        {
+            "officeName": "Malwa Patawatan (Jageer)",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Barmer Division",
+            "latitude": 26.0021384,
+            "longitude": 72.065279
+        }
+    ]
+}

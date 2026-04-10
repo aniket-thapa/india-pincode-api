@@ -1,0 +1,56 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "FARRUKHABAD",
+    "offices": [
+        {
+            "officeName": "Roshnabad SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Fatehgarh Division",
+            "latitude": 27.4613333,
+            "longitude": 79.4746944
+        },
+        {
+            "officeName": "Chilsara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Fatehgarh Division",
+            "latitude": 27.551256,
+            "longitude": 79.343696
+        },
+        {
+            "officeName": "Amlaiya Ashanand BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Fatehgarh Division",
+            "latitude": 27.551256,
+            "longitude": 79.343696
+        },
+        {
+            "officeName": "Barai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Fatehgarh Division",
+            "latitude": 27.551256,
+            "longitude": 79.343696
+        },
+        {
+            "officeName": "Nagla Nan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Fatehgarh Division",
+            "latitude": 27.551256,
+            "longitude": 79.343696
+        }
+    ]
+}

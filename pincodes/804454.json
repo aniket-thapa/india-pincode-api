@@ -1,0 +1,26 @@
+{
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+        {
+            "officeName": "Tineri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "PATNA SAHIB DIVISION",
+            "latitude": 25.31242,
+            "longitude": 85.02873
+        },
+        {
+            "officeName": "Jamalpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "PATNA SAHIB DIVISION",
+            "latitude": 25.309672,
+            "longitude": 85.021352
+        }
+    ]
+}

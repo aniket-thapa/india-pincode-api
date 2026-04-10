@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "SATARA",
+    "offices": [
+        {
+            "officeName": "Mayani S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Karad Division",
+            "latitude": 17.4421389,
+            "longitude": 74.5503056
+        },
+        {
+            "officeName": "Morale B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Karad Division",
+            "latitude": 17.6544363,
+            "longitude": 74.3675386
+        }
+    ]
+}

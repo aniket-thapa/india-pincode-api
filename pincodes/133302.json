@@ -1,0 +1,36 @@
+{
+    "state": "HARYANA",
+    "district": "PANCHKULA",
+    "offices": [
+        {
+            "officeName": "Kharanwali B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.378188,
+            "longitude": 76.776687
+        },
+        {
+            "officeName": "Kalka R.S. S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.0587757,
+            "longitude": 76.085601
+        },
+        {
+            "officeName": "Kalka S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.8344444,
+            "longitude": 76.9382222
+        }
+    ]
+}

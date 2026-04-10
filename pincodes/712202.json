@@ -1,0 +1,26 @@
+{
+    "state": "WEST BENGAL",
+    "district": "HOOGHLY",
+    "offices": [
+        {
+            "officeName": "Masjid Lane BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Hooghly South Division",
+            "latitude": 22.7513192,
+            "longitude": 88.3514317
+        },
+        {
+            "officeName": "Mahesh 1 SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Hooghly South Division",
+            "latitude": 22.7513192,
+            "longitude": 88.3514317
+        }
+    ]
+}

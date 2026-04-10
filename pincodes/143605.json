@@ -1,0 +1,56 @@
+{
+    "state": "PUNJAB",
+    "district": "GURDASPUR",
+    "offices": [
+        {
+            "officeName": "Dharowali BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Gurdaspur Division",
+            "latitude": 31.97,
+            "longitude": 75.05
+        },
+        {
+            "officeName": "Raimal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Gurdaspur Division",
+            "latitude": 31.93,
+            "longitude": 75.05
+        },
+        {
+            "officeName": "Kotli Surat Malhi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Gurdaspur Division",
+            "latitude": 31.93,
+            "longitude": 75.09
+        },
+        {
+            "officeName": "Shikar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Gurdaspur Division",
+            "latitude": 31.91,
+            "longitude": 75.18
+        },
+        {
+            "officeName": "Dhianpur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Gurdaspur Division",
+            "latitude": 31.92,
+            "longitude": 75.07
+        }
+    ]
+}

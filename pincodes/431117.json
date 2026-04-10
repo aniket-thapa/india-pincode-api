@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "AURANGABAD",
+    "offices": [
+        {
+            "officeName": "Balapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Chhatrapati Sambhajinagar Division",
+            "latitude": 20.300007,
+            "longitude": 75.649993
+        },
+        {
+            "officeName": "Ajantha S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Chhatrapati Sambhajinagar Division",
+            "latitude": 20.535434,
+            "longitude": 75.747506
+        }
+    ]
+}

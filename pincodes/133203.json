@@ -1,0 +1,56 @@
+{
+    "state": "HARYANA",
+    "district": "AMBALA",
+    "offices": [
+        {
+            "officeName": "Sohana B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.378184,
+            "longitude": 76.7766914
+        },
+        {
+            "officeName": "Mullana S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.275,
+            "longitude": 77.0437778
+        },
+        {
+            "officeName": "Thakar Pura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.29995,
+            "longitude": 77.04135
+        },
+        {
+            "officeName": "Dhanaura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 28.9546,
+            "longitude": 78.2647
+        },
+        {
+            "officeName": "Gokal Garh B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.29995,
+            "longitude": 77.04135
+        }
+    ]
+}

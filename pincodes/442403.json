@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "CHANDRAPUR",
+    "offices": [
+        {
+            "officeName": "Junona B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Chandrapur Division",
+            "latitude": 19.9302888,
+            "longitude": 79.33935
+        },
+        {
+            "officeName": "Babupeth S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Chandrapur Division",
+            "latitude": 19.5584444,
+            "longitude": 79.1873611
+        }
+    ]
+}

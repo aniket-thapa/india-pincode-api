@@ -1,0 +1,66 @@
+{
+    "state": "TAMIL NADU",
+    "district": "TENKASI",
+    "offices": [
+        {
+            "officeName": "Veeranam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kovilpatti Division",
+            "latitude": 8.9234,
+            "longitude": 77.471
+        },
+        {
+            "officeName": "Vadi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kovilpatti Division",
+            "latitude": 8.9201,
+            "longitude": 77.366
+        },
+        {
+            "officeName": "VIRAKERALAMPUDUR S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kovilpatti Division",
+            "latitude": 8.9227,
+            "longitude": 77.4196
+        },
+        {
+            "officeName": "Achankuttam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kovilpatti Division",
+            "latitude": 8.8911,
+            "longitude": 77.3584
+        },
+        {
+            "officeName": "Kaluneerkulam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kovilpatti Division",
+            "latitude": 8.9003,
+            "longitude": 77.4239
+        },
+        {
+            "officeName": "Rajagopalaperi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kovilpatti Division",
+            "latitude": 8.9202,
+            "longitude": 77.4288
+        }
+    ]
+}

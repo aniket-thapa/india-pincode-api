@@ -1,0 +1,26 @@
+{
+    "state": "WEST BENGAL",
+    "district": "24 PARAGANAS SOUTH",
+    "offices": [
+        {
+            "officeName": "Kalibari Temple SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Baruipur Division",
+            "latitude": 22.3421,
+            "longitude": 88.215
+        },
+        {
+            "officeName": "Bansdroni SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Baruipur Division",
+            "latitude": 22.4730278,
+            "longitude": 88.3609722
+        }
+    ]
+}

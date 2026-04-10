@@ -1,0 +1,36 @@
+{
+    "state": "PUNJAB",
+    "district": "PATHANKOT",
+    "offices": [
+        {
+            "officeName": "Janial BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Gurdaspur Division",
+            "latitude": 32.32,
+            "longitude": 75.41
+        },
+        {
+            "officeName": "Khojeke Chak BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Gurdaspur Division",
+            "latitude": 32.32249,
+            "longitude": 75.76902
+        },
+        {
+            "officeName": "Bamial SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Gurdaspur Division",
+            "latitude": 32.286,
+            "longitude": 75.375
+        }
+    ]
+}

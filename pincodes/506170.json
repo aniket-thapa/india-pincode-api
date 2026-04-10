@@ -1,0 +1,86 @@
+{
+    "state": "TELANGANA",
+    "district": "JAYASHANKAR BHUPALAPALLY",
+    "offices": [
+        {
+            "officeName": "Jadalpet B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Hanamkonda Division",
+            "latitude": 18.3690203,
+            "longitude": 79.7398632
+        },
+        {
+            "officeName": "Kothapalli v B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Hanamkonda Division",
+            "latitude": 18.367978,
+            "longitude": 79.7826
+        },
+        {
+            "officeName": "Chainpak B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Hanamkonda Division",
+            "latitude": 18.4330412,
+            "longitude": 79.7007861
+        },
+        {
+            "officeName": "KTPP S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Hanamkonda Division",
+            "latitude": 18.387078811618,
+            "longitude": 79.8373124770609
+        },
+        {
+            "officeName": "Nainpak B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Hanamkonda Division",
+            "latitude": 18.3950774,
+            "longitude": 79.7425513
+        },
+        {
+            "officeName": "Gopalpur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Hanamkonda Division",
+            "latitude": 18.3433673,
+            "longitude": 79.7552307
+        },
+        {
+            "officeName": "Vadthal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Hanamkonda Division",
+            "latitude": 18.371784,
+            "longitude": 79.7621952
+        },
+        {
+            "officeName": "Ponagandla B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Hanamkonda Division",
+            "latitude": 18.371784,
+            "longitude": 79.7621952
+        }
+    ]
+}

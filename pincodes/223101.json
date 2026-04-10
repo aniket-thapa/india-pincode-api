@@ -1,0 +1,76 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "JAUNPUR",
+    "offices": [
+        {
+            "officeName": "Chhatai Kala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Jaunpur Division",
+            "latitude": 25.1,
+            "longitude": 80.33
+        },
+        {
+            "officeName": "Sabarhad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Jaunpur Division",
+            "latitude": 26.8549,
+            "longitude": 83.6785
+        },
+        {
+            "officeName": "Suris BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Jaunpur Division",
+            "latitude": 25.48,
+            "longitude": 82.67
+        },
+        {
+            "officeName": "Shahganj SO Jaunpur",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Jaunpur Division",
+            "latitude": 24.7018,
+            "longitude": 82.9541
+        },
+        {
+            "officeName": "Shahganj Tehseel Parisar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Jaunpur Division",
+            "latitude": 26.0512,
+            "longitude": 82.6861
+        },
+        {
+            "officeName": "Takha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Jaunpur Division",
+            "latitude": 26.34,
+            "longitude": 82.64
+        },
+        {
+            "officeName": "Bakuchi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Jaunpur Division",
+            "latitude": 26.36,
+            "longitude": 81.95
+        }
+    ]
+}

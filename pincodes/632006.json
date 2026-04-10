@@ -1,0 +1,76 @@
+{
+    "state": "TAMIL NADU",
+    "district": "VELLORE",
+    "offices": [
+        {
+            "officeName": "Gandhinagar West S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Vellore Division",
+            "latitude": 12.9520833,
+            "longitude": 79.1339722
+        },
+        {
+            "officeName": "Senur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Vellore Division",
+            "latitude": 12.9474,
+            "longitude": 79.1075
+        },
+        {
+            "officeName": "Thandalam Krishnapuram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Vellore Division",
+            "latitude": 12.9402,
+            "longitude": 79.12
+        },
+        {
+            "officeName": "Virudhambattu S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Vellore Division",
+            "latitude": 12.9163056,
+            "longitude": 79.7645278
+        },
+        {
+            "officeName": "Gandhinagar S.O (Vellore)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Vellore Division",
+            "latitude": 12.9155833,
+            "longitude": 79.1320278
+        },
+        {
+            "officeName": "Jaffarapettai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Vellore Division",
+            "latitude": 12.9594,
+            "longitude": 79.1115
+        },
+        {
+            "officeName": "Kangeyanallur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Vellore Division",
+            "latitude": 12.9538,
+            "longitude": 79.1556
+        }
+    ]
+}

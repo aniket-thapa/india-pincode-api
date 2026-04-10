@@ -1,0 +1,36 @@
+{
+    "state": "ODISHA",
+    "district": "CUTTACK",
+    "offices": [
+        {
+            "officeName": "Kankadajodi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Cuttack South Division",
+            "latitude": 20.4276998,
+            "longitude": 85.4592498
+        },
+        {
+            "officeName": "Abhimanpur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Cuttack South Division",
+            "latitude": 20.445825,
+            "longitude": 85.4441499
+        },
+        {
+            "officeName": "Nuapatna S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Cuttack South Division",
+            "latitude": 20.4415,
+            "longitude": 85.4762
+        }
+    ]
+}

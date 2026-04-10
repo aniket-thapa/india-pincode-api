@@ -1,0 +1,36 @@
+{
+    "state": "ASSAM",
+    "district": "LAKHIMPUR",
+    "offices": [
+        {
+            "officeName": "Barbali B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Dibrugarh Division",
+            "latitude": 27.07,
+            "longitude": 93.84
+        },
+        {
+            "officeName": "Pithguri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Dibrugarh Division",
+            "latitude": 27.07,
+            "longitude": 93.84
+        },
+        {
+            "officeName": "Pathalipahar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Dibrugarh Division",
+            "latitude": 27.1709,
+            "longitude": 94.035
+        }
+    ]
+}

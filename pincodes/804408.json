@@ -1,0 +1,26 @@
+{
+    "state": "BIHAR",
+    "district": "JEHANABAD",
+    "offices": [
+        {
+            "officeName": "Jehanabad Kutchary SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gaya Division",
+            "latitude": 25.2191103,
+            "longitude": 84.9888825
+        },
+        {
+            "officeName": "Jehanabad HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gaya Division",
+            "latitude": 25.2376944,
+            "longitude": 85.0010833
+        }
+    ]
+}

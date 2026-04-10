@@ -1,0 +1,46 @@
+{
+    "state": "BIHAR",
+    "district": "KATIHAR",
+    "offices": [
+        {
+            "officeName": "Katihar Bara Bazar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Divisional Office Katihar",
+            "latitude": 25.5371,
+            "longitude": 87.576
+        },
+        {
+            "officeName": "Katihar Colony SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Divisional Office Katihar",
+            "latitude": 25.5375,
+            "longitude": 87.566
+        },
+        {
+            "officeName": "Katihar Rs SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Divisional Office Katihar",
+            "latitude": 25.5374,
+            "longitude": 87.566
+        },
+        {
+            "officeName": "Katihar HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Divisional Office Katihar",
+            "latitude": 25.5441944,
+            "longitude": 87.5698333
+        }
+    ]
+}

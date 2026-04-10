@@ -1,0 +1,56 @@
+{
+    "state": "WEST BENGAL",
+    "district": "NADIA",
+    "offices": [
+        {
+            "officeName": "Lalbazar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Nadia North Division",
+            "latitude": 23.81,
+            "longitude": 88.58
+        },
+        {
+            "officeName": "Betai SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Nadia North Division",
+            "latitude": 22.8090278,
+            "longitude": 88.5645833
+        },
+        {
+            "officeName": "Haripur Chhitka BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Nadia North Division",
+            "latitude": 23.84,
+            "longitude": 88.55
+        },
+        {
+            "officeName": "Karuigachi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Nadia North Division",
+            "latitude": 23.81,
+            "longitude": 88.52
+        },
+        {
+            "officeName": "Chhitkadaspara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Nadia North Division",
+            "latitude": 23.85,
+            "longitude": 88.55
+        }
+    ]
+}

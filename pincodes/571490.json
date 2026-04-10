@@ -1,0 +1,46 @@
+{
+    "state": "KARNATAKA",
+    "district": "CHAMARAJANAGARA",
+    "offices": [
+        {
+            "officeName": "Marukotai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Nanjangud Division",
+            "latitude": 12.031527,
+            "longitude": 77.592029
+        },
+        {
+            "officeName": "Indiaganatha B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Nanjangud Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Mahadeshwara Malai S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Nanjangud Division",
+            "latitude": 12.06019444,
+            "longitude": 77.98725
+        },
+        {
+            "officeName": "Gopinatham B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Nanjangud Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

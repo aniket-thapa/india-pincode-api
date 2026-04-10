@@ -1,0 +1,56 @@
+{
+    "state": "KARNATAKA",
+    "district": "BELAGAVI",
+    "offices": [
+        {
+            "officeName": "Aralikatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Gokak Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Hidkal Dam S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Gokak Division",
+            "latitude": 16.1348225,
+            "longitude": 74.651706
+        },
+        {
+            "officeName": "Nirwanhatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Gokak Division",
+            "latitude": 16.1502721,
+            "longitude": 74.6515344
+        },
+        {
+            "officeName": "Ghodgeri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Gokak Division",
+            "latitude": 16.1855718,
+            "longitude": 74.6946278
+        },
+        {
+            "officeName": "Hattialur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Gokak Division",
+            "latitude": 16.1314502,
+            "longitude": 74.681473
+        }
+    ]
+}

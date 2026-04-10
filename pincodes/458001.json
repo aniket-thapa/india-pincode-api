@@ -1,0 +1,36 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "MANDSAUR",
+    "offices": [
+        {
+            "officeName": "Mandsaur Nai Abadi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Mandsaur Division",
+            "latitude": 24.07,
+            "longitude": 75.06
+        },
+        {
+            "officeName": "Shri Ramtekri Mandsaur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Mandsaur Division",
+            "latitude": 24.07,
+            "longitude": 75.06
+        },
+        {
+            "officeName": "Mandsaur H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Mandsaur Division",
+            "latitude": 24.074,
+            "longitude": 75.0703889
+        }
+    ]
+}

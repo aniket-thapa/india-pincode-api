@@ -1,0 +1,46 @@
+{
+    "state": "PUNJAB",
+    "district": "KAPURTHALA",
+    "offices": [
+        {
+            "officeName": "Narur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Kapurthala Division",
+            "latitude": 31.80705,
+            "longitude": 75.89078
+        },
+        {
+            "officeName": "Mayopatti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Kapurthala Division",
+            "latitude": 31.217809,
+            "longitude": 75.769391
+        },
+        {
+            "officeName": "Sahni BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Kapurthala Division",
+            "latitude": 31.3093785,
+            "longitude": 75.8143065
+        },
+        {
+            "officeName": "Bhagana BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Kapurthala Division",
+            "latitude": 31.3635942,
+            "longitude": 75.851816
+        }
+    ]
+}

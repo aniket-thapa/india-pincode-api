@@ -1,0 +1,26 @@
+{
+    "state": "RAJASTHAN",
+    "district": "SIROHI",
+    "offices": [
+        {
+            "officeName": "Jkpuram S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 24.6981389,
+            "longitude": 73.00875
+        },
+        {
+            "officeName": "Basantgarh B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 24.715424,
+            "longitude": 73.028721
+        }
+    ]
+}

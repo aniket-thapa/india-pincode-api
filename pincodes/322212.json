@@ -1,0 +1,76 @@
+{
+    "state": "RAJASTHAN",
+    "district": "SAWAI MADHOPUR",
+    "offices": [
+        {
+            "officeName": "Amavragarh BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sawaimadhopur Division",
+            "latitude": 26.364269,
+            "longitude": 77.705144
+        },
+        {
+            "officeName": "Bhanwara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sawaimadhopur Division",
+            "latitude": 27.030991,
+            "longitude": 76.472214
+        },
+        {
+            "officeName": "Garhmoran SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sawaimadhopur Division",
+            "latitude": 26.1484167,
+            "longitude": 76.4659722
+        },
+        {
+            "officeName": "Bichpuri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sawaimadhopur Division",
+            "latitude": 27.174026,
+            "longitude": 77.913889
+        },
+        {
+            "officeName": "Chirawanda BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sawaimadhopur Division",
+            "latitude": 20.382743,
+            "longitude": 72.931292
+        },
+        {
+            "officeName": "Riwali BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sawaimadhopur Division",
+            "latitude": 26.594608,
+            "longitude": 76.432447
+        },
+        {
+            "officeName": "Sukar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sawaimadhopur Division",
+            "latitude": 36.101158,
+            "longitude": 115.13169
+        }
+    ]
+}

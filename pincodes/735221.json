@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "JALPAIGURI",
+    "offices": [
+        {
+            "officeName": "Panwar Busty SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Jalpaiguri Division",
+            "latitude": 26.86,
+            "longitude": 88.74
+        },
+        {
+            "officeName": "Mal HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Jalpaiguri Division",
+            "latitude": 26.8693056,
+            "longitude": 88.7426111
+        },
+        {
+            "officeName": "Bataigole Bazaar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Jalpaiguri Division",
+            "latitude": 26.87,
+            "longitude": 88.75
+        }
+    ]
+}

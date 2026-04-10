@@ -1,0 +1,76 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "GHAZIABAD",
+    "offices": [
+        {
+            "officeName": "Churiyala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Ghaziabad Division",
+            "latitude": 28.855159,
+            "longitude": 77.670792
+        },
+        {
+            "officeName": "Sara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Ghaziabad Division",
+            "latitude": 28.875433,
+            "longitude": 77.572688
+        },
+        {
+            "officeName": "Rori BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Ghaziabad Division",
+            "latitude": 28.862088,
+            "longitude": 77.606354
+        },
+        {
+            "officeName": "Talheta BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Ghaziabad Division",
+            "latitude": 28.829621,
+            "longitude": 77.673655
+        },
+        {
+            "officeName": "Saidpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Ghaziabad Division",
+            "latitude": 28.867107,
+            "longitude": 77.645021
+        },
+        {
+            "officeName": "Govindpuri SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Ghaziabad Division",
+            "latitude": 28.8558717330207,
+            "longitude": 77.5912120253817
+        },
+        {
+            "officeName": "Harmukhpuri SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Ghaziabad Division",
+            "latitude": 24.578542,
+            "longitude": 78.546217
+        }
+    ]
+}

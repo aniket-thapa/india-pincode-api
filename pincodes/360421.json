@@ -1,0 +1,26 @@
+{
+    "state": "GUJARAT",
+    "district": "RAJKOT",
+    "offices": [
+        {
+            "officeName": "Bhadajalia BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Gondal Division",
+            "latitude": 21.69215,
+            "longitude": 70.367
+        },
+        {
+            "officeName": "Moti Marad SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Gondal Division",
+            "latitude": 21.6799167,
+            "longitude": 70.37425
+        }
+    ]
+}

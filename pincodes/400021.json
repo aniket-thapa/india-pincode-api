@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "offices": [
+        {
+            "officeName": "Nariman Point SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City South Division",
+            "latitude": 18.923472,
+            "longitude": 72.826789
+        },
+        {
+            "officeName": "Elephanta Caves Po BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City South Division",
+            "latitude": 18.9391666,
+            "longitude": 72.8375555
+        },
+        {
+            "officeName": "New Yogakshema SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City South Division",
+            "latitude": 18.9305,
+            "longitude": 72.8231111
+        }
+    ]
+}

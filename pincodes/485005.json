@@ -1,0 +1,36 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "SATNA",
+    "offices": [
+        {
+            "officeName": "Satna Birla Vikas S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Satna Division",
+            "latitude": 22.1054167,
+            "longitude": 79.1781667
+        },
+        {
+            "officeName": "Badkhar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Satna Division",
+            "latitude": 24.579,
+            "longitude": 81.832
+        },
+        {
+            "officeName": "Satna Kanwarnagar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Satna Division",
+            "latitude": 24.579,
+            "longitude": 81.832
+        }
+    ]
+}

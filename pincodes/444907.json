@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "AMRAVATI",
+    "offices": [
+        {
+            "officeName": "Teosa Ghat B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Amaravati Division",
+            "latitude": 21.52,
+            "longitude": 78.28
+        },
+        {
+            "officeName": "Satnoor B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Amaravati Division",
+            "latitude": 21.55,
+            "longitude": 78.3
+        },
+        {
+            "officeName": "Shendurjana Ghat S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Amaravati Division",
+            "latitude": 21.5221944,
+            "longitude": 78.2902778
+        }
+    ]
+}

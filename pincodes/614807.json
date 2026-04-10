@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "NAGAPATTINAM",
+    "offices": [
+        {
+            "officeName": "Kodiakkadu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Pattukottai Division",
+            "latitude": 10.29,
+            "longitude": 79.83
+        },
+        {
+            "officeName": "Kodiakkarai S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Pattukottai Division",
+            "latitude": 10.7603056,
+            "longitude": 79.8465278
+        }
+    ]
+}

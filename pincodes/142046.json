@@ -1,0 +1,56 @@
+{
+    "state": "PUNJAB",
+    "district": "MOGA",
+    "offices": [
+        {
+            "officeName": "Khai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Faridkot Division",
+            "latitude": 30.5598021,
+            "longitude": 75.226024
+        },
+        {
+            "officeName": "Didarewala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Faridkot Division",
+            "latitude": 30.6024453,
+            "longitude": 75.2055956
+        },
+        {
+            "officeName": "Dina BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Faridkot Division",
+            "latitude": 30.5186108,
+            "longitude": 75.2347756
+        },
+        {
+            "officeName": "Khote BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Faridkot Division",
+            "latitude": 30.5705,
+            "longitude": 75.2155
+        },
+        {
+            "officeName": "Patto Hira Singh SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Faridkot Division",
+            "latitude": 30.593905,
+            "longitude": 75.240955
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "GUNA",
+    "offices": [
+        {
+            "officeName": "Gehunkheda B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Guna Division",
+            "latitude": 24.56,
+            "longitude": 77.4
+        },
+        {
+            "officeName": "Bajranggarh S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Guna Division",
+            "latitude": 24.66526,
+            "longitude": 77.360686
+        },
+        {
+            "officeName": "Muhalpur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Guna Division",
+            "latitude": 24.59,
+            "longitude": 77.32
+        },
+        {
+            "officeName": "Satanpur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Guna Division",
+            "latitude": 24.52,
+            "longitude": 77.37
+        },
+        {
+            "officeName": "Barkheda Gird B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Guna Division",
+            "latitude": 24.53,
+            "longitude": 77.39
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Y.S.R.",
+    "offices": [
+        {
+            "officeName": "Rajampet H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Cuddapah Division",
+            "latitude": 14.197575,
+            "longitude": 79.16001
+        },
+        {
+            "officeName": "Rajampet Rs S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Cuddapah Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

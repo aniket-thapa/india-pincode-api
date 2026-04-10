@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "PRAKASAM",
+    "offices": [
+        {
+            "officeName": "Markapur East S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Markapur  Division",
+            "latitude": 15.7415278,
+            "longitude": 79.2711389
+        },
+        {
+            "officeName": "Markapur H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Markapur  Division",
+            "latitude": 15.735919,
+            "longitude": 79.26964
+        },
+        {
+            "officeName": "Markapur Bazar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Markapur  Division",
+            "latitude": 15.742619,
+            "longitude": 79.273935
+        }
+    ]
+}

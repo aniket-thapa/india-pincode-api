@@ -1,0 +1,56 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "GONDA",
+    "offices": [
+        {
+            "officeName": "Janki Nagar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gonda Division",
+            "latitude": 27.357107,
+            "longitude": 82.078069
+        },
+        {
+            "officeName": "Jaiprabha Gram SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gonda Division",
+            "latitude": 27.3574167,
+            "longitude": 82.0688056
+        },
+        {
+            "officeName": "Basant Pur Raja BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gonda Division",
+            "latitude": 27.340932,
+            "longitude": 82.103346
+        },
+        {
+            "officeName": "Bhawanipur Uppadhyay BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gonda Division",
+            "latitude": 27.551536,
+            "longitude": 81.990079
+        },
+        {
+            "officeName": "Devtaha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gonda Division",
+            "latitude": 27.492971,
+            "longitude": 81.98193
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "state": "ODISHA",
+    "district": "GANJAM",
+    "offices": [
+        {
+            "officeName": "Badakusasthali B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Berhampur Division",
+            "latitude": 19.3394066,
+            "longitude": 84.854425
+        },
+        {
+            "officeName": "Rangailunda B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Berhampur Division",
+            "latitude": 19.2926683,
+            "longitude": 84.8815666
+        },
+        {
+            "officeName": "Badapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Berhampur Division",
+            "latitude": 19.3446883,
+            "longitude": 84.868495
+        },
+        {
+            "officeName": "Berhampur University S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Berhampur Division",
+            "latitude": 19.2990825,
+            "longitude": 84.8786714
+        },
+        {
+            "officeName": "Bahadurpeta B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Berhampur Division",
+            "latitude": 19.30489,
+            "longitude": 84.85239
+        },
+        {
+            "officeName": "Narendrapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Berhampur Division",
+            "latitude": 19.33565,
+            "longitude": 84.8686366
+        }
+    ]
+}

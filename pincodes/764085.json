@@ -1,0 +1,26 @@
+{
+    "state": "ODISHA",
+    "district": "NABARANGPUR",
+    "offices": [
+        {
+            "officeName": "Parajadeopalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Koraput Division",
+            "latitude": 19.2679816,
+            "longitude": 82.8256066
+        },
+        {
+            "officeName": "Khatiguda S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Koraput Division",
+            "latitude": 19.2679816,
+            "longitude": 82.8256066
+        }
+    ]
+}

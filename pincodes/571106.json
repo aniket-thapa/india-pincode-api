@@ -1,0 +1,66 @@
+{
+    "state": "KARNATAKA",
+    "district": "MYSURU",
+    "offices": [
+        {
+            "officeName": "Veeranahosahalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Mysuru Division",
+            "latitude": 12.176264,
+            "longitude": 76.202878
+        },
+        {
+            "officeName": "Tattekere B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Mysuru Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Hanagodu S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Mysuru Division",
+            "latitude": 12.3027222,
+            "longitude": 76.6311389
+        },
+        {
+            "officeName": "Neralakuppe B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Mysuru Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Doddahejjur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Mysuru Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Honnenahalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Mysuru Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

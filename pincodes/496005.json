@@ -1,0 +1,36 @@
+{
+    "state": "CHHATTISGARH",
+    "district": "RAIGARH",
+    "offices": [
+        {
+            "officeName": "Kirodimalnagar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Raigarh Division",
+            "latitude": 21.930117,
+            "longitude": 83.357761
+        },
+        {
+            "officeName": "JSPL Patrapali SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Raigarh Division",
+            "latitude": 21.928025,
+            "longitude": 83.354727
+        },
+        {
+            "officeName": "Gorkha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Raigarh Division",
+            "latitude": 21.924415,
+            "longitude": 83.3471776
+        }
+    ]
+}

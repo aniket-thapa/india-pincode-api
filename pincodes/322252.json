@@ -1,0 +1,66 @@
+{
+    "state": "RAJASTHAN",
+    "district": "KARAULI",
+    "offices": [
+        {
+            "officeName": "Dhanda BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sawaimadhopur Division",
+            "latitude": 26.770572,
+            "longitude": 77.25201
+        },
+        {
+            "officeName": "Suroth SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sawaimadhopur Division",
+            "latitude": 26.8096111,
+            "longitude": 77.1478611
+        },
+        {
+            "officeName": "Bhukrawali BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sawaimadhopur Division",
+            "latitude": 26.810067,
+            "longitude": 77.18278
+        },
+        {
+            "officeName": "Tali BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sawaimadhopur Division",
+            "latitude": 26.71688,
+            "longitude": 77.234767
+        },
+        {
+            "officeName": "Somla BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sawaimadhopur Division",
+            "latitude": 26.94793,
+            "longitude": 76.793201
+        },
+        {
+            "officeName": "Jatwada BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sawaimadhopur Division",
+            "latitude": 26.785776,
+            "longitude": 77.173629
+        }
+    ]
+}

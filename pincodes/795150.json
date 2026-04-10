@@ -1,0 +1,46 @@
+{
+    "state": "MANIPUR",
+    "district": "SENAPATI",
+    "offices": [
+        {
+            "officeName": "Mao S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Manipur Division",
+            "latitude": 25.325855,
+            "longitude": 94.12465
+        },
+        {
+            "officeName": "Pudunamei B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Manipur Division",
+            "latitude": 25.528646,
+            "longitude": 94.158099
+        },
+        {
+            "officeName": "Pfukhro B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Manipur Division",
+            "latitude": 25.508333,
+            "longitude": 94.160277
+        },
+        {
+            "officeName": "Phunanamei B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Manipur Division",
+            "latitude": 25.52211,
+            "longitude": 94.152883
+        }
+    ]
+}

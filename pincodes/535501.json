@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Parvathipuram Manyam",
+    "offices": [
+        {
+            "officeName": "Jagannadhapuram S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Parvathipuram Division",
+            "latitude": 18.7802778,
+            "longitude": 83.4328889
+        },
+        {
+            "officeName": "Parvatipuram H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Parvathipuram Division",
+            "latitude": 18.7727778,
+            "longitude": 83.4244167
+        },
+        {
+            "officeName": "Parvatipuram Town S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Parvathipuram Division",
+            "latitude": 18.7846389,
+            "longitude": 83.425
+        }
+    ]
+}

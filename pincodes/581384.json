@@ -1,0 +1,56 @@
+{
+    "state": "KARNATAKA",
+    "district": "UTTARA KANNADA",
+    "offices": [
+        {
+            "officeName": "Kudrige B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Karwar Division",
+            "latitude": 14.2382855,
+            "longitude": 74.6175537
+        },
+        {
+            "officeName": "Nagarbastikeri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Karwar Division",
+            "latitude": 14.236719,
+            "longitude": 74.6545467
+        },
+        {
+            "officeName": "Gersoppa Jyothinagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Karwar Division",
+            "latitude": 14.2488963,
+            "longitude": 74.6538279
+        },
+        {
+            "officeName": "Gersoppa B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Karwar Division",
+            "latitude": 14.240281,
+            "longitude": 74.6536562
+        },
+        {
+            "officeName": "Saralgi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Karwar Division",
+            "latitude": 14.2483276,
+            "longitude": 74.6225962
+        }
+    ]
+}

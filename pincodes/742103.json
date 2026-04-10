@@ -1,0 +1,56 @@
+{
+    "state": "WEST BENGAL",
+    "district": "MURSHIDABAD",
+    "offices": [
+        {
+            "officeName": "Saidabad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Murshidabad Division",
+            "latitude": 24.1047,
+            "longitude": 88.2516
+        },
+        {
+            "officeName": "Khagra SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Murshidabad Division",
+            "latitude": 24.0916667,
+            "longitude": 88.2469444
+        },
+        {
+            "officeName": "Kunjaghata BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Murshidabad Division",
+            "latitude": 24.1047,
+            "longitude": 88.2516
+        },
+        {
+            "officeName": "Daihatta Road SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Murshidabad Division",
+            "latitude": 24.1097583,
+            "longitude": 88.2535166
+        },
+        {
+            "officeName": "Indraprastha SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Murshidabad Division",
+            "latitude": 24.1075361,
+            "longitude": 88.2556472
+        }
+    ]
+}

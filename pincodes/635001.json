@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "KRISHNAGIRI",
+    "offices": [
+        {
+            "officeName": "Krishnagiri Courts S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Krishnagiri Division",
+            "latitude": 12.5246944,
+            "longitude": 78.1978056
+        },
+        {
+            "officeName": "Krishnagiri H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Krishnagiri Division",
+            "latitude": 12.5296,
+            "longitude": 78.2064
+        },
+        {
+            "officeName": "Kattinayanapalli S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Krishnagiri Division",
+            "latitude": 12.5377222,
+            "longitude": 78.2498611
+        }
+    ]
+}

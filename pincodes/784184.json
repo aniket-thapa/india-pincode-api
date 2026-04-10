@@ -1,0 +1,36 @@
+{
+    "state": "ASSAM",
+    "district": "Biswanath",
+    "offices": [
+        {
+            "officeName": "Bharali Juli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.84094,
+            "longitude": 93.40661
+        },
+        {
+            "officeName": "Borjharani B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.58719,
+            "longitude": 92.85264
+        },
+        {
+            "officeName": "Gingia S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.58719,
+            "longitude": 92.85264
+        }
+    ]
+}

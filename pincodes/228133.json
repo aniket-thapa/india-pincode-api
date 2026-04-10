@@ -1,0 +1,56 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "SULTANPUR",
+    "offices": [
+        {
+            "officeName": "Basupur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Sultanpur Division",
+            "latitude": 25.133652,
+            "longitude": 83.022039
+        },
+        {
+            "officeName": "Mirpur Saraiya BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Sultanpur Division",
+            "latitude": 26.1793796,
+            "longitude": 82.664547
+        },
+        {
+            "officeName": "Nanemau BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Sultanpur Division",
+            "latitude": 28.11,
+            "longitude": 81.63
+        },
+        {
+            "officeName": "Belahari SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Sultanpur Division",
+            "latitude": 26.2232778,
+            "longitude": 82.2829444
+        },
+        {
+            "officeName": "Bahauddinpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Sultanpur Division",
+            "latitude": 26.056832,
+            "longitude": 82.396711
+        }
+    ]
+}

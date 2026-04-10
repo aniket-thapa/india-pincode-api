@@ -1,0 +1,46 @@
+{
+    "state": "BIHAR",
+    "district": "PATNA",
+    "offices": [
+        {
+            "officeName": "Khagaul Bazar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patna Division",
+            "latitude": 25.584888,
+            "longitude": 85.038935
+        },
+        {
+            "officeName": "MKURJI BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patna Division",
+            "latitude": 25.3656565,
+            "longitude": 85.9693665
+        },
+        {
+            "officeName": "SHIKARPUR BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patna Division",
+            "latitude": 25.56645,
+            "longitude": 85.1131
+        },
+        {
+            "officeName": "KHAGAUL S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patna Division",
+            "latitude": 25.584888,
+            "longitude": 85.038935
+        }
+    ]
+}

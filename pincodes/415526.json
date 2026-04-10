@@ -1,0 +1,46 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "SATARA",
+    "offices": [
+        {
+            "officeName": "Bholi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Satara Division",
+            "latitude": 18.114803,
+            "longitude": 74.027809
+        },
+        {
+            "officeName": "Loni B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Satara Division",
+            "latitude": 18.116169,
+            "longitude": 74.043966
+        },
+        {
+            "officeName": "Bhade B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Satara Division",
+            "latitude": 18.095253,
+            "longitude": 74.094631
+        },
+        {
+            "officeName": "Vathar BK S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Satara Division",
+            "latitude": 18.1166944,
+            "longitude": 74.1044167
+        }
+    ]
+}

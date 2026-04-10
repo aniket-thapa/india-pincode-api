@@ -1,0 +1,56 @@
+{
+    "state": "WEST BENGAL",
+    "district": "BIRBHUM",
+    "offices": [
+        {
+            "officeName": "Kurumgram SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Birbhum Division",
+            "latitude": 24.245759,
+            "longitude": 87.873784
+        },
+        {
+            "officeName": "Anantapurkanaipur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Birbhum Division",
+            "latitude": 24.228319,
+            "longitude": 87.897312
+        },
+        {
+            "officeName": "Sardha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Birbhum Division",
+            "latitude": 24.245262,
+            "longitude": 87.896484
+        },
+        {
+            "officeName": "Gopegram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Birbhum Division",
+            "latitude": 24.239591,
+            "longitude": 87.926269
+        },
+        {
+            "officeName": "Bujung BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Birbhum Division",
+            "latitude": 24.254605,
+            "longitude": 87.918771
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "KERALA",
+    "district": "ALAPPUZHA",
+    "offices": [
+        {
+            "officeName": "Chandiroor BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Alleppey Division",
+            "latitude": 9.841,
+            "longitude": 76.309
+        },
+        {
+            "officeName": "Ezhupunna BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Alleppey Division",
+            "latitude": 9.823,
+            "longitude": 76.308
+        },
+        {
+            "officeName": "Ezhupunna South BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Alleppey Division",
+            "latitude": 9.825,
+            "longitude": 76.312
+        },
+        {
+            "officeName": "Eramallur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Alleppey Division",
+            "latitude": 9.4995,
+            "longitude": 76.33819
+        }
+    ]
+}

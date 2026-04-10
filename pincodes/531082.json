@@ -1,0 +1,26 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "VISAKHAPATANAM",
+    "offices": [
+        {
+            "officeName": "Bhimavaram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Anakapalle Division",
+            "latitude": 17.4723751,
+            "longitude": 82.7375613
+        },
+        {
+            "officeName": "Etikoppaka S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Anakapalle Division",
+            "latitude": 17.4892222,
+            "longitude": 82.7451389
+        }
+    ]
+}

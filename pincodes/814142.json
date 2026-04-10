@@ -1,0 +1,66 @@
+{
+    "state": "JHARKHAND",
+    "district": "DEOGHAR",
+    "offices": [
+        {
+            "officeName": "Dabar Gram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "B.Deoghar Division",
+            "latitude": 24.60226,
+            "longitude": 87.02173
+        },
+        {
+            "officeName": "Kenmankathi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "B.Deoghar Division",
+            "latitude": 24.28836,
+            "longitude": 86.52704
+        },
+        {
+            "officeName": "Banka BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "B.Deoghar Division",
+            "latitude": 24.5141,
+            "longitude": 86.6479
+        },
+        {
+            "officeName": "Madhopur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "B.Deoghar Division",
+            "latitude": 24.866032,
+            "longitude": 86.6696887
+        },
+        {
+            "officeName": "Jasidih SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "B.Deoghar Division",
+            "latitude": 24.490417,
+            "longitude": 86.690601
+        },
+        {
+            "officeName": "Deopur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "B.Deoghar Division",
+            "latitude": 24.490417,
+            "longitude": 86.8374
+        }
+    ]
+}

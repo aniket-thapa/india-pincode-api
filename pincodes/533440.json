@@ -1,0 +1,26 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "EAST GODAVARI",
+    "offices": [
+        {
+            "officeName": "Samalkot Pen Lines S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Kakinada Division",
+            "latitude": 17.0536389,
+            "longitude": 82.1772222
+        },
+        {
+            "officeName": "Samalkot H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Kakinada Division",
+            "latitude": 17.0548333,
+            "longitude": 82.1661111
+        }
+    ]
+}

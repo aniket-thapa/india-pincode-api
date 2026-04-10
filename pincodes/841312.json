@@ -1,0 +1,46 @@
+{
+    "state": "BIHAR",
+    "district": "SARAN",
+    "offices": [
+        {
+            "officeName": "Sitabdiara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Saran Division",
+            "latitude": 26.420025,
+            "longitude": 84.895873
+        },
+        {
+            "officeName": "Khawaspur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Saran Division",
+            "latitude": 26.420025,
+            "longitude": 84.895873
+        },
+        {
+            "officeName": "Sahebzadatola BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Saran Division",
+            "latitude": 26.420025,
+            "longitude": 84.895873
+        },
+        {
+            "officeName": "Gariba Tola SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Saran Division",
+            "latitude": 25.7850556,
+            "longitude": 84.7347778
+        }
+    ]
+}

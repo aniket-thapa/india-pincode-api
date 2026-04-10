@@ -1,0 +1,56 @@
+{
+    "state": "TAMIL NADU",
+    "district": "CHENGALPATTU",
+    "offices": [
+        {
+            "officeName": "Paranur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chengalpattu Division",
+            "latitude": 12.7055737,
+            "longitude": 79.9738159
+        },
+        {
+            "officeName": "Gundurchengalpattu SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chengalpattu Division",
+            "latitude": 12.7074,
+            "longitude": 79.9393
+        },
+        {
+            "officeName": "Kunnavakkam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chengalpattu Division",
+            "latitude": 12.7012787,
+            "longitude": 80.0101614
+        },
+        {
+            "officeName": "Nathamchengalpattu SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chengalpattu Division",
+            "latitude": 13.0101944,
+            "longitude": 79.6262222
+        },
+        {
+            "officeName": "Pulipakkam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chengalpattu Division",
+            "latitude": 12.7074,
+            "longitude": 79.9393
+        }
+    ]
+}

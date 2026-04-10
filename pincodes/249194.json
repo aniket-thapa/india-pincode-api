@@ -1,0 +1,46 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "UTTAR KASHI",
+    "offices": [
+        {
+            "officeName": "Maneri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Tehri Division",
+            "latitude": 30.7396022,
+            "longitude": 78.5305907
+        },
+        {
+            "officeName": "MD Colony SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Tehri Division",
+            "latitude": 30.7414722,
+            "longitude": 79.5297778
+        },
+        {
+            "officeName": "Latasera BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Tehri Division",
+            "latitude": 30.7811813,
+            "longitude": 78.6157565
+        },
+        {
+            "officeName": "Soura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Tehri Division",
+            "latitude": 30.7688384,
+            "longitude": 78.6044052
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "TUTICORIN",
+    "offices": [
+        {
+            "officeName": "Kovilpatti Town S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kovilpatti Division",
+            "latitude": 9.1717,
+            "longitude": 77.5569
+        },
+        {
+            "officeName": "Kovilpatti H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kovilpatti Division",
+            "latitude": 9.1606,
+            "longitude": 77.844
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "CHHATTISGARH",
+    "district": "KOREA",
+    "offices": [
+        {
+            "officeName": "Gelhapani BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "SURGUJA DIVISION",
+            "latitude": 23.14155688,
+            "longitude": 82.2338886
+        },
+        {
+            "officeName": "Korea Colly SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "SURGUJA DIVISION",
+            "latitude": 23.21503,
+            "longitude": 82.398271
+        }
+    ]
+}

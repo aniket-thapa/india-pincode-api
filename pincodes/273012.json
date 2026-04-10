@@ -1,0 +1,36 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "GORAKHPUR",
+    "offices": [
+        {
+            "officeName": "GR Railway Station SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gorakhpur Division",
+            "latitude": 26.7603889,
+            "longitude": 83.3805
+        },
+        {
+            "officeName": "Loco  Workshop LSG SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gorakhpur Division",
+            "latitude": 26.7645833,
+            "longitude": 83.3773889
+        },
+        {
+            "officeName": "Railway Colony SO Gorakhpur",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gorakhpur Division",
+            "latitude": 26.7276944,
+            "longitude": 83.3853889
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "GUJARAT",
+    "district": "SURAT",
+    "offices": [
+        {
+            "officeName": "Vadadla Tanti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bardoli Division",
+            "latitude": 21.7438066,
+            "longitude": 73.0109966
+        },
+        {
+            "officeName": "Baleshwar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bardoli Division",
+            "latitude": 21.054895,
+            "longitude": 72.582717
+        }
+    ]
+}

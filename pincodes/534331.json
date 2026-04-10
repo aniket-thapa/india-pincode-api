@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "WEST GODAVARI",
+    "offices": [
+        {
+            "officeName": "Ajjaram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Tadepalligudem Division",
+            "latitude": 16.7681999,
+            "longitude": 81.7344027
+        },
+        {
+            "officeName": "Teeparru B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Tadepalligudem Division",
+            "latitude": 16.7937967,
+            "longitude": 81.7290238
+        },
+        {
+            "officeName": "Kakaraparru S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Tadepalligudem Division",
+            "latitude": 16.8675556,
+            "longitude": 81.6730833
+        }
+    ]
+}

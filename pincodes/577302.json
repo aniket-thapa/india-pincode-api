@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "SHIVAMOGGA",
+    "offices": [
+        {
+            "officeName": "Bhadravathi Paper Town S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Shivamogga Division",
+            "latitude": 13.8222778,
+            "longitude": 75.7037222
+        },
+        {
+            "officeName": "Doddagoppenahalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Shivamogga Division",
+            "latitude": 13.8,
+            "longitude": 75.7
+        },
+        {
+            "officeName": "Hiriyur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Shivamogga Division",
+            "latitude": 13.8,
+            "longitude": 75.68
+        }
+    ]
+}

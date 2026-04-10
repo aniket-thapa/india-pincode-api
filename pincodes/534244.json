@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "WEST GODAVARI",
+    "offices": [
+        {
+            "officeName": "Vankayalapalem B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Bhimavaram Division",
+            "latitude": 16.539136,
+            "longitude": 81.567586
+        },
+        {
+            "officeName": "Goraganamudi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Bhimavaram Division",
+            "latitude": 16.544085,
+            "longitude": 81.573353
+        },
+        {
+            "officeName": "Vissakoderu S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Bhimavaram Division",
+            "latitude": 16.55088889,
+            "longitude": 81.56661111
+        }
+    ]
+}

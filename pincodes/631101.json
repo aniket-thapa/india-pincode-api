@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "Ranipet",
+    "offices": [
+        {
+            "officeName": "Nandiveduthangal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Arakkonam Division",
+            "latitude": 13.082715,
+            "longitude": 79.670797
+        },
+        {
+            "officeName": "Kizhavanam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Arakkonam Division",
+            "latitude": 13.11605,
+            "longitude": 79.65735
+        },
+        {
+            "officeName": "Mittapettai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Arakkonam Division",
+            "latitude": 13.0942442,
+            "longitude": 79.5768736
+        },
+        {
+            "officeName": "Guruvarajpet SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Arakkonam Division",
+            "latitude": 13.1165278,
+            "longitude": 79.5724722
+        }
+    ]
+}

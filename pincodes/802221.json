@@ -1,0 +1,26 @@
+{
+    "state": "BIHAR",
+    "district": "ROHTAS",
+    "offices": [
+        {
+            "officeName": "Imirtha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rohtas Division",
+            "latitude": 25.262314,
+            "longitude": 84.247636
+        },
+        {
+            "officeName": "Surajpura SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rohtas Division",
+            "latitude": 25.256069,
+            "longitude": 84.223988
+        }
+    ]
+}

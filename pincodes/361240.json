@@ -1,0 +1,46 @@
+{
+    "state": "GUJARAT",
+    "district": "JAMNAGAR",
+    "offices": [
+        {
+            "officeName": "Hajamchora BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Jamnagar Division",
+            "latitude": 22.68,
+            "longitude": 70.42
+        },
+        {
+            "officeName": "Balambha SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Jamnagar Division",
+            "latitude": 22.820944,
+            "longitude": 70.446503
+        },
+        {
+            "officeName": "Madhapar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Jamnagar Division",
+            "latitude": 22.73,
+            "longitude": 70.46
+        },
+        {
+            "officeName": "Shampar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Jamnagar Division",
+            "latitude": 22.74,
+            "longitude": 70.45
+        }
+    ]
+}

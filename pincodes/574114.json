@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "UDUPI",
+    "offices": [
+        {
+            "officeName": "Irvathur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Puttur Division",
+            "latitude": 13.1550017,
+            "longitude": 75.0165092
+        },
+        {
+            "officeName": "Renjala B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Puttur Division",
+            "latitude": 13.1605806,
+            "longitude": 75.0454878
+        },
+        {
+            "officeName": "Sanur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Puttur Division",
+            "latitude": 13.174528,
+            "longitude": 74.991806
+        }
+    ]
+}

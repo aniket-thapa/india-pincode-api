@@ -1,0 +1,56 @@
+{
+    "state": "TAMIL NADU",
+    "district": "TENKASI",
+    "offices": [
+        {
+            "officeName": "Chinthamani B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kovilpatti Division",
+            "latitude": 9.1732,
+            "longitude": 77.3805
+        },
+        {
+            "officeName": "Puliyangudi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kovilpatti Division",
+            "latitude": 9.1625,
+            "longitude": 77.368
+        },
+        {
+            "officeName": "Ayyapuram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kovilpatti Division",
+            "latitude": 9.1442,
+            "longitude": 77.3991
+        },
+        {
+            "officeName": "PUNNIAPURAM B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kovilpatti Division",
+            "latitude": 9.1383,
+            "longitude": 77.3704
+        },
+        {
+            "officeName": "Thiruvettanallur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Kovilpatti Division",
+            "latitude": 9.1248,
+            "longitude": 77.3882
+        }
+    ]
+}

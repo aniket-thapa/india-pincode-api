@@ -1,0 +1,36 @@
+{
+    "state": "NAGALAND",
+    "district": "WOKHA",
+    "offices": [
+        {
+            "officeName": "Liowokha Old",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Nagaland Division",
+            "latitude": 26.0951932,
+            "longitude": 94.2559147
+        },
+        {
+            "officeName": "Wozhu Old",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Nagaland Division",
+            "latitude": 26.39405912,
+            "longitude": 94.22816736
+        },
+        {
+            "officeName": "Bhandari S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Nagaland Division",
+            "latitude": 26.2849592,
+            "longitude": 94.1118263
+        }
+    ]
+}

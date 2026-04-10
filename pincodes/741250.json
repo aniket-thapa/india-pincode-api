@@ -1,0 +1,26 @@
+{
+    "state": "WEST BENGAL",
+    "district": "NADIA",
+    "offices": [
+        {
+            "officeName": "Bedibhavan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Nadia South Division",
+            "latitude": 22.908539,
+            "longitude": 88.424636
+        },
+        {
+            "officeName": "Kataganj SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Nadia South Division",
+            "latitude": 22.9756667,
+            "longitude": 88.4353889
+        }
+    ]
+}

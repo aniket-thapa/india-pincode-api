@@ -1,0 +1,46 @@
+{
+    "state": "ODISHA",
+    "district": "SUNDARGARH",
+    "offices": [
+        {
+            "officeName": "Regent Market S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sundargarh Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Sundargarh H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sundargarh Division",
+            "latitude": 22.1207333,
+            "longitude": 84.0371316
+        },
+        {
+            "officeName": "Dengibhadi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sundargarh Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Sundargarh Court S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sundargarh Division",
+            "latitude": 22.1198933,
+            "longitude": 84.041615
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "AZAMGARH",
+    "offices": [
+        {
+            "officeName": "Chaklal Chand BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Azamgarh Division",
+            "latitude": 12.16681,
+            "longitude": 77.10656
+        },
+        {
+            "officeName": "Jameen Harkhori BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Azamgarh Division",
+            "latitude": 12.16681,
+            "longitude": 77.10656
+        },
+        {
+            "officeName": "JIYANPUR SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Azamgarh Division",
+            "latitude": 26.15,
+            "longitude": 83.33
+        }
+    ]
+}

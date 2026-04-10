@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "24 PARAGANAS NORTH",
+    "offices": [
+        {
+            "officeName": "Ashokegarh SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata North Division",
+            "latitude": 22.6522222,
+            "longitude": 88.3745833
+        },
+        {
+            "officeName": "Bonhooghly SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata North Division",
+            "latitude": 24.908282,
+            "longitude": 84.183304
+        },
+        {
+            "officeName": "ISI PO SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata North Division",
+            "latitude": 22.6461111,
+            "longitude": 88.3771944
+        }
+    ]
+}

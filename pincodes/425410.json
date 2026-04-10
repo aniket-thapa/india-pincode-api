@@ -1,0 +1,46 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "NANDURBAR",
+    "offices": [
+        {
+            "officeName": "Biladi T.S B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Dhule Division",
+            "latitude": 21.440219,
+            "longitude": 74.470329
+        },
+        {
+            "officeName": "Kalamboo B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Dhule Division",
+            "latitude": 21.453345,
+            "longitude": 74.548226
+        },
+        {
+            "officeName": "Anarad B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Dhule Division",
+            "latitude": 21.469454,
+            "longitude": 74.497956
+        },
+        {
+            "officeName": "Sarangkheda S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Dhule Division",
+            "latitude": 21.432756,
+            "longitude": 74.52751
+        }
+    ]
+}

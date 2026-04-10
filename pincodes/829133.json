@@ -1,0 +1,26 @@
+{
+    "state": "JHARKHAND",
+    "district": "RAMGARH",
+    "offices": [
+        {
+            "officeName": "Souda Basti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hazaribagh Division",
+            "latitude": 23.66005,
+            "longitude": 85.342205
+        },
+        {
+            "officeName": "Sounda D SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hazaribagh Division",
+            "latitude": 23.66005,
+            "longitude": 85.342205
+        }
+    ]
+}

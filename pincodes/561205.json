@@ -1,0 +1,56 @@
+{
+    "state": "KARNATAKA",
+    "district": "BENGALURU RURAL",
+    "offices": [
+        {
+            "officeName": "Heggadahalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Channapatna Division",
+            "latitude": 13.36,
+            "longitude": 77.65
+        },
+        {
+            "officeName": "Tubugere B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Channapatna Division",
+            "latitude": 13.37,
+            "longitude": 77.57
+        },
+        {
+            "officeName": "Hadonahalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Channapatna Division",
+            "latitude": 13.37,
+            "longitude": 77.55
+        },
+        {
+            "officeName": "Melekote S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Bengaluru West Division",
+            "latitude": 13.3652222,
+            "longitude": 77.6259722
+        },
+        {
+            "officeName": "Gantiganahalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "Bengaluru HQ Region",
+            "divisionName": "Channapatna Division",
+            "latitude": 13.36,
+            "longitude": 77.61
+        }
+    ]
+}

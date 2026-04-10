@@ -1,0 +1,36 @@
+{
+    "state": "PUNJAB",
+    "district": "FIROZEPUR",
+    "offices": [
+        {
+            "officeName": "Sadar Bazar SO Firozpur",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Ferozpur Division",
+            "latitude": 30.927546,
+            "longitude": 74.610497
+        },
+        {
+            "officeName": "Ferozepur HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Ferozpur Division",
+            "latitude": 30.927546,
+            "longitude": 74.610497
+        },
+        {
+            "officeName": "Cantt Railway Station Ferozepu SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Ferozpur Division",
+            "latitude": 30.927546,
+            "longitude": 74.610497
+        }
+    ]
+}

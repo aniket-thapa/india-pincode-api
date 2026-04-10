@@ -1,0 +1,26 @@
+{
+    "state": "ODISHA",
+    "district": "SAMBALPUR",
+    "offices": [
+        {
+            "officeName": "Budharaja S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sambalpur Division",
+            "latitude": 21.4796667,
+            "longitude": 83.9783889
+        },
+        {
+            "officeName": "Ainthapali S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sambalpur Division",
+            "latitude": 21.4933248,
+            "longitude": 83.9868737
+        }
+    ]
+}

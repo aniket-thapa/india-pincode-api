@@ -1,0 +1,56 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "SOLAPUR",
+    "offices": [
+        {
+            "officeName": "Kumbhari B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Solapur Division",
+            "latitude": 17.6500057,
+            "longitude": 75.988404
+        },
+        {
+            "officeName": "Midc Solapur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Solapur Division",
+            "latitude": 17.6709444,
+            "longitude": 75.9363611
+        },
+        {
+            "officeName": "Ashok Chowk S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Solapur Division",
+            "latitude": 17.6571944,
+            "longitude": 75.92125
+        },
+        {
+            "officeName": "Kardehalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Solapur Division",
+            "latitude": 17.7776,
+            "longitude": 75.8618
+        },
+        {
+            "officeName": "Mulegaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Solapur Division",
+            "latitude": 17.683928,
+            "longitude": 75.968127
+        }
+    ]
+}

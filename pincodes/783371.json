@@ -1,0 +1,46 @@
+{
+    "state": "ASSAM",
+    "district": "DHUBRI",
+    "offices": [
+        {
+            "officeName": "Raijhora Bahalpur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 26.306514,
+            "longitude": 90.454954
+        },
+        {
+            "officeName": "Chapar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 26.161,
+            "longitude": 90.2648
+        },
+        {
+            "officeName": "Kheluapara B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 26.124581,
+            "longitude": 91.811138
+        },
+        {
+            "officeName": "Simlabari B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 26.079199,
+            "longitude": 90.419588
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "DHARMAPURI",
+    "offices": [
+        {
+            "officeName": "Mathikonpalayam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Dharmapuri Division",
+            "latitude": 12.14,
+            "longitude": 78.16
+        },
+        {
+            "officeName": "Hale Dharmapuri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Dharmapuri Division",
+            "latitude": 12.16,
+            "longitude": 78.16
+        },
+        {
+            "officeName": "Dharmapuri H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Dharmapuri Division",
+            "latitude": 12.1462091,
+            "longitude": 78.1578583
+        }
+    ]
+}

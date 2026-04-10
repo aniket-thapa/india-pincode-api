@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "MALAPPURAM",
+    "offices": [
+        {
+            "officeName": "Iringavur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Tirur Division",
+            "latitude": 10.9235536,
+            "longitude": 75.9557586
+        },
+        {
+            "officeName": "Thalakkadathur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Tirur Division",
+            "latitude": 10.9356709,
+            "longitude": 75.9359496
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "WEST BENGAL",
+    "district": "KALIMPONG",
+    "offices": [
+        {
+            "officeName": "Tista Bridge SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Darjeeling Division",
+            "latitude": 26.970309,
+            "longitude": 88.22289
+        },
+        {
+            "officeName": "Bar Dara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Darjeeling Division",
+            "latitude": 27.07055,
+            "longitude": 88.4769
+        },
+        {
+            "officeName": "Peshok BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Darjeeling Division",
+            "latitude": 27.738,
+            "longitude": 88.394
+        },
+        {
+            "officeName": "Takling BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Darjeeling Division",
+            "latitude": 27.07,
+            "longitude": 88.476
+        }
+    ]
+}

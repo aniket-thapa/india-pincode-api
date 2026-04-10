@@ -1,0 +1,36 @@
+{
+    "state": "ODISHA",
+    "district": "KENDRAPARA",
+    "offices": [
+        {
+            "officeName": "Padmapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "KENDRAPARA DIVISION",
+            "latitude": 20.2346733,
+            "longitude": 85.14022
+        },
+        {
+            "officeName": "Bedari S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "KENDRAPARA DIVISION",
+            "latitude": 20.5041667,
+            "longitude": 86.4188889
+        },
+        {
+            "officeName": "Mandia B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "KENDRAPARA DIVISION",
+            "latitude": 20.25,
+            "longitude": 85.2
+        }
+    ]
+}

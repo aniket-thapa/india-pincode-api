@@ -1,0 +1,46 @@
+{
+    "state": "KERALA",
+    "district": "KANNUR",
+    "offices": [
+        {
+            "officeName": "Parapram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Thalassery Division",
+            "latitude": 11.81,
+            "longitude": 75.48
+        },
+        {
+            "officeName": "Mambram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Thalassery Division",
+            "latitude": 11.83,
+            "longitude": 75.5
+        },
+        {
+            "officeName": "Pathiriyad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Thalassery Division",
+            "latitude": 11.85,
+            "longitude": 75.51
+        },
+        {
+            "officeName": "Pinarayi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Thalassery Division",
+            "latitude": 11.874535,
+            "longitude": 75.37019
+        }
+    ]
+}

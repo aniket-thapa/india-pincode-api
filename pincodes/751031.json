@@ -1,0 +1,36 @@
+{
+    "state": "ODISHA",
+    "district": "KHORDHA",
+    "offices": [
+        {
+            "officeName": "Kalyanpur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhubaneswar Division",
+            "latitude": 20.3673251,
+            "longitude": 85.8656259
+        },
+        {
+            "officeName": "Patia S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhubaneswar Division",
+            "latitude": 20.273626,
+            "longitude": 85.834157
+        },
+        {
+            "officeName": "Barimunda B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhubaneswar Division",
+            "latitude": 20.3550039,
+            "longitude": 85.8721924
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "ASSAM",
+    "district": "KOKRAJHAR",
+    "offices": [
+        {
+            "officeName": "Salakati Project S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 26.4014,
+            "longitude": 90.2667
+        },
+        {
+            "officeName": "Kalipukhuri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 26.425546,
+            "longitude": 90.3503
+        },
+        {
+            "officeName": "Salakati B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 26.44008,
+            "longitude": 90.364244
+        }
+    ]
+}

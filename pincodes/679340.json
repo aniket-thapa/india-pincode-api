@@ -1,0 +1,56 @@
+{
+    "state": "KERALA",
+    "district": "MALAPPURAM",
+    "offices": [
+        {
+            "officeName": "Elad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Manjeri Division",
+            "latitude": 10.8984981,
+            "longitude": 76.2567043
+        },
+        {
+            "officeName": "Kunnakkavu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Manjeri Division",
+            "latitude": 10.900094,
+            "longitude": 76.244765
+        },
+        {
+            "officeName": "Palathole BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Manjeri Division",
+            "latitude": 10.90209,
+            "longitude": 76.22958
+        },
+        {
+            "officeName": "Eravimangalam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Manjeri Division",
+            "latitude": 10.944401,
+            "longitude": 76.243567
+        },
+        {
+            "officeName": "Cherukara SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Manjeri Division",
+            "latitude": 11.073402,
+            "longitude": 76.221839
+        }
+    ]
+}

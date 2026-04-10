@@ -1,0 +1,26 @@
+{
+    "state": "ODISHA",
+    "district": "KHORDHA",
+    "offices": [
+        {
+            "officeName": "Bhubaneswar Court S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhubaneswar Division",
+            "latitude": 20.2535556,
+            "longitude": 85.8400556
+        },
+        {
+            "officeName": "B J B Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhubaneswar Division",
+            "latitude": 20.2522778,
+            "longitude": 85.8414722
+        }
+    ]
+}

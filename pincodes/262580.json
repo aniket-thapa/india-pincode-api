@@ -1,0 +1,56 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "offices": [
+        {
+            "officeName": "Dholigaon BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pithoragarh Division",
+            "latitude": 29.37,
+            "longitude": 79.85
+        },
+        {
+            "officeName": "Rithakhal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pithoragarh Division",
+            "latitude": 29.45,
+            "longitude": 79.88
+        },
+        {
+            "officeName": "Timla BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pithoragarh Division",
+            "latitude": 29.237,
+            "longitude": 80.3532
+        },
+        {
+            "officeName": "Gagar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pithoragarh Division",
+            "latitude": 29.47,
+            "longitude": 79.89
+        },
+        {
+            "officeName": "Devidhura SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pithoragarh Division",
+            "latitude": 29.41,
+            "longitude": 79.86
+        }
+    ]
+}

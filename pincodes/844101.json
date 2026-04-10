@@ -1,0 +1,46 @@
+{
+    "state": "BIHAR",
+    "district": "VAISHALI",
+    "offices": [
+        {
+            "officeName": "Hajipur Chowk SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Vaishali Division",
+            "latitude": 25.8922222,
+            "longitude": 85.3305555
+        },
+        {
+            "officeName": "Yusufpur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Vaishali Division",
+            "latitude": 25.6911111,
+            "longitude": 85.2411111
+        },
+        {
+            "officeName": "Hajipur HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Vaishali Division",
+            "latitude": 25.6916388,
+            "longitude": 85.2113333
+        },
+        {
+            "officeName": "Rambhadra SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Vaishali Division",
+            "latitude": 25.6883333,
+            "longitude": 85.2266666
+        }
+    ]
+}

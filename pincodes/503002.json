@@ -1,0 +1,36 @@
+{
+    "state": "TELANGANA",
+    "district": "NIZAMABAD",
+    "offices": [
+        {
+            "officeName": "Gurbabadi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Nizamabad Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Kanteshwar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Nizamabad Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Subhashnagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Nizamabad Division",
+            "latitude": 18.682979,
+            "longitude": 78.10737
+        }
+    ]
+}

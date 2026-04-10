@@ -1,0 +1,56 @@
+{
+    "state": "ODISHA",
+    "district": "PURI",
+    "offices": [
+        {
+            "officeName": "Lataharan",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Puri Division",
+            "latitude": 20.0070888,
+            "longitude": 86.223253
+        },
+        {
+            "officeName": "Risol",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Puri Division",
+            "latitude": 20.0366076,
+            "longitude": 86.2655685
+        },
+        {
+            "officeName": "Khandasahi",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Puri Division",
+            "latitude": 20.0164966,
+            "longitude": 86.2459849
+        },
+        {
+            "officeName": "Derunia",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Puri Division",
+            "latitude": 20.0072216,
+            "longitude": 86.2710883
+        },
+        {
+            "officeName": "Rasulpur",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Puri Division",
+            "latitude": 20.0147037,
+            "longitude": 86.217812
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "RAJASTHAN",
+    "district": "PALI",
+    "offices": [
+        {
+            "officeName": "Balana B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Pali Division",
+            "latitude": 25.15905,
+            "longitude": 73.090804
+        },
+        {
+            "officeName": "Tagatgarh S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Pali Division",
+            "latitude": 25.3228333,
+            "longitude": 73.0028333
+        },
+        {
+            "officeName": "Gogra B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Pali Division",
+            "latitude": 25.159049,
+            "longitude": 73.090805
+        }
+    ]
+}

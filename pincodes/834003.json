@@ -1,0 +1,36 @@
+{
+    "state": "JHARKHAND",
+    "district": "RANCHI",
+    "offices": [
+        {
+            "officeName": "Railway Colony Hatia SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ranchi Division",
+            "latitude": 23.31325,
+            "longitude": 85.3110556
+        },
+        {
+            "officeName": "Hatia SO Ranchi",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ranchi Division",
+            "latitude": 23.4511,
+            "longitude": 84.9511
+        },
+        {
+            "officeName": "Hundru BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ranchi Division",
+            "latitude": 23.3211899,
+            "longitude": 85.3297752
+        }
+    ]
+}

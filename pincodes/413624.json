@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "OSMANABAD",
+    "offices": [
+        {
+            "officeName": "Sawargaon Kati B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Osmanabad Division",
+            "latitude": 18.010041,
+            "longitude": 76.0710641
+        },
+        {
+            "officeName": "Masla Khurd B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Osmanabad Division",
+            "latitude": 18.010041,
+            "longitude": 76.0710641
+        },
+        {
+            "officeName": "Kati S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Osmanabad Division",
+            "latitude": 17.961229,
+            "longitude": 75.889136
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "DHULE",
+    "offices": [
+        {
+            "officeName": "Dhule Chaini Road S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Dhule Division",
+            "latitude": 20.8794,
+            "longitude": 74.75965
+        },
+        {
+            "officeName": "Dhule Collectorate S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Dhule Division",
+            "latitude": 20.9042381,
+            "longitude": 74.7748799
+        },
+        {
+            "officeName": "Dhule H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Dhule Division",
+            "latitude": 20.902028,
+            "longitude": 74.774982
+        },
+        {
+            "officeName": "Dhule City S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Dhule Division",
+            "latitude": 20.905033,
+            "longitude": 74.778747
+        },
+        {
+            "officeName": "Dhule Station Road S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Dhule Division",
+            "latitude": 20.9042381,
+            "longitude": 74.7748799
+        }
+    ]
+}

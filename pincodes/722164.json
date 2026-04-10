@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "BANKURA",
+    "offices": [
+        {
+            "officeName": "Morar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Bankura Division",
+            "latitude": 23.079734,
+            "longitude": 87.328532
+        },
+        {
+            "officeName": "Jiabandi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Bankura Division",
+            "latitude": 23.4376,
+            "longitude": 87.19525
+        },
+        {
+            "officeName": "Bankadaha SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Bankura Division",
+            "latitude": 22.78361,
+            "longitude": 87.44306
+        }
+    ]
+}

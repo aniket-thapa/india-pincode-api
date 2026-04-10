@@ -1,0 +1,56 @@
+{
+    "state": "TELANGANA",
+    "district": "RANGA REDDY",
+    "offices": [
+        {
+            "officeName": "Shahabad S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Wanaparthy Division",
+            "latitude": 17.4739167,
+            "longitude": 78.5118889
+        },
+        {
+            "officeName": "Hythabad B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Wanaparthy Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Mamidipally B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Wanaparthy Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Sardarnagar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Wanaparthy Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Tadlapalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Wanaparthy Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

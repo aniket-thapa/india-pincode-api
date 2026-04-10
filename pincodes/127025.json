@@ -1,0 +1,36 @@
+{
+    "state": "HARYANA",
+    "district": "CHARKI DADRI",
+    "offices": [
+        {
+            "officeName": "Malkosh BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhiwani Division",
+            "latitude": 28.7784,
+            "longitude": 76.3418
+        },
+        {
+            "officeName": "Baund SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhiwani Division",
+            "latitude": 28.7784,
+            "longitude": 76.3418
+        },
+        {
+            "officeName": "Aun BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhiwani Division",
+            "latitude": 28.7784,
+            "longitude": 76.3418
+        }
+    ]
+}

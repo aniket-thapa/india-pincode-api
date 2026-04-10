@@ -1,0 +1,66 @@
+{
+    "state": "TELANGANA",
+    "district": "ADILABAD",
+    "offices": [
+        {
+            "officeName": "Gandhi Chowk S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Adilabad Division",
+            "latitude": 19.6756805,
+            "longitude": 78.5369066
+        },
+        {
+            "officeName": "Station Road S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Adilabad Division",
+            "latitude": 19.6776216,
+            "longitude": 78.5363234
+        },
+        {
+            "officeName": "Adilabad H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Adilabad Division",
+            "latitude": 19.671677,
+            "longitude": 78.537184
+        },
+        {
+            "officeName": "Bhagyanagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Adilabad Division",
+            "latitude": 19.6812915,
+            "longitude": 78.5330564
+        },
+        {
+            "officeName": "Bhuktapur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Adilabad Division",
+            "latitude": 19.1094444,
+            "longitude": 78.8848333
+        },
+        {
+            "officeName": "Adilabad Collectorate S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Adilabad Division",
+            "latitude": 19.1158333,
+            "longitude": 78.8683611
+        }
+    ]
+}

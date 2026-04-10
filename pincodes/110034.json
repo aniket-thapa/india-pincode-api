@@ -1,0 +1,76 @@
+{
+    "state": "DELHI",
+    "district": "NORTH WEST",
+    "offices": [
+        {
+            "officeName": "Saraswati Vihar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.6972778,
+            "longitude": 77.1269444
+        },
+        {
+            "officeName": "Rani Bagh SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.68875,
+            "longitude": 77.1321111
+        },
+        {
+            "officeName": "Sri Nagar Colony SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.6819167,
+            "longitude": 77.1366667
+        },
+        {
+            "officeName": "Shakur Pur I  Block SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.6899722,
+            "longitude": 77.1466667
+        },
+        {
+            "officeName": "Maurya Enclave SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7046667,
+            "longitude": 77.1447222
+        },
+        {
+            "officeName": "Anandvas Shakurpur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7061667,
+            "longitude": 77.1483333
+        },
+        {
+            "officeName": "Shakurbasti Rs SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.6972778,
+            "longitude": 77.1269444
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "BHOPAL",
+    "offices": [
+        {
+            "officeName": "Gandhi Nagar (Bhopal) S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhopal Division",
+            "latitude": 23.3,
+            "longitude": 77.36
+        },
+        {
+            "officeName": "Tara Sewaniya B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhopal Division",
+            "latitude": 23.33,
+            "longitude": 77.27
+        },
+        {
+            "officeName": "Parwaliya Sadak B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhopal Division",
+            "latitude": 23.33,
+            "longitude": 77.27
+        },
+        {
+            "officeName": "Kurana B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhopal Division",
+            "latitude": 23.32,
+            "longitude": 77.31
+        },
+        {
+            "officeName": "Mungaliya Hatt B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhopal Division",
+            "latitude": 23.35,
+            "longitude": 77.25
+        }
+    ]
+}

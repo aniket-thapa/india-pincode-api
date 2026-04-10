@@ -1,0 +1,26 @@
+{
+    "state": "WEST BENGAL",
+    "district": "KOLKATA",
+    "offices": [
+        {
+            "officeName": "Esplanade SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata Central Division",
+            "latitude": 22.5658333,
+            "longitude": 88.35
+        },
+        {
+            "officeName": "Income Tax Building SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata Central Division",
+            "latitude": 22.5663611,
+            "longitude": 88.3509444
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "offices": [
+        {
+            "officeName": "Kalusain BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamoli Division",
+            "latitude": 30.178637,
+            "longitude": 79.372537
+        },
+        {
+            "officeName": "Nainisain SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamoli Division",
+            "latitude": 30.2189444,
+            "longitude": 79.3084722
+        },
+        {
+            "officeName": "Kimoli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamoli Division",
+            "latitude": 30.109291,
+            "longitude": 79.360636
+        },
+        {
+            "officeName": "Barmoli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamoli Division",
+            "latitude": 30.222711,
+            "longitude": 79.300076
+        }
+    ]
+}

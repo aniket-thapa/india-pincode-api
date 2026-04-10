@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "AYODHYA",
+    "offices": [
+        {
+            "officeName": "Bharatkund SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Faizabad Division",
+            "latitude": 26.642122,
+            "longitude": 82.121032
+        },
+        {
+            "officeName": "Raithua BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Faizabad Division",
+            "latitude": 26.700509,
+            "longitude": 82.171013
+        },
+        {
+            "officeName": "Naipura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Faizabad Division",
+            "latitude": 82.171013,
+            "longitude": 80.9742038
+        },
+        {
+            "officeName": "Kailkeshopur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Faizabad Division",
+            "latitude": 26.700509,
+            "longitude": 82.171013
+        }
+    ]
+}

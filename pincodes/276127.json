@@ -1,0 +1,66 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "AZAMGARH",
+    "offices": [
+        {
+            "officeName": "Ramgarh BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Azamgarh Division",
+            "latitude": 18.8542,
+            "longitude": 63.1254
+        },
+        {
+            "officeName": "Sirahi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Azamgarh Division",
+            "latitude": 24.8547,
+            "longitude": 75.1284
+        },
+        {
+            "officeName": "Jameen Rasulpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Azamgarh Division",
+            "latitude": 17.5214,
+            "longitude": 58.471
+        },
+        {
+            "officeName": "Maukutubpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Azamgarh Division",
+            "latitude": 24.3652,
+            "longitude": 98.1254
+        },
+        {
+            "officeName": "Haraia BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Azamgarh Division",
+            "latitude": 12.5489,
+            "longitude": 49.2501
+        },
+        {
+            "officeName": "Bazar Gosain SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Azamgarh Division",
+            "latitude": 26.2373889,
+            "longitude": 83.3035833
+        }
+    ]
+}

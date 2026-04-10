@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "MATHURA",
+    "offices": [
+        {
+            "officeName": "Gudera BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Mathura Division",
+            "latitude": 27.47,
+            "longitude": 77.69
+        },
+        {
+            "officeName": "Kumhan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Mathura Division",
+            "latitude": 27.47,
+            "longitude": 77.69
+        },
+        {
+            "officeName": "Gajoo BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Mathura Division",
+            "latitude": 27.47,
+            "longitude": 77.69
+        },
+        {
+            "officeName": "Sonai SO Mathura",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Mathura Division",
+            "latitude": 27.4761944,
+            "longitude": 77.6969444
+        }
+    ]
+}

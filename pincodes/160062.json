@@ -1,0 +1,26 @@
+{
+    "state": "PUNJAB",
+    "district": "S.A.S Nagar",
+    "offices": [
+        {
+            "officeName": "Chandigarh Sector 67 SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chandigarh Division",
+            "latitude": 30.6833611,
+            "longitude": 76.7356111
+        },
+        {
+            "officeName": "Chandigarh Sector 62 SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chandigarh Division",
+            "latitude": 30.9666111,
+            "longitude": 73.53025
+        }
+    ]
+}

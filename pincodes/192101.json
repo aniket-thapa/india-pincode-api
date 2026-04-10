@@ -1,0 +1,46 @@
+{
+    "state": "JAMMU AND KASHMIR",
+    "district": "ANANTNAG",
+    "offices": [
+        {
+            "officeName": "Khanabal SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 33.7399722,
+            "longitude": 75.1323611
+        },
+        {
+            "officeName": "Sarnal SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 33.73975,
+            "longitude": 75.1664444
+        },
+        {
+            "officeName": "Anantnag HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 33.7308611,
+            "longitude": 75.1501944
+        },
+        {
+            "officeName": "Janglat Mandi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 34.06775,
+            "longitude": 74.8165556
+        }
+    ]
+}

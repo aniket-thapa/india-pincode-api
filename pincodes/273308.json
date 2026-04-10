@@ -1,0 +1,56 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "MAHARAJGANJ",
+    "offices": [
+        {
+            "officeName": "Bhagwanpur Bazar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gorakhpur Division",
+            "latitude": 27.471295,
+            "longitude": 83.465689
+        },
+        {
+            "officeName": "Zara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gorakhpur Division",
+            "latitude": 27.477146,
+            "longitude": 83.459544
+        },
+        {
+            "officeName": "Ratanpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gorakhpur Division",
+            "latitude": 27.477185,
+            "longitude": 83.469371
+        },
+        {
+            "officeName": "Sonauli S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gorakhpur Division",
+            "latitude": 27.471295,
+            "longitude": 83.465689
+        },
+        {
+            "officeName": "Nipania BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gorakhpur Division",
+            "latitude": 27.470353,
+            "longitude": 83.464108
+        }
+    ]
+}

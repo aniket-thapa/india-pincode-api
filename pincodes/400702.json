@@ -1,0 +1,76 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "RAIGAD",
+    "offices": [
+        {
+            "officeName": "Karanja B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Navi Mumbai Division",
+            "latitude": 18.87723,
+            "longitude": 72.92833
+        },
+        {
+            "officeName": "Uran S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Navi Mumbai Division",
+            "latitude": 18.879,
+            "longitude": 72.9410556
+        },
+        {
+            "officeName": "Kegaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Navi Mumbai Division",
+            "latitude": 18.877235,
+            "longitude": 73.928337
+        },
+        {
+            "officeName": "Chanje B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Navi Mumbai Division",
+            "latitude": 18.8772,
+            "longitude": 72.9283
+        },
+        {
+            "officeName": "Bokadvira B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Navi Mumbai Division",
+            "latitude": 18.877,
+            "longitude": 72.928
+        },
+        {
+            "officeName": "ONGC dronagiri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Navi Mumbai Division",
+            "latitude": 18.88,
+            "longitude": 72.95
+        },
+        {
+            "officeName": "Sheva B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Navi Mumbai Division",
+            "latitude": 18.877,
+            "longitude": 72.928
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "KARNATAKA",
+    "district": "TUMAKURU",
+    "offices": [
+        {
+            "officeName": "Yediyur S.O (Tumakuru)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Tumakuru Division",
+            "latitude": 13.3168611,
+            "longitude": 77.1086389
+        },
+        {
+            "officeName": "Doddamadure B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Tumakuru Division",
+            "latitude": 13.1667423,
+            "longitude": 76.6681466
+        },
+        {
+            "officeName": "Koppa B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Tumakuru Division",
+            "latitude": 13.1667423,
+            "longitude": 76.6681466
+        },
+        {
+            "officeName": "Tippur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Tumakuru Division",
+            "latitude": 13.1667423,
+            "longitude": 76.6681466
+        }
+    ]
+}

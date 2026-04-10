@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "CHENNAI",
+    "offices": [
+        {
+            "officeName": "Chintadripet",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City North Division",
+            "latitude": 13.0745081,
+            "longitude": 80.2698109
+        },
+        {
+            "officeName": "Anna Road H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Anna Road H.O Division",
+            "latitude": 13.08472222,
+            "longitude": 80.27269444
+        },
+        {
+            "officeName": "CPRC Chennai",
+            "officeType": "HO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Anna Road H.O Division",
+            "latitude": 13.06772,
+            "longitude": 80.26992
+        },
+        {
+            "officeName": "MADRAS ELECTRICITY SYSTEM",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City North Division",
+            "latitude": 13.0650224,
+            "longitude": 80.2648457
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "JHARKHAND",
+    "district": "GUMLA",
+    "offices": [
+        {
+            "officeName": "Kartick Oraon College SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gumla Division",
+            "latitude": 23.035594,
+            "longitude": 84.555856
+        },
+        {
+            "officeName": "BEHRATOLI BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gumla Division",
+            "latitude": 23.03383,
+            "longitude": 84.56159
+        },
+        {
+            "officeName": "Gumla HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gumla Division",
+            "latitude": 23.0441389,
+            "longitude": 84.5413889
+        },
+        {
+            "officeName": "Gumla Bazar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gumla Division",
+            "latitude": 23.043231,
+            "longitude": 84.551458
+        }
+    ]
+}

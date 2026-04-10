@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "BULDHANA",
+    "offices": [
+        {
+            "officeName": "Panhera Khedi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Buldana Division",
+            "latitude": 20.66766,
+            "longitude": 76.0344
+        },
+        {
+            "officeName": "Korhala Bazar  B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Buldana Division",
+            "latitude": 20.609099,
+            "longitude": 76.062354
+        },
+        {
+            "officeName": "Dhamangaon Badhe S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Buldana Division",
+            "latitude": 20.673452,
+            "longitude": 76.033592
+        }
+    ]
+}

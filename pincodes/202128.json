@@ -1,0 +1,56 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "ALIGARH",
+    "offices": [
+        {
+            "officeName": "Changeri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Aligarh Division",
+            "latitude": 27.86684,
+            "longitude": 78.2518863
+        },
+        {
+            "officeName": "Jalali SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Aligarh Division",
+            "latitude": 27.867,
+            "longitude": 78.2503056
+        },
+        {
+            "officeName": "Rehsupur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Aligarh Division",
+            "latitude": 27.86684,
+            "longitude": 78.2518863
+        },
+        {
+            "officeName": "Sheikhupur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Aligarh Division",
+            "latitude": 27.86684,
+            "longitude": 78.2518863
+        },
+        {
+            "officeName": "Baranadi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Aligarh Division",
+            "latitude": 27.940596,
+            "longitude": 78.2283897
+        }
+    ]
+}

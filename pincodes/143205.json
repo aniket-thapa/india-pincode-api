@@ -1,0 +1,46 @@
+{
+    "state": "PUNJAB",
+    "district": "AMRITSAR",
+    "offices": [
+        {
+            "officeName": "Ghagar Bhana BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.58,
+            "longitude": 75.3
+        },
+        {
+            "officeName": "Sathiala SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.58,
+            "longitude": 75.3
+        },
+        {
+            "officeName": "Dhardeo BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.63,
+            "longitude": 75.25
+        },
+        {
+            "officeName": "Butter Sivya BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.58,
+            "longitude": 75.3
+        }
+    ]
+}

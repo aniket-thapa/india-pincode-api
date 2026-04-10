@@ -1,0 +1,36 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "BHOPAL",
+    "offices": [
+        {
+            "officeName": "Palas Indus Town BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhopal Division",
+            "latitude": 23.13,
+            "longitude": 77.49
+        },
+        {
+            "officeName": "Bagroda B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhopal Division",
+            "latitude": 23.23408,
+            "longitude": 77.39938
+        },
+        {
+            "officeName": "Misord S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhopal Division",
+            "latitude": 22.62,
+            "longitude": 77.57
+        }
+    ]
+}

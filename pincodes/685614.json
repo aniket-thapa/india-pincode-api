@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "IDUKKI",
+    "offices": [
+        {
+            "officeName": "Chattamannar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Idukki Division",
+            "latitude": 10.19482,
+            "longitude": 77.1251
+        },
+        {
+            "officeName": "Talliar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Idukki Division",
+            "latitude": 10.16362,
+            "longitude": 77.10532
+        }
+    ]
+}

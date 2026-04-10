@@ -1,0 +1,66 @@
+{
+    "state": "GUJARAT",
+    "district": "SURAT",
+    "offices": [
+        {
+            "officeName": "Bartad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bardoli Division",
+            "latitude": 20.9712049,
+            "longitude": 73.1601787
+        },
+        {
+            "officeName": "Gunesvel BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bardoli Division",
+            "latitude": 20.9598,
+            "longitude": 73.1872
+        },
+        {
+            "officeName": "Dungri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bardoli Division",
+            "latitude": 20.9598,
+            "longitude": 73.1872
+        },
+        {
+            "officeName": "Vanskui BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bardoli Division",
+            "latitude": 21.117031,
+            "longitude": 73.107669
+        },
+        {
+            "officeName": "Karchelia SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bardoli Division",
+            "latitude": 20.96725,
+            "longitude": 73.1676944
+        },
+        {
+            "officeName": "Naldhara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bardoli Division",
+            "latitude": 20.9770388,
+            "longitude": 73.1574209
+        }
+    ]
+}

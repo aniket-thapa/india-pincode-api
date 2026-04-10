@@ -1,0 +1,46 @@
+{
+    "state": "WEST BENGAL",
+    "district": "PURULIA",
+    "offices": [
+        {
+            "officeName": "Deoli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Purulia Division",
+            "latitude": 23.5645968,
+            "longitude": 86.4611578
+        },
+        {
+            "officeName": "Santaldih TP SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Purulia Division",
+            "latitude": 23.5867778,
+            "longitude": 86.4710556
+        },
+        {
+            "officeName": "Chelyama BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Purulia Division",
+            "latitude": 23.6159309,
+            "longitude": 86.5507865
+        },
+        {
+            "officeName": "Bahara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Purulia Division",
+            "latitude": 23.5561712,
+            "longitude": 86.4000564
+        }
+    ]
+}

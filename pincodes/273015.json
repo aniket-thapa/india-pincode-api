@@ -1,0 +1,66 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "GORAKHPUR",
+    "offices": [
+        {
+            "officeName": "Gorakhnath Mandir SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gorakhpur Division",
+            "latitude": 26.7718889,
+            "longitude": 83.3583889
+        },
+        {
+            "officeName": "Dohariya Bazar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gorakhpur Division",
+            "latitude": 26.734674,
+            "longitude": 83.336188
+        },
+        {
+            "officeName": "Jatepur North SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gorakhpur Division",
+            "latitude": 26.766199,
+            "longitude": 83.369081
+        },
+        {
+            "officeName": "Jagatbela BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gorakhpur Division",
+            "latitude": 26.771804,
+            "longitude": 83.278127
+        },
+        {
+            "officeName": "Manjharia BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gorakhpur Division",
+            "latitude": 26.759684,
+            "longitude": 83.30678
+        },
+        {
+            "officeName": "SURAJKUND COLONY",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gorakhpur Division",
+            "latitude": 26.768713,
+            "longitude": 83.34287
+        }
+    ]
+}

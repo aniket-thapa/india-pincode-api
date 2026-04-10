@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "IDUKKI",
+    "offices": [
+        {
+            "officeName": "Panniar Estate BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Idukki Division",
+            "latitude": 10.04558,
+            "longitude": 77.19686
+        },
+        {
+            "officeName": "Devikulam SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Idukki Division",
+            "latitude": 10.06734,
+            "longitude": 77.10722
+        },
+        {
+            "officeName": "Anayirankal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Kochi Region",
+            "divisionName": "Idukki Division",
+            "latitude": 10.01346,
+            "longitude": 77.1986
+        }
+    ]
+}

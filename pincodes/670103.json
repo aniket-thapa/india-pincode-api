@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "KANNUR",
+    "offices": [
+        {
+            "officeName": "Tiruvangad SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Thalassery Division",
+            "latitude": 11.753368,
+            "longitude": 75.490912
+        },
+        {
+            "officeName": "Moozhikkara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Thalassery Division",
+            "latitude": 11.76,
+            "longitude": 75.52
+        }
+    ]
+}

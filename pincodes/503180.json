@@ -1,0 +1,56 @@
+{
+    "state": "TELANGANA",
+    "district": "NIZAMABAD",
+    "offices": [
+        {
+            "officeName": "NARSAPUR B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Nizamabad Division",
+            "latitude": 18.641813,
+            "longitude": 77.923279
+        },
+        {
+            "officeName": "Shakkarnagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Nizamabad Division",
+            "latitude": 18.66292,
+            "longitude": 77.900497
+        },
+        {
+            "officeName": "Camp Ootpalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Nizamabad Division",
+            "latitude": 18.5329923,
+            "longitude": 77.618717
+        },
+        {
+            "officeName": "Eraspalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Nizamabad Division",
+            "latitude": 18.5329923,
+            "longitude": 77.618717
+        },
+        {
+            "officeName": "Amdapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Nizamabad Division",
+            "latitude": 18.4592782,
+            "longitude": 77.7291779
+        }
+    ]
+}

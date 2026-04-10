@@ -1,0 +1,46 @@
+{
+    "state": "ODISHA",
+    "district": "BALESHWAR",
+    "offices": [
+        {
+            "officeName": "Ghasua B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Balasore Division",
+            "latitude": 21.2138084,
+            "longitude": 86.6862651
+        },
+        {
+            "officeName": "Chakabarahapur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Balasore Division",
+            "latitude": 21.56716,
+            "longitude": 86.7264
+        },
+        {
+            "officeName": "Santhapada B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Balasore Division",
+            "latitude": 21.228895,
+            "longitude": 86.68888
+        },
+        {
+            "officeName": "Sirapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Balasore Division",
+            "latitude": 21.2490369,
+            "longitude": 86.6696338
+        }
+    ]
+}

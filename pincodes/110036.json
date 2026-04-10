@@ -1,0 +1,96 @@
+{
+    "state": "DELHI",
+    "district": "NORTH",
+    "offices": [
+        {
+            "officeName": "Hiranki BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7978055,
+            "longitude": 77.13
+        },
+        {
+            "officeName": "Bakoli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7978055,
+            "longitude": 77.13
+        },
+        {
+            "officeName": "Alipur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7978056,
+            "longitude": 77.13
+        },
+        {
+            "officeName": "Nangal Poona BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7978055,
+            "longitude": 77.13
+        },
+        {
+            "officeName": "Bakhtawar Pur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7996944,
+            "longitude": 77.0380555
+        },
+        {
+            "officeName": "Kadipur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7978055,
+            "longitude": 77.13
+        },
+        {
+            "officeName": "Khampur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7978055,
+            "longitude": 77.13
+        },
+        {
+            "officeName": "Mukhmelpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7978055,
+            "longitude": 77.13
+        },
+        {
+            "officeName": "Palla BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7978055,
+            "longitude": 77.13
+        }
+    ]
+}

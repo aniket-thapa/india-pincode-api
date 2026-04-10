@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "DINAJPUR DAKSHIN",
+    "offices": [
+        {
+            "officeName": "Baul BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Dakshin Dinajpur Division",
+            "latitude": 26.26,
+            "longitude": 88.19
+        },
+        {
+            "officeName": "Bolla BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Dakshin Dinajpur Division",
+            "latitude": 26.26,
+            "longitude": 88.19
+        },
+        {
+            "officeName": "Atrai SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Dakshin Dinajpur Division",
+            "latitude": 26.261821,
+            "longitude": 88.190576
+        }
+    ]
+}

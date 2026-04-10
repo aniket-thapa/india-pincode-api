@@ -1,0 +1,26 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "PAURI GARHWAL",
+    "offices": [
+        {
+            "officeName": "Mandoli Malli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pauri Division",
+            "latitude": 29.867548,
+            "longitude": 78.690926
+        },
+        {
+            "officeName": "Jahrikhal B SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pauri Division",
+            "latitude": 29.8594444,
+            "longitude": 78.6791667
+        }
+    ]
+}

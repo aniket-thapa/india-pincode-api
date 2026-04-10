@@ -1,0 +1,26 @@
+{
+    "state": "CHHATTISGARH",
+    "district": "JANJGIR-CHAMPA",
+    "offices": [
+        {
+            "officeName": "Saragaon SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bilaspur Division",
+            "latitude": 21.982608,
+            "longitude": 82.75329
+        },
+        {
+            "officeName": "Choria BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bilaspur Division",
+            "latitude": 21.961973,
+            "longitude": 82.779206
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "KERALA",
+    "district": "MALAPPURAM",
+    "offices": [
+        {
+            "officeName": "Mampad College BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Manjeri Division",
+            "latitude": 11.242125,
+            "longitude": 76.1961547
+        },
+        {
+            "officeName": "Meppadam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Manjeri Division",
+            "latitude": 11.2312639,
+            "longitude": 76.1828548
+        },
+        {
+            "officeName": "Vadapuram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Manjeri Division",
+            "latitude": 11.2585531,
+            "longitude": 76.202118
+        },
+        {
+            "officeName": "Mampad SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Manjeri Division",
+            "latitude": 11.2416552,
+            "longitude": 76.1781927
+        },
+        {
+            "officeName": "Pullippadam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Manjeri Division",
+            "latitude": 11.2460616,
+            "longitude": 76.1704321
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "ODISHA",
+    "district": "BALESHWAR",
+    "offices": [
+        {
+            "officeName": "Keshpura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Balasore Division",
+            "latitude": 21.7330416,
+            "longitude": 87.233885
+        },
+        {
+            "officeName": "Paiksida B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Balasore Division",
+            "latitude": 21.7207066,
+            "longitude": 87.2381516
+        },
+        {
+            "officeName": "Chormara S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Balasore Division",
+            "latitude": 87.227075,
+            "longitude": 87.227075
+        }
+    ]
+}

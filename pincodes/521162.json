@@ -1,0 +1,46 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "KRISHNA",
+    "offices": [
+        {
+            "officeName": "Ramannapet B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Machilipatnam Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Rayavaram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Machilipatnam Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Polavaram(K) S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Machilipatnam Division",
+            "latitude": 16.178386271775,
+            "longitude": 81.0372987422346
+        },
+        {
+            "officeName": "Mallavolu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Machilipatnam Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

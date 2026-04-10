@@ -1,0 +1,56 @@
+{
+    "state": "GUJARAT",
+    "district": "BHAVNAGAR",
+    "offices": [
+        {
+            "officeName": "Ramdhari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Bhavnagar Division",
+            "latitude": 21.713632,
+            "longitude": 71.806142
+        },
+        {
+            "officeName": "Amargadh SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Bhavnagar Division",
+            "latitude": 21.7019,
+            "longitude": 71.856701
+        },
+        {
+            "officeName": "Bajud BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Bhavnagar Division",
+            "latitude": 21.752545,
+            "longitude": 71.834771
+        },
+        {
+            "officeName": "Ambla BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Bhavnagar Division",
+            "latitude": 21.712855,
+            "longitude": 71.838449
+        },
+        {
+            "officeName": "Vav BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Bhavnagar Division",
+            "latitude": 21.752477,
+            "longitude": 71.853998
+        }
+    ]
+}

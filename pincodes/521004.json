@@ -1,0 +1,46 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "KRISHNA",
+    "offices": [
+        {
+            "officeName": "Krishna University S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Machilipatnam Division",
+            "latitude": 16.136902,
+            "longitude": 81.099842
+        },
+        {
+            "officeName": "Polatitippa B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Machilipatnam Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Rudravaram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Machilipatnam Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Saradanagar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Machilipatnam Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

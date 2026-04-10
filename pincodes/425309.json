@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "JALGAON",
+    "offices": [
+        {
+            "officeName": "Jalgaon K H B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Bhusaval Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Nashirabad S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Bhusaval Division",
+            "latitude": 21.001576,
+            "longitude": 75.659778
+        },
+        {
+            "officeName": "Sunasgaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Bhusaval Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "BHIND",
+    "offices": [
+        {
+            "officeName": "Rawatpura sarkar ashram S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Morena Division",
+            "latitude": 26.11,
+            "longitude": 78.95
+        },
+        {
+            "officeName": "Rawatpura sarkar ashram B.o",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Morena Division",
+            "latitude": null,
+            "longitude": 77.10655556
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "KRISHNA",
+    "offices": [
+        {
+            "officeName": "Appikatla B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Gudivada Division",
+            "latitude": 16.41,
+            "longitude": 80.92
+        },
+        {
+            "officeName": "Bollapadu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Gudivada Division",
+            "latitude": 16.41,
+            "longitude": 80.88
+        },
+        {
+            "officeName": "Mudunuru S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Gudivada Division",
+            "latitude": 16.4034722,
+            "longitude": 80.9036111
+        }
+    ]
+}

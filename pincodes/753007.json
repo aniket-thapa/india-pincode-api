@@ -1,0 +1,26 @@
+{
+    "state": "ODISHA",
+    "district": "CUTTACK",
+    "offices": [
+        {
+            "officeName": "Medical College S.O (Cuttack)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Cuttack City Division",
+            "latitude": 20.4661944,
+            "longitude": 85.8585556
+        },
+        {
+            "officeName": "O S E S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Cuttack City Division",
+            "latitude": 20.4775039,
+            "longitude": 85.8941882
+        }
+    ]
+}

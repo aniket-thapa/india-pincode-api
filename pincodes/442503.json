@@ -1,0 +1,56 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "CHANDRAPUR",
+    "offices": [
+        {
+            "officeName": "Kuchana B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Chandrapur Division",
+            "latitude": 20.1561407,
+            "longitude": 79.0129409
+        },
+        {
+            "officeName": "CHALBARDI (KO) B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Chandrapur Division",
+            "latitude": 20.15,
+            "longitude": 79.05
+        },
+        {
+            "officeName": "Patala B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Chandrapur Division",
+            "latitude": 20.1276109,
+            "longitude": 79.030486
+        },
+        {
+            "officeName": "Kondha B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Chandrapur Division",
+            "latitude": 20.1315029,
+            "longitude": 79.0652118
+        },
+        {
+            "officeName": "Shivjinagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Chandrapur Division",
+            "latitude": 20.1250833,
+            "longitude": 79.0304722
+        }
+    ]
+}

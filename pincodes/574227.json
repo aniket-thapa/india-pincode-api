@@ -1,0 +1,76 @@
+{
+    "state": "KARNATAKA",
+    "district": "DAKSHINA KANNADA",
+    "offices": [
+        {
+            "officeName": "Hosabettu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Puttur Division",
+            "latitude": 13.0290356,
+            "longitude": 75.0073563
+        },
+        {
+            "officeName": "Thodar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Puttur Division",
+            "latitude": 13.0358591,
+            "longitude": 74.9929904
+        },
+        {
+            "officeName": "Alangar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Puttur Division",
+            "latitude": 13.082197,
+            "longitude": 74.99637
+        },
+        {
+            "officeName": "Ashwathapura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Puttur Division",
+            "latitude": 13.0420175,
+            "longitude": 74.9436056
+        },
+        {
+            "officeName": "Sampige B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Puttur Division",
+            "latitude": 13.0641081,
+            "longitude": 74.9438094
+        },
+        {
+            "officeName": "Moodbidri S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Puttur Division",
+            "latitude": 13.0716797,
+            "longitude": 74.9959413
+        },
+        {
+            "officeName": "Vidyagiri (Moodbidri) S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Puttur Division",
+            "latitude": 13.0615439,
+            "longitude": 74.9767899
+        }
+    ]
+}

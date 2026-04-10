@@ -1,0 +1,26 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "SHAHDOL",
+    "offices": [
+        {
+            "officeName": "Dhanpuri S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Shahdol Division",
+            "latitude": 23.1881111,
+            "longitude": 81.5536389
+        },
+        {
+            "officeName": "Dhanpuri Colliery S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Shahdol Division",
+            "latitude": 23.69,
+            "longitude": 81.46
+        }
+    ]
+}

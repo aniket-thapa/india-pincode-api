@@ -1,0 +1,36 @@
+{
+    "state": "HARYANA",
+    "district": "BHIWANI",
+    "offices": [
+        {
+            "officeName": "Chang SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhiwani Division",
+            "latitude": 28.8837,
+            "longitude": 76.2392
+        },
+        {
+            "officeName": "Rewari Khera BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhiwani Division",
+            "latitude": 28.8837,
+            "longitude": 76.2392
+        },
+        {
+            "officeName": "Sai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhiwani Division",
+            "latitude": 28.8837,
+            "longitude": 76.2392
+        }
+    ]
+}

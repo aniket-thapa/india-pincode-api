@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "FATEHPUR",
+    "offices": [
+        {
+            "officeName": "Bilanda BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Fatehpur Division",
+            "latitude": 25.9173055,
+            "longitude": 80.7980833
+        },
+        {
+            "officeName": "Lateefpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Fatehpur Division",
+            "latitude": 26.1473,
+            "longitude": 80.59359
+        },
+        {
+            "officeName": "Mahoi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Fatehpur Division",
+            "latitude": 26.1473,
+            "longitude": 80.7980833
+        },
+        {
+            "officeName": "Haswa SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Fatehpur Division",
+            "latitude": 25.5541,
+            "longitude": 80.4822
+        }
+    ]
+}

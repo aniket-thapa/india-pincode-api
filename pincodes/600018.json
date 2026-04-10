@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "CHENNAI",
+    "offices": [
+        {
+            "officeName": "Teynampet S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City Central Division",
+            "latitude": 13.0394444,
+            "longitude": 80.2573611
+        },
+        {
+            "officeName": "Pr. Accountant General S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City Central Division",
+            "latitude": 13.2398508,
+            "longitude": 80.1559328
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "CHENNAI",
+    "offices": [
+        {
+            "officeName": "Palavakkam S.O (Kanchipuram)",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City South Division",
+            "latitude": 12.960816,
+            "longitude": 80.256562
+        },
+        {
+            "officeName": "Tiruvanmiyur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City South Division",
+            "latitude": 13.00175,
+            "longitude": 80.3685833
+        },
+        {
+            "officeName": "Valmiki Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City South Division",
+            "latitude": 12.993084,
+            "longitude": 80.163043
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "GUJARAT",
+    "district": "BANAS KANTHA",
+    "offices": [
+        {
+            "officeName": "Lalpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Banaskantha Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "LAKHANI S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Banaskantha Division",
+            "latitude": 24.311674,
+            "longitude": 71.822033
+        },
+        {
+            "officeName": "Kotda BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Banaskantha Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

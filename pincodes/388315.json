@@ -1,0 +1,26 @@
+{
+    "state": "GUJARAT",
+    "district": "ANAND",
+    "offices": [
+        {
+            "officeName": "Bakrol SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Anand Division",
+            "latitude": 22.5591944,
+            "longitude": 72.9641389
+        },
+        {
+            "officeName": "Jol BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Anand Division",
+            "latitude": 22.5749,
+            "longitude": 72.8781
+        }
+    ]
+}

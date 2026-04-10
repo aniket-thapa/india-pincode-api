@@ -1,0 +1,36 @@
+{
+    "state": "ODISHA",
+    "district": "RAYAGADA",
+    "offices": [
+        {
+            "officeName": "Marma B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Rayagada Division",
+            "latitude": 18.937985,
+            "longitude": 83.756925
+        },
+        {
+            "officeName": "G.Padar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Rayagada Division",
+            "latitude": 18.937985,
+            "longitude": 83.756925
+        },
+        {
+            "officeName": "Jaganathpur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Rayagada Division",
+            "latitude": 19.0058183,
+            "longitude": 83.7160083
+        }
+    ]
+}

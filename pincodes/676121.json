@@ -1,0 +1,26 @@
+{
+    "state": "KERALA",
+    "district": "MALAPPURAM",
+    "offices": [
+        {
+            "officeName": "Manjeri Bazar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Manjeri Division",
+            "latitude": 11.1209335,
+            "longitude": 76.1186338
+        },
+        {
+            "officeName": "Manjerikla HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Manjeri Division",
+            "latitude": 11.1205233,
+            "longitude": 76.1131285
+        }
+    ]
+}

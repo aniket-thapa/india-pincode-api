@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "HOOGHLY",
+    "offices": [
+        {
+            "officeName": "Khamargachi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Hooghly North Division",
+            "latitude": 23.0536111,
+            "longitude": 88.4430555
+        },
+        {
+            "officeName": "Baneswarpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Hooghly North Division",
+            "latitude": 22.76,
+            "longitude": 88.39
+        },
+        {
+            "officeName": "Dumurdaha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Hooghly North Division",
+            "latitude": 22.95,
+            "longitude": 88.39
+        }
+    ]
+}

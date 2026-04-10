@@ -1,0 +1,66 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "JHANSI",
+    "offices": [
+        {
+            "officeName": "JHANSI HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Jhansi Division",
+            "latitude": 25.4401307,
+            "longitude": 78.5772174
+        },
+        {
+            "officeName": "Chauraha Municipal Board SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Jhansi Division",
+            "latitude": 25.4487778,
+            "longitude": 78.5668889
+        },
+        {
+            "officeName": "Jhansi Kutchery SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Jhansi Division",
+            "latitude": 25.4433056,
+            "longitude": 78.57975
+        },
+        {
+            "officeName": "Jhansi Sadar Bazar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Jhansi Division",
+            "latitude": 25.44913,
+            "longitude": 78.56892
+        },
+        {
+            "officeName": "Jhansi Cantt SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Jhansi Division",
+            "latitude": 25.4337778,
+            "longitude": 78.5837778
+        },
+        {
+            "officeName": "NDC Jhansi",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Jhansi Division",
+            "latitude": 25.440946,
+            "longitude": 78.576474
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "KARNATAKA",
+    "district": "HAVERI",
+    "offices": [
+        {
+            "officeName": "Savasagi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Haveri Division",
+            "latitude": 14.7951808,
+            "longitude": 75.1629869
+        },
+        {
+            "officeName": "Karagudri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Haveri Division",
+            "latitude": 14.8138217,
+            "longitude": 75.1511303
+        },
+        {
+            "officeName": "Masanakatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Haveri Division",
+            "latitude": 14.8695492,
+            "longitude": 75.2243169
+        },
+        {
+            "officeName": "Belagalapete S.O.",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Haveri Division",
+            "latitude": 14.832083,
+            "longitude": 75.205632
+        }
+    ]
+}

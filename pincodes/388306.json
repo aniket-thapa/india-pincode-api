@@ -1,0 +1,26 @@
+{
+    "state": "GUJARAT",
+    "district": "ANAND",
+    "offices": [
+        {
+            "officeName": "Rajupura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Anand Division",
+            "latitude": 22.473,
+            "longitude": 73.0854
+        },
+        {
+            "officeName": "Vasad SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Anand Division",
+            "latitude": 22.4526389,
+            "longitude": 73.0646944
+        }
+    ]
+}

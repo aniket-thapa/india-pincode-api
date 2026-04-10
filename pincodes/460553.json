@@ -1,0 +1,66 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "BETUL",
+    "offices": [
+        {
+            "officeName": "Nahiya B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Chhindwara Division",
+            "latitude": 21.878227,
+            "longitude": 78.048075
+        },
+        {
+            "officeName": "Morandhana B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Chhindwara Division",
+            "latitude": 21.901429,
+            "longitude": 78.074464
+        },
+        {
+            "officeName": "Lakhapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Chhindwara Division",
+            "latitude": 23.233685,
+            "longitude": 77.277869
+        },
+        {
+            "officeName": "Sajpur",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Chhindwara Division",
+            "latitude": 21.9943617,
+            "longitude": 78.01246623
+        },
+        {
+            "officeName": "Ambada Amladepot B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Chhindwara Division",
+            "latitude": 22.185768,
+            "longitude": 78.693762
+        },
+        {
+            "officeName": "Amla Depot S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Chhindwara Division",
+            "latitude": 21.9328333,
+            "longitude": 78.1051667
+        }
+    ]
+}

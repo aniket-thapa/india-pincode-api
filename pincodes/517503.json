@@ -1,0 +1,66 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Tirupati",
+    "offices": [
+        {
+            "officeName": "Daminadu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Tirupati Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Vemur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Tirupati Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Tiruchanoor S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Tirupati Division",
+            "latitude": 13.6097778,
+            "longitude": 79.4474722
+        },
+        {
+            "officeName": "Padi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Tirupati Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Panakam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Tirupati Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Thandlam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Tirupati Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

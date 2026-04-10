@@ -1,0 +1,46 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "GUNTUR",
+    "offices": [
+        {
+            "officeName": "Guntur Collectorate S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Guntur Division",
+            "latitude": 16.298069,
+            "longitude": 80.430969
+        },
+        {
+            "officeName": "Trunk Road(Guntur) S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Guntur Division",
+            "latitude": 16.49,
+            "longitude": 80.7188333
+        },
+        {
+            "officeName": "Venugopalanagar Colony S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Guntur Division",
+            "latitude": 16.5024444,
+            "longitude": 80.69475
+        },
+        {
+            "officeName": "A.T.Agraharam(Guntur) S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Guntur Division",
+            "latitude": 16.5001389,
+            "longitude": 80.7102222
+        }
+    ]
+}

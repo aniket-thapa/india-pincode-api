@@ -1,0 +1,36 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "SOLAN",
+    "offices": [
+        {
+            "officeName": "Basal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Solan Division",
+            "latitude": 30.9833,
+            "longitude": 77.093139
+        },
+        {
+            "officeName": "Chambaghat SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Solan Division",
+            "latitude": 30.9226599,
+            "longitude": 77.0969155
+        },
+        {
+            "officeName": "Dharot BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Solan Division",
+            "latitude": 30.904486,
+            "longitude": 77.096736
+        }
+    ]
+}

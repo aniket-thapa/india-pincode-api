@@ -1,0 +1,66 @@
+{
+    "state": "PUNJAB",
+    "district": "BARNALA",
+    "offices": [
+        {
+            "officeName": "Raisar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sangrur Division",
+            "latitude": 28.051003,
+            "longitude": 73.481364
+        },
+        {
+            "officeName": "Barnala SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sangrur Division",
+            "latitude": 30.3745833,
+            "longitude": 75.5500556
+        },
+        {
+            "officeName": "Ncc Barnala SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sangrur Division",
+            "latitude": 30.3618888,
+            "longitude": 75.5405833
+        },
+        {
+            "officeName": "Barnala Kty SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sangrur Division",
+            "latitude": 30.3783889,
+            "longitude": 75.54775
+        },
+        {
+            "officeName": "Pharwahi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sangrur Division",
+            "latitude": 30.337949,
+            "longitude": 75.578612
+        },
+        {
+            "officeName": "Thikriwala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sangrur Division",
+            "latitude": 30.434805,
+            "longitude": 75.524758
+        }
+    ]
+}

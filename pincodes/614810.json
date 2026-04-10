@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "NAGAPATTINAM",
+    "offices": [
+        {
+            "officeName": "Agasthiampalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Pattukottai Division",
+            "latitude": 10.36,
+            "longitude": 79.85
+        },
+        {
+            "officeName": "Vedaraniam S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Pattukottai Division",
+            "latitude": 10.3796667,
+            "longitude": 79.8482222
+        },
+        {
+            "officeName": "Maraignanallur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Pattukottai Division",
+            "latitude": 10.38,
+            "longitude": 79.83
+        }
+    ]
+}

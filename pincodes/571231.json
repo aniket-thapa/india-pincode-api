@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "KODAGU",
+    "offices": [
+        {
+            "officeName": "Bessur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Kodagu Division",
+            "latitude": 12.7828646,
+            "longitude": 75.9336848
+        },
+        {
+            "officeName": "Nirugunda B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Kodagu Division",
+            "latitude": 12.801404,
+            "longitude": 75.9161753
+        },
+        {
+            "officeName": "Kodlipet S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Kodagu Division",
+            "latitude": 12.79719444,
+            "longitude": 75.88861111
+        }
+    ]
+}

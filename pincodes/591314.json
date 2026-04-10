@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "BELAGAVI",
+    "offices": [
+        {
+            "officeName": "Sankeshwar Sugar Factory S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Gokak Division",
+            "latitude": 16.2513354,
+            "longitude": 74.4999862
+        },
+        {
+            "officeName": "Sankeshwar College Road B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Gokak Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Sankeshwar Bazar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Gokak Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

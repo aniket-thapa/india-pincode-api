@@ -1,0 +1,76 @@
+{
+    "state": "CHHATTISGARH",
+    "district": "BILASPUR",
+    "offices": [
+        {
+            "officeName": "Urtum BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bilaspur Division",
+            "latitude": 22.12757,
+            "longitude": 82.223012
+        },
+        {
+            "officeName": "Sarkanda Bilaspur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bilaspur Division",
+            "latitude": 22.09694,
+            "longitude": 82.1416
+        },
+        {
+            "officeName": "Rajkishore Nagar",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bilaspur Division",
+            "latitude": 21.982608,
+            "longitude": 82.75329
+        },
+        {
+            "officeName": "Mopka BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bilaspur Division",
+            "latitude": 22.086679,
+            "longitude": 82.198821
+        },
+        {
+            "officeName": "South Eastern Coals Limited",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bilaspur Division",
+            "latitude": 22.09492562,
+            "longitude": 82.17053143
+        },
+        {
+            "officeName": "Bahtarai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bilaspur Division",
+            "latitude": 22.079625,
+            "longitude": 82.139141
+        },
+        {
+            "officeName": "Baimanagoi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bilaspur Division",
+            "latitude": 22.147187,
+            "longitude": 82.181736
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "ODISHA",
+    "district": "KORAPUT",
+    "offices": [
+        {
+            "officeName": "Tikarpada B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Koraput Division",
+            "latitude": 82.6088602,
+            "longitude": 18.5810656
+        },
+        {
+            "officeName": "Soguru B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Koraput Division",
+            "latitude": 82.6088133,
+            "longitude": 18.5810316
+        },
+        {
+            "officeName": "Tusuba B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Koraput Division",
+            "latitude": 18.6161983,
+            "longitude": 82.5929116
+        },
+        {
+            "officeName": "Lamtaput S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Koraput Division",
+            "latitude": 18.5810316,
+            "longitude": 82.6088133
+        },
+        {
+            "officeName": "Jalahanjar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Koraput Division",
+            "latitude": 82.6088399,
+            "longitude": 18.5810316
+        }
+    ]
+}

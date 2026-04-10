@@ -1,0 +1,36 @@
+{
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+        {
+            "officeName": "Hampi Power House B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Ballari Division",
+            "latitude": 15.3101099,
+            "longitude": 76.4947268
+        },
+        {
+            "officeName": "Venkatapura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Ballari Division",
+            "latitude": 15.3305687,
+            "longitude": 76.5151716
+        },
+        {
+            "officeName": "Kamalapura S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Ballari Division",
+            "latitude": 15.3032186,
+            "longitude": 76.4737222
+        }
+    ]
+}

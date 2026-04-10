@@ -1,0 +1,36 @@
+{
+    "state": "ODISHA",
+    "district": "BALESHWAR",
+    "offices": [
+        {
+            "officeName": "Naskarpur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Balasore Division",
+            "latitude": 21.6315299,
+            "longitude": 87.4353633
+        },
+        {
+            "officeName": "Bajitpur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Balasore Division",
+            "latitude": 21.63287,
+            "longitude": 87.4749166
+        },
+        {
+            "officeName": "Chandaneswar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Balasore Division",
+            "latitude": 21.72,
+            "longitude": 87.2282
+        }
+    ]
+}

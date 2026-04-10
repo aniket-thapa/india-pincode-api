@@ -1,0 +1,36 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "AZAMGARH",
+    "offices": [
+        {
+            "officeName": "Azamgarh RS SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Azamgarh Division",
+            "latitude": 26.0421944,
+            "longitude": 83.1623889
+        },
+        {
+            "officeName": "Azamgarh City SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Azamgarh Division",
+            "latitude": 26.0760833,
+            "longitude": 83.1773889
+        },
+        {
+            "officeName": "Azamgarh HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Azamgarh Division",
+            "latitude": 26.052616,
+            "longitude": 83.1828748
+        }
+    ]
+}

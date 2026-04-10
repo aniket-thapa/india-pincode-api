@@ -1,0 +1,46 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "NASHIK",
+    "offices": [
+        {
+            "officeName": "Redgaon BK B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Malegaon Division",
+            "latitude": 20.28205,
+            "longitude": 74.03215
+        },
+        {
+            "officeName": "Shirwade B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Malegaon Division",
+            "latitude": 20.28205,
+            "longitude": 74.03215
+        },
+        {
+            "officeName": "Pimpalnare B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Malegaon Division",
+            "latitude": 20.32996,
+            "longitude": 74.243787
+        },
+        {
+            "officeName": "Vadner Bhairav S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Malegaon Division",
+            "latitude": 20.554431,
+            "longitude": 74.512024
+        }
+    ]
+}

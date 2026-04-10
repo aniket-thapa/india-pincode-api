@@ -1,0 +1,46 @@
+{
+    "state": "ODISHA",
+    "district": "RAYAGADA",
+    "offices": [
+        {
+            "officeName": "Therubali S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Rayagada Division",
+            "latitude": 19.2873883,
+            "longitude": 83.4381966
+        },
+        {
+            "officeName": "Dumuriguda B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Rayagada Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Buduni B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Rayagada Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Paikapada B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Rayagada Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

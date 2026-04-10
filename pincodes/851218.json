@@ -1,0 +1,36 @@
+{
+    "state": "BIHAR",
+    "district": "BEGUSARAI",
+    "offices": [
+        {
+            "officeName": "Laruara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Begusarai Division",
+            "latitude": 25.416675,
+            "longitude": 86.129379
+        },
+        {
+            "officeName": "Suja BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Begusarai Division",
+            "latitude": 25.416675,
+            "longitude": 86.129379
+        },
+        {
+            "officeName": "Suhird Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Begusarai Division",
+            "latitude": 25.416675,
+            "longitude": 86.129379
+        }
+    ]
+}

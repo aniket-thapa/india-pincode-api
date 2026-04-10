@@ -1,0 +1,46 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "JALNA",
+    "offices": [
+        {
+            "officeName": "Ambika Market Jalna S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Chhatrapati Sambhajinagar Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Jalna H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Chhatrapati Sambhajinagar Division",
+            "latitude": 19.845908,
+            "longitude": 75.906935
+        },
+        {
+            "officeName": "Jalna Mondha S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Chhatrapati Sambhajinagar Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Rakhiv Police Bal Jalna S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Chhatrapati Sambhajinagar Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "ASSAM",
+    "district": "NAGAON",
+    "offices": [
+        {
+            "officeName": "Nagaon Girls  College S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Nagaon Division",
+            "latitude": 26.3486944,
+            "longitude": 92.7005
+        },
+        {
+            "officeName": "Nagaon H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Nagaon Division",
+            "latitude": 26.3486944,
+            "longitude": 92.7005
+        }
+    ]
+}

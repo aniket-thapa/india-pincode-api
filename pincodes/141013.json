@@ -1,0 +1,26 @@
+{
+    "state": "PUNJAB",
+    "district": "LUDHIANA",
+    "offices": [
+        {
+            "officeName": "Basant Avenue SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ludhiana City Division",
+            "latitude": 30.8593611,
+            "longitude": 75.8317778
+        },
+        {
+            "officeName": "Passi Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ludhiana City Division",
+            "latitude": 30.8727333,
+            "longitude": 75.8154138
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "MALDAH",
+    "offices": [
+        {
+            "officeName": "Popra BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Malda Division",
+            "latitude": 25.162655,
+            "longitude": 88.339631
+        },
+        {
+            "officeName": "Jatradanga BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Malda Division",
+            "latitude": 25.2886,
+            "longitude": 88.38367
+        },
+        {
+            "officeName": "Narayanpur SO Malda",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Malda Division",
+            "latitude": 24.9996111,
+            "longitude": 88.1455
+        }
+    ]
+}

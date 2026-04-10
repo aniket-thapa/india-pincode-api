@@ -1,0 +1,26 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "offices": [
+        {
+            "officeName": "Garbyang SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pithoragarh Division",
+            "latitude": 30.1234722,
+            "longitude": 80.8556667
+        },
+        {
+            "officeName": "Gunji BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pithoragarh Division",
+            "latitude": 30.1804,
+            "longitude": 80.8584
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "ODISHA",
+    "district": "MAYURBHANJ",
+    "offices": [
+        {
+            "officeName": "Sikidia B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Mayurbhanj Division",
+            "latitude": 21.6413633,
+            "longitude": 86.7297283
+        },
+        {
+            "officeName": "Kuamara S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Mayurbhanj Division",
+            "latitude": 21.92051,
+            "longitude": 86.4226
+        },
+        {
+            "officeName": "Talakadada B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Mayurbhanj Division",
+            "latitude": 21.6164299,
+            "longitude": 86.7410816
+        }
+    ]
+}

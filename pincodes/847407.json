@@ -1,0 +1,56 @@
+{
+    "state": "BIHAR",
+    "district": "MADHUBANI",
+    "offices": [
+        {
+            "officeName": "Naruar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Darbhanga Division",
+            "latitude": 26.2388,
+            "longitude": 86.2396
+        },
+        {
+            "officeName": "LAGMA Rambhadrapur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Darbhanga Division",
+            "latitude": 26.3353,
+            "longitude": 85.5834
+        },
+        {
+            "officeName": "Gangauli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Darbhanga Division",
+            "latitude": 26.2282,
+            "longitude": 86.1583
+        },
+        {
+            "officeName": "Pokhar Bhinda BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Darbhanga Division",
+            "latitude": 26.5389,
+            "longitude": 84.3523
+        },
+        {
+            "officeName": "Lohna Road SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Darbhanga Division",
+            "latitude": 26.149179,
+            "longitude": 85.890587
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "TAMIL NADU",
+    "district": "SIVAGANGA",
+    "offices": [
+        {
+            "officeName": "Sekkakudi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Sivaganga Division",
+            "latitude": 9.8,
+            "longitude": 78.76
+        },
+        {
+            "officeName": "Kavathugudi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Sivaganga Division",
+            "latitude": 9.75,
+            "longitude": 78.25
+        },
+        {
+            "officeName": "Keelauchani BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Sivaganga Division",
+            "latitude": 9.79,
+            "longitude": 78.76
+        },
+        {
+            "officeName": "Vilangattur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Sivaganga Division",
+            "latitude": 9.84,
+            "longitude": 78.82
+        },
+        {
+            "officeName": "Tiruvegampet SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Sivaganga Division",
+            "latitude": 9.832103,
+            "longitude": 78.783945
+        }
+    ]
+}

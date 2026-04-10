@@ -1,0 +1,26 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "BULANDSHAHR",
+    "offices": [
+        {
+            "officeName": "Til BegumPur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Bulandshahar Division",
+            "latitude": 28.4767528,
+            "longitude": 77.6374978
+        },
+        {
+            "officeName": "Industrial Estate Sikandrabad SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Bulandshahar Division",
+            "latitude": 28.4037222,
+            "longitude": 77.8560278
+        }
+    ]
+}

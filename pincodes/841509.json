@@ -1,0 +1,46 @@
+{
+    "state": "BIHAR",
+    "district": "SIWAN",
+    "offices": [
+        {
+            "officeName": "Panjwar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Siwan Division",
+            "latitude": 25.6958055,
+            "longitude": 83.8970833
+        },
+        {
+            "officeName": "Tari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Siwan Division",
+            "latitude": 25.6958055,
+            "longitude": 83.8970833
+        },
+        {
+            "officeName": "Newari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Siwan Division",
+            "latitude": 25.6958055,
+            "longitude": 83.8970833
+        },
+        {
+            "officeName": "Gabhirar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Siwan Division",
+            "latitude": 25.6958056,
+            "longitude": 83.8970833
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "HARYANA",
+    "district": "JHAJJAR",
+    "offices": [
+        {
+            "officeName": "Chudani BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rohtak Division",
+            "latitude": 28.655326,
+            "longitude": 76.753407
+        },
+        {
+            "officeName": "Rewari Khera BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rohtak Division",
+            "latitude": 28.671593,
+            "longitude": 76.748085
+        },
+        {
+            "officeName": "Charra SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rohtak Division",
+            "latitude": 28.681179,
+            "longitude": 76.902704
+        }
+    ]
+}

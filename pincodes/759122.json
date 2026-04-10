@@ -1,0 +1,26 @@
+{
+    "state": "ODISHA",
+    "district": "DHENKANAL",
+    "offices": [
+        {
+            "officeName": "Angul H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Dhenkanal Division",
+            "latitude": 20.840951,
+            "longitude": 85.096636
+        },
+        {
+            "officeName": "Angul Bazar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Dhenkanal Division",
+            "latitude": 20.843885,
+            "longitude": 85.091285
+        }
+    ]
+}

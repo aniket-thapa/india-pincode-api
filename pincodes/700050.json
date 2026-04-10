@@ -1,0 +1,26 @@
+{
+    "state": "WEST BENGAL",
+    "district": "KOLKATA",
+    "offices": [
+        {
+            "officeName": "South Sinhee SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata North Division",
+            "latitude": 22.6280833,
+            "longitude": 88.3818056
+        },
+        {
+            "officeName": "Sinthee SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata North Division",
+            "latitude": 22.6289167,
+            "longitude": 88.3873333
+        }
+    ]
+}

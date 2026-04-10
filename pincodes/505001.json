@@ -1,0 +1,66 @@
+{
+    "state": "TELANGANA",
+    "district": "KARIMNAGAR",
+    "offices": [
+        {
+            "officeName": "Dist. Court Building S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Karimnagar Division",
+            "latitude": 18.445362,
+            "longitude": 79.123646
+        },
+        {
+            "officeName": "Jublikaman S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Karimnagar Division",
+            "latitude": 18.427778,
+            "longitude": 79.13269
+        },
+        {
+            "officeName": "Karimnagar H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Karimnagar Division",
+            "latitude": 18.43392,
+            "longitude": 79.13406499999999
+        },
+        {
+            "officeName": "Jawaharnagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Karimnagar Division",
+            "latitude": 18.444402,
+            "longitude": 79.117282
+        },
+        {
+            "officeName": "Ramnagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Karimnagar Division",
+            "latitude": 18.434253,
+            "longitude": 79.109466
+        },
+        {
+            "officeName": "Collectorate Complex S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Karimnagar Division",
+            "latitude": 18.431804,
+            "longitude": 79.126406
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Annamayya",
+    "offices": [
+        {
+            "officeName": "Madanapalle H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Chittoor Division",
+            "latitude": 13.55605556,
+            "longitude": 78.50127778
+        },
+        {
+            "officeName": "Kothapeta Madanapalle S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Chittoor Division",
+            "latitude": 13.5503,
+            "longitude": 78.5029
+        },
+        {
+            "officeName": "Madanapalle Society Colony S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Chittoor Division",
+            "latitude": 13.5557979,
+            "longitude": 78.500872
+        }
+    ]
+}

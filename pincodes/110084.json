@@ -1,0 +1,66 @@
+{
+    "state": "DELHI",
+    "district": "CENTRAL",
+    "offices": [
+        {
+            "officeName": "Wazirabad Village SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.722239,
+            "longitude": 77.221819
+        },
+        {
+            "officeName": "Nathupura Village SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7691574,
+            "longitude": 77.17729
+        },
+        {
+            "officeName": "Jagatpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7572222,
+            "longitude": 77.1977777
+        },
+        {
+            "officeName": "Sant Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7572222,
+            "longitude": 77.1977777
+        },
+        {
+            "officeName": "Burari SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7572222,
+            "longitude": 77.1977778
+        },
+        {
+            "officeName": "Jharoda Majraa BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7572222,
+            "longitude": 77.1977777
+        }
+    ]
+}

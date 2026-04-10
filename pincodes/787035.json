@@ -1,0 +1,46 @@
+{
+    "state": "ASSAM",
+    "district": "DHEMAJI",
+    "offices": [
+        {
+            "officeName": "Kayam Borpathar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Dibrugarh Division",
+            "latitude": 27.3027,
+            "longitude": 94.2112
+        },
+        {
+            "officeName": "Mingmang B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Dibrugarh Division",
+            "latitude": 27.53,
+            "longitude": 94.27
+        },
+        {
+            "officeName": "Gerukamukh S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Dibrugarh Division",
+            "latitude": 27.4805,
+            "longitude": 94.5495
+        },
+        {
+            "officeName": "Nalbari Kachari B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Dibrugarh Division",
+            "latitude": 27.53,
+            "longitude": 94.27
+        }
+    ]
+}

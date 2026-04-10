@@ -1,0 +1,26 @@
+{
+    "state": "HARYANA",
+    "district": "GURUGRAM",
+    "offices": [
+        {
+            "officeName": "D Block South City II Gurgaon",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gurgaon Division",
+            "latitude": 0.0,
+            "longitude": 0.0
+        },
+        {
+            "officeName": "Gurgaon South City II SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gurgaon Division",
+            "latitude": 28.462,
+            "longitude": 77.0316389
+        }
+    ]
+}

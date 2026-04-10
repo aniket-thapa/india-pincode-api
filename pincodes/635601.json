@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "Tirupathur",
+    "offices": [
+        {
+            "officeName": "Tirupattur H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupattur Division",
+            "latitude": 12.492117,
+            "longitude": 78.562425
+        },
+        {
+            "officeName": "Tirupattur TNHB S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupattur Division",
+            "latitude": 12.485615,
+            "longitude": 78.556674
+        },
+        {
+            "officeName": "Asiriyar Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Western Region Coimbatore",
+            "divisionName": "Tirupattur Division",
+            "latitude": 12.511397,
+            "longitude": 78.567392
+        }
+    ]
+}

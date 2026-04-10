@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "AURANGABAD",
+    "offices": [
+        {
+            "officeName": "Nizamganj S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Chhatrapati Sambhajinagar Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Cidco Colony S.O (Chhatrapati Sambhajinagar)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Chhatrapati Sambhajinagar Division",
+            "latitude": 19.89103,
+            "longitude": 75.361234
+        }
+    ]
+}

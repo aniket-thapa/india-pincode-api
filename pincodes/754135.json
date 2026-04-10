@@ -1,0 +1,36 @@
+{
+    "state": "ODISHA",
+    "district": "KENDRAPARA",
+    "offices": [
+        {
+            "officeName": "Kadamchhanda B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Cuttack South Division",
+            "latitude": 22.302021,
+            "longitude": 73.198122
+        },
+        {
+            "officeName": "Krishnanandapur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Cuttack South Division",
+            "latitude": 20.66855,
+            "longitude": 86.18585
+        },
+        {
+            "officeName": "Bishanpur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Cuttack South Division",
+            "latitude": 31.230775,
+            "longitude": 75.820348
+        }
+    ]
+}

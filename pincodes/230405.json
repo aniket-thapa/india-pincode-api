@@ -1,0 +1,66 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "PRATAPGARH",
+    "offices": [
+        {
+            "officeName": "Utras BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Pratapgarh Division",
+            "latitude": 21.5523,
+            "longitude": 81.25465
+        },
+        {
+            "officeName": "Deokali BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Pratapgarh Division",
+            "latitude": 21.46546,
+            "longitude": 81.5648
+        },
+        {
+            "officeName": "Wari Kalan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Pratapgarh Division",
+            "latitude": 21.2545,
+            "longitude": 81.2548
+        },
+        {
+            "officeName": "Dharauli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Pratapgarh Division",
+            "latitude": 21.2541,
+            "longitude": 81.4545
+        },
+        {
+            "officeName": "Sarsi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Pratapgarh Division",
+            "latitude": 21.54112,
+            "longitude": 81.5455
+        },
+        {
+            "officeName": "Darchhut SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Pratapgarh Division",
+            "latitude": 26.0108,
+            "longitude": 82.1202
+        }
+    ]
+}

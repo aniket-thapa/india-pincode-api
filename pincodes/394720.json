@@ -1,0 +1,36 @@
+{
+    "state": "GUJARAT",
+    "district": "DANG",
+    "offices": [
+        {
+            "officeName": "Saputara SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bardoli Division",
+            "latitude": 20.809613,
+            "longitude": 73.708053
+        },
+        {
+            "officeName": "Malegaon BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bardoli Division",
+            "latitude": 20.5499439,
+            "longitude": 74.528743
+        },
+        {
+            "officeName": "Gotiamal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bardoli Division",
+            "latitude": 20.62582,
+            "longitude": 73.7023
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "COOCHBEHAR",
+    "offices": [
+        {
+            "officeName": "Kalmati BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Cooch Behar Division",
+            "latitude": 26.08,
+            "longitude": 89.61
+        },
+        {
+            "officeName": "Khochabari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Cooch Behar Division",
+            "latitude": 26.45,
+            "longitude": 88.42
+        },
+        {
+            "officeName": "Sahebganj SO Cooch Behar",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Cooch Behar Division",
+            "latitude": 26.3216111,
+            "longitude": 89.4385556
+        }
+    ]
+}

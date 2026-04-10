@@ -1,0 +1,56 @@
+{
+    "state": "KERALA",
+    "district": "KOZHIKODE",
+    "offices": [
+        {
+            "officeName": "Mattanode BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Vadakara Division",
+            "latitude": 11.54,
+            "longitude": 75.81
+        },
+        {
+            "officeName": "Kallanode BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Vadakara Division",
+            "latitude": 11.53,
+            "longitude": 75.87
+        },
+        {
+            "officeName": "Kakkayam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Vadakara Division",
+            "latitude": 11.420507,
+            "longitude": 75.83148
+        },
+        {
+            "officeName": "Cherukad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Vadakara Division",
+            "latitude": 11.53,
+            "longitude": 75.82
+        },
+        {
+            "officeName": "Koorachundu SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Vadakara Division",
+            "latitude": 11.5405625,
+            "longitude": 75.8450625
+        }
+    ]
+}

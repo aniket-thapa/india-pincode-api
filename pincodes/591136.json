@@ -1,0 +1,26 @@
+{
+    "state": "KARNATAKA",
+    "district": "BELAGAVI",
+    "offices": [
+        {
+            "officeName": "Yadwad S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Gokak Division",
+            "latitude": 16.2431814,
+            "longitude": 75.181089
+        },
+        {
+            "officeName": "Yaragudri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Gokak Division",
+            "latitude": 16.2755172,
+            "longitude": 75.1310176
+        }
+    ]
+}

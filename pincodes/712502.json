@@ -1,0 +1,46 @@
+{
+    "state": "WEST BENGAL",
+    "district": "HOOGHLY",
+    "offices": [
+        {
+            "officeName": "Shibpur Bansberia SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Hooghly North Division",
+            "latitude": 22.960615,
+            "longitude": 88.406133
+        },
+        {
+            "officeName": "Chawk Bansberia BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Hooghly North Division",
+            "latitude": 22.0,
+            "longitude": 88.39
+        },
+        {
+            "officeName": "Bansberia Bazar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Hooghly North Division",
+            "latitude": 22.3121,
+            "longitude": 88.215
+        },
+        {
+            "officeName": "Bansberia SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Hooghly North Division",
+            "latitude": 22.9557222,
+            "longitude": 88.3999167
+        }
+    ]
+}

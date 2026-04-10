@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "VILLUPURAM",
+    "offices": [
+        {
+            "officeName": "Nallathur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Pondicherry Division",
+            "latitude": 12.03,
+            "longitude": 11.069
+        },
+        {
+            "officeName": "Olakkur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Pondicherry Division",
+            "latitude": 12.3115278,
+            "longitude": 79.7168889
+        },
+        {
+            "officeName": "Ongur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Pondicherry Division",
+            "latitude": 12.394224,
+            "longitude": 79.191376
+        },
+        {
+            "officeName": "Kiladanur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Pondicherry Division",
+            "latitude": 12.275759,
+            "longitude": 79.725966
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "JALPAIGURI",
+    "offices": [
+        {
+            "officeName": "Mahananda Project SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Darjeeling Division",
+            "latitude": 26.52202,
+            "longitude": 88.717468
+        },
+        {
+            "officeName": "Satellite Township BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Darjeeling Division",
+            "latitude": 26.543477,
+            "longitude": 88.720526
+        },
+        {
+            "officeName": "Fulbarihat BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Darjeeling Division",
+            "latitude": 26.543477,
+            "longitude": 88.720526
+        }
+    ]
+}

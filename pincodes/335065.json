@@ -1,0 +1,66 @@
+{
+    "state": "RAJASTHAN",
+    "district": "HANUMANGARH",
+    "offices": [
+        {
+            "officeName": "Daulatpura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sriganganagar Division",
+            "latitude": 27.082478,
+            "longitude": 75.830643
+        },
+        {
+            "officeName": "Lilanwali B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sriganganagar Division",
+            "latitude": 29.696048,
+            "longitude": 74.377808
+        },
+        {
+            "officeName": "Malerkhera B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sriganganagar Division",
+            "latitude": 27.390648,
+            "longitude": 76.626831
+        },
+        {
+            "officeName": "Nagrana B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sriganganagar Division",
+            "latitude": 29.492579,
+            "longitude": 74.781356
+        },
+        {
+            "officeName": "Manaksar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sriganganagar Division",
+            "latitude": 29.6653889,
+            "longitude": 74.3890278
+        },
+        {
+            "officeName": "Fatehpura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sriganganagar Division",
+            "latitude": 29.622973,
+            "longitude": 74.404195
+        }
+    ]
+}

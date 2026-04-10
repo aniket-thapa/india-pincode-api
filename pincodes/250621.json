@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "BAGHPAT",
+    "offices": [
+        {
+            "officeName": "Baoli SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Baghpat Division",
+            "latitude": 29.1376111,
+            "longitude": 77.2695833
+        },
+        {
+            "officeName": "Jalalpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Baghpat Division",
+            "latitude": 29.12,
+            "longitude": 77.29
+        },
+        {
+            "officeName": "Barwala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Baghpat Division",
+            "latitude": 29.16,
+            "longitude": 77.25
+        },
+        {
+            "officeName": "Gunga Kheri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Baghpat Division",
+            "latitude": 29.15,
+            "longitude": 77.29
+        }
+    ]
+}

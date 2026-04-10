@@ -1,0 +1,36 @@
+{
+    "state": "BIHAR",
+    "district": "LAKHISARAI",
+    "offices": [
+        {
+            "officeName": "Loshghani BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Munger Division",
+            "latitude": 25.2173878,
+            "longitude": 86.312099
+        },
+        {
+            "officeName": "Abhaypur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Munger Division",
+            "latitude": 25.229086,
+            "longitude": 86.347196
+        },
+        {
+            "officeName": "Piri Bazar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Munger Division",
+            "latitude": 25.16784,
+            "longitude": 86.113926
+        }
+    ]
+}

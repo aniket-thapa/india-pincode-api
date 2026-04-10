@@ -1,0 +1,26 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "TEHRI GARHWAL",
+    "offices": [
+        {
+            "officeName": "Munikireti SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Tehri Division",
+            "latitude": 30.1166667,
+            "longitude": 78.3034444
+        },
+        {
+            "officeName": "Dhalwala SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Tehri Division",
+            "latitude": 30.2860278,
+            "longitude": 78.2889444
+        }
+    ]
+}

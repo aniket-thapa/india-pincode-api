@@ -1,0 +1,46 @@
+{
+    "state": "PUNJAB",
+    "district": "BATHINDA",
+    "offices": [
+        {
+            "officeName": "Lehra Bega BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Bhatinda Division",
+            "latitude": 30.247,
+            "longitude": 75.1633
+        },
+        {
+            "officeName": "Ghtp Lehra Mohabbat SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Bhatinda Division",
+            "latitude": 30.25126,
+            "longitude": 75.1629
+        },
+        {
+            "officeName": "Lehra Dhur Kot BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Bhatinda Division",
+            "latitude": 30.2592,
+            "longitude": 75.202
+        },
+        {
+            "officeName": "Lehra Khanna BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Bhatinda Division",
+            "latitude": 30.2234,
+            "longitude": 75.1414
+        }
+    ]
+}

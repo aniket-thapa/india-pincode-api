@@ -1,0 +1,46 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "SEHORE",
+    "offices": [
+        {
+            "officeName": "Baijnath B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Sehore Division",
+            "latitude": 32.052109,
+            "longitude": 76.649287
+        },
+        {
+            "officeName": "Loraskhurd B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Sehore Division",
+            "latitude": 23.141923,
+            "longitude": 76.70479
+        },
+        {
+            "officeName": "Sewda B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Sehore Division",
+            "latitude": 25.370346,
+            "longitude": 81.666515
+        },
+        {
+            "officeName": "Maina S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Sehore Division",
+            "latitude": 23.172544,
+            "longitude": 76.661254
+        }
+    ]
+}

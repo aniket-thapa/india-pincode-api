@@ -1,0 +1,56 @@
+{
+    "state": "KARNATAKA",
+    "district": "DHARWAD",
+    "offices": [
+        {
+            "officeName": "Pudakalakatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Dharwad Division",
+            "latitude": 15.589899,
+            "longitude": 75.0161215
+        },
+        {
+            "officeName": "Uppinabetageri S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Dharwad Division",
+            "latitude": 15.6147376,
+            "longitude": 75.0105811
+        },
+        {
+            "officeName": "Kallur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Dharwad Division",
+            "latitude": 15.6178798,
+            "longitude": 74.9837312
+        },
+        {
+            "officeName": "Yadwad B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Dharwad Division",
+            "latitude": 15.5601694,
+            "longitude": 74.9959192
+        },
+        {
+            "officeName": "Lokur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Dharwad Division",
+            "latitude": 15.6001343,
+            "longitude": 74.9725947
+        }
+    ]
+}

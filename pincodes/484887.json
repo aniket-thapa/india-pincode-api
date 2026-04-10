@@ -1,0 +1,66 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "ANUPPUR",
+    "offices": [
+        {
+            "officeName": "Amgawan B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Shahdol Division",
+            "latitude": 22.88,
+            "longitude": 81.73
+        },
+        {
+            "officeName": "Johila Project B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Shahdol Division",
+            "latitude": 22.85,
+            "longitude": 81.89
+        },
+        {
+            "officeName": "Umania B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Shahdol Division",
+            "latitude": 22.85,
+            "longitude": 81.66
+        },
+        {
+            "officeName": "Igntu Amarkantak S.O.",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Shahdol Division",
+            "latitude": 23.2988611,
+            "longitude": 81.3574167
+        },
+        {
+            "officeName": "Bhejari B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Shahdol Division",
+            "latitude": 22.79,
+            "longitude": 81.76
+        },
+        {
+            "officeName": "Karaundi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Shahdol Division",
+            "latitude": 23.02,
+            "longitude": 81.41
+        }
+    ]
+}

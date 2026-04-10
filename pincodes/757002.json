@@ -1,0 +1,36 @@
+{
+    "state": "ODISHA",
+    "district": "MAYURBHANJ",
+    "offices": [
+        {
+            "officeName": "Bhanjpur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Mayurbhanj Division",
+            "latitude": 21.9380556,
+            "longitude": 86.7261111
+        },
+        {
+            "officeName": "Bijay Ramchandrapur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Mayurbhanj Division",
+            "latitude": 21.956947,
+            "longitude": 86.741247
+        },
+        {
+            "officeName": "Belgadia S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Mayurbhanj Division",
+            "latitude": 21.930182,
+            "longitude": 86.72279
+        }
+    ]
+}

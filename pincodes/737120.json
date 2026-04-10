@@ -1,0 +1,56 @@
+{
+    "state": "SIKKIM",
+    "district": "NORTH DISTRICT",
+    "offices": [
+        {
+            "officeName": "Shipgyare BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sikkim Division",
+            "latitude": 27.53,
+            "longitude": 88.51
+        },
+        {
+            "officeName": "Lachen BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sikkim Division",
+            "latitude": 27.71,
+            "longitude": 88.55
+        },
+        {
+            "officeName": "Lachung BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sikkim Division",
+            "latitude": 27.68,
+            "longitude": 88.74
+        },
+        {
+            "officeName": "Chungthang SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sikkim Division",
+            "latitude": 27.5184494,
+            "longitude": 88.5371958
+        },
+        {
+            "officeName": "Naga BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sikkim Division",
+            "latitude": 27.53,
+            "longitude": 88.62
+        }
+    ]
+}

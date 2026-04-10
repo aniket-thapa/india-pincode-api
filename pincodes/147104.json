@@ -1,0 +1,56 @@
+{
+    "state": "PUNJAB",
+    "district": "FATEHGARH SAHIB",
+    "offices": [
+        {
+            "officeName": "Roorki BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patiala Division",
+            "latitude": 30.33,
+            "longitude": 76.58
+        },
+        {
+            "officeName": "Tarkheri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patiala Division",
+            "latitude": 30.53,
+            "longitude": 76.3
+        },
+        {
+            "officeName": "Tohra BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patiala Division",
+            "latitude": 30.51,
+            "longitude": 76.31
+        },
+        {
+            "officeName": "Chinarthal Kalan SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patiala Division",
+            "latitude": 30.515984,
+            "longitude": 76.344966
+        },
+        {
+            "officeName": "Dakaunda BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patiala Division",
+            "latitude": 30.49,
+            "longitude": 76.31
+        }
+    ]
+}

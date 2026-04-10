@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "Ranipet",
+    "offices": [
+        {
+            "officeName": "Ashoknagar SO Vellore",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Arakkonam Division",
+            "latitude": 13.090467,
+            "longitude": 79.65406
+        },
+        {
+            "officeName": "Arakkonam HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Arakkonam Division",
+            "latitude": 13.0806389,
+            "longitude": 79.6988333
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "GUNA",
+    "offices": [
+        {
+            "officeName": "Umarthana B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Guna Division",
+            "latitude": 24.2,
+            "longitude": 76.96
+        },
+        {
+            "officeName": "Manpura",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Guna Division",
+            "latitude": 24.35559597,
+            "longitude": 77.06944021
+        },
+        {
+            "officeName": "Chachauda S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Guna Division",
+            "latitude": 24.66526,
+            "longitude": 77.360686
+        },
+        {
+            "officeName": "Khanpura",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Guna Division",
+            "latitude": 24.2313943188524,
+            "longitude": 77.04348392
+        }
+    ]
+}

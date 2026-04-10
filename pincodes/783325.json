@@ -1,0 +1,46 @@
+{
+    "state": "ASSAM",
+    "district": "DHUBRI",
+    "offices": [
+        {
+            "officeName": "Falimari  Pt i B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 26.056559,
+            "longitude": 89.964364
+        },
+        {
+            "officeName": "Majerchar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 26.032522,
+            "longitude": 90.006955
+        },
+        {
+            "officeName": "Khalilpur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 26.022746,
+            "longitude": 89.96693
+        },
+        {
+            "officeName": "Jhagrarpar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 26.0364,
+            "longitude": 89.96429
+        }
+    ]
+}

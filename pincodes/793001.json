@@ -1,0 +1,36 @@
+{
+    "state": "MEGHALAYA",
+    "district": "EAST KHASI HILLS",
+    "offices": [
+        {
+            "officeName": "Shillong G.P.O.",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Meghalaya Division",
+            "latitude": 25.57391667,
+            "longitude": 91.88486111
+        },
+        {
+            "officeName": "Oakland S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Meghalaya Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Meghalaya Secretariat S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Meghalaya Division",
+            "latitude": 25.5787,
+            "longitude": 91.8932
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "SIVAGANGA",
+    "offices": [
+        {
+            "officeName": "Naduvikottai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Sivaganga Division",
+            "latitude": 10.05,
+            "longitude": 78.65
+        },
+        {
+            "officeName": "PKarungulam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Sivaganga Division",
+            "latitude": 10.04,
+            "longitude": 78.59
+        },
+        {
+            "officeName": "Pattamangalam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Sivaganga Division",
+            "latitude": 10.05,
+            "longitude": 78.61
+        },
+        {
+            "officeName": "Kandramanickam SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Sivaganga Division",
+            "latitude": 10.152969,
+            "longitude": 78.629786
+        }
+    ]
+}

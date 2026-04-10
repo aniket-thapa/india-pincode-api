@@ -1,0 +1,26 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "CHHINDWARA",
+    "offices": [
+        {
+            "officeName": "Barkuhi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Chhindwara Division",
+            "latitude": 22.18656,
+            "longitude": 78.705103
+        },
+        {
+            "officeName": "Chandametta S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Chhindwara Division",
+            "latitude": 22.01397,
+            "longitude": 78.66862
+        }
+    ]
+}

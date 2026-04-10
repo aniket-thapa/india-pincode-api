@@ -1,0 +1,46 @@
+{
+    "state": "BIHAR",
+    "district": "ARWAL",
+    "offices": [
+        {
+            "officeName": "Bansi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "AurangabadBihar Division",
+            "latitude": 25.1614,
+            "longitude": 84.7294
+        },
+        {
+            "officeName": "Sherpura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "AurangabadBihar Division",
+            "latitude": 25.16141,
+            "longitude": 84.72942
+        },
+        {
+            "officeName": "Karpi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "AurangabadBihar Division",
+            "latitude": 25.1613,
+            "longitude": 84.73085
+        },
+        {
+            "officeName": "Belora B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "AurangabadBihar Division",
+            "latitude": 25.1614,
+            "longitude": 84.7294
+        }
+    ]
+}

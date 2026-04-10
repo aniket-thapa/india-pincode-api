@@ -1,0 +1,36 @@
+{
+    "state": "BIHAR",
+    "district": "BUXAR",
+    "offices": [
+        {
+            "officeName": "Nai Bazar SO Buxar",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Buxar Division",
+            "latitude": 25.555533,
+            "longitude": 83.968143
+        },
+        {
+            "officeName": "Buxar HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Buxar Division",
+            "latitude": 25.5784166,
+            "longitude": 83.9789722
+        },
+        {
+            "officeName": "Sohni Patti SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Buxar Division",
+            "latitude": 25.466155,
+            "longitude": 84.522219
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "ANDAMAN AND NICOBAR ISLANDS",
+    "district": "SOUTH ANDAMANS",
+    "offices": [
+        {
+            "officeName": "N.S.Building S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "A - N Islands Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Port Blair H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "A - N Islands Division",
+            "latitude": 11.66583333,
+            "longitude": 92.74111111
+        },
+        {
+            "officeName": "Marine Jetty S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "A - N Islands Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

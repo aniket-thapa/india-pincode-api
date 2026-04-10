@@ -1,0 +1,46 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Bapatla",
+    "offices": [
+        {
+            "officeName": "Kankatapalem B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Tenali Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Murukondapadu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Tenali Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Stuvartpuram S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Tenali Division",
+            "latitude": 15.86983333,
+            "longitude": 80.40497222
+        },
+        {
+            "officeName": "Stuvartpuram Colony B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Tenali Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "HIMACHAL PRADESH",
+    "district": "CHAMBA",
+    "offices": [
+        {
+            "officeName": "Badka BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamba Division",
+            "latitude": 32.55714,
+            "longitude": 76.15138
+        },
+        {
+            "officeName": "Bhajotra BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamba Division",
+            "latitude": 32.71201,
+            "longitude": 75.936163
+        },
+        {
+            "officeName": "Salwan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamba Division",
+            "latitude": 32.71673,
+            "longitude": 75.98986
+        },
+        {
+            "officeName": "Telka",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamba Division",
+            "latitude": 32.7112741,
+            "longitude": 75.9674633
+        },
+        {
+            "officeName": "Drekari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Himachal Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamba Division",
+            "latitude": 32.721636,
+            "longitude": 76.0515201
+        }
+    ]
+}

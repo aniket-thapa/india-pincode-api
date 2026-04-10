@@ -1,0 +1,36 @@
+{
+    "state": "PUNJAB",
+    "district": "BATHINDA",
+    "offices": [
+        {
+            "officeName": "Deon BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Bhatinda Division",
+            "latitude": 30.21,
+            "longitude": 74.9329
+        },
+        {
+            "officeName": "Sevian BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Bhatinda Division",
+            "latitude": 30.2607,
+            "longitude": 74.8997
+        },
+        {
+            "officeName": "Gndtp Bathinda SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Bhatinda Division",
+            "latitude": 30.2383,
+            "longitude": 74.92646
+        }
+    ]
+}

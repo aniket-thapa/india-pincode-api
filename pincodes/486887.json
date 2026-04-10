@@ -1,0 +1,26 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "SINGRAULI",
+    "offices": [
+        {
+            "officeName": "Kachnimamla B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Rewa Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Amlori Project S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Rewa Division",
+            "latitude": 24.1595556,
+            "longitude": 82.4900278
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "ODISHA",
+    "district": "SUNDARGARH",
+    "offices": [
+        {
+            "officeName": "Sashyakala B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Rourkela Division",
+            "latitude": 21.8662166,
+            "longitude": 85.113125
+        },
+        {
+            "officeName": "Barsuan S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Rourkela Division",
+            "latitude": 21.8661383,
+            "longitude": 85.1129716
+        },
+        {
+            "officeName": "Bhutuda B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Rourkela Division",
+            "latitude": 21.8688316,
+            "longitude": 21.8688316
+        },
+        {
+            "officeName": "Uskuda B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Rourkela Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

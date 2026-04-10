@@ -1,0 +1,66 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "HAPUR",
+    "offices": [
+        {
+            "officeName": "Parpa BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Ghaziabad Division",
+            "latitude": 28.566166,
+            "longitude": 77.695126
+        },
+        {
+            "officeName": "Saulana BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Ghaziabad Division",
+            "latitude": 28.632433,
+            "longitude": 77.650749
+        },
+        {
+            "officeName": "Dhaulana SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Ghaziabad Division",
+            "latitude": 28.6351958452053,
+            "longitude": 77.6499350270665
+        },
+        {
+            "officeName": "Dehra BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Ghaziabad Division",
+            "latitude": 28.649002,
+            "longitude": 77.602748
+        },
+        {
+            "officeName": "Kandaula BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Ghaziabad Division",
+            "latitude": 28.661662,
+            "longitude": 77.656476
+        },
+        {
+            "officeName": "Samana BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Ghaziabad Division",
+            "latitude": 28.588352,
+            "longitude": 77.686538
+        }
+    ]
+}

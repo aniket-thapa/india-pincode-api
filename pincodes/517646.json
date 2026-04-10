@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Tirupati",
+    "offices": [
+        {
+            "officeName": "Chilamathur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Tirupati Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Sricity S.E.Z SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Tirupati Division",
+            "latitude": 13.77,
+            "longitude": 79.59
+        },
+        {
+            "officeName": "Irugulam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Tirupati Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

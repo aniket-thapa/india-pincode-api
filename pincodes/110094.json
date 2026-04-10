@@ -1,0 +1,36 @@
+{
+    "state": "DELHI",
+    "district": "NORTH EAST",
+    "offices": [
+        {
+            "officeName": "Gokal Puri SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.7039444,
+            "longitude": 77.2833056
+        },
+        {
+            "officeName": "Johripur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.69225,
+            "longitude": 77.3042222
+        },
+        {
+            "officeName": "Dayalpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.69225,
+            "longitude": 77.3042222
+        }
+    ]
+}

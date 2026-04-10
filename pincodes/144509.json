@@ -1,0 +1,36 @@
+{
+    "state": "PUNJAB",
+    "district": "Shahid Bhagat Singh Nagar",
+    "offices": [
+        {
+            "officeName": "Khankhana SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Jalandhar Division",
+            "latitude": 31.15329117,
+            "longitude": 75.96212503
+        },
+        {
+            "officeName": "Lakhpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Jalandhar Division",
+            "latitude": 31.1544,
+            "longitude": 75.9623
+        },
+        {
+            "officeName": "Khanpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Jalandhar Division",
+            "latitude": 31.1544,
+            "longitude": 75.9623
+        }
+    ]
+}

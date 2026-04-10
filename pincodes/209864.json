@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "UNNAO",
+    "offices": [
+        {
+            "officeName": "Mahesh Khera BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Kanpur Moffusil Division",
+            "latitude": 26.25531,
+            "longitude": 80.711532
+        },
+        {
+            "officeName": "Panai Kalan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Kanpur Moffusil Division",
+            "latitude": 26.224508,
+            "longitude": 80.731214
+        },
+        {
+            "officeName": "Sawain BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Kanpur Moffusil Division",
+            "latitude": 26.184108,
+            "longitude": 80.733579
+        },
+        {
+            "officeName": "Bhagwant Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Kanpur Moffusil Division",
+            "latitude": 26.1252,
+            "longitude": 80.4526
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "GUJARAT",
+    "district": "MAHESANA",
+    "offices": [
+        {
+            "officeName": "Pali BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Patan Division",
+            "latitude": 15.5934,
+            "longitude": 86.3097
+        },
+        {
+            "officeName": "Manund SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Patan Division",
+            "latitude": 23.7323,
+            "longitude": 72.2607
+        },
+        {
+            "officeName": "Kanthravi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Patan Division",
+            "latitude": 15.5934,
+            "longitude": 72.2607
+        }
+    ]
+}

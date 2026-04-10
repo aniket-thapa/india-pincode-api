@@ -1,0 +1,36 @@
+{
+    "state": "ODISHA",
+    "district": "KORAPUT",
+    "offices": [
+        {
+            "officeName": "Upperdural B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Koraput Division",
+            "latitude": 18.7526533,
+            "longitude": 82.4343783
+        },
+        {
+            "officeName": "Ondrahal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Koraput Division",
+            "latitude": 18.7526533,
+            "longitude": 82.4343783
+        },
+        {
+            "officeName": "Onukadeli S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Koraput Division",
+            "latitude": 18.4404125,
+            "longitude": 82.682802
+        }
+    ]
+}

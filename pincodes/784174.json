@@ -1,0 +1,46 @@
+{
+    "state": "ASSAM",
+    "district": "Biswanath",
+    "offices": [
+        {
+            "officeName": "Balichang B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.8180762,
+            "longitude": 93.1403166
+        },
+        {
+            "officeName": "Salaikati B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.815104,
+            "longitude": 93.143796
+        },
+        {
+            "officeName": "DhuliKuhiarbari B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.85853,
+            "longitude": 93.1404
+        },
+        {
+            "officeName": "Pabhoi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.85853,
+            "longitude": 93.1404
+        }
+    ]
+}

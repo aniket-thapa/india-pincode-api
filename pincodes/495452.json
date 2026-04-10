@@ -1,0 +1,26 @@
+{
+    "state": "CHHATTISGARH",
+    "district": "KORBA",
+    "offices": [
+        {
+            "officeName": "Deepika Project Korba",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bilaspur Division",
+            "latitude": 22.36142,
+            "longitude": 82.7307
+        },
+        {
+            "officeName": "Wcl Gevra Project SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bilaspur Division",
+            "latitude": 22.34718,
+            "longitude": 82.55419
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "RAJASTHAN",
+    "district": "ALWAR",
+    "offices": [
+        {
+            "officeName": "Basai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Alwar Division",
+            "latitude": 27.976211,
+            "longitude": 76.245739
+        },
+        {
+            "officeName": "Budhwal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Alwar Division",
+            "latitude": 27.960283,
+            "longitude": 76.279771
+        },
+        {
+            "officeName": "Khohar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Alwar Division",
+            "latitude": 27.99613,
+            "longitude": 76.265291
+        },
+        {
+            "officeName": "Peepli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Alwar Division",
+            "latitude": 27.980188,
+            "longitude": 27.980188
+        },
+        {
+            "officeName": "Gandala S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Alwar Division",
+            "latitude": 27.9689722,
+            "longitude": 76.3039167
+        }
+    ]
+}

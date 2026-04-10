@@ -1,0 +1,26 @@
+{
+    "state": "WEST BENGAL",
+    "district": "JALPAIGURI",
+    "offices": [
+        {
+            "officeName": "Rungamatee BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Jalpaiguri Division",
+            "latitude": 26.8,
+            "longitude": 88.66
+        },
+        {
+            "officeName": "Sailihat SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Jalpaiguri Division",
+            "latitude": 26.89,
+            "longitude": 88.67
+        }
+    ]
+}

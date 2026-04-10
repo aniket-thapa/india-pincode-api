@@ -1,0 +1,76 @@
+{
+    "state": "DELHI",
+    "district": "NORTH",
+    "offices": [
+        {
+            "officeName": "GTB Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.698444,
+            "longitude": 77.202111
+        },
+        {
+            "officeName": "G T B Nagar extension SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.698444,
+            "longitude": 77.202111
+        },
+        {
+            "officeName": "Model Town III SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7075278,
+            "longitude": 77.1880556
+        },
+        {
+            "officeName": "Model Town II SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7062778,
+            "longitude": 77.1897222
+        },
+        {
+            "officeName": "DrMukerjee Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7108611,
+            "longitude": 77.2158333
+        },
+        {
+            "officeName": "Gujranwala Colony SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.6955833,
+            "longitude": 77.1901111
+        },
+        {
+            "officeName": "Nirankari Colony SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.71525,
+            "longitude": 77.2044444
+        }
+    ]
+}

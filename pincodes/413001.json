@@ -1,0 +1,46 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "SOLAPUR",
+    "offices": [
+        {
+            "officeName": "Jawaharlal Nehru Vastigrah S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Solapur Division",
+            "latitude": 17.6703333,
+            "longitude": 75.9004444
+        },
+        {
+            "officeName": "Navi Peth Solapur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Solapur Division",
+            "latitude": 17.6743611,
+            "longitude": 75.89825
+        },
+        {
+            "officeName": "Sidheswar Peth S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Solapur Division",
+            "latitude": 75.906401,
+            "longitude": 17.669376
+        },
+        {
+            "officeName": "Solapur H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Solapur Division",
+            "latitude": 17.6659167,
+            "longitude": 75.8943333
+        }
+    ]
+}

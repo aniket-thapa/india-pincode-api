@@ -1,0 +1,86 @@
+{
+    "state": "DELHI",
+    "district": "CENTRAL",
+    "offices": [
+        {
+            "officeName": "Desh Bandhu Gupta Road SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi Central Division",
+            "latitude": 28.6535556,
+            "longitude": 77.1918333
+        },
+        {
+            "officeName": "Guru Gobind Singh Marg SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi Central Division",
+            "latitude": 28.6556667,
+            "longitude": 77.199
+        },
+        {
+            "officeName": "Karol Bagh SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi Central Division",
+            "latitude": 28.6500278,
+            "longitude": 77.1938333
+        },
+        {
+            "officeName": "Sat Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi Central Division",
+            "latitude": 28.6488333,
+            "longitude": 77.1821111
+        },
+        {
+            "officeName": "Anand Parbat Indl Area SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi Central Division",
+            "latitude": 28.6614722,
+            "longitude": 77.1780556
+        },
+        {
+            "officeName": "Anand Parbat SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi Central Division",
+            "latitude": 28.65875,
+            "longitude": 77.1773333
+        },
+        {
+            "officeName": "Bank Street SO Central Delhi",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi Central Division",
+            "latitude": 22.0,
+            "longitude": 77.0
+        },
+        {
+            "officeName": "Master Prithvi Nath Marg SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi Central Division",
+            "latitude": 28.6500278,
+            "longitude": 77.1938333
+        }
+    ]
+}

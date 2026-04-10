@@ -1,0 +1,26 @@
+{
+    "state": "BIHAR",
+    "district": "DARBHANGA",
+    "offices": [
+        {
+            "officeName": "Kusothar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Darbhanga Division",
+            "latitude": 26.119178,
+            "longitude": 85.904715
+        },
+        {
+            "officeName": "Sinuar Gopal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Darbhanga Division",
+            "latitude": 15.5934,
+            "longitude": 86.2277
+        }
+    ]
+}

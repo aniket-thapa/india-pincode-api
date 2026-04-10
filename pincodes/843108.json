@@ -1,0 +1,46 @@
+{
+    "state": "BIHAR",
+    "district": "MUZAFFARPUR",
+    "offices": [
+        {
+            "officeName": "Dadar kolhua BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Muzaffarpur Division",
+            "latitude": 26.162196,
+            "longitude": 85.370461
+        },
+        {
+            "officeName": "PKolhua SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Muzaffarpur Division",
+            "latitude": 26.542526,
+            "longitude": 84.462853
+        },
+        {
+            "officeName": "Chapra Dharampur Jaddu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Muzaffarpur Division",
+            "latitude": 25.779565,
+            "longitude": 84.749889
+        },
+        {
+            "officeName": "Sirsia Buzurg BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Muzaffarpur Division",
+            "latitude": 26.27651,
+            "longitude": 84.217405
+        }
+    ]
+}

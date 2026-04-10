@@ -1,0 +1,26 @@
+{
+    "state": "JHARKHAND",
+    "district": "RAMGARH",
+    "offices": [
+        {
+            "officeName": "Ramgarh Cantt HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hazaribagh Division",
+            "latitude": 23.6321389,
+            "longitude": 85.5141944
+        },
+        {
+            "officeName": "Ramgarh SO Ramgarh",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hazaribagh Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

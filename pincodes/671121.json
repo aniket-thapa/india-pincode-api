@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "KASARAGOD",
+    "offices": [
+        {
+            "officeName": "Adkathbail BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Kasaragod Division",
+            "latitude": 12.5164133,
+            "longitude": 74.978313
+        },
+        {
+            "officeName": "Kasaragod HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Kasaragod Division",
+            "latitude": 12.510552,
+            "longitude": 74.985688
+        },
+        {
+            "officeName": "Kasaragod R S SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Kasaragod Division",
+            "latitude": 12.5023248,
+            "longitude": 74.9911581
+        }
+    ]
+}

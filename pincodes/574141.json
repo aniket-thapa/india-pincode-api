@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "DAKSHINA KANNADA",
+    "offices": [
+        {
+            "officeName": "Kollur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Mangaluru Division",
+            "latitude": 13.1004759,
+            "longitude": 74.8499166
+        },
+        {
+            "officeName": "Elinje B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Mangaluru Division",
+            "latitude": 13.0888673,
+            "longitude": 74.8686706
+        },
+        {
+            "officeName": "Aikala S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Mangaluru Division",
+            "latitude": 13.080074,
+            "longitude": 74.860667
+        }
+    ]
+}

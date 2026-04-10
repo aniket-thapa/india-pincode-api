@@ -1,0 +1,56 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "SANT KABEER NAGAR",
+    "offices": [
+        {
+            "officeName": "Asharfa Bad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Basti Division",
+            "latitude": 26.75272,
+            "longitude": 83.134
+        },
+        {
+            "officeName": "Padaria BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Basti Division",
+            "latitude": 26.75272,
+            "longitude": 83.013402
+        },
+        {
+            "officeName": "Rasula Bad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Basti Division",
+            "latitude": 26.752726,
+            "longitude": 83.13404
+        },
+        {
+            "officeName": "Maghar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Basti Division",
+            "latitude": 26.752727,
+            "longitude": 83.13407
+        },
+        {
+            "officeName": "Girdhar Pur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Basti Division",
+            "latitude": 26.752721,
+            "longitude": 83.13401
+        }
+    ]
+}

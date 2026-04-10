@@ -1,0 +1,46 @@
+{
+    "state": "ODISHA",
+    "district": "PURI",
+    "offices": [
+        {
+            "officeName": "Birtung",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Puri Division",
+            "latitude": 19.9664862,
+            "longitude": 86.0605909
+        },
+        {
+            "officeName": "Erbong",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Puri Division",
+            "latitude": 19.94343,
+            "longitude": 86.07998
+        },
+        {
+            "officeName": "Mahalpada",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Puri Division",
+            "latitude": 19.9434397,
+            "longitude": 86.0799888
+        },
+        {
+            "officeName": "Garhkarmala",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Puri Division",
+            "latitude": 19.9956199,
+            "longitude": 86.0910576
+        }
+    ]
+}

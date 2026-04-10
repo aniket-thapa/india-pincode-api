@@ -1,0 +1,46 @@
+{
+    "state": "KARNATAKA",
+    "district": "KODAGU",
+    "offices": [
+        {
+            "officeName": "Sampaje Gate B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Puttur Division",
+            "latitude": 12.499632,
+            "longitude": 75.5432404
+        },
+        {
+            "officeName": "Balambi(Chembu) B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Puttur Division",
+            "latitude": 12.4908558,
+            "longitude": 75.5310953
+        },
+        {
+            "officeName": "Goonadka B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Puttur Division",
+            "latitude": 12.5143627,
+            "longitude": 75.4975784
+        },
+        {
+            "officeName": "Sampaje S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Puttur Division",
+            "latitude": 12.4995556,
+            "longitude": 75.54325
+        }
+    ]
+}

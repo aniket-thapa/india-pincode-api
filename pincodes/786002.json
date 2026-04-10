@@ -1,0 +1,26 @@
+{
+    "state": "ASSAM",
+    "district": "DIBRUGARH",
+    "offices": [
+        {
+            "officeName": "Assam Medical College S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Dibrugarh Division",
+            "latitude": 27.4864444,
+            "longitude": 94.9431389
+        },
+        {
+            "officeName": "Hiloidhari B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Dibrugarh Division",
+            "latitude": 27.48,
+            "longitude": 94.94
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "GUJARAT",
+    "district": "RAJKOT",
+    "offices": [
+        {
+            "officeName": "Chandli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Gondal Division",
+            "latitude": 22.14483,
+            "longitude": 70.589705
+        },
+        {
+            "officeName": "Sanganva BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Gondal Division",
+            "latitude": 22.121738,
+            "longitude": 70.675213
+        },
+        {
+            "officeName": "Lodhika SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Gondal Division",
+            "latitude": 22.13525,
+            "longitude": 70.6349444
+        },
+        {
+            "officeName": "Chibhda BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Gondal Division",
+            "latitude": 22.180828,
+            "longitude": 70.654003
+        },
+        {
+            "officeName": "Kotha Pipalia BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Gondal Division",
+            "latitude": 22.111227,
+            "longitude": 70.612756
+        }
+    ]
+}

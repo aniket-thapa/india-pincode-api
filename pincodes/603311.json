@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "CHENGALPATTU",
+    "offices": [
+        {
+            "officeName": "Peria Venmani BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chengalpattu Division",
+            "latitude": 12.443,
+            "longitude": 79.9393
+        },
+        {
+            "officeName": "Zamin Endathur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chengalpattu Division",
+            "latitude": 12.44603,
+            "longitude": 79.93331
+        },
+        {
+            "officeName": "Ozhavetti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chengalpattu Division",
+            "latitude": 12.348732,
+            "longitude": 80.003141
+        }
+    ]
+}

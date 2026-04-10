@@ -1,0 +1,36 @@
+{
+    "state": "JHARKHAND",
+    "district": "EAST SINGHBUM",
+    "offices": [
+        {
+            "officeName": "Narwa Mines  SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Singhbhum Division",
+            "latitude": 22.69903,
+            "longitude": 86.25814
+        },
+        {
+            "officeName": "Hartopa B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Singhbhum Division",
+            "latitude": 22.6953,
+            "longitude": 86.2585
+        },
+        {
+            "officeName": "Hitku BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Singhbhum Division",
+            "latitude": 22.7072223,
+            "longitude": 86.2440103
+        }
+    ]
+}

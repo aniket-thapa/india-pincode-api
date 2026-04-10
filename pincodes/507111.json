@@ -1,0 +1,36 @@
+{
+    "state": "TELANGANA",
+    "district": "BHADRADRI KOTHAGUDEM",
+    "offices": [
+        {
+            "officeName": "B.R.Colony S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Khammam Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Ramalayam S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Khammam Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Bhadrachalam H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Khammam Division",
+            "latitude": 17.6666389,
+            "longitude": 80.8870833
+        }
+    ]
+}

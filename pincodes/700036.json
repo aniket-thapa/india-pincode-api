@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "24 PARAGANAS NORTH",
+    "offices": [
+        {
+            "officeName": "Baranagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata North Division",
+            "latitude": 22.6324444,
+            "longitude": 88.3553889
+        },
+        {
+            "officeName": "Bengal Immunity SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata North Division",
+            "latitude": 22.6357778,
+            "longitude": 88.37225
+        },
+        {
+            "officeName": "Kuthighat Road SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Kolkata North Division",
+            "latitude": 22.634,
+            "longitude": 88.36975
+        }
+    ]
+}

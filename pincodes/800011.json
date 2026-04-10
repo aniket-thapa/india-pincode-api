@@ -1,0 +1,26 @@
+{
+    "state": "BIHAR",
+    "district": "PATNA",
+    "offices": [
+        {
+            "officeName": "Dighaghat SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patna Division",
+            "latitude": 25.637086,
+            "longitude": 85.098653
+        },
+        {
+            "officeName": "Makhdumpur Digha SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patna Division",
+            "latitude": 24.212246,
+            "longitude": 90.962952
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Anakapalli",
+    "offices": [
+        {
+            "officeName": "Gandhinagaram S.O (Visakhapatnam)",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Anakapalle Division",
+            "latitude": 17.698564,
+            "longitude": 83.000797
+        },
+        {
+            "officeName": "Anakapalle H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Anakapalle Division",
+            "latitude": 17.6913056,
+            "longitude": 83.0026944
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "HARYANA",
+    "district": "SIRSA",
+    "offices": [
+        {
+            "officeName": "Asa Khera BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hissar Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Chautala SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hissar Division",
+            "latitude": 29.7802222,
+            "longitude": 74.5243056
+        },
+        {
+            "officeName": "Jandwala Bishnoian BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hissar Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

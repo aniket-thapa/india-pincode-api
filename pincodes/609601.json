@@ -1,0 +1,36 @@
+{
+    "state": "PUDUCHERRY",
+    "district": "KARAIKAL",
+    "offices": [
+        {
+            "officeName": "Ambagarathur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.96,
+            "longitude": 79.73
+        },
+        {
+            "officeName": "Nallambal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.93,
+            "longitude": 79.76
+        },
+        {
+            "officeName": "Seithur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.96,
+            "longitude": 79.74
+        }
+    ]
+}

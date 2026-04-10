@@ -1,0 +1,56 @@
+{
+    "state": "RAJASTHAN",
+    "district": "BHILWARA",
+    "offices": [
+        {
+            "officeName": "Bikaran B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Bhilwara Division",
+            "latitude": 25.6009204,
+            "longitude": 75.4723341
+        },
+        {
+            "officeName": "Shyampura S. O.",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Bhilwara Division",
+            "latitude": 25.257547,
+            "longitude": 75.275359
+        },
+        {
+            "officeName": "Mangthala B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Bhilwara Division",
+            "latitude": 25.3375464,
+            "longitude": 75.3003919
+        },
+        {
+            "officeName": "Malka Khera B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Bhilwara Division",
+            "latitude": 25.22575,
+            "longitude": 75.11415
+        },
+        {
+            "officeName": "Jalindri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Bhilwara Division",
+            "latitude": 25.288533,
+            "longitude": 75.364272
+        }
+    ]
+}

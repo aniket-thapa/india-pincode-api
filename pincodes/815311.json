@@ -1,0 +1,46 @@
+{
+    "state": "JHARKHAND",
+    "district": "GIRIDIH",
+    "offices": [
+        {
+            "officeName": "Akdonikala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Giridih Division",
+            "latitude": 24.9,
+            "longitude": 86.16
+        },
+        {
+            "officeName": "Karharbari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Giridih Division",
+            "latitude": 24.1,
+            "longitude": 86.14
+        },
+        {
+            "officeName": "Beniadih SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Giridih Division",
+            "latitude": 256.0,
+            "longitude": 8719.0
+        },
+        {
+            "officeName": "Matrukha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Giridih Division",
+            "latitude": 25.6,
+            "longitude": 87.19
+        }
+    ]
+}

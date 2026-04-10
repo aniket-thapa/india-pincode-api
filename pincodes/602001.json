@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "THIRUVALLUR",
+    "offices": [
+        {
+            "officeName": "Tiruvallur H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Kanchipuram Division",
+            "latitude": 13.131862,
+            "longitude": 79.9095294
+        },
+        {
+            "officeName": "Nggo Colony Tiruvallur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Kanchipuram Division",
+            "latitude": 13.15075,
+            "longitude": 79.91695
+        },
+        {
+            "officeName": "Combined Court S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Kanchipuram Division",
+            "latitude": 13.1444,
+            "longitude": 79.89401
+        }
+    ]
+}

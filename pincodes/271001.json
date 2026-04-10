@@ -1,0 +1,36 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "GONDA",
+    "offices": [
+        {
+            "officeName": "Civil Line SO Gonda",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gonda Division",
+            "latitude": 27.12894,
+            "longitude": 81.94511
+        },
+        {
+            "officeName": "Gonda HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gonda Division",
+            "latitude": 27.1289167,
+            "longitude": 81.9433056
+        },
+        {
+            "officeName": "P A C SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gonda Division",
+            "latitude": 27.1348611,
+            "longitude": 81.9361111
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "offices": [
+        {
+            "officeName": "Billekh BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Almora Division",
+            "latitude": 29.6433675,
+            "longitude": 79.4321765
+        },
+        {
+            "officeName": "Shishuwa BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Almora Division",
+            "latitude": 29.6433695,
+            "longitude": 79.4321745
+        },
+        {
+            "officeName": "Tarikhet SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Almora Division",
+            "latitude": 29.37,
+            "longitude": 79.2423
+        },
+        {
+            "officeName": "Sauni BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Almora Division",
+            "latitude": 29.6508224,
+            "longitude": 79.3229633
+        },
+        {
+            "officeName": "Bayeri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Almora Division",
+            "latitude": 29.6433675,
+            "longitude": 79.4321765
+        },
+        {
+            "officeName": "Kotar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Almora Division",
+            "latitude": 29.6146837,
+            "longitude": 79.4049698
+        }
+    ]
+}

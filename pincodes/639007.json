@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "KARUR",
+    "offices": [
+        {
+            "officeName": "Kathalapatti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Karur Division",
+            "latitude": 10.89,
+            "longitude": 78.12
+        },
+        {
+            "officeName": "Karur Collectorate S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Karur Division",
+            "latitude": 10.9182222,
+            "longitude": 78.0918889
+        },
+        {
+            "officeName": "Emur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Karur Division",
+            "latitude": 10.91,
+            "longitude": 78.11
+        }
+    ]
+}

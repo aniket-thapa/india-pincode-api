@@ -1,0 +1,36 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "SIDDHARTH NAGAR",
+    "offices": [
+        {
+            "officeName": "Birdpur No13 BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Basti Division",
+            "latitude": 27.3014,
+            "longitude": 83.09476
+        },
+        {
+            "officeName": "Naugarh SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Basti Division",
+            "latitude": 27.30149,
+            "longitude": 83.094761
+        },
+        {
+            "officeName": "Sekhuiya BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Basti Division",
+            "latitude": 27.30142,
+            "longitude": 83.094762
+        }
+    ]
+}

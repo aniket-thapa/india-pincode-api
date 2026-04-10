@@ -1,0 +1,26 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "LALITPUR",
+    "offices": [
+        {
+            "officeName": "Matatila SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Jhansi Division",
+            "latitude": 25.0344,
+            "longitude": 78.2304
+        },
+        {
+            "officeName": "Bangawan Kalan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Jhansi Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "REWA",
+    "offices": [
+        {
+            "officeName": "Ajgarha B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Rewa Division",
+            "latitude": 24.5373,
+            "longitude": 81.3042
+        },
+        {
+            "officeName": "Sonaura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Rewa Division",
+            "latitude": 24.5372,
+            "longitude": 81.3042
+        },
+        {
+            "officeName": "Rewa APSU S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Rewa Division",
+            "latitude": 24.5677222,
+            "longitude": 81.3328333
+        },
+        {
+            "officeName": "Ratahara B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Rewa Division",
+            "latitude": 24.5372,
+            "longitude": 81.3042
+        }
+    ]
+}

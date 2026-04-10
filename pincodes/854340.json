@@ -1,0 +1,36 @@
+{
+    "state": "BIHAR",
+    "district": "SUPAUL",
+    "offices": [
+        {
+            "officeName": "Basantpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Saharsa Division",
+            "latitude": 26.131709,
+            "longitude": 86.610711
+        },
+        {
+            "officeName": "Banailipatti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Saharsa Division",
+            "latitude": 26.131709,
+            "longitude": 86.610711
+        },
+        {
+            "officeName": "Birpur SO Supaul",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Saharsa Division",
+            "latitude": 26.629,
+            "longitude": 86.363
+        }
+    ]
+}

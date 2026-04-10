@@ -1,0 +1,46 @@
+{
+    "state": "MANIPUR",
+    "district": "IMPHAL WEST",
+    "offices": [
+        {
+            "officeName": "Laiphrakom B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Manipur Division",
+            "latitude": 24.754061,
+            "longitude": 93.891828
+        },
+        {
+            "officeName": "Sangaiprou B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Manipur Division",
+            "latitude": 24.770362,
+            "longitude": 93.916357
+        },
+        {
+            "officeName": "Yarrow Meitram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Manipur Division",
+            "latitude": 24.72706,
+            "longitude": 93.84431
+        },
+        {
+            "officeName": "Tulihal S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Manipur Division",
+            "latitude": 24.816532,
+            "longitude": 93.952827
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "ODISHA",
+    "district": "JAGATSINGHAPUR",
+    "offices": [
+        {
+            "officeName": "Jagatsinghpur H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Cuttack South Division",
+            "latitude": 20.2528611,
+            "longitude": 86.1771944
+        },
+        {
+            "officeName": "Svm College S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Cuttack South Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

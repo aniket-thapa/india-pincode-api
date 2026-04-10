@@ -1,0 +1,76 @@
+{
+    "state": "PUNJAB",
+    "district": "Tarn Taran",
+    "offices": [
+        {
+            "officeName": "Pakhoke BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.5,
+            "longitude": 75.01
+        },
+        {
+            "officeName": "Dinewal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.49,
+            "longitude": 75.04
+        },
+        {
+            "officeName": "Deo BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.45,
+            "longitude": 75.03
+        },
+        {
+            "officeName": "Jahangir BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.7,
+            "longitude": 74.96
+        },
+        {
+            "officeName": "Dulchipur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.43,
+            "longitude": 75.04
+        },
+        {
+            "officeName": "Kang SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.46,
+            "longitude": 75.03
+        },
+        {
+            "officeName": "Bath BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Amritsar Division",
+            "latitude": 31.34,
+            "longitude": 74.79
+        }
+    ]
+}

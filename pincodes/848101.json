@@ -1,0 +1,26 @@
+{
+    "state": "BIHAR",
+    "district": "SAMASTIPUR",
+    "offices": [
+        {
+            "officeName": "Samastipur Bazar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Samastipur Division",
+            "latitude": 25.86225,
+            "longitude": 85.7856389
+        },
+        {
+            "officeName": "Samastipur HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Samastipur Division",
+            "latitude": 25.8605833,
+            "longitude": 85.7800833
+        }
+    ]
+}

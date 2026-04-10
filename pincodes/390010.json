@@ -1,0 +1,26 @@
+{
+    "state": "GUJARAT",
+    "district": "VADODARA",
+    "offices": [
+        {
+            "officeName": "Vadsar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Vadodara East Division",
+            "latitude": 15.5934,
+            "longitude": 72.9091
+        },
+        {
+            "officeName": "MI Estate SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Vadodara East Division",
+            "latitude": 22.2570833,
+            "longitude": 73.1863333
+        }
+    ]
+}

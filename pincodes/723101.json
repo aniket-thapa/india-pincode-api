@@ -1,0 +1,56 @@
+{
+    "state": "WEST BENGAL",
+    "district": "PURULIA",
+    "offices": [
+        {
+            "officeName": "Alangidanga SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Purulia Division",
+            "latitude": 23.2029,
+            "longitude": 86.221982
+        },
+        {
+            "officeName": "Purulia RS SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Purulia Division",
+            "latitude": 23.1955,
+            "longitude": 86.2154
+        },
+        {
+            "officeName": "Jubli Compound SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Purulia Division",
+            "latitude": 23.1959,
+            "longitude": 86.2154
+        },
+        {
+            "officeName": "Purulia HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Purulia Division",
+            "latitude": 23.3319167,
+            "longitude": 86.3655
+        },
+        {
+            "officeName": "Chowkbazar SO Puruliya",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Purulia Division",
+            "latitude": 23.3319165,
+            "longitude": 86.04652
+        }
+    ]
+}

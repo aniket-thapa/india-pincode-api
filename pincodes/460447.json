@@ -1,0 +1,26 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "BETUL",
+    "offices": [
+        {
+            "officeName": "Rajegaon Khapa Ryt",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Chhindwara Division",
+            "latitude": 22.15344968,
+            "longitude": 78.22706661
+        },
+        {
+            "officeName": "Sarni S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Chhindwara Division",
+            "latitude": 22.1054167,
+            "longitude": 78.1781667
+        }
+    ]
+}

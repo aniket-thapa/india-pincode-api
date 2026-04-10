@@ -1,0 +1,76 @@
+{
+    "state": "RAJASTHAN",
+    "district": "BIKANER",
+    "offices": [
+        {
+            "officeName": "Badhnu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Bikaner Division",
+            "latitude": 27.9258,
+            "longitude": 73.7793
+        },
+        {
+            "officeName": "Belasar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Bikaner Division",
+            "latitude": 27.9703,
+            "longitude": 73.5988
+        },
+        {
+            "officeName": "Kuchor Aguni B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Bikaner Division",
+            "latitude": 27.8819,
+            "longitude": 73.7051
+        },
+        {
+            "officeName": "Moondsar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Bikaner Division",
+            "latitude": 27.9317,
+            "longitude": 73.6462
+        },
+        {
+            "officeName": "Sinthal S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Bikaner Division",
+            "latitude": 27.9703611,
+            "longitude": 73.5988056
+        },
+        {
+            "officeName": "Kuchor Athuni B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Bikaner Division",
+            "latitude": 27.8499,
+            "longitude": 73.6756
+        },
+        {
+            "officeName": "Tejrasar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Bikaner Division",
+            "latitude": 28.0249,
+            "longitude": 73.6639
+        }
+    ]
+}

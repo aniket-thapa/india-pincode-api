@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "TIRUVANNAMALAI",
+    "offices": [
+        {
+            "officeName": "Siruvallur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tiruvannamalai Division",
+            "latitude": 12.4636,
+            "longitude": 79.0206
+        },
+        {
+            "officeName": "Vilvarani SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tiruvannamalai Division",
+            "latitude": 12.2351944,
+            "longitude": 79.0765833
+        },
+        {
+            "officeName": "Elathur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tiruvannamalai Division",
+            "latitude": 12.4636,
+            "longitude": 79.0206
+        }
+    ]
+}

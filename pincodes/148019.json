@@ -1,0 +1,36 @@
+{
+    "state": "PUNJAB",
+    "district": "MALERKOTLA",
+    "offices": [
+        {
+            "officeName": "Kup Kalan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sangrur Division",
+            "latitude": 30.613364,
+            "longitude": 75.875181
+        },
+        {
+            "officeName": "Bhogiwal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sangrur Division",
+            "latitude": 30.588006,
+            "longitude": 75.875181
+        },
+        {
+            "officeName": "Jitwal Kalan SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sangrur Division",
+            "latitude": 30.5893666,
+            "longitude": 75.841875
+        }
+    ]
+}

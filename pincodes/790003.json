@@ -1,0 +1,36 @@
+{
+    "state": "ARUNACHAL PRADESH",
+    "district": "WEST KAMENG",
+    "offices": [
+        {
+            "officeName": "Jigaon",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Arunachal Pradesh Division",
+            "latitude": 27.11951,
+            "longitude": 92.193472
+        },
+        {
+            "officeName": "Shergaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Arunachal Pradesh Division",
+            "latitude": 27.1952008,
+            "longitude": 92.3990395
+        },
+        {
+            "officeName": "Rupa S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Arunachal Pradesh Division",
+            "latitude": 27.292854,
+            "longitude": 92.497434
+        }
+    ]
+}

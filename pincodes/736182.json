@@ -1,0 +1,26 @@
+{
+    "state": "WEST BENGAL",
+    "district": "Alipurduar",
+    "offices": [
+        {
+            "officeName": "New Market Jaigaon SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Cooch Behar Division",
+            "latitude": 26.543658,
+            "longitude": 88.718869
+        },
+        {
+            "officeName": "Jaigaon BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Cooch Behar Division",
+            "latitude": 26.84,
+            "longitude": 89.37
+        }
+    ]
+}

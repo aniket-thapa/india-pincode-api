@@ -1,0 +1,56 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "SEHORE",
+    "offices": [
+        {
+            "officeName": "Paatan B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Sehore Division",
+            "latitude": 23.849325,
+            "longitude": 72.126626
+        },
+        {
+            "officeName": "Jharkheda B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Sehore Division",
+            "latitude": 23.370512,
+            "longitude": 77.181587
+        },
+        {
+            "officeName": "Chhatri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Sehore Division",
+            "latitude": 21.833012,
+            "longitude": 87.564304
+        },
+        {
+            "officeName": "Khaikheda B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Sehore Division",
+            "latitude": 23.456875,
+            "longitude": 77.183024
+        },
+        {
+            "officeName": "Doraha S.O (Sehore)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Sehore Division",
+            "latitude": 23.403134,
+            "longitude": 77.160739
+        }
+    ]
+}

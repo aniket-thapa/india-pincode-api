@@ -1,0 +1,56 @@
+{
+    "state": "DELHI",
+    "district": "South East",
+    "offices": [
+        {
+            "officeName": "Jamia Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South Division",
+            "latitude": 28.5613611,
+            "longitude": 77.2795833
+        },
+        {
+            "officeName": "Abul Fazal EnclaveI SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South Division",
+            "latitude": 28.5425556,
+            "longitude": 77.2931667
+        },
+        {
+            "officeName": "Sukhdev Vihar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South Division",
+            "latitude": 28.5561944,
+            "longitude": 77.2783056
+        },
+        {
+            "officeName": "New Friends Colony SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South Division",
+            "latitude": 28.5618611,
+            "longitude": 77.26825
+        },
+        {
+            "officeName": "Zakir Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South Division",
+            "latitude": 28.5671667,
+            "longitude": 77.2787778
+        }
+    ]
+}

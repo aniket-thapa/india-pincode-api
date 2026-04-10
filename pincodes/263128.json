@@ -1,0 +1,26 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "offices": [
+        {
+            "officeName": "Patwadanger SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nainital Division",
+            "latitude": 29.3376,
+            "longitude": 79.4437
+        },
+        {
+            "officeName": "Bel BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nainital Division",
+            "latitude": 29.3127009,
+            "longitude": 79.4746071
+        }
+    ]
+}

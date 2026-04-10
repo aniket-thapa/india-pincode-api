@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "VELLORE",
+    "offices": [
+        {
+            "officeName": "Vellore Institute Of Technology S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Vellore Division",
+            "latitude": 12.969711,
+            "longitude": 79.154479
+        },
+        {
+            "officeName": "Brahmapuram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Vellore Division",
+            "latitude": 12.9667,
+            "longitude": 79.1728
+        }
+    ]
+}

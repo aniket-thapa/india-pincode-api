@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "SULTANPUR",
+    "offices": [
+        {
+            "officeName": "Kaithwara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Sultanpur Division",
+            "latitude": 26.264776,
+            "longitude": 82.072706
+        },
+        {
+            "officeName": "Damodarpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Sultanpur Division",
+            "latitude": 26.23095,
+            "longitude": 82.221654
+        },
+        {
+            "officeName": "Baraunsa SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Sultanpur Division",
+            "latitude": 26.2397222,
+            "longitude": 82.2733889
+        },
+        {
+            "officeName": "Athaisi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Sultanpur Division",
+            "latitude": 26.249583,
+            "longitude": 82.240673
+        }
+    ]
+}

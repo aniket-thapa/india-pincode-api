@@ -1,0 +1,66 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "AMBEDKAR NAGAR",
+    "offices": [
+        {
+            "officeName": "Baragaon Brahimpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Faizabad Division",
+            "latitude": 25.425254,
+            "longitude": 82.81828
+        },
+        {
+            "officeName": "Shadipur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Faizabad Division",
+            "latitude": 26.557912,
+            "longitude": 82.576736
+        },
+        {
+            "officeName": "Dhiwa Daulatpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Faizabad Division",
+            "latitude": 25.991856,
+            "longitude": 83.947964
+        },
+        {
+            "officeName": "Kedarnagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Faizabad Division",
+            "latitude": 26.540169,
+            "longitude": 82.548342
+        },
+        {
+            "officeName": "Chandpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Faizabad Division",
+            "latitude": 26.196311,
+            "longitude": 82.899724
+        },
+        {
+            "officeName": "Jamunipur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Faizabad Division",
+            "latitude": 26.292901,
+            "longitude": 83.088478
+        }
+    ]
+}

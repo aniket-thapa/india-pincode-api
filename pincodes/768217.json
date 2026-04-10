@@ -1,0 +1,56 @@
+{
+    "state": "ODISHA",
+    "district": "JHARSUGUDA",
+    "offices": [
+        {
+            "officeName": "Jorabaga B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sundargarh Division",
+            "latitude": 21.7824306,
+            "longitude": 83.8663168
+        },
+        {
+            "officeName": "Kudaloi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sundargarh Division",
+            "latitude": 21.7932567,
+            "longitude": 83.8171917
+        },
+        {
+            "officeName": "Ubuda B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sundargarh Division",
+            "latitude": 21.7436805,
+            "longitude": 83.8332751
+        },
+        {
+            "officeName": "Banjari B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sundargarh Division",
+            "latitude": 21.8216179,
+            "longitude": 83.8516898
+        },
+        {
+            "officeName": "Belpahar Rs S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sundargarh Division",
+            "latitude": 21.805,
+            "longitude": 83.8631
+        }
+    ]
+}

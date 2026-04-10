@@ -1,0 +1,36 @@
+{
+    "state": "GUJARAT",
+    "district": "JUNAGADH",
+    "offices": [
+        {
+            "officeName": "Surajgadh B.O.",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Junagadh Division",
+            "latitude": 21.197874,
+            "longitude": 70.551154
+        },
+        {
+            "officeName": "Chitrod BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Junagadh Division",
+            "latitude": 21.1467503,
+            "longitude": 70.5709844
+        },
+        {
+            "officeName": "Sasan Gir SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Junagadh Division",
+            "latitude": 21.168616,
+            "longitude": 70.597393
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Palnadu",
+    "offices": [
+        {
+            "officeName": "Gandhi Chowk S.O (Guntur)",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Narasaraopet Division",
+            "latitude": 16.3975,
+            "longitude": 80.1485
+        },
+        {
+            "officeName": "Sattenapalle H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Narasaraopet Division",
+            "latitude": 16.3966944,
+            "longitude": 80.1493889
+        }
+    ]
+}

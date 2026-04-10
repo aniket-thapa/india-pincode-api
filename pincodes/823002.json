@@ -1,0 +1,76 @@
+{
+    "state": "BIHAR",
+    "district": "GAYA",
+    "offices": [
+        {
+            "officeName": "Churi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gaya Division",
+            "latitude": 24.74,
+            "longitude": 84.9438365
+        },
+        {
+            "officeName": "Kujapi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gaya Division",
+            "latitude": 24.7489724,
+            "longitude": 84.9438365
+        },
+        {
+            "officeName": "Bairagi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gaya Division",
+            "latitude": 25.0438888,
+            "longitude": 85.045
+        },
+        {
+            "officeName": "Delha SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gaya Division",
+            "latitude": 24.8004744,
+            "longitude": 84.9962967
+        },
+        {
+            "officeName": "Kharkhura SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gaya Division",
+            "latitude": 24.8118363,
+            "longitude": 84.9947548
+        },
+        {
+            "officeName": "Kesru Dharampur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gaya Division",
+            "latitude": 24.7489724,
+            "longitude": 84.673055
+        },
+        {
+            "officeName": "Gaya RS SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gaya Division",
+            "latitude": 25.0436111,
+            "longitude": 85.0372222
+        }
+    ]
+}

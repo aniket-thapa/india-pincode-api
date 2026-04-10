@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "MUZAFFARNAGAR",
+    "offices": [
+        {
+            "officeName": "Siali B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Muzaffarnagar Division",
+            "latitude": 29.314973,
+            "longitude": 78.033952
+        },
+        {
+            "officeName": "Ramraj SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Muzaffarnagar Division",
+            "latitude": 29.473071,
+            "longitude": 77.707742
+        },
+        {
+            "officeName": "Hassanpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Muzaffarnagar Division",
+            "latitude": 29.256006,
+            "longitude": 77.97458
+        },
+        {
+            "officeName": "Husainpur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Muzaffarnagar Division",
+            "latitude": 29.297635,
+            "longitude": 78.046977
+        }
+    ]
+}

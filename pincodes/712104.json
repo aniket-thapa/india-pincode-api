@@ -1,0 +1,26 @@
+{
+    "state": "WEST BENGAL",
+    "district": "HOOGHLY",
+    "offices": [
+        {
+            "officeName": "Keotalatbagan SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Hooghly North Division",
+            "latitude": 22.5963888,
+            "longitude": 88.2638888
+        },
+        {
+            "officeName": "Sahaganj SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Hooghly North Division",
+            "latitude": 22.9336111,
+            "longitude": 88.4033333
+        }
+    ]
+}

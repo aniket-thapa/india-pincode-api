@@ -1,0 +1,26 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "offices": [
+        {
+            "officeName": "Merthi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pithoragarh Division",
+            "latitude": 29.7798889,
+            "longitude": 80.2771944
+        },
+        {
+            "officeName": "Narayan Nagar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pithoragarh Division",
+            "latitude": 29.773,
+            "longitude": 80.2885
+        }
+    ]
+}

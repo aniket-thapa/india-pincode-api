@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "DAKSHINA KANNADA",
+    "offices": [
+        {
+            "officeName": "Vamanjoor S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Mangaluru Division",
+            "latitude": 12.91746,
+            "longitude": 74.902597
+        },
+        {
+            "officeName": "Kudupu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Mangaluru Division",
+            "latitude": 12.9039943,
+            "longitude": 74.8931974
+        },
+        {
+            "officeName": "Moodushedde B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Mangaluru Division",
+            "latitude": 12.9276943,
+            "longitude": 74.8921567
+        }
+    ]
+}

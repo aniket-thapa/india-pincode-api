@@ -1,0 +1,46 @@
+{
+    "state": "DELHI",
+    "district": "NORTH",
+    "offices": [
+        {
+            "officeName": "Khera Khurd BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7721666,
+            "longitude": 77.119
+        },
+        {
+            "officeName": "Naya Bans BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7721666,
+            "longitude": 77.119
+        },
+        {
+            "officeName": "Khera Kalan SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7721667,
+            "longitude": 77.119
+        },
+        {
+            "officeName": "Holambi Kalan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7721666,
+            "longitude": 77.119
+        }
+    ]
+}

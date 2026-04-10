@@ -1,0 +1,56 @@
+{
+    "state": "ODISHA",
+    "district": "BARGARH",
+    "offices": [
+        {
+            "officeName": "Lahanda B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sambalpur Division",
+            "latitude": 21.4132149,
+            "longitude": 83.8465916
+        },
+        {
+            "officeName": "Silet B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sambalpur Division",
+            "latitude": 21.4132149,
+            "longitude": 83.8465916
+        },
+        {
+            "officeName": "Godbhaga S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sambalpur Division",
+            "latitude": 21.33425,
+            "longitude": 83.6191944
+        },
+        {
+            "officeName": "Dulampur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sambalpur Division",
+            "latitude": 21.3825333,
+            "longitude": 83.8517249
+        },
+        {
+            "officeName": "Kumelsingha B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sambalpur Division",
+            "latitude": 21.3827883,
+            "longitude": 83.8656466
+        }
+    ]
+}

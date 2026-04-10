@@ -1,0 +1,36 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "offices": [
+        {
+            "officeName": "Badrinath Seasonal SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamoli Division",
+            "latitude": 30.7446944,
+            "longitude": 79.4910833
+        },
+        {
+            "officeName": "Hanuman Chatti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamoli Division",
+            "latitude": 30.694772,
+            "longitude": 79.514147
+        },
+        {
+            "officeName": "Mana BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamoli Division",
+            "latitude": 30.74431,
+            "longitude": 79.495764
+        }
+    ]
+}

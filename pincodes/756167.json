@@ -1,0 +1,26 @@
+{
+    "state": "ODISHA",
+    "district": "BHADRAK",
+    "offices": [
+        {
+            "officeName": "Barunai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhadrak Division",
+            "latitude": 21.0345616,
+            "longitude": 86.6241283
+        },
+        {
+            "officeName": "Paliabindha S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "Bhadrak Division",
+            "latitude": 20.9863889,
+            "longitude": 86.6366667
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "state": "ODISHA",
+    "district": "GANJAM",
+    "offices": [
+        {
+            "officeName": "Khambeswari Patna S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Aska Division",
+            "latitude": 19.6096592,
+            "longitude": 84.6648123
+        },
+        {
+            "officeName": "Raghunath Nagar S.O (Ganjam)",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Aska Division",
+            "latitude": 19.6031322,
+            "longitude": 19.6031322
+        },
+        {
+            "officeName": "Aska Junction S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Aska Division",
+            "latitude": 19.613725,
+            "longitude": 84.6668925
+        },
+        {
+            "officeName": "Sunambo Street S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Aska Division",
+            "latitude": 19.6112533,
+            "longitude": 84.655635
+        },
+        {
+            "officeName": "T.O.Road S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Aska Division",
+            "latitude": 19.6182529,
+            "longitude": 84.6521758
+        },
+        {
+            "officeName": "Aska H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Aska Division",
+            "latitude": 19.619625,
+            "longitude": 84.65518
+        }
+    ]
+}

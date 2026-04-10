@@ -1,0 +1,46 @@
+{
+    "state": "ODISHA",
+    "district": "JAJAPUR",
+    "offices": [
+        {
+            "officeName": "BARUNIA B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "JAJPUR DIVISION",
+            "latitude": 20.6569563,
+            "longitude": 86.0209813
+        },
+        {
+            "officeName": "Kalakala B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "JAJPUR DIVISION",
+            "latitude": 20.7081633,
+            "longitude": 85.9822293
+        },
+        {
+            "officeName": "SALAPADA B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "JAJPUR DIVISION",
+            "latitude": 20.7218971,
+            "longitude": 86.0065417
+        },
+        {
+            "officeName": "BYREE S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "JAJPUR DIVISION",
+            "latitude": 20.6323883,
+            "longitude": 86.0342642
+        }
+    ]
+}

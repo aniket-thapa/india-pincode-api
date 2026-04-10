@@ -1,0 +1,46 @@
+{
+    "state": "KERALA",
+    "district": "KOZHIKODE",
+    "offices": [
+        {
+            "officeName": "Parakkadavu SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Vadakara Division",
+            "latitude": 11.7272771,
+            "longitude": 75.637838899
+        },
+        {
+            "officeName": "Puliyavil BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Vadakara Division",
+            "latitude": 11.72,
+            "longitude": 75.65
+        },
+        {
+            "officeName": "Chekkiyad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Vadakara Division",
+            "latitude": 11.74,
+            "longitude": 75.66
+        },
+        {
+            "officeName": "Thanakottur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Vadakara Division",
+            "latitude": 11.74,
+            "longitude": 75.65
+        }
+    ]
+}

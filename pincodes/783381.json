@@ -1,0 +1,26 @@
+{
+    "state": "ASSAM",
+    "district": "BONGAIGAON",
+    "offices": [
+        {
+            "officeName": "Simlaguri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 26.480494,
+            "longitude": 90.49507
+        },
+        {
+            "officeName": "New Bongaigaon S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Goalpara Division",
+            "latitude": 26.4811667,
+            "longitude": 90.5213056
+        }
+    ]
+}

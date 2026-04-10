@@ -1,0 +1,46 @@
+{
+    "state": "RAJASTHAN",
+    "district": "NAGAUR",
+    "offices": [
+        {
+            "officeName": "Deolikallan B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Nagaur Division",
+            "latitude": 27.1374,
+            "longitude": 75.07835
+        },
+        {
+            "officeName": "Shimbhupura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Nagaur Division",
+            "latitude": 27.1132,
+            "longitude": 75.1859
+        },
+        {
+            "officeName": "Shyamgarh B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Nagaur Division",
+            "latitude": 27.143222,
+            "longitude": 75.158186
+        },
+        {
+            "officeName": "Maroth S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Nagaur Division",
+            "latitude": 27.0945,
+            "longitude": 75.0908611
+        }
+    ]
+}

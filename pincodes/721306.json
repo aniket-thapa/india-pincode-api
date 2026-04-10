@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "MEDINIPUR WEST",
+    "offices": [
+        {
+            "officeName": "Hijli Cooperative BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Midnapore Division",
+            "latitude": 22.3145,
+            "longitude": 87.309
+        },
+        {
+            "officeName": "Talbagicha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Midnapore Division",
+            "latitude": 22.3145,
+            "longitude": 87.309
+        },
+        {
+            "officeName": "Hijli SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Midnapore Division",
+            "latitude": 22.34046,
+            "longitude": 87.307838
+        }
+    ]
+}

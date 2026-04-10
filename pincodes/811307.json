@@ -1,0 +1,26 @@
+{
+    "state": "BIHAR",
+    "district": "JAMUI",
+    "offices": [
+        {
+            "officeName": "Jamui HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Munger Division",
+            "latitude": 24.9288056,
+            "longitude": 86.2261944
+        },
+        {
+            "officeName": "Jamui Court SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Munger Division",
+            "latitude": 24.92326,
+            "longitude": 86.220236
+        }
+    ]
+}

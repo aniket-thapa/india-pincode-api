@@ -1,0 +1,56 @@
+{
+    "state": "ASSAM",
+    "district": "KARIMGANJ",
+    "offices": [
+        {
+            "officeName": "Lowairpoa B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Cachar Division",
+            "latitude": 24.36,
+            "longitude": 92.85
+        },
+        {
+            "officeName": "Hatikhira S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Cachar Division",
+            "latitude": 24.867584,
+            "longitude": 92.360382
+        },
+        {
+            "officeName": "Katabari B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Cachar Division",
+            "latitude": 24.48,
+            "longitude": 92.32
+        },
+        {
+            "officeName": "Baithakhal Basti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Cachar Division",
+            "latitude": 24.48,
+            "longitude": 92.32
+        },
+        {
+            "officeName": "Solgoi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Cachar Division",
+            "latitude": 24.48,
+            "longitude": 92.32
+        }
+    ]
+}

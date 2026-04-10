@@ -1,0 +1,26 @@
+{
+    "state": "TELANGANA",
+    "district": "SANGAREDDY",
+    "offices": [
+        {
+            "officeName": "Sangareddy H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Sangareddy Division",
+            "latitude": 17.626514889032922,
+            "longitude": 78.08678440619123
+        },
+        {
+            "officeName": "Sangareddy Collectorate S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Sangareddy Division",
+            "latitude": 17.9956389,
+            "longitude": 78.1424167
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "WEST BENGAL",
+    "district": "NADIA",
+    "offices": [
+        {
+            "officeName": "Noapara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Nadia South Division",
+            "latitude": 23.155404,
+            "longitude": 88.551698
+        },
+        {
+            "officeName": "Anulia SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Nadia South Division",
+            "latitude": 23.160016,
+            "longitude": 88.544725
+        },
+        {
+            "officeName": "Haradham BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Nadia South Division",
+            "latitude": 23.150175,
+            "longitude": 88.526238
+        },
+        {
+            "officeName": "Nandighat BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Nadia South Division",
+            "latitude": 23.155404,
+            "longitude": 88.551698
+        }
+    ]
+}

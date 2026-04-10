@@ -1,0 +1,86 @@
+{
+    "state": "SIKKIM",
+    "district": "EAST DISTRICT",
+    "offices": [
+        {
+            "officeName": "Bhusuk BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sikkim Division",
+            "latitude": 27.35,
+            "longitude": 88.67
+        },
+        {
+            "officeName": "Bojoghari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sikkim Division",
+            "latitude": 27.37,
+            "longitude": 88.61
+        },
+        {
+            "officeName": "Lingdok BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sikkim Division",
+            "latitude": 27.38,
+            "longitude": 88.57
+        },
+        {
+            "officeName": "Rajbhawan SO East Sikkim",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sikkim Division",
+            "latitude": 27.339833,
+            "longitude": 88.655049
+        },
+        {
+            "officeName": "Luing BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sikkim Division",
+            "latitude": 27.36,
+            "longitude": 88.59
+        },
+        {
+            "officeName": "Penlong BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sikkim Division",
+            "latitude": 27.37,
+            "longitude": 88.62
+        },
+        {
+            "officeName": "Chongey BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sikkim Division",
+            "latitude": 27.34,
+            "longitude": 88.65
+        },
+        {
+            "officeName": "Tashiling SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sikkim Division",
+            "latitude": 27.34,
+            "longitude": 88.64
+        }
+    ]
+}

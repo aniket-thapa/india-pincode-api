@@ -1,0 +1,46 @@
+{
+    "state": "GUJARAT",
+    "district": "TAPI",
+    "offices": [
+        {
+            "officeName": "Limbi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bardoli Division",
+            "latitude": 21.32604,
+            "longitude": 73.88114
+        },
+        {
+            "officeName": "Ukai Dam SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bardoli Division",
+            "latitude": 21.2237778,
+            "longitude": 73.5796111
+        },
+        {
+            "officeName": "Serulla BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bardoli Division",
+            "latitude": 21.1262,
+            "longitude": 73.39261
+        },
+        {
+            "officeName": "Bhatwada BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bardoli Division",
+            "latitude": 21.166367,
+            "longitude": 73.5644974
+        }
+    ]
+}

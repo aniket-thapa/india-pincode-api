@@ -1,0 +1,26 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "SHAHDOL",
+    "offices": [
+        {
+            "officeName": "Amlai Paper Mills S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Shahdol Division",
+            "latitude": 22.9733889,
+            "longitude": 78.6568333
+        },
+        {
+            "officeName": "Bargawan B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Shahdol Division",
+            "latitude": 23.29,
+            "longitude": 81.68
+        }
+    ]
+}

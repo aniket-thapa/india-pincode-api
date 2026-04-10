@@ -1,0 +1,66 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "INDORE",
+    "offices": [
+        {
+            "officeName": "Alwasa B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Indore Moffusil Division",
+            "latitude": 22.82906,
+            "longitude": 75.833059
+        },
+        {
+            "officeName": "Jamburdi Sarwar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Indore Moffusil Division",
+            "latitude": 22.845001,
+            "longitude": 75.719704
+        },
+        {
+            "officeName": "Hatod S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Indore Moffusil Division",
+            "latitude": 22.8,
+            "longitude": 75.73
+        },
+        {
+            "officeName": "Baghana B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Indore Moffusil Division",
+            "latitude": 29.069596,
+            "longitude": 75.851943
+        },
+        {
+            "officeName": "Kalmer B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Indore Moffusil Division",
+            "latitude": 22.794468,
+            "longitude": 75.454865
+        },
+        {
+            "officeName": "Palia B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Indore Moffusil Division",
+            "latitude": 22.829885,
+            "longitude": 75.793831
+        }
+    ]
+}

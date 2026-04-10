@@ -1,0 +1,46 @@
+{
+    "state": "WEST BENGAL",
+    "district": "Alipurduar",
+    "offices": [
+        {
+            "officeName": "Damanpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Cooch Behar Division",
+            "latitude": 26.26,
+            "longitude": 79.64
+        },
+        {
+            "officeName": "Alipurduar Junction SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Cooch Behar Division",
+            "latitude": 26.5308056,
+            "longitude": 89.5391389
+        },
+        {
+            "officeName": "Majherdabri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Cooch Behar Division",
+            "latitude": 26.52,
+            "longitude": 89.55
+        },
+        {
+            "officeName": "Bholardabri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Cooch Behar Division",
+            "latitude": 26.52,
+            "longitude": 89.49
+        }
+    ]
+}

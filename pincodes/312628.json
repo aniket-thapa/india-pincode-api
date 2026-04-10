@@ -1,0 +1,26 @@
+{
+    "state": "RAJASTHAN",
+    "district": "PRATAPGARH",
+    "offices": [
+        {
+            "officeName": "Nakor B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Chittorgarh Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "DEVGARH D.S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Chittorgarh Division",
+            "latitude": 24.038991,
+            "longitude": 74.658552
+        }
+    ]
+}

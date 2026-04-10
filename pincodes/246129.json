@@ -1,0 +1,46 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "PAURI GARHWAL",
+    "offices": [
+        {
+            "officeName": "Kandai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pauri Division",
+            "latitude": 29.870608,
+            "longitude": 78.977858
+        },
+        {
+            "officeName": "Dudharkhal SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pauri Division",
+            "latitude": 29.8705,
+            "longitude": 78.79775
+        },
+        {
+            "officeName": "Bandun BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pauri Division",
+            "latitude": 29.870608,
+            "longitude": 78.977858
+        },
+        {
+            "officeName": "Gherwa BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pauri Division",
+            "latitude": 29.870608,
+            "longitude": 78.977858
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "JAMMU AND KASHMIR",
+    "district": "REASI",
+    "offices": [
+        {
+            "officeName": "SMVDU SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Udhampur Division",
+            "latitude": 32.9408888,
+            "longitude": 74.9548333
+        },
+        {
+            "officeName": "Kakriyal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Udhampur Division",
+            "latitude": 32.941653,
+            "longitude": 74.954099
+        }
+    ]
+}

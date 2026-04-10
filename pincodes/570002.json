@@ -1,0 +1,26 @@
+{
+    "state": "KARNATAKA",
+    "district": "MYSURU",
+    "offices": [
+        {
+            "officeName": "Gokulam S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Mysuru Division",
+            "latitude": 12.33233333,
+            "longitude": 76.62775
+        },
+        {
+            "officeName": "Vani Vilas Mohalla S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Mysuru Division",
+            "latitude": 12.32222222,
+            "longitude": 76.62902778
+        }
+    ]
+}

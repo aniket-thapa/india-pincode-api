@@ -1,0 +1,36 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "FATEHPUR",
+    "offices": [
+        {
+            "officeName": "Kishandaspur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Fatehpur Division",
+            "latitude": 25.99744,
+            "longitude": 80.98575
+        },
+        {
+            "officeName": "Jamraon SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Fatehpur Division",
+            "latitude": 26.0304,
+            "longitude": 80.556
+        },
+        {
+            "officeName": "Naugaon BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Fatehpur Division",
+            "latitude": 25.99744,
+            "longitude": 80.98575
+        }
+    ]
+}

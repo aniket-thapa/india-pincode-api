@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "PURBA BARDHAMAN",
+    "offices": [
+        {
+            "officeName": "Kharga Karanda BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Burdwan Division",
+            "latitude": 23.22,
+            "longitude": 87.98
+        },
+        {
+            "officeName": "Saktigarh SO Bardhaman",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Burdwan Division",
+            "latitude": 23.8371222,
+            "longitude": 86.909973
+        },
+        {
+            "officeName": "Bhaita BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Burdwan Division",
+            "latitude": 23.21,
+            "longitude": 88.1
+        }
+    ]
+}

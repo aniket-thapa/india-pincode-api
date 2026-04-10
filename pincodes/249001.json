@@ -1,0 +1,66 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "TEHRI GARHWAL",
+    "offices": [
+        {
+            "officeName": "Tehri HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Tehri Division",
+            "latitude": 30.3764167,
+            "longitude": 78.4393056
+        },
+        {
+            "officeName": "Kuttha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Tehri Division",
+            "latitude": 30.3928209,
+            "longitude": 78.4531696
+        },
+        {
+            "officeName": "Pangerkhal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Tehri Division",
+            "latitude": 30.3650611,
+            "longitude": 78.4446426
+        },
+        {
+            "officeName": "New Tehri Collectrate SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Tehri Division",
+            "latitude": 30.3760556,
+            "longitude": 78.482
+        },
+        {
+            "officeName": "Tehri Kutchery SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Tehri Division",
+            "latitude": 30.3747222,
+            "longitude": 78.4299444
+        },
+        {
+            "officeName": "Gyansoo BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Tehri Division",
+            "latitude": 30.476,
+            "longitude": 78.239
+        }
+    ]
+}

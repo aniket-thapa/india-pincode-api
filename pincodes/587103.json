@@ -1,0 +1,46 @@
+{
+    "state": "KARNATAKA",
+    "district": "BAGALKOT",
+    "offices": [
+        {
+            "officeName": "Haveli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Bagalkot Division",
+            "latitude": 16.185017,
+            "longitude": 75.696237
+        },
+        {
+            "officeName": "Bagalkot Navanagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Bagalkot Division",
+            "latitude": 16.1604722,
+            "longitude": 75.6709722
+        },
+        {
+            "officeName": "Bagalkot DC Complex",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Bagalkot Division",
+            "latitude": 16.18125,
+            "longitude": 75.6991667
+        },
+        {
+            "officeName": "Gandhinagar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Bagalkot Division",
+            "latitude": 16.185017,
+            "longitude": 75.696237
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "state": "GUJARAT",
+    "district": "SABAR KANTHA",
+    "offices": [
+        {
+            "officeName": "Pethapur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Sabarkantha Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Prempur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Sabarkantha Division",
+            "latitude": 23.7158,
+            "longitude": 72.8961
+        },
+        {
+            "officeName": "Kabso BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Sabarkantha Division",
+            "latitude": 23.79067,
+            "longitude": 72.8262
+        },
+        {
+            "officeName": "Davad SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Sabarkantha Division",
+            "latitude": 23.71815,
+            "longitude": 72.837902
+        },
+        {
+            "officeName": "Arsodia BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Sabarkantha Division",
+            "latitude": 23.7495,
+            "longitude": 72.8397
+        },
+        {
+            "officeName": "Eklara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Sabarkantha Division",
+            "latitude": 23.7479,
+            "longitude": 72.809
+        },
+        {
+            "officeName": "Singa BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Sabarkantha Division",
+            "latitude": 23.75,
+            "longitude": 72.8423
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "KARNATAKA",
+    "district": "VIJAYAPURA",
+    "offices": [
+        {
+            "officeName": "Bargudi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Vijayapura Division",
+            "latitude": 17.2268488,
+            "longitude": 75.9114829
+        },
+        {
+            "officeName": "Ahirsang B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Vijayapura Division",
+            "latitude": 17.2268488,
+            "longitude": 75.9114829
+        },
+        {
+            "officeName": "Padnur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Vijayapura Division",
+            "latitude": 17.313849,
+            "longitude": 75.9876864
+        },
+        {
+            "officeName": "Lachyan S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Vijayapura Division",
+            "latitude": 17.2749103,
+            "longitude": 75.9693448
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "JHARKHAND",
+    "district": "GODDA",
+    "offices": [
+        {
+            "officeName": "Itahari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Bhagalpur Division",
+            "latitude": 25.693,
+            "longitude": 84.265
+        },
+        {
+            "officeName": "Roshanpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Bhagalpur Division",
+            "latitude": 24.956,
+            "longitude": 84.962
+        },
+        {
+            "officeName": "Ishipur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Bhagalpur Division",
+            "latitude": 25.2193611,
+            "longitude": 87.3731111
+        },
+        {
+            "officeName": "Sian BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Bhagalpur Division",
+            "latitude": 24.856,
+            "longitude": 84.965
+        },
+        {
+            "officeName": "Sukhari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Bhagalpur Division",
+            "latitude": 24.6322,
+            "longitude": 84.9653
+        }
+    ]
+}

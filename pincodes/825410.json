@@ -1,0 +1,66 @@
+{
+    "state": "JHARKHAND",
+    "district": "KODERMA",
+    "offices": [
+        {
+            "officeName": "Lokai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hazaribagh Division",
+            "latitude": 24.4723197,
+            "longitude": 85.609601
+        },
+        {
+            "officeName": "Deobour BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hazaribagh Division",
+            "latitude": 24.468083,
+            "longitude": 85.591622
+        },
+        {
+            "officeName": "Pathaldiha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hazaribagh Division",
+            "latitude": 24.468086,
+            "longitude": 85.591619
+        },
+        {
+            "officeName": "Inderwa BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hazaribagh Division",
+            "latitude": 24.4352051,
+            "longitude": 85.5279027
+        },
+        {
+            "officeName": "Khalakthambi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hazaribagh Division",
+            "latitude": 24.4352051,
+            "longitude": 85.3219
+        },
+        {
+            "officeName": "Kodarma SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hazaribagh Division",
+            "latitude": 24.4743889,
+            "longitude": 85.5951667
+        }
+    ]
+}

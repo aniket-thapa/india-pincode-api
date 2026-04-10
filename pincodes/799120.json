@@ -1,0 +1,26 @@
+{
+    "state": "TRIPURA",
+    "district": "Gomati",
+    "offices": [
+        {
+            "officeName": "Radhakishorepur H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - I Region",
+            "divisionName": "Agartala Division",
+            "latitude": 23.54083333,
+            "longitude": 91.49175
+        },
+        {
+            "officeName": "IDC Radhakishorepur HO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - I Region",
+            "divisionName": "Agartala Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

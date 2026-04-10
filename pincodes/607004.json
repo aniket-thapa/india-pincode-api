@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "CUDDALORE",
+    "offices": [
+        {
+            "officeName": "M.Pudur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Cuddalore Division",
+            "latitude": 11.73,
+            "longitude": 79.75
+        },
+        {
+            "officeName": "Sathankuppam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Cuddalore Division",
+            "latitude": 11.7,
+            "longitude": 79.78
+        },
+        {
+            "officeName": "Vandipalayam S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Cuddalore Division",
+            "latitude": 11.73,
+            "longitude": 79.75
+        }
+    ]
+}

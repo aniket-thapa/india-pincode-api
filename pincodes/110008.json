@@ -1,0 +1,56 @@
+{
+    "state": "DELHI",
+    "district": "WEST",
+    "offices": [
+        {
+            "officeName": "Patel Nagar East SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi Central Division",
+            "latitude": 28.6453611,
+            "longitude": 77.1729722
+        },
+        {
+            "officeName": "Patel Nagar West SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi Central Division",
+            "latitude": 28.6472222,
+            "longitude": 77.16975
+        },
+        {
+            "officeName": "Dada Ghosh Bhawan SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi Central Division",
+            "latitude": 28.6527778,
+            "longitude": 77.1558889
+        },
+        {
+            "officeName": "Patel Nagar South SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi Central Division",
+            "latitude": 28.64525,
+            "longitude": 77.1656667
+        },
+        {
+            "officeName": "Patel Nagar SO Central Delhi",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi Central Division",
+            "latitude": 28.6476,
+            "longitude": 77.1695
+        }
+    ]
+}

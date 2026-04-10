@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "SAHARANPUR",
+    "offices": [
+        {
+            "officeName": "Harora BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Saharanpur Division",
+            "latitude": 29.9954658,
+            "longitude": 77.6793813
+        },
+        {
+            "officeName": "Gagalheri SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Saharanpur Division",
+            "latitude": 29.9743767,
+            "longitude": 77.6614489
+        },
+        {
+            "officeName": "Chauradev BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Saharanpur Division",
+            "latitude": 29.9433878,
+            "longitude": 77.7230317
+        },
+        {
+            "officeName": "Khajuri Akbarpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Saharanpur Division",
+            "latitude": 29.9542129,
+            "longitude": 77.6493171
+        }
+    ]
+}

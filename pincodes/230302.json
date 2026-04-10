@@ -1,0 +1,66 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "PRATAPGARH",
+    "offices": [
+        {
+            "officeName": "Birapur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Pratapgarh Division",
+            "latitude": 21.69778,
+            "longitude": 81.6477
+        },
+        {
+            "officeName": "Garapur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Pratapgarh Division",
+            "latitude": 21.654857,
+            "longitude": 81.654564
+        },
+        {
+            "officeName": "Jamtali SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Pratapgarh Division",
+            "latitude": 25.5016,
+            "longitude": 82.072
+        },
+        {
+            "officeName": "Bichhur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Pratapgarh Division",
+            "latitude": 21.4548,
+            "longitude": 81.3654
+        },
+        {
+            "officeName": "Shivgarh Bindaganj BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Pratapgarh Division",
+            "latitude": 21.653454,
+            "longitude": 81.647645
+        },
+        {
+            "officeName": "Misiddipur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Pratapgarh Division",
+            "latitude": 21.67577,
+            "longitude": 81.6787
+        }
+    ]
+}

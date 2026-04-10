@@ -1,0 +1,36 @@
+{
+    "state": "JAMMU AND KASHMIR",
+    "district": "RAJOURI",
+    "offices": [
+        {
+            "officeName": "Kotdhara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Rajouri Division",
+            "latitude": 1.0,
+            "longitude": 1.0
+        },
+        {
+            "officeName": "Ujjan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Rajouri Division",
+            "latitude": 1.0,
+            "longitude": 1.0
+        },
+        {
+            "officeName": "Baba Ghulam Shah Badshah University SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Rajouri Division",
+            "latitude": 33.3716188,
+            "longitude": 74.3130024
+        }
+    ]
+}

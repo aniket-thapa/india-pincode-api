@@ -1,0 +1,66 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "CHITTOOR",
+    "offices": [
+        {
+            "officeName": "Madhavaram IRM B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Chittoor Division",
+            "latitude": 14.4204,
+            "longitude": 79.1205
+        },
+        {
+            "officeName": "Iruvaram S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Chittoor Division",
+            "latitude": 13.19280556,
+            "longitude": 79.07636111
+        },
+        {
+            "officeName": "Kukkalapalle B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Chittoor Division",
+            "latitude": 14.4204,
+            "longitude": 79.1205
+        },
+        {
+            "officeName": "Prasanth Nagar S.O (Chittoor)",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Chittoor Division",
+            "latitude": 14.4204,
+            "longitude": 79.1205
+        },
+        {
+            "officeName": "Mahasamudram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Chittoor Division",
+            "latitude": 14.4204,
+            "longitude": 79.1205
+        },
+        {
+            "officeName": "Periyambadi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Chittoor Division",
+            "latitude": 14.4204,
+            "longitude": 79.1205
+        }
+    ]
+}

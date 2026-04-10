@@ -1,0 +1,66 @@
+{
+    "state": "BIHAR",
+    "district": "PATNA",
+    "offices": [
+        {
+            "officeName": "SORAMPUR BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patna Division",
+            "latitude": 25.612677,
+            "longitude": 85.158875
+        },
+        {
+            "officeName": "Alampur Gonpura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patna Division",
+            "latitude": 25.3336999,
+            "longitude": 85.3669969
+        },
+        {
+            "officeName": "DHIBRA BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patna Division",
+            "latitude": 25.602555,
+            "longitude": 85.1359444
+        },
+        {
+            "officeName": "MOBARAKPUR BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patna Division",
+            "latitude": 25.574127,
+            "longitude": 85.125
+        },
+        {
+            "officeName": "P.SHARIF S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patna Division",
+            "latitude": 25.574127,
+            "longitude": 85.0701
+        },
+        {
+            "officeName": "DHANAUT BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Patna Division",
+            "latitude": 25.594095,
+            "longitude": 85.0719
+        }
+    ]
+}

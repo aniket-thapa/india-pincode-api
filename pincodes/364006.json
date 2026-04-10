@@ -1,0 +1,26 @@
+{
+    "state": "GUJARAT",
+    "district": "BHAVNAGAR",
+    "offices": [
+        {
+            "officeName": "Bhavnagar Station Road SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Bhavnagar Division",
+            "latitude": 21.7791,
+            "longitude": 72.1395
+        },
+        {
+            "officeName": "Bhavnagar Kumbharwada SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Bhavnagar Division",
+            "latitude": 21.778806,
+            "longitude": 72.129539
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "TELANGANA",
+    "district": "HANUMAKONDA",
+    "offices": [
+        {
+            "officeName": "Railway Gate B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Warangal Division",
+            "latitude": 17.973225,
+            "longitude": 79.596904
+        },
+        {
+            "officeName": "Fort Warangal S.O.",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Warangal Division",
+            "latitude": 17.956263,
+            "longitude": 79.619643
+        },
+        {
+            "officeName": "Shivnagar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Warangal Division",
+            "latitude": 17.9657403,
+            "longitude": 79.5940888
+        }
+    ]
+}

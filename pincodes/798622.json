@@ -1,0 +1,36 @@
+{
+    "state": "NAGALAND",
+    "district": "MON",
+    "offices": [
+        {
+            "officeName": "Baranamsang B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Nagaland Division",
+            "latitude": 26.7054606,
+            "longitude": 94.7062687
+        },
+        {
+            "officeName": "Kongon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Nagaland Division",
+            "latitude": 26.746258,
+            "longitude": 94.8138738
+        },
+        {
+            "officeName": "Naginimora S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - II Region",
+            "divisionName": "Nagaland Division",
+            "latitude": 26.481574,
+            "longitude": 94.992649
+        }
+    ]
+}

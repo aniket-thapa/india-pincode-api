@@ -1,0 +1,46 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Konaseema",
+    "offices": [
+        {
+            "officeName": "Pulletikurru S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Amalapuram Division",
+            "latitude": 16.63647222,
+            "longitude": 81.94933333
+        },
+        {
+            "officeName": "K.Pedapudi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Amalapuram Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Mosalapalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Amalapuram Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Irusumanda B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Amalapuram Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

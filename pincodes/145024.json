@@ -1,0 +1,26 @@
+{
+    "state": "PUNJAB",
+    "district": "PATHANKOT",
+    "offices": [
+        {
+            "officeName": "Tharial BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Gurdaspur Division",
+            "latitude": 32.35,
+            "longitude": 75.61
+        },
+        {
+            "officeName": "Madhopur SO Gurdaspur",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Gurdaspur Division",
+            "latitude": 32.3544,
+            "longitude": 75.6066
+        }
+    ]
+}

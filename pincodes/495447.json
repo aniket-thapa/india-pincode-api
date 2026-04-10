@@ -1,0 +1,26 @@
+{
+    "state": "CHHATTISGARH",
+    "district": "KORBA",
+    "offices": [
+        {
+            "officeName": "Mongra BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bilaspur Division",
+            "latitude": 22.405911,
+            "longitude": 82.602416
+        },
+        {
+            "officeName": "Banki Mongra SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bilaspur Division",
+            "latitude": 22.40167,
+            "longitude": 82.61819
+        }
+    ]
+}

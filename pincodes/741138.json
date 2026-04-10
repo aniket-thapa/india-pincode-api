@@ -1,0 +1,46 @@
+{
+    "state": "WEST BENGAL",
+    "district": "NADIA",
+    "offices": [
+        {
+            "officeName": "Tentulberia BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Nadia North Division",
+            "latitude": 23.55,
+            "longitude": 88.38
+        },
+        {
+            "officeName": "Billwagram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Nadia North Division",
+            "latitude": 23.57,
+            "longitude": 88.37
+        },
+        {
+            "officeName": "Kandoa BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Nadia North Division",
+            "latitude": 23.54,
+            "longitude": 88.38
+        },
+        {
+            "officeName": "Dharmada SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Nadia North Division",
+            "latitude": 33.6086111,
+            "longitude": 88.3927777
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "PUNJAB",
+    "district": "BARNALA",
+    "offices": [
+        {
+            "officeName": "Shaina SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sangrur Division",
+            "latitude": 30.4215361,
+            "longitude": 75.3804916
+        },
+        {
+            "officeName": "Pakhoke BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sangrur Division",
+            "latitude": 31.338607,
+            "longitude": 75.000533
+        },
+        {
+            "officeName": "Jodhpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sangrur Division",
+            "latitude": 26.238947,
+            "longitude": 73.024309
+        },
+        {
+            "officeName": "Cheema BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sangrur Division",
+            "latitude": 35.477606,
+            "longitude": 97.522279
+        }
+    ]
+}

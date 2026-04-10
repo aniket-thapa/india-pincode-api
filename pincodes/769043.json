@@ -1,0 +1,36 @@
+{
+    "state": "ODISHA",
+    "district": "SUNDARGARH",
+    "offices": [
+        {
+            "officeName": "Asurchapal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Rourkela Division",
+            "latitude": 22.1725187,
+            "longitude": 84.8754161
+        },
+        {
+            "officeName": "Garjan B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Rourkela Division",
+            "latitude": 22.19567,
+            "longitude": 84.800549
+        },
+        {
+            "officeName": "Jalda S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Rourkela Division",
+            "latitude": 22.1791392,
+            "longitude": 84.8571252
+        }
+    ]
+}

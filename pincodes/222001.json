@@ -1,0 +1,56 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "JAUNPUR",
+    "offices": [
+        {
+            "officeName": "SIPAH S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Jaunpur Division",
+            "latitude": 25.7527,
+            "longitude": 82.6905
+        },
+        {
+            "officeName": "Jaunpur HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Jaunpur Division",
+            "latitude": 25.749,
+            "longitude": 82.6987
+        },
+        {
+            "officeName": "Shakarmandi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Jaunpur Division",
+            "latitude": 25.7683,
+            "longitude": 82.6881
+        },
+        {
+            "officeName": "Shastri Marg SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Jaunpur Division",
+            "latitude": 25.7539,
+            "longitude": 82.6869
+        },
+        {
+            "officeName": "Sutahatti Bazar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Jaunpur Division",
+            "latitude": 26.8602,
+            "longitude": 80.9083
+        }
+    ]
+}

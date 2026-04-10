@@ -1,0 +1,66 @@
+{
+    "state": "JHARKHAND",
+    "district": "RANCHI",
+    "offices": [
+        {
+            "officeName": "Hakedag BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ranchi Division",
+            "latitude": 23.435802,
+            "longitude": 85.784604
+        },
+        {
+            "officeName": "Tetebandrampur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ranchi Division",
+            "latitude": 23.3441,
+            "longitude": 85.309562
+        },
+        {
+            "officeName": "Kuchu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ranchi Division",
+            "latitude": 23.502619,
+            "longitude": 85.414341
+        },
+        {
+            "officeName": "Chotamuri SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ranchi Division",
+            "latitude": 47.271904,
+            "longitude": 8.341769
+        },
+        {
+            "officeName": "Lagam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ranchi Division",
+            "latitude": 23.362182,
+            "longitude": 85.865256
+        },
+        {
+            "officeName": "Halmad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ranchi Division",
+            "latitude": 23.450034,
+            "longitude": 85.761538
+        }
+    ]
+}

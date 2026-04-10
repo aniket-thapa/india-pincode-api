@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "GORAKHPUR",
+    "offices": [
+        {
+            "officeName": "Jungle Chauri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gorakhpur Division",
+            "latitude": 26.731148,
+            "longitude": 83.43318
+        },
+        {
+            "officeName": "M.M.M.E.College S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gorakhpur Division",
+            "latitude": 26.73361,
+            "longitude": 83.35216
+        },
+        {
+            "officeName": "Raiganj BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gorakhpur Division",
+            "latitude": 26.73143,
+            "longitude": 83.43318
+        },
+        {
+            "officeName": "Khorabar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gorakhpur Division",
+            "latitude": 26.707054,
+            "longitude": 83.44568
+        }
+    ]
+}

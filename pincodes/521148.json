@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "KRISHNA",
+    "offices": [
+        {
+            "officeName": "Elamarru S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Gudivada Division",
+            "latitude": 16.3686944,
+            "longitude": 80.9256944
+        },
+        {
+            "officeName": "Edulamaddali B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Gudivada Division",
+            "latitude": 16.4,
+            "longitude": 80.94
+        },
+        {
+            "officeName": "Chinaparupudi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Gudivada Division",
+            "latitude": 16.39,
+            "longitude": 80.92
+        }
+    ]
+}

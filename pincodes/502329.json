@@ -1,0 +1,36 @@
+{
+    "state": "TELANGANA",
+    "district": "SANGAREDDY",
+    "offices": [
+        {
+            "officeName": "Kowlampet B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Sangareddy Division",
+            "latitude": 17.562757,
+            "longitude": 78.168993
+        },
+        {
+            "officeName": "Rudraram S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Sangareddy Division",
+            "latitude": 17.5636111,
+            "longitude": 78.1663056
+        },
+        {
+            "officeName": "Indrakaran B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Sangareddy Division",
+            "latitude": 17.523973,
+            "longitude": 78.14857
+        }
+    ]
+}

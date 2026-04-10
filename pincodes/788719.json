@@ -1,0 +1,36 @@
+{
+    "state": "ASSAM",
+    "district": "KARIMGANJ",
+    "offices": [
+        {
+            "officeName": "Mullaganj Bazar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Cachar Division",
+            "latitude": 24.72,
+            "longitude": 92.35
+        },
+        {
+            "officeName": "Singaria Bazar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Cachar Division",
+            "latitude": 24.72,
+            "longitude": 92.35
+        },
+        {
+            "officeName": "Kayasthagram S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Cachar Division",
+            "latitude": 24.867584,
+            "longitude": 92.360382
+        }
+    ]
+}

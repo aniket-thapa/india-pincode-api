@@ -1,0 +1,76 @@
+{
+    "state": "RAJASTHAN",
+    "district": "BHILWARA",
+    "offices": [
+        {
+            "officeName": "Dhanop B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Bhilwara Division",
+            "latitude": 25.843621,
+            "longitude": 74.8857929
+        },
+        {
+            "officeName": "Khamore B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Bhilwara Division",
+            "latitude": 25.753727,
+            "longitude": 25.753727
+        },
+        {
+            "officeName": "Kotri Bhado Ki B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Bhilwara Division",
+            "latitude": 25.889949,
+            "longitude": 74.738553
+        },
+        {
+            "officeName": "Sangria B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Bhilwara Division",
+            "latitude": 25.852035,
+            "longitude": 74.868425
+        },
+        {
+            "officeName": "Arwar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Bhilwara Division",
+            "latitude": 25.803369,
+            "longitude": 74.8097653
+        },
+        {
+            "officeName": "Itdiya B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Bhilwara Division",
+            "latitude": 25.829769,
+            "longitude": 74.80977
+        },
+        {
+            "officeName": "Kothian S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Bhilwara Division",
+            "latitude": 25.8619235,
+            "longitude": 74.7883809
+        }
+    ]
+}

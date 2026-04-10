@@ -1,0 +1,56 @@
+{
+    "state": "TAMIL NADU",
+    "district": "VILLUPURAM",
+    "offices": [
+        {
+            "officeName": "Pakkam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Pondicherry Division",
+            "latitude": 11.86,
+            "longitude": 79.69
+        },
+        {
+            "officeName": "Semmedu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Pondicherry Division",
+            "latitude": 12.24,
+            "longitude": 79.28
+        },
+        {
+            "officeName": "Palapadi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Pondicherry Division",
+            "latitude": 11.86,
+            "longitude": 79.69
+        },
+        {
+            "officeName": "Sokuppam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Pondicherry Division",
+            "latitude": 12.21,
+            "longitude": 79.3
+        },
+        {
+            "officeName": "Sathyamangalam SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Pondicherry Division",
+            "latitude": 12.2414444,
+            "longitude": 79.3081389
+        }
+    ]
+}

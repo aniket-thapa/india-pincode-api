@@ -1,0 +1,26 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "JALGAON",
+    "offices": [
+        {
+            "officeName": "Nimbhora S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Bhusaval Division",
+            "latitude": 21.167084,
+            "longitude": 75.962007
+        },
+        {
+            "officeName": "Dasnoor B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Bhusaval Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

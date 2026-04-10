@@ -1,0 +1,66 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "BULANDSHAHR",
+    "offices": [
+        {
+            "officeName": "Birouli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Bulandshahar Division",
+            "latitude": 28.36811,
+            "longitude": 78.1806683
+        },
+        {
+            "officeName": "Balka BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Bulandshahar Division",
+            "latitude": 28.4469259,
+            "longitude": 77.930805
+        },
+        {
+            "officeName": "Jadoul BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Bulandshahar Division",
+            "latitude": 28.4633254,
+            "longitude": 78.0366614
+        },
+        {
+            "officeName": "Utrouly BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Bulandshahar Division",
+            "latitude": 28.40697,
+            "longitude": 77.8498222
+        },
+        {
+            "officeName": "Sarai  Chhabila SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Bulandshahar Division",
+            "latitude": 28.4037222,
+            "longitude": 77.8560278
+        },
+        {
+            "officeName": "Maithna  Jagatpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Bulandshahar Division",
+            "latitude": 28.4615082,
+            "longitude": 77.9196023
+        }
+    ]
+}

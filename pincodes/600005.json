@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "CHENNAI",
+    "offices": [
+        {
+            "officeName": "Chepauk S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City Central Division",
+            "latitude": 13.067247,
+            "longitude": 80.283664
+        },
+        {
+            "officeName": "Madras University S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City Central Division",
+            "latitude": 13.0672222,
+            "longitude": 80.2838611
+        },
+        {
+            "officeName": "Tiruvallikeni S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City Central Division",
+            "latitude": 13.0595833,
+            "longitude": 80.2743611
+        },
+        {
+            "officeName": "Parthasarathykoil SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City Central Division",
+            "latitude": 13.0539,
+            "longitude": 80.277
+        }
+    ]
+}

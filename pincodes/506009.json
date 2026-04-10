@@ -1,0 +1,26 @@
+{
+    "state": "TELANGANA",
+    "district": "HANUMAKONDA",
+    "offices": [
+        {
+            "officeName": "Vidyaranyapuri S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Hanamkonda Division",
+            "latitude": 18.026162,
+            "longitude": 79.556957
+        },
+        {
+            "officeName": "Naimnagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Hanamkonda Division",
+            "latitude": 18.0045,
+            "longitude": 79.5603333
+        }
+    ]
+}

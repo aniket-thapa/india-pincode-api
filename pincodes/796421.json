@@ -1,0 +1,26 @@
+{
+    "state": "MIZORAM",
+    "district": "MAMIT",
+    "offices": [
+        {
+            "officeName": "Hmunpui B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - I Region",
+            "divisionName": "Mizoram Division",
+            "latitude": 23.8619971,
+            "longitude": 92.5814009
+        },
+        {
+            "officeName": "Lengpui Airport S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - I Region",
+            "divisionName": "Mizoram Division",
+            "latitude": 23.7258333,
+            "longitude": 92.7190278
+        }
+    ]
+}

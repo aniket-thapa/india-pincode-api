@@ -1,0 +1,56 @@
+{
+    "state": "TELANGANA",
+    "district": "Jagitial",
+    "offices": [
+        {
+            "officeName": "Venkatapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Karimnagar Division",
+            "latitude": 18.828968,
+            "longitude": 78.753997
+        },
+        {
+            "officeName": "Kallur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Karimnagar Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Yousufnagar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Karimnagar Division",
+            "latitude": 18.8646645,
+            "longitude": 78.6721395
+        },
+        {
+            "officeName": "Madhapur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Karimnagar Division",
+            "latitude": 18.852478,
+            "longitude": 78.74337
+        },
+        {
+            "officeName": "Ailapur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Karimnagar Division",
+            "latitude": 18.871626,
+            "longitude": 78.700673
+        }
+    ]
+}

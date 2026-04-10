@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "NADIA",
+    "offices": [
+        {
+            "officeName": "Baranberia BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Nadia South Division",
+            "latitude": 23.273781,
+            "longitude": 88.711595
+        },
+        {
+            "officeName": "Daluabari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Nadia South Division",
+            "latitude": 23.258406,
+            "longitude": 88.665904
+        },
+        {
+            "officeName": "Duttapulia SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Nadia South Division",
+            "latitude": 23.1716666,
+            "longitude": 88.5761111
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "WEST BENGAL",
+    "district": "MURSHIDABAD",
+    "offices": [
+        {
+            "officeName": "Raghunathganj HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Murshidabad Division",
+            "latitude": 24.4655833,
+            "longitude": 88.0604167
+        },
+        {
+            "officeName": "Mackenzi Park SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Murshidabad Division",
+            "latitude": 24.7197222,
+            "longitude": 80.6677777
+        },
+        {
+            "officeName": "Fultala SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Murshidabad Division",
+            "latitude": 24.466667,
+            "longitude": 88.066667
+        },
+        {
+            "officeName": "Raghunathganj Bazar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Murshidabad Division",
+            "latitude": 24.4511111,
+            "longitude": 88.0713888
+        }
+    ]
+}

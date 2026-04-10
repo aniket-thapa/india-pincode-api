@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "WEST GODAVARI",
+    "offices": [
+        {
+            "officeName": "Palakol Bazar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Bhimavaram Division",
+            "latitude": 16.51883333,
+            "longitude": 81.72697222
+        },
+        {
+            "officeName": "Palakol H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Bhimavaram Division",
+            "latitude": 16.51927778,
+            "longitude": 81.72869444
+        },
+        {
+            "officeName": "Lajapathiroya Peta S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Bhimavaram Division",
+            "latitude": 16.52186111,
+            "longitude": 81.72744444
+        }
+    ]
+}

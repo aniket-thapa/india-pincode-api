@@ -1,0 +1,36 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "offices": [
+        {
+            "officeName": "Arya Nagar SO Haridwar",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehradun Division",
+            "latitude": 29.63,
+            "longitude": 78.33
+        },
+        {
+            "officeName": "Jwalapur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehradun Division",
+            "latitude": 29.927,
+            "longitude": 78.1165833
+        },
+        {
+            "officeName": "Jwalapur Town SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehradun Division",
+            "latitude": 28.9230556,
+            "longitude": 78.1063056
+        }
+    ]
+}

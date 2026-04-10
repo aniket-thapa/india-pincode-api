@@ -1,0 +1,56 @@
+{
+    "state": "TAMIL NADU",
+    "district": "DINDIGUL",
+    "offices": [
+        {
+            "officeName": "Sembatti SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Dindigul Division",
+            "latitude": 10.16,
+            "longitude": 77.52
+        },
+        {
+            "officeName": "Mallayapuram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Dindigul Division",
+            "latitude": 10.32,
+            "longitude": 77.83
+        },
+        {
+            "officeName": "Pachamalayankottai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Dindigul Division",
+            "latitude": 10.27,
+            "longitude": 77.88
+        },
+        {
+            "officeName": "Paraipatti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Dindigul Division",
+            "latitude": 10.31,
+            "longitude": 77.86
+        },
+        {
+            "officeName": "Vannampatti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Dindigul Division",
+            "latitude": 10.32,
+            "longitude": 77.87
+        }
+    ]
+}

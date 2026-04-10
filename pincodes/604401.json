@@ -1,0 +1,76 @@
+{
+    "state": "TAMIL NADU",
+    "district": "TIRUVANNAMALAI",
+    "offices": [
+        {
+            "officeName": "Elaneerkundram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tiruvannamalai Division",
+            "latitude": 12.2703,
+            "longitude": 78.7618
+        },
+        {
+            "officeName": "Perumbalai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tiruvannamalai Division",
+            "latitude": 11.9633,
+            "longitude": 77.9378
+        },
+        {
+            "officeName": "Purisai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tiruvannamalai Division",
+            "latitude": 12.5772,
+            "longitude": 79.5857
+        },
+        {
+            "officeName": "Anukkavoor SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tiruvannamalai Division",
+            "latitude": 12.2351944,
+            "longitude": 79.0765833
+        },
+        {
+            "officeName": "Erumaivetti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tiruvannamalai Division",
+            "latitude": 12.2703,
+            "longitude": 78.7618
+        },
+        {
+            "officeName": "Anapathur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tiruvannamalai Division",
+            "latitude": 12.2703,
+            "longitude": 78.7618
+        },
+        {
+            "officeName": "Cheyyaturvendran BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tiruvannamalai Division",
+            "latitude": 12.2703,
+            "longitude": 78.7618
+        }
+    ]
+}

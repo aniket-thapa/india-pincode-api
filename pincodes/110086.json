@@ -1,0 +1,86 @@
+{
+    "state": "DELHI",
+    "district": "NORTH WEST",
+    "offices": [
+        {
+            "officeName": "Budh Vihar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7016111,
+            "longitude": 77.0797222
+        },
+        {
+            "officeName": "Begumpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7016111,
+            "longitude": 77.0797222
+        },
+        {
+            "officeName": "Prem Nagar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7016111,
+            "longitude": 77.0797222
+        },
+        {
+            "officeName": "KIRARI SULEMAN NAGAR SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.69795,
+            "longitude": 77.064361
+        },
+        {
+            "officeName": "Pooth Kalan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7016111,
+            "longitude": 77.0797222
+        },
+        {
+            "officeName": "Sultanpuri B Block SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.6963611,
+            "longitude": 77.0764167
+        },
+        {
+            "officeName": "Sultanpuri C Block SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7016111,
+            "longitude": 77.0797222
+        },
+        {
+            "officeName": "Sultanpuri F Block SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.6900278,
+            "longitude": 77.0685833
+        }
+    ]
+}

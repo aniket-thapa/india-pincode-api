@@ -1,0 +1,26 @@
+{
+    "state": "JHARKHAND",
+    "district": "DUMKA",
+    "offices": [
+        {
+            "officeName": "Suggapahari B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Santhal Parganas Division",
+            "latitude": 24.11332,
+            "longitude": 87.11493
+        },
+        {
+            "officeName": "Khatangi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Santhal Parganas Division",
+            "latitude": 24.31624,
+            "longitude": 87.27091
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "state": "HARYANA",
+    "district": "FARIDABAD",
+    "offices": [
+        {
+            "officeName": "Faridabad NIT HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Faridabad Division",
+            "latitude": 28.3917778,
+            "longitude": 77.3021389
+        },
+        {
+            "officeName": "Factory Area Faridabad SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Faridabad Division",
+            "latitude": 28.2004722,
+            "longitude": 77.2058333
+        },
+        {
+            "officeName": "Industrial Area Faridabad SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Faridabad Division",
+            "latitude": 28.2490556,
+            "longitude": 77.7498333
+        },
+        {
+            "officeName": "NIFM Faridabad SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Faridabad Division",
+            "latitude": 28.3875833,
+            "longitude": 77.2998889
+        },
+        {
+            "officeName": "Nh4 Faridabad SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Faridabad Division",
+            "latitude": 28.3534167,
+            "longitude": 77.6948611
+        },
+        {
+            "officeName": "Feroz Gandhi Nagar Faridabad SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Faridabad Division",
+            "latitude": 28.5461389,
+            "longitude": 77.2814722
+        },
+        {
+            "officeName": "Nh2 Faridabad SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Faridabad Division",
+            "latitude": 28.1281944,
+            "longitude": 77.8165
+        },
+        {
+            "officeName": "Nh3 Faridabad SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Faridabad Division",
+            "latitude": 28.402,
+            "longitude": 77.2921944
+        }
+    ]
+}

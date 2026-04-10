@@ -1,0 +1,36 @@
+{
+    "state": "PUNJAB",
+    "district": "GURDASPUR",
+    "offices": [
+        {
+            "officeName": "Bharath BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Gurdaspur Division",
+            "latitude": 31.16,
+            "longitude": 75.41
+        },
+        {
+            "officeName": "Behrampur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Gurdaspur Division",
+            "latitude": 32.13,
+            "longitude": 75.39888
+        },
+        {
+            "officeName": "Dodwan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Gurdaspur Division",
+            "latitude": 32.14,
+            "longitude": 75.41
+        }
+    ]
+}

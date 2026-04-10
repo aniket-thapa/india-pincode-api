@@ -1,0 +1,36 @@
+{
+    "state": "ODISHA",
+    "district": "KANDHAMAL",
+    "offices": [
+        {
+            "officeName": "Sankarakhole S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Phulbani Division",
+            "latitude": 20.31703,
+            "longitude": 84.2949733
+        },
+        {
+            "officeName": "Kainjhar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Phulbani Division",
+            "latitude": 20.2989,
+            "longitude": 84.2581199
+        },
+        {
+            "officeName": "Gandagaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Phulbani Division",
+            "latitude": 20.2729949,
+            "longitude": 84.2578816
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "PUDUCHERRY",
+    "district": "KARAIKAL",
+    "offices": [
+        {
+            "officeName": "Karaikoilpathu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.94,
+            "longitude": 79.84
+        },
+        {
+            "officeName": "Karaikalmedu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.94,
+            "longitude": 79.85
+        },
+        {
+            "officeName": "Thalatheru S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.56,
+            "longitude": 79.49
+        }
+    ]
+}

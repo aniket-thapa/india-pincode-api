@@ -1,0 +1,26 @@
+{
+    "state": "BIHAR",
+    "district": "MUZAFFARPUR",
+    "offices": [
+        {
+            "officeName": "Maripur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Muzaffarpur Division",
+            "latitude": 26.123264,
+            "longitude": 85.3629895
+        },
+        {
+            "officeName": "MIT SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Muzaffarpur Division",
+            "latitude": 26.1386389,
+            "longitude": 85.3655
+        }
+    ]
+}

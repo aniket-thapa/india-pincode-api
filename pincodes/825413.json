@@ -1,0 +1,46 @@
+{
+    "state": "JHARKHAND",
+    "district": "KODERMA",
+    "offices": [
+        {
+            "officeName": "Gurio BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hazaribagh Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Bijaiya",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hazaribagh Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Telaiya Dam SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hazaribagh Division",
+            "latitude": 24.324304,
+            "longitude": 85.521553
+        },
+        {
+            "officeName": "Kolhaukala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hazaribagh Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

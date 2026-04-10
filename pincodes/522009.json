@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "GUNTUR",
+    "offices": [
+        {
+            "officeName": "Pedapalakaluru B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Guntur Division",
+            "latitude": 16.332985,
+            "longitude": 80.380479
+        },
+        {
+            "officeName": "Perecherla B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Guntur Division",
+            "latitude": 16.330738,
+            "longitude": 80.351581
+        },
+        {
+            "officeName": "Perecherla Junction S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Guntur Division",
+            "latitude": 16.3195266,
+            "longitude": 80.3415233
+        }
+    ]
+}

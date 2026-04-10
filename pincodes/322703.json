@@ -1,0 +1,46 @@
+{
+    "state": "RAJASTHAN",
+    "district": "SAWAI MADHOPUR",
+    "offices": [
+        {
+            "officeName": "Ancher BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sawaimadhopur Division",
+            "latitude": 26.164808,
+            "longitude": 76.116774
+        },
+        {
+            "officeName": "Sarsop BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sawaimadhopur Division",
+            "latitude": 26.178184,
+            "longitude": 76.065644
+        },
+        {
+            "officeName": "Tapur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sawaimadhopur Division",
+            "latitude": 26.208386,
+            "longitude": 76.103456
+        },
+        {
+            "officeName": "Isharda SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sawaimadhopur Division",
+            "latitude": 26.1706944,
+            "longitude": 76.0297778
+        }
+    ]
+}

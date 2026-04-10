@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "UNNAO",
+    "offices": [
+        {
+            "officeName": "Majra Piper Khera BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Kanpur Moffusil Division",
+            "latitude": 26.501788,
+            "longitude": 80.392303
+        },
+        {
+            "officeName": "Ganga Ghat SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Kanpur Moffusil Division",
+            "latitude": 26.4803889,
+            "longitude": 80.3872778
+        },
+        {
+            "officeName": "Shankerpur Sarai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Kanpur Moffusil Division",
+            "latitude": 26.492147,
+            "longitude": 80.402581
+        },
+        {
+            "officeName": "Devra Kalan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Kanpur Moffusil Division",
+            "latitude": 26.501173,
+            "longitude": 80.402496
+        }
+    ]
+}

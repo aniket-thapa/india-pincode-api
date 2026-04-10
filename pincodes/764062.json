@@ -1,0 +1,26 @@
+{
+    "state": "ODISHA",
+    "district": "RAYAGADA",
+    "offices": [
+        {
+            "officeName": "Serjholi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Rayagada Division",
+            "latitude": 19.0906266,
+            "longitude": 83.785955
+        },
+        {
+            "officeName": "Bikrampur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Rayagada Division",
+            "latitude": 19.0906266,
+            "longitude": 83.785955
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "NANDED",
+    "offices": [
+        {
+            "officeName": "Bolegaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Nanded Division",
+            "latitude": 18.712936,
+            "longitude": 77.748992
+        },
+        {
+            "officeName": "Thadihiparga B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Nanded Division",
+            "latitude": 18.668081,
+            "longitude": 77.704131
+        },
+        {
+            "officeName": "Sagroli S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Nanded Division",
+            "latitude": 18.691441,
+            "longitude": 77.738559
+        },
+        {
+            "officeName": "Shewala B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Nanded Division",
+            "latitude": 19.05055,
+            "longitude": 77.141538
+        },
+        {
+            "officeName": "Karla Kalam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Nanded Division",
+            "latitude": 19.103498,
+            "longitude": 77.599256
+        }
+    ]
+}

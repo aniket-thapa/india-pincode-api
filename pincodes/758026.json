@@ -1,0 +1,26 @@
+{
+    "state": "ODISHA",
+    "district": "KENDUJHAR",
+    "offices": [
+        {
+            "officeName": "Talapada S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Keonjhar Division",
+            "latitude": 21.1134183,
+            "longitude": 85.8271616
+        },
+        {
+            "officeName": "Baliparbata B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Keonjhar Division",
+            "latitude": 21.107505,
+            "longitude": 85.8531216
+        }
+    ]
+}

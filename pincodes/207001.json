@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "ETAH",
+    "offices": [
+        {
+            "officeName": "Collectorate Compound SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Etah Division",
+            "latitude": 27.53452654249019,
+            "longitude": 78.93036828057586
+        },
+        {
+            "officeName": "Patiali Gate SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Etah Division",
+            "latitude": 27.558609,
+            "longitude": 78.664508
+        },
+        {
+            "officeName": "Gandhi Market SO Etah",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Etah Division",
+            "latitude": 27.556026,
+            "longitude": 78.65949
+        },
+        {
+            "officeName": "Etah HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Etah Division",
+            "latitude": 27.55841,
+            "longitude": 78.656248
+        }
+    ]
+}

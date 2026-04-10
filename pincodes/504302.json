@@ -1,0 +1,46 @@
+{
+    "state": "TELANGANA",
+    "district": "MANCHERIAL",
+    "offices": [
+        {
+            "officeName": "Singapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Adilabad Division",
+            "latitude": 18.8519091,
+            "longitude": 79.5069436
+        },
+        {
+            "officeName": "Integrated District Officers Complex(IDOC) Mancher",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Adilabad Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Coal Chemical Complex S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Adilabad Division",
+            "latitude": 18.869914,
+            "longitude": 79.488807
+        },
+        {
+            "officeName": "Naspur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Adilabad Division",
+            "latitude": 18.8459615,
+            "longitude": 79.4619897
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "offices": [
+        {
+            "officeName": "Tungeshwar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamoli Division",
+            "latitude": 30.060745,
+            "longitude": 79.510458
+        },
+        {
+            "officeName": "Sunaonbhenta BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamoli Division",
+            "latitude": 30.030667,
+            "longitude": 79.538268
+        },
+        {
+            "officeName": "Burjola BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamoli Division",
+            "latitude": 30.028065,
+            "longitude": 79.539269
+        },
+        {
+            "officeName": "Talwari SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamoli Division",
+            "latitude": 30.0504444,
+            "longitude": 79.5101389
+        }
+    ]
+}

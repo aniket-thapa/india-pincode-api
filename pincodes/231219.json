@@ -1,0 +1,76 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "SONBHADRA",
+    "offices": [
+        {
+            "officeName": "Parsoi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Mirzapur Division",
+            "latitude": 24.467985,
+            "longitude": 82.981886
+        },
+        {
+            "officeName": "Obra SO Sonbhadra",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Mirzapur Division",
+            "latitude": 24.447562,
+            "longitude": 82.863663
+        },
+        {
+            "officeName": "Obra Thermal SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Mirzapur Division",
+            "latitude": 24.4455556,
+            "longitude": 82.9736944
+        },
+        {
+            "officeName": "Billi Markundi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Mirzapur Division",
+            "latitude": 24.457136,
+            "longitude": 83.003572
+        },
+        {
+            "officeName": "Panari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Mirzapur Division",
+            "latitude": 24.448284,
+            "longitude": 82.995847
+        },
+        {
+            "officeName": "Khadar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Mirzapur Division",
+            "latitude": 24.35775,
+            "longitude": 82.938793
+        },
+        {
+            "officeName": "Nawa Tola B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Mirzapur Division",
+            "latitude": 24.461117,
+            "longitude": 82.996263
+        }
+    ]
+}

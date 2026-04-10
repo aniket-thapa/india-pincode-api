@@ -1,0 +1,46 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "GWALIOR",
+    "offices": [
+        {
+            "officeName": "Senthri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gwalior Division",
+            "latitude": 26.25469,
+            "longitude": 78.283207
+        },
+        {
+            "officeName": "Bahadurpur B.O (MAF)",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gwalior Division",
+            "latitude": 26.335881,
+            "longitude": 78.333016
+        },
+        {
+            "officeName": "Girgaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gwalior Division",
+            "latitude": 26.280463,
+            "longitude": 78.255239
+        },
+        {
+            "officeName": "Maharajpura A.F. S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gwalior Division",
+            "latitude": 26.230832,
+            "longitude": 78.321936
+        }
+    ]
+}

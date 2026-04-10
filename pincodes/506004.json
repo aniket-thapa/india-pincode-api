@@ -1,0 +1,26 @@
+{
+    "state": "TELANGANA",
+    "district": "HANUMAKONDA",
+    "offices": [
+        {
+            "officeName": "Fatimanagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Hanamkonda Division",
+            "latitude": 17.98525,
+            "longitude": 79.5237778
+        },
+        {
+            "officeName": "R E College S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Hanamkonda Division",
+            "latitude": 17.981071,
+            "longitude": 79.529135
+        }
+    ]
+}

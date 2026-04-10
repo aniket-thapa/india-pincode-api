@@ -1,0 +1,26 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "GORAKHPUR",
+    "offices": [
+        {
+            "officeName": "Kunraghat S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gorakhpur Division",
+            "latitude": 26.747949,
+            "longitude": 83.415492
+        },
+        {
+            "officeName": "Mohaddipur S.O Gorakhpur",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gorakhpur Division",
+            "latitude": 26.749474,
+            "longitude": 83.366774
+        }
+    ]
+}

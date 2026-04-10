@@ -1,0 +1,46 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "BHIND",
+    "offices": [
+        {
+            "officeName": "Gangepura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Morena Division",
+            "latitude": 26.027778,
+            "longitude": 78.844264
+        },
+        {
+            "officeName": "Alampur S.O (Bhind",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Morena Division",
+            "latitude": 26.026236,
+            "longitude": 78.795318
+        },
+        {
+            "officeName": "Arusi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Morena Division",
+            "latitude": 26.060717,
+            "longitude": 78.853128
+        },
+        {
+            "officeName": "Kurthar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Morena Division",
+            "latitude": 25.977006,
+            "longitude": 78.798618
+        }
+    ]
+}

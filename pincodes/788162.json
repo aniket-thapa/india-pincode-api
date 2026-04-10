@@ -1,0 +1,56 @@
+{
+    "state": "ASSAM",
+    "district": "HAILAKANDI",
+    "offices": [
+        {
+            "officeName": "Jamira Bazar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Cachar Division",
+            "latitude": 24.31,
+            "longitude": 92.52
+        },
+        {
+            "officeName": "Sultanicherra B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Cachar Division",
+            "latitude": 24.31,
+            "longitude": 92.52
+        },
+        {
+            "officeName": "Gharmura Bazar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Cachar Division",
+            "latitude": 24.55,
+            "longitude": 92.59
+        },
+        {
+            "officeName": "Gharmura Bus Stand B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Cachar Division",
+            "latitude": 24.55,
+            "longitude": 92.59
+        },
+        {
+            "officeName": "Ramnathpur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Cachar Division",
+            "latitude": 24.55,
+            "longitude": 92.59
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "BIHAR",
+    "district": "ARARIA",
+    "offices": [
+        {
+            "officeName": "Amgachhi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Purnea Division",
+            "latitude": 26.415607,
+            "longitude": 87.514854
+        },
+        {
+            "officeName": "Bathraha Ashabhag BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Purnea Division",
+            "latitude": 26.373972,
+            "longitude": 87.670442
+        },
+        {
+            "officeName": "Pahunsi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Purnea Division",
+            "latitude": 26.399283,
+            "longitude": 87.408217
+        },
+        {
+            "officeName": "Kuari SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "East Region Bhagalpur",
+            "divisionName": "Purnea Division",
+            "latitude": 26.385686,
+            "longitude": 87.490109
+        }
+    ]
+}

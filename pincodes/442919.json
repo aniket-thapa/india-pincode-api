@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "GADCHIROLI",
+    "offices": [
+        {
+            "officeName": "Warsawada B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Chandrapur Division",
+            "latitude": 19.66,
+            "longitude": 79.99
+        },
+        {
+            "officeName": "Mulchera SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Chandrapur Division",
+            "latitude": 19.678819,
+            "longitude": 80.00509
+        },
+        {
+            "officeName": "Vasantpur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Chandrapur Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

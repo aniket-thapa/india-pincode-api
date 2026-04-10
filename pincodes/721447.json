@@ -1,0 +1,46 @@
+{
+    "state": "WEST BENGAL",
+    "district": "MEDINIPUR EAST",
+    "offices": [
+        {
+            "officeName": "Kalyanpur Tentulmuri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Contai Division",
+            "latitude": 21.8215022,
+            "longitude": 87.4894443
+        },
+        {
+            "officeName": "Kasbagola BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Contai Division",
+            "latitude": 21.8104118,
+            "longitude": 87.4480115
+        },
+        {
+            "officeName": "Panchrol SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Contai Division",
+            "latitude": 21.8283611,
+            "longitude": 87.4529661
+        },
+        {
+            "officeName": "Telami BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Contai Division",
+            "latitude": 21.7940851,
+            "longitude": 87.4517275
+        }
+    ]
+}

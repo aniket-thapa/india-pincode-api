@@ -1,0 +1,56 @@
+{
+    "state": "PUDUCHERRY",
+    "district": "KARAIKAL",
+    "offices": [
+        {
+            "officeName": "Karaikal S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.9239167,
+            "longitude": 79.8310278
+        },
+        {
+            "officeName": "Karaikal South S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.92,
+            "longitude": 79.83
+        },
+        {
+            "officeName": "Dharmapuram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 11.1,
+            "longitude": 79.68
+        },
+        {
+            "officeName": "Karaikal Bazaar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 10.93,
+            "longitude": 79.83
+        },
+        {
+            "officeName": "Madagadi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Nagapattinam Division",
+            "latitude": 11.91,
+            "longitude": 79.64
+        }
+    ]
+}

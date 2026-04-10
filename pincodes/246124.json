@@ -1,0 +1,36 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "PAURI GARHWAL",
+    "offices": [
+        {
+            "officeName": "Rajbat BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pauri Division",
+            "latitude": 29.864575,
+            "longitude": 78.607243
+        },
+        {
+            "officeName": "Dadamandi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pauri Division",
+            "latitude": 29.9158611,
+            "longitude": 78.6105
+        },
+        {
+            "officeName": "Jameli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pauri Division",
+            "latitude": 29.864575,
+            "longitude": 78.607243
+        }
+    ]
+}

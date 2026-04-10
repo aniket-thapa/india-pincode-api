@@ -1,0 +1,26 @@
+{
+    "state": "ODISHA",
+    "district": "KENDUJHAR",
+    "offices": [
+        {
+            "officeName": "Bolani S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Keonjhar Division",
+            "latitude": 22.107826,
+            "longitude": 85.331061
+        },
+        {
+            "officeName": "Balagoda B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Keonjhar Division",
+            "latitude": 22.1012516,
+            "longitude": 85.3329833
+        }
+    ]
+}

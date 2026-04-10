@@ -1,0 +1,36 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "MIRZAPUR",
+    "offices": [
+        {
+            "officeName": "Jamua SO Mirzapur",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Mirzapur Division",
+            "latitude": 25.1569722,
+            "longitude": 82.5846944
+        },
+        {
+            "officeName": "Nigatpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Mirzapur Division",
+            "latitude": 25.24751,
+            "longitude": 82.768423
+        },
+        {
+            "officeName": "Aahi  B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Mirzapur Division",
+            "latitude": 24.541486,
+            "longitude": 83.037504
+        }
+    ]
+}

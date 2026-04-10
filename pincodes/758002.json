@@ -1,0 +1,66 @@
+{
+    "state": "ODISHA",
+    "district": "KENDUJHAR",
+    "offices": [
+        {
+            "officeName": "Ranki B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Keonjhar Division",
+            "latitude": 21.6217368,
+            "longitude": 85.5806067
+        },
+        {
+            "officeName": "Ghutur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Keonjhar Division",
+            "latitude": 21.6499839,
+            "longitude": 85.6351095
+        },
+        {
+            "officeName": "Nelung B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Keonjhar Division",
+            "latitude": 21.6624696,
+            "longitude": 85.6597897
+        },
+        {
+            "officeName": "Keonjhar Atopur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Keonjhar Division",
+            "latitude": 21.633333,
+            "longitude": 85.583333
+        },
+        {
+            "officeName": "Bodapalasa B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Keonjhar Division",
+            "latitude": 21.6743734,
+            "longitude": 85.6310533
+        },
+        {
+            "officeName": "Keonjhar Bazar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Keonjhar Division",
+            "latitude": 21.6216667,
+            "longitude": 84.5805556
+        }
+    ]
+}

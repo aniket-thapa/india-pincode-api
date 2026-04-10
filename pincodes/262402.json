@@ -1,0 +1,26 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "offices": [
+        {
+            "officeName": "Lalkua SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nainital Division",
+            "latitude": 29.1494722,
+            "longitude": 79.5163056
+        },
+        {
+            "officeName": "Bindhukhatta SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nainital Division",
+            "latitude": 29.04,
+            "longitude": 79.54
+        }
+    ]
+}

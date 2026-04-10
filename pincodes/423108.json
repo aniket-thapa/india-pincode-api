@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "NASHIK",
+    "offices": [
+        {
+            "officeName": "Vaygaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Malegaon Division",
+            "latitude": 20.64715,
+            "longitude": 74.36565
+        },
+        {
+            "officeName": "Talwade B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Malegaon Division",
+            "latitude": 20.329957,
+            "longitude": 74.24379
+        },
+        {
+            "officeName": "Ravalgaon S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Malegaon Division",
+            "latitude": 20.554431,
+            "longitude": 74.512024
+        }
+    ]
+}

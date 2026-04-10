@@ -1,0 +1,56 @@
+{
+    "state": "GUJARAT",
+    "district": "NARMADA",
+    "offices": [
+        {
+            "officeName": "Sehrav BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bharuch Division",
+            "latitude": 21.951544,
+            "longitude": 73.566974
+        },
+        {
+            "officeName": "Jior BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bharuch Division",
+            "latitude": 21.955922,
+            "longitude": 73.509811
+        },
+        {
+            "officeName": "Mangrol BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bharuch Division",
+            "latitude": 21.8952,
+            "longitude": 73.574989
+        },
+        {
+            "officeName": "Tankari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bharuch Division",
+            "latitude": 21.940458,
+            "longitude": 73.539186
+        },
+        {
+            "officeName": "Lachharas SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bharuch Division",
+            "latitude": 21.905254,
+            "longitude": 73.544586
+        }
+    ]
+}

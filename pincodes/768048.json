@@ -1,0 +1,46 @@
+{
+    "state": "ODISHA",
+    "district": "BARGARH",
+    "offices": [
+        {
+            "officeName": "Laumunda S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sambalpur Division",
+            "latitude": 21.33425,
+            "longitude": 83.6191944
+        },
+        {
+            "officeName": "Majhipali B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sambalpur Division",
+            "latitude": 21.1285764,
+            "longitude": 83.337891
+        },
+        {
+            "officeName": "BANIACHAL",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sambalpur Division",
+            "latitude": 21.0839,
+            "longitude": 83.3906
+        },
+        {
+            "officeName": "Jokhipali B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sambalpur Division",
+            "latitude": 21.1217577,
+            "longitude": 83.3723215
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "state": "LADAKH",
+    "district": "LEH LADAKH",
+    "offices": [
+        {
+            "officeName": "Chuchul B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Leh Division",
+            "latitude": 33.6029517,
+            "longitude": 78.6561795
+        },
+        {
+            "officeName": "Spituk B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Leh Division",
+            "latitude": 34.1152816,
+            "longitude": 77.55481
+        },
+        {
+            "officeName": "Leh City S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Leh Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Durbuk B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Leh Division",
+            "latitude": 78.228,
+            "longitude": 34.02
+        },
+        {
+            "officeName": "Faing B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Leh Division",
+            "latitude": 34.1839116,
+            "longitude": 77.490315
+        },
+        {
+            "officeName": "Horzey B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Leh Division",
+            "latitude": 34.2051016,
+            "longitude": 77.0699921
+        },
+        {
+            "officeName": "Leh H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Leh Division",
+            "latitude": 34.152838,
+            "longitude": 77.577038
+        }
+    ]
+}

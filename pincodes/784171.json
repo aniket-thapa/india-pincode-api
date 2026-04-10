@@ -1,0 +1,36 @@
+{
+    "state": "ASSAM",
+    "district": "Biswanath",
+    "offices": [
+        {
+            "officeName": "Daflagarh B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.85353,
+            "longitude": 93.47975
+        },
+        {
+            "officeName": "Tetenbari S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.85353,
+            "longitude": 93.47975
+        },
+        {
+            "officeName": "Balijan Barua B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Darrang Division",
+            "latitude": 26.85353,
+            "longitude": 93.47975
+        }
+    ]
+}

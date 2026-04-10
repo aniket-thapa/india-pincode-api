@@ -1,0 +1,56 @@
+{
+    "state": "ODISHA",
+    "district": "ANUGUL",
+    "offices": [
+        {
+            "officeName": "Maidharpur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Dhenkanal Division",
+            "latitude": 20.6962283,
+            "longitude": 85.1783783
+        },
+        {
+            "officeName": "Kansara B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Dhenkanal Division",
+            "latitude": 20.716945,
+            "longitude": 85.1457133
+        },
+        {
+            "officeName": "Baunsapokhari B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Dhenkanal Division",
+            "latitude": 20.6422866,
+            "longitude": 85.168355
+        },
+        {
+            "officeName": "Phulapada B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Dhenkanal Division",
+            "latitude": 20.7533216,
+            "longitude": 85.166575
+        },
+        {
+            "officeName": "Hindol S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Dhenkanal Division",
+            "latitude": 20.63884,
+            "longitude": 85.266847
+        }
+    ]
+}

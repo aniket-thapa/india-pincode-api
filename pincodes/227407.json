@@ -1,0 +1,56 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "Amethi",
+    "offices": [
+        {
+            "officeName": "Misrauli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Sultanpur Division",
+            "latitude": 26.0855,
+            "longitude": 81.795105
+        },
+        {
+            "officeName": "Bargaon BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Sultanpur Division",
+            "latitude": 26.0855,
+            "longitude": 81.795105
+        },
+        {
+            "officeName": "Ramgarh BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Sultanpur Division",
+            "latitude": 23.652368,
+            "longitude": 85.56121
+        },
+        {
+            "officeName": "Dhanapur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Sultanpur Division",
+            "latitude": 26.226911,
+            "longitude": 81.831999
+        },
+        {
+            "officeName": "Bisesarganj SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Sultanpur Division",
+            "latitude": 26.1116944,
+            "longitude": 81.9441944
+        }
+    ]
+}

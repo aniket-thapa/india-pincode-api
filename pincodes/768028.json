@@ -1,0 +1,36 @@
+{
+    "state": "ODISHA",
+    "district": "BARGARH",
+    "offices": [
+        {
+            "officeName": "Bargarh H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sambalpur Division",
+            "latitude": 21.33425,
+            "longitude": 83.6191944
+        },
+        {
+            "officeName": "Bargarh Bazar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sambalpur Division",
+            "latitude": 21.3320978,
+            "longitude": 83.6160888
+        },
+        {
+            "officeName": "Bargarh Court S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sambalpur Division",
+            "latitude": 21.3345117,
+            "longitude": 83.6191567
+        }
+    ]
+}

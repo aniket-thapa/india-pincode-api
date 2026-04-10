@@ -1,0 +1,56 @@
+{
+    "state": "PUNJAB",
+    "district": "Shahid Bhagat Singh Nagar",
+    "offices": [
+        {
+            "officeName": "Makhoopur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Hoshiarpur Division",
+            "latitude": 31.56,
+            "longitude": 75.89
+        },
+        {
+            "officeName": "Sahdra BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Hoshiarpur Division",
+            "latitude": 31.42,
+            "longitude": 75.04
+        },
+        {
+            "officeName": "Chandiani Khurd BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Hoshiarpur Division",
+            "latitude": 31.05,
+            "longitude": 75.81
+        },
+        {
+            "officeName": "Sahiba SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Hoshiarpur Division",
+            "latitude": 31.14082,
+            "longitude": 76.249366
+        },
+        {
+            "officeName": "Mallewal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Hoshiarpur Division",
+            "latitude": 30.56,
+            "longitude": 74.89
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "PUNJAB",
+    "district": "MALERKOTLA",
+    "offices": [
+        {
+            "officeName": "Bhatian Khurd BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sangrur Division",
+            "latitude": 30.398147,
+            "longitude": 76.015255
+        },
+        {
+            "officeName": "Kandhargarh BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sangrur Division",
+            "latitude": 30.371303,
+            "longitude": 75.982607
+        },
+        {
+            "officeName": "Bagrian SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sangrur Division",
+            "latitude": 30.4280277,
+            "longitude": 76.0348333
+        }
+    ]
+}

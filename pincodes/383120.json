@@ -1,0 +1,66 @@
+{
+    "state": "GUJARAT",
+    "district": "SABAR KANTHA",
+    "offices": [
+        {
+            "officeName": "Sampad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Sabarkantha Division",
+            "latitude": 23.505976,
+            "longitude": 72.845845
+        },
+        {
+            "officeName": "Salal SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Sabarkantha Division",
+            "latitude": 23.4789,
+            "longitude": 72.870498
+        },
+        {
+            "officeName": "Moyad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Sabarkantha Division",
+            "latitude": 23.514165,
+            "longitude": 72.872225
+        },
+        {
+            "officeName": "Piludra BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Sabarkantha Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Dalpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Sabarkantha Division",
+            "latitude": 23.511835,
+            "longitude": 72.928339
+        },
+        {
+            "officeName": "Hajipur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Sabarkantha Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

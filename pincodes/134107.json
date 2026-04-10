@@ -1,0 +1,26 @@
+{
+    "state": "HARYANA",
+    "district": "PANCHKULA",
+    "offices": [
+        {
+            "officeName": "Chandi Mandir Cantt S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.7238333,
+            "longitude": 76.8759167
+        },
+        {
+            "officeName": "Chandi Mandir S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.7238333,
+            "longitude": 76.8759167
+        }
+    ]
+}

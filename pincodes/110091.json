@@ -1,0 +1,76 @@
+{
+    "state": "DELHI",
+    "district": "EAST",
+    "offices": [
+        {
+            "officeName": "Kalyanpuri SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.6146944,
+            "longitude": 77.3178056
+        },
+        {
+            "officeName": "Patparganj SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.6143611,
+            "longitude": 77.2900278
+        },
+        {
+            "officeName": "Mayur Vihar PhI SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.607,
+            "longitude": 77.2945833
+        },
+        {
+            "officeName": "Kalyanvas SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.6198333,
+            "longitude": 77.3121111
+        },
+        {
+            "officeName": "CHILLA  SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.5959,
+            "longitude": 77.3003
+        },
+        {
+            "officeName": "Himmatpuri SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.6053889,
+            "longitude": 77.3073333
+        },
+        {
+            "officeName": "Trilok Puri SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.6138889,
+            "longitude": 77.2935556
+        }
+    ]
+}

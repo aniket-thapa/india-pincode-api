@@ -1,0 +1,56 @@
+{
+    "state": "BIHAR",
+    "district": "JEHANABAD",
+    "offices": [
+        {
+            "officeName": "Korra BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gaya Division",
+            "latitude": 25.54,
+            "longitude": 84.98
+        },
+        {
+            "officeName": "Saho Bigha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gaya Division",
+            "latitude": 25.213929,
+            "longitude": 84.989555
+        },
+        {
+            "officeName": "Ghosi SO Jehanabad",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gaya Division",
+            "latitude": 25.2376944,
+            "longitude": 85.0010833
+        },
+        {
+            "officeName": "Ginji BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gaya Division",
+            "latitude": 25.213929,
+            "longitude": 84.989555
+        },
+        {
+            "officeName": "Lakhawar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gaya Division",
+            "latitude": 25.16888,
+            "longitude": 85.10452
+        }
+    ]
+}

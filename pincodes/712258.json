@@ -1,0 +1,26 @@
+{
+    "state": "WEST BENGAL",
+    "district": "HOOGHLY",
+    "offices": [
+        {
+            "officeName": "Uttarpara Bazar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Hooghly South Division",
+            "latitude": 22.6552777,
+            "longitude": 88.3480555
+        },
+        {
+            "officeName": "Uttarpara SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Hooghly South Division",
+            "latitude": 22.6552778,
+            "longitude": 88.3480556
+        }
+    ]
+}

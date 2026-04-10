@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "24 PARAGANAS NORTH",
+    "offices": [
+        {
+            "officeName": "Puranandapally BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "BARRACKPORE DIVISION",
+            "latitude": 22.89,
+            "longitude": 88.43
+        },
+        {
+            "officeName": "Naihati Anandabazar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "BARRACKPORE DIVISION",
+            "latitude": 22.89,
+            "longitude": 88.42
+        },
+        {
+            "officeName": "Naihati SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "BARRACKPORE DIVISION",
+            "latitude": 22.89,
+            "longitude": 88.42
+        }
+    ]
+}

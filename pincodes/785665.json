@@ -1,0 +1,36 @@
+{
+    "state": "ASSAM",
+    "district": "SIVASAGAR",
+    "offices": [
+        {
+            "officeName": "Rudrasagar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Sibsagar Division",
+            "latitude": 26.5791,
+            "longitude": 94.3708
+        },
+        {
+            "officeName": "Rong Ghar Chariali B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Sibsagar Division",
+            "latitude": 26.5791,
+            "longitude": 94.3708
+        },
+        {
+            "officeName": "Joysagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Sibsagar Division",
+            "latitude": 26.5791,
+            "longitude": 94.3708
+        }
+    ]
+}

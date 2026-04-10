@@ -1,0 +1,66 @@
+{
+    "state": "CHHATTISGARH",
+    "district": "SURAJPUR",
+    "offices": [
+        {
+            "officeName": "Dawna BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "SURGUJA DIVISION",
+            "latitude": 23.402228,
+            "longitude": 82.925308
+        },
+        {
+            "officeName": "Jarhi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "SURGUJA DIVISION",
+            "latitude": 23.360079,
+            "longitude": 83.04534
+        },
+        {
+            "officeName": "Chandramedha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "SURGUJA DIVISION",
+            "latitude": 23.436187,
+            "longitude": 83.028376
+        },
+        {
+            "officeName": "Chungudi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "SURGUJA DIVISION",
+            "latitude": 23.361285,
+            "longitude": 82.962095
+        },
+        {
+            "officeName": "Salka BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "SURGUJA DIVISION",
+            "latitude": 23.369722,
+            "longitude": 82.937439
+        },
+        {
+            "officeName": "Bhatgaon Colly SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "SURGUJA DIVISION",
+            "latitude": 23.349261,
+            "longitude": 82.996511
+        }
+    ]
+}

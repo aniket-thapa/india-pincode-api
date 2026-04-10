@@ -1,0 +1,46 @@
+{
+    "state": "KARNATAKA",
+    "district": "VIJAYAPURA",
+    "offices": [
+        {
+            "officeName": "Vijayapura Kutchery SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Vijayapura Division",
+            "latitude": 16.8250142,
+            "longitude": 75.7180606
+        },
+        {
+            "officeName": "Vijayapura H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Vijayapura Division",
+            "latitude": 16.8295203,
+            "longitude": 75.7167623
+        },
+        {
+            "officeName": "Vijayapura Bazar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Vijayapura Division",
+            "latitude": 16.8337689,
+            "longitude": 75.7160007
+        },
+        {
+            "officeName": "Vijayapura Jorapur Peth SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Vijayapura Division",
+            "latitude": 16.8343268,
+            "longitude": 75.706216
+        }
+    ]
+}

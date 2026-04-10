@@ -1,0 +1,46 @@
+{
+    "state": "ANDAMAN AND NICOBAR ISLANDS",
+    "district": "SOUTH ANDAMANS",
+    "offices": [
+        {
+            "officeName": "Hut  Bay S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "A - N Islands Division",
+            "latitude": 10.59138889,
+            "longitude": 92.53833333
+        },
+        {
+            "officeName": "Netajinagar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "A - N Islands Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Vivekandapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "A - N Islands Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Ramakrishnapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "A - N Islands Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

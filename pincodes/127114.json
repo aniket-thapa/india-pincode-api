@@ -1,0 +1,36 @@
+{
+    "state": "HARYANA",
+    "district": "BHIWANI",
+    "offices": [
+        {
+            "officeName": "Kalinga BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhiwani Division",
+            "latitude": 28.828,
+            "longitude": 76.3087
+        },
+        {
+            "officeName": "Bamla BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhiwani Division",
+            "latitude": 28.828,
+            "longitude": 76.3087
+        },
+        {
+            "officeName": "Kharak Kalan SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Bhiwani Division",
+            "latitude": 28.828,
+            "longitude": 76.3087
+        }
+    ]
+}

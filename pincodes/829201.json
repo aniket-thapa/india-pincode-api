@@ -1,0 +1,36 @@
+{
+    "state": "JHARKHAND",
+    "district": "CHATRA",
+    "offices": [
+        {
+            "officeName": "Bachra North B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Palamau Division",
+            "latitude": 23.68573,
+            "longitude": 85.0624477
+        },
+        {
+            "officeName": "Bachra SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Palamau Division",
+            "latitude": 23.41168,
+            "longitude": 85.0354
+        },
+        {
+            "officeName": "Bundu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Palamau Division",
+            "latitude": 23.68573,
+            "longitude": 85.0624477
+        }
+    ]
+}

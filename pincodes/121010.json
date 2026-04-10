@@ -1,0 +1,26 @@
+{
+    "state": "HARYANA",
+    "district": "FARIDABAD",
+    "offices": [
+        {
+            "officeName": "Nhpc Colony Faridabad SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Faridabad Division",
+            "latitude": 28.5821389,
+            "longitude": 77.9790278
+        },
+        {
+            "officeName": "SECTOR46",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Faridabad Division",
+            "latitude": 28.4391,
+            "longitude": 77.3009
+        }
+    ]
+}

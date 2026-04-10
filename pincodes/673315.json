@@ -1,0 +1,66 @@
+{
+    "state": "KERALA",
+    "district": "KOZHIKODE",
+    "offices": [
+        {
+            "officeName": "Atholi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Vadakara Division",
+            "latitude": 11.3859375,
+            "longitude": 75.7581875
+        },
+        {
+            "officeName": "Kongannur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Vadakara Division",
+            "latitude": 11.38,
+            "longitude": 75.75
+        },
+        {
+            "officeName": "Kolakkad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Vadakara Division",
+            "latitude": 11.39,
+            "longitude": 75.77
+        },
+        {
+            "officeName": "Velur West BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Vadakara Division",
+            "latitude": 11.4,
+            "longitude": 75.76
+        },
+        {
+            "officeName": "Cheekilode BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Vadakara Division",
+            "latitude": 11.4,
+            "longitude": 75.8
+        },
+        {
+            "officeName": "Kolathur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Vadakara Division",
+            "latitude": 11.42,
+            "longitude": 75.79
+        }
+    ]
+}

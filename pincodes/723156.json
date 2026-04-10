@@ -1,0 +1,26 @@
+{
+    "state": "WEST BENGAL",
+    "district": "PURULIA",
+    "offices": [
+        {
+            "officeName": "Murardih SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Purulia Division",
+            "latitude": 23.350621,
+            "longitude": 86.491538
+        },
+        {
+            "officeName": "Talberia BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Purulia Division",
+            "latitude": 23.5558675,
+            "longitude": 86.8446218
+        }
+    ]
+}

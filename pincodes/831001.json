@@ -1,0 +1,66 @@
+{
+    "state": "JHARKHAND",
+    "district": "EAST SINGHBUM",
+    "offices": [
+        {
+            "officeName": "CoOp  College BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Singhbhum Division",
+            "latitude": 22.503541,
+            "longitude": 86.454151
+        },
+        {
+            "officeName": "Civil Court SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Singhbhum Division",
+            "latitude": 22.81157,
+            "longitude": 86.21301
+        },
+        {
+            "officeName": "Sakchi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Singhbhum Division",
+            "latitude": 22.80343,
+            "longitude": 86.20252
+        },
+        {
+            "officeName": "Jamshedpur HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Singhbhum Division",
+            "latitude": 22.7993,
+            "longitude": 86.18486
+        },
+        {
+            "officeName": "Sakchi Court SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Singhbhum Division",
+            "latitude": 22.81142,
+            "longitude": 86.20127
+        },
+        {
+            "officeName": "Bistupur Bazar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Singhbhum Division",
+            "latitude": 22.79347,
+            "longitude": 86.18324
+        }
+    ]
+}

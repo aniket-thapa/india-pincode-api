@@ -1,0 +1,56 @@
+{
+    "state": "HARYANA",
+    "district": "YAMUNANAGAR",
+    "offices": [
+        {
+            "officeName": "Kalesar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.4473315,
+            "longitude": 77.4472425
+        },
+        {
+            "officeName": "Pipli Majra B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.2413796,
+            "longitude": 77.4873959
+        },
+        {
+            "officeName": "Bhudkalan S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.2794444,
+            "longitude": 77.4955278
+        },
+        {
+            "officeName": "Malikpur Khadar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.58179,
+            "longitude": 77.11375
+        },
+        {
+            "officeName": "Tajewala B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.3781868,
+            "longitude": 76.7766894
+        }
+    ]
+}

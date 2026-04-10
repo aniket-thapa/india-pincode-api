@@ -1,0 +1,46 @@
+{
+    "state": "WEST BENGAL",
+    "district": "MURSHIDABAD",
+    "offices": [
+        {
+            "officeName": "Etore BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Murshidabad Division",
+            "latitude": 24.1047,
+            "longitude": 88.2516
+        },
+        {
+            "officeName": "Kiriteswari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Murshidabad Division",
+            "latitude": 24.1047,
+            "longitude": 88.2516
+        },
+        {
+            "officeName": "Chotobathan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Murshidabad Division",
+            "latitude": 24.1047,
+            "longitude": 88.2516
+        },
+        {
+            "officeName": "DLSSJdham SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Murshidabad Division",
+            "latitude": 24.0752777,
+            "longitude": 88.4197222
+        }
+    ]
+}

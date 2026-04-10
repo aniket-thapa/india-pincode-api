@@ -1,0 +1,56 @@
+{
+    "state": "PUNJAB",
+    "district": "PATHANKOT",
+    "offices": [
+        {
+            "officeName": "Lehroon BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Gurdaspur Division",
+            "latitude": 32.2643445,
+            "longitude": 75.6421051
+        },
+        {
+            "officeName": "Bhanguri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Gurdaspur Division",
+            "latitude": 32.4,
+            "longitude": 75.86
+        },
+        {
+            "officeName": "Sarti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Gurdaspur Division",
+            "latitude": 32.48,
+            "longitude": 75.83
+        },
+        {
+            "officeName": "Bhattwan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Gurdaspur Division",
+            "latitude": 32.42,
+            "longitude": 75.84
+        },
+        {
+            "officeName": "Dunera SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Gurdaspur Division",
+            "latitude": 32.44,
+            "longitude": 75.89
+        }
+    ]
+}

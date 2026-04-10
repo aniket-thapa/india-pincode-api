@@ -1,0 +1,46 @@
+{
+    "state": "PUDUCHERRY",
+    "district": "MAHE",
+    "offices": [
+        {
+            "officeName": "Naluthara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Vadakara Division",
+            "latitude": 11.69,
+            "longitude": 75.53
+        },
+        {
+            "officeName": "Pallur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Vadakara Division",
+            "latitude": 11.74,
+            "longitude": 75.54
+        },
+        {
+            "officeName": "Mahe SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Vadakara Division",
+            "latitude": 11.6988219,
+            "longitude": 75.5466845
+        },
+        {
+            "officeName": "Pandakkal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Vadakara Division",
+            "latitude": 11.76,
+            "longitude": 75.54
+        }
+    ]
+}

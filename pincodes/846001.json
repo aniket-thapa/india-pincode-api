@@ -1,0 +1,36 @@
+{
+    "state": "BIHAR",
+    "district": "DARBHANGA",
+    "offices": [
+        {
+            "officeName": "Imambari SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Darbhanga Division",
+            "latitude": 26.1195,
+            "longitude": 85.9046
+        },
+        {
+            "officeName": "Laheriasarai Court SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Darbhanga Division",
+            "latitude": 26.132703,
+            "longitude": 85.906613
+        },
+        {
+            "officeName": "Laheriasarai HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Darbhanga Division",
+            "latitude": 26.1192222,
+            "longitude": 85.9044722
+        }
+    ]
+}

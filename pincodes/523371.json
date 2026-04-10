@@ -1,0 +1,66 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "PRAKASAM",
+    "offices": [
+        {
+            "officeName": "Kethagudipi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Markapur  Division",
+            "latitude": 15.69,
+            "longitude": 79.28
+        },
+        {
+            "officeName": "Mangalikunta B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Markapur  Division",
+            "latitude": 15.63,
+            "longitude": 79.32
+        },
+        {
+            "officeName": "Thummalacheruvu S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Markapur  Division",
+            "latitude": 15.6372778,
+            "longitude": 79.2676111
+        },
+        {
+            "officeName": "Nagellamudipi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Markapur  Division",
+            "latitude": 15.59,
+            "longitude": 79.26
+        },
+        {
+            "officeName": "Nasarsahebpalle B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Markapur  Division",
+            "latitude": 15.64,
+            "longitude": 79.27
+        },
+        {
+            "officeName": "Rayavaram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Markapur  Division",
+            "latitude": 15.72,
+            "longitude": 79.31
+        }
+    ]
+}

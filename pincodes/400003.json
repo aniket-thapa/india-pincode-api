@@ -1,0 +1,46 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "offices": [
+        {
+            "officeName": "B.P.Lane S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City East Division",
+            "latitude": 18.959023,
+            "longitude": 72.823549
+        },
+        {
+            "officeName": "Null Bazar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City East Division",
+            "latitude": 18.962366,
+            "longitude": 72.831051
+        },
+        {
+            "officeName": "Mandvi S.O (Mumbai)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City East Division",
+            "latitude": 18.96775,
+            "longitude": 72.8216944
+        },
+        {
+            "officeName": "Masjid S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City East Division",
+            "latitude": 18.964416,
+            "longitude": 72.846951
+        }
+    ]
+}

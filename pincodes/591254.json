@@ -1,0 +1,46 @@
+{
+    "state": "KARNATAKA",
+    "district": "BELAGAVI",
+    "offices": [
+        {
+            "officeName": "Naganur KM B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Gokak Division",
+            "latitude": 16.0690517,
+            "longitude": 74.4830282
+        },
+        {
+            "officeName": "Kot B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Gokak Division",
+            "latitude": 16.0948768,
+            "longitude": 74.4229952
+        },
+        {
+            "officeName": "Salamwadi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Gokak Division",
+            "latitude": 16.0687093,
+            "longitude": 74.4036295
+        },
+        {
+            "officeName": "Daddi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Gokak Division",
+            "latitude": 16.0636444,
+            "longitude": 74.4369371
+        }
+    ]
+}

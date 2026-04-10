@@ -1,0 +1,46 @@
+{
+    "state": "WEST BENGAL",
+    "district": "PURULIA",
+    "offices": [
+        {
+            "officeName": "Baglata SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Purulia Division",
+            "latitude": 23.30005,
+            "longitude": 86.42125
+        },
+        {
+            "officeName": "Chitmu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Purulia Division",
+            "latitude": 23.478677,
+            "longitude": 86.071787
+        },
+        {
+            "officeName": "Pundag BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Purulia Division",
+            "latitude": 23.507541,
+            "longitude": 86.087363
+        },
+        {
+            "officeName": "Chowkibera BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Purulia Division",
+            "latitude": 23.5092491,
+            "longitude": 86.0962783
+        }
+    ]
+}

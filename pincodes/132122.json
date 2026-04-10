@@ -1,0 +1,46 @@
+{
+    "state": "HARYANA",
+    "district": "PANIPAT",
+    "offices": [
+        {
+            "officeName": "Khojkipur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Karnal Division",
+            "latitude": 29.5902777,
+            "longitude": 76.1099166
+        },
+        {
+            "officeName": "Dikadla B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Karnal Division",
+            "latitude": 29.5902777,
+            "longitude": 76.1099166
+        },
+        {
+            "officeName": "Dehra B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Karnal Division",
+            "latitude": 29.5902777,
+            "longitude": 76.1099166
+        },
+        {
+            "officeName": "Atta S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Karnal Division",
+            "latitude": 29.2515,
+            "longitude": 77.0990833
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "RAMANATHAPURAM",
+    "offices": [
+        {
+            "officeName": "Muhilthagam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Ramanathapuram Division",
+            "latitude": 9.97,
+            "longitude": 79.01
+        },
+        {
+            "officeName": "Karankadu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Ramanathapuram Division",
+            "latitude": 9.65,
+            "longitude": 78.96
+        },
+        {
+            "officeName": "Nambuthalai SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Ramanathapuram Division",
+            "latitude": 9.727948,
+            "longitude": 79.00672
+        },
+        {
+            "officeName": "Pudupattinam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Ramanathapuram Division",
+            "latitude": 9.45,
+            "longitude": 78.6
+        }
+    ]
+}

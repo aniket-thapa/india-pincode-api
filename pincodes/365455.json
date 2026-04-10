@@ -1,0 +1,36 @@
+{
+    "state": "GUJARAT",
+    "district": "AMRELI",
+    "offices": [
+        {
+            "officeName": "Jangar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Amreli Division",
+            "latitude": 21.6688024,
+            "longitude": 71.502805
+        },
+        {
+            "officeName": "Motaankadiya SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Amreli Division",
+            "latitude": 21.6499,
+            "longitude": 71.129452
+        },
+        {
+            "officeName": "Pipallag BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Amreli Division",
+            "latitude": 21.6603283,
+            "longitude": 71.1411382
+        }
+    ]
+}

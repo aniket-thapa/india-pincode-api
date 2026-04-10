@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "CHENNAI",
+    "offices": [
+        {
+            "officeName": "Loyola College S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City Central Division",
+            "latitude": 13.1090833,
+            "longitude": 80.3941667
+        },
+        {
+            "officeName": "Nungambakkam High Road S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City Central Division",
+            "latitude": 13.1049444,
+            "longitude": 80.4262222
+        },
+        {
+            "officeName": "Nungambakkam MDO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chennai City Central Division",
+            "latitude": 13.3674167,
+            "longitude": 80.2341667
+        }
+    ]
+}

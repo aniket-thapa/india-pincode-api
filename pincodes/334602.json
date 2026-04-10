@@ -1,0 +1,76 @@
+{
+    "state": "RAJASTHAN",
+    "district": "BIKANER",
+    "offices": [
+        {
+            "officeName": "Kujti B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Bikaner Division",
+            "latitude": 28.3393,
+            "longitude": 73.6653
+        },
+        {
+            "officeName": "Sahjrasar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Bikaner Division",
+            "latitude": 27.7077,
+            "longitude": 73.814
+        },
+        {
+            "officeName": "Garabdesar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Bikaner Division",
+            "latitude": 28.4318,
+            "longitude": 73.9594
+        },
+        {
+            "officeName": "Nakodesar",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Bikaner Division",
+            "latitude": 28.3465157,
+            "longitude": 74.006509
+        },
+        {
+            "officeName": "Kharda B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Bikaner Division",
+            "latitude": 28.2993,
+            "longitude": 73.7831
+        },
+        {
+            "officeName": "Rawansar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Bikaner Division",
+            "latitude": 28.3188,
+            "longitude": 73.9183
+        },
+        {
+            "officeName": "Kalu S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Bikaner Division",
+            "latitude": 28.3821944,
+            "longitude": 73.8911111
+        }
+    ]
+}

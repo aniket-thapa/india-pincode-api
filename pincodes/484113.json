@@ -1,0 +1,66 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "ANUPPUR",
+    "offices": [
+        {
+            "officeName": "Cholna B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Shahdol Division",
+            "latitude": 23.5,
+            "longitude": 81.9
+        },
+        {
+            "officeName": "Venkatnagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Shahdol Division",
+            "latitude": 22.9282,
+            "longitude": 81.8734
+        },
+        {
+            "officeName": "Beed B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Shahdol Division",
+            "latitude": 23.0,
+            "longitude": 81.9
+        },
+        {
+            "officeName": "Pondi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Shahdol Division",
+            "latitude": 22.9,
+            "longitude": 81.8
+        },
+        {
+            "officeName": "Bhelma",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Shahdol Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Lapta B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Shahdol Division",
+            "latitude": 22.97,
+            "longitude": 81.87
+        }
+    ]
+}

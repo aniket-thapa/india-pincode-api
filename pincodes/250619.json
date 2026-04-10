@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "BAGHPAT",
+    "offices": [
+        {
+            "officeName": "Faizpur Ninana BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Baghpat Division",
+            "latitude": 29.01,
+            "longitude": 77.08
+        },
+        {
+            "officeName": "Sarurpur Kalan SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Baghpat Division",
+            "latitude": 29.0295556,
+            "longitude": 77.2331944
+        },
+        {
+            "officeName": "Khera Hatana BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Baghpat Division",
+            "latitude": 29.0451,
+            "longitude": 77.18598
+        },
+        {
+            "officeName": "Kherki BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Baghpat Division",
+            "latitude": 29.04,
+            "longitude": 77.24
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "KERALA",
+    "district": "MALAPPURAM",
+    "offices": [
+        {
+            "officeName": "Pannippara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Manjeri Division",
+            "latitude": 11.2103926,
+            "longitude": 76.101732
+        },
+        {
+            "officeName": "Edavanna SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Manjeri Division",
+            "latitude": 11.2172757,
+            "longitude": 76.1413248
+        },
+        {
+            "officeName": "Eranhikode BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Manjeri Division",
+            "latitude": 11.2298851,
+            "longitude": 76.1567467
+        },
+        {
+            "officeName": "Perakamanna BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Manjeri Division",
+            "latitude": 11.2296167,
+            "longitude": 76.1171872
+        },
+        {
+            "officeName": "Chathallur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Manjeri Division",
+            "latitude": 11.2428092,
+            "longitude": 76.1157648
+        }
+    ]
+}

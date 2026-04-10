@@ -1,0 +1,36 @@
+{
+    "state": "JHARKHAND",
+    "district": "HAZARIBAGH",
+    "offices": [
+        {
+            "officeName": "Charhi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hazaribagh Division",
+            "latitude": 23.853605,
+            "longitude": 85.440856
+        },
+        {
+            "officeName": "Hendegarha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hazaribagh Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Jarwa BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hazaribagh Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

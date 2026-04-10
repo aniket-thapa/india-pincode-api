@@ -1,0 +1,66 @@
+{
+    "state": "GUJARAT",
+    "district": "BANAS KANTHA",
+    "offices": [
+        {
+            "officeName": "Bhatamalmoti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Banaskantha Division",
+            "latitude": 24.280395,
+            "longitude": 72.403028
+        },
+        {
+            "officeName": "Saghankshetra BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Banaskantha Division",
+            "latitude": 24.264722,
+            "longitude": 72.494907
+        },
+        {
+            "officeName": "Antroli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Banaskantha Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Bhutedi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Banaskantha Division",
+            "latitude": 24.264261,
+            "longitude": 72.385127
+        },
+        {
+            "officeName": "Ranavas BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Banaskantha Division",
+            "latitude": 24.298392,
+            "longitude": 72.386747
+        },
+        {
+            "officeName": "Chitrasani SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Banaskantha Division",
+            "latitude": 24.266227,
+            "longitude": 72.484483
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "state": "HARYANA",
+    "district": "FARIDABAD",
+    "offices": [
+        {
+            "officeName": "Faridabad City SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Faridabad Division",
+            "latitude": 28.7080833,
+            "longitude": 77.2719167
+        },
+        {
+            "officeName": "Faridabad Sector 16 SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Faridabad Division",
+            "latitude": 28.4080702,
+            "longitude": 77.3223825
+        },
+        {
+            "officeName": "Faridabad Sector 16a  SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Faridabad Division",
+            "latitude": 28.3917778,
+            "longitude": 77.3021389
+        },
+        {
+            "officeName": "Faridabad Sector 18 SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Faridabad Division",
+            "latitude": 28.41825,
+            "longitude": 77.3256389
+        },
+        {
+            "officeName": "Bhaskola BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Faridabad Division",
+            "latitude": 28.405301,
+            "longitude": 77.374447
+        },
+        {
+            "officeName": "Kheri Kalan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Faridabad Division",
+            "latitude": 28.4043,
+            "longitude": 77.374073
+        }
+    ]
+}

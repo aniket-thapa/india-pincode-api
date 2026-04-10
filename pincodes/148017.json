@@ -1,0 +1,66 @@
+{
+    "state": "PUNJAB",
+    "district": "SANGRUR",
+    "offices": [
+        {
+            "officeName": "Mehsampur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sangrur Division",
+            "latitude": 31.023277,
+            "longitude": 75.507288
+        },
+        {
+            "officeName": "Bhojowali BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sangrur Division",
+            "latitude": 30.344886,
+            "longitude": 75.921646
+        },
+        {
+            "officeName": "Bhalwan SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sangrur Division",
+            "latitude": 30.3236388,
+            "longitude": 75.9453611
+        },
+        {
+            "officeName": "Meemsa BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sangrur Division",
+            "latitude": 30.394179,
+            "longitude": 75.959387
+        },
+        {
+            "officeName": "Bhullerheri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sangrur Division",
+            "latitude": 30.346639,
+            "longitude": 75.961061
+        },
+        {
+            "officeName": "Harchandpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sangrur Division",
+            "latitude": 26.344153,
+            "longitude": 81.166481
+        }
+    ]
+}

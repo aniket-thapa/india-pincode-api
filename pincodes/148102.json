@@ -1,0 +1,56 @@
+{
+    "state": "PUNJAB",
+    "district": "BARNALA",
+    "offices": [
+        {
+            "officeName": "Jangiana BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sangrur Division",
+            "latitude": 30.467801,
+            "longitude": 75.276343
+        },
+        {
+            "officeName": "Sandhu Kalan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sangrur Division",
+            "latitude": 30.404437,
+            "longitude": 75.319353
+        },
+        {
+            "officeName": "Talwandi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sangrur Division",
+            "latitude": 25.150211,
+            "longitude": 75.842496
+        },
+        {
+            "officeName": "Bhadaur SO Sangrur",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sangrur Division",
+            "latitude": 30.3236388,
+            "longitude": 75.9453611
+        },
+        {
+            "officeName": "Nainewal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sangrur Division",
+            "latitude": 30.427371,
+            "longitude": 75.326707
+        }
+    ]
+}

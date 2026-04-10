@@ -1,0 +1,46 @@
+{
+    "state": "HARYANA",
+    "district": "REWARI",
+    "offices": [
+        {
+            "officeName": "Badhrana BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gurgaon Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Dharan SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gurgaon Division",
+            "latitude": 28.2017222,
+            "longitude": 76.5955833
+        },
+        {
+            "officeName": "Rajgarh BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gurgaon Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Tankri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gurgaon Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

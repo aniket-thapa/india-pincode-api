@@ -1,0 +1,46 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "NANDURBAR",
+    "offices": [
+        {
+            "officeName": "Gogapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Dhule Division",
+            "latitude": 21.612526,
+            "longitude": 74.574584
+        },
+        {
+            "officeName": "Purushottam Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Dhule Division",
+            "latitude": 21.568333,
+            "longitude": 74.514166
+        },
+        {
+            "officeName": "Kavlith B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Dhule Division",
+            "latitude": 21.596739,
+            "longitude": 74.54041
+        },
+        {
+            "officeName": "Dongargaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Dhule Division",
+            "latitude": 21.557389,
+            "longitude": 74.526034
+        }
+    ]
+}

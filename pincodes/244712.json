@@ -1,0 +1,56 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "UDAM SINGH NAGAR",
+    "offices": [
+        {
+            "officeName": "Dharampur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nainital Division",
+            "latitude": 29.39,
+            "longitude": 79.66
+        },
+        {
+            "officeName": "Raipur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nainital Division",
+            "latitude": 29.66,
+            "longitude": 79.82
+        },
+        {
+            "officeName": "Barionwala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nainital Division",
+            "latitude": 29.67,
+            "longitude": 79.83
+        },
+        {
+            "officeName": "Mahuwadabara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nainital Division",
+            "latitude": 29.275032,
+            "longitude": 78.7872876
+        },
+        {
+            "officeName": "Jaspur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nainital Division",
+            "latitude": 26.2808611,
+            "longitude": 78.8213889
+        }
+    ]
+}

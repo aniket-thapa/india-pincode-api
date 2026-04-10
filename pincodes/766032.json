@@ -1,0 +1,26 @@
+{
+    "state": "ODISHA",
+    "district": "KALAHANDI",
+    "offices": [
+        {
+            "officeName": "Rajpur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Kalahandi Division",
+            "latitude": 20.3553983,
+            "longitude": 83.47329
+        },
+        {
+            "officeName": "Karlamunda S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Kalahandi Division",
+            "latitude": 20.3553916,
+            "longitude": 83.4430533
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "BHANDARA",
+    "offices": [
+        {
+            "officeName": "Jamb B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur Moffusil Division",
+            "latitude": 21.392765,
+            "longitude": 79.581414
+        },
+        {
+            "officeName": "Salaikhurd B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur Moffusil Division",
+            "latitude": 21.359009,
+            "longitude": 79.63056
+        },
+        {
+            "officeName": "Kandri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur Moffusil Division",
+            "latitude": 21.387535,
+            "longitude": 79.544889
+        },
+        {
+            "officeName": "Andhalgaon S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur Moffusil Division",
+            "latitude": 21.3608056,
+            "longitude": 79.6180556
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "NASHIK",
+    "offices": [
+        {
+            "officeName": "Sangmeshwar Malegaon S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Malegaon Division",
+            "latitude": 20.56215,
+            "longitude": 74.51045
+        },
+        {
+            "officeName": "Malegaon Nayapura Ward S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Malegaon Division",
+            "latitude": 20.5499579,
+            "longitude": 74.528729
+        },
+        {
+            "officeName": "Market Yard Malegaon S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Malegaon Division",
+            "latitude": 20.56215,
+            "longitude": 74.51045
+        },
+        {
+            "officeName": "Soygaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Malegaon Division",
+            "latitude": 20.5533619,
+            "longitude": 74.5080312
+        },
+        {
+            "officeName": "Malegaon H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Malegaon Division",
+            "latitude": 21.007312,
+            "longitude": 75.562549
+        },
+        {
+            "officeName": "Malegaon City S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Malegaon Division",
+            "latitude": 20.5499489,
+            "longitude": 74.528738
+        }
+    ]
+}

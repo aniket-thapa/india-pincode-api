@@ -1,0 +1,66 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "offices": [
+        {
+            "officeName": "Bisrari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pithoragarh Division",
+            "latitude": 29.48,
+            "longitude": 80.06
+        },
+        {
+            "officeName": "Bardakhan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pithoragarh Division",
+            "latitude": 29.46,
+            "longitude": 80.04
+        },
+        {
+            "officeName": "Kothera BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pithoragarh Division",
+            "latitude": 29.51,
+            "longitude": 80.07
+        },
+        {
+            "officeName": "Raigaon BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pithoragarh Division",
+            "latitude": 29.47,
+            "longitude": 80.0
+        },
+        {
+            "officeName": "Sungarkhal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pithoragarh Division",
+            "latitude": 29.5,
+            "longitude": 80.02
+        },
+        {
+            "officeName": "Barakote SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pithoragarh Division",
+            "latitude": 29.64,
+            "longitude": 79.7
+        }
+    ]
+}

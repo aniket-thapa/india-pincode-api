@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "KARUR",
+    "offices": [
+        {
+            "officeName": "Kuppachipalayam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Karur Division",
+            "latitude": 11.03,
+            "longitude": 78.11
+        },
+        {
+            "officeName": "Vangal East B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Karur Division",
+            "latitude": 11.06,
+            "longitude": 78.14
+        },
+        {
+            "officeName": "Minnampalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Karur Division",
+            "latitude": 10.98,
+            "longitude": 78.1
+        },
+        {
+            "officeName": "Vangal S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Karur Division",
+            "latitude": 10.9602222,
+            "longitude": 78.0827222
+        }
+    ]
+}

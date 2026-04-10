@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "DHARWAD",
+    "offices": [
+        {
+            "officeName": "Navalur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Dharwad Division",
+            "latitude": 15.4300314,
+            "longitude": 75.041296
+        },
+        {
+            "officeName": "Dharwad Sattur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Dharwad Division",
+            "latitude": 15.4101278,
+            "longitude": 75.0461907
+        },
+        {
+            "officeName": "Rayapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Dharwad Division",
+            "latitude": 15.4070132,
+            "longitude": 75.0686987
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "GUJARAT",
+    "district": "PORBANDAR",
+    "offices": [
+        {
+            "officeName": "Boricha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Porbandar Division",
+            "latitude": 21.742595,
+            "longitude": 69.672097
+        },
+        {
+            "officeName": "Adityana SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Porbandar Division",
+            "latitude": 21.75505,
+            "longitude": 69.69495
+        }
+    ]
+}

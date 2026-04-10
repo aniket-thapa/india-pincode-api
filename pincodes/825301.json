@@ -1,0 +1,66 @@
+{
+    "state": "JHARKHAND",
+    "district": "HAZARIBAGH",
+    "offices": [
+        {
+            "officeName": "Boddam Bazar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hazaribagh Division",
+            "latitude": 23.993688,
+            "longitude": 85.351476
+        },
+        {
+            "officeName": "Hazaribagh Court NDSO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "NA",
+            "divisionName": "Hazaribagh Division",
+            "latitude": 23.99662,
+            "longitude": 85.36911
+        },
+        {
+            "officeName": "Bara Bazar SO Hazaribag",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hazaribagh Division",
+            "latitude": 23.99385,
+            "longitude": 85.3927
+        },
+        {
+            "officeName": "Distt Board SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hazaribagh Division",
+            "latitude": 23.9985833,
+            "longitude": 85.3651111
+        },
+        {
+            "officeName": "Pethiatand SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hazaribagh Division",
+            "latitude": 23.993015,
+            "longitude": 85.356326
+        },
+        {
+            "officeName": "Hazaribagh HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hazaribagh Division",
+            "latitude": 23.9926667,
+            "longitude": 85.366
+        }
+    ]
+}

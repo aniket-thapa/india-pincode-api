@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "BAGALKOT",
+    "offices": [
+        {
+            "officeName": "Murnal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Bagalkot Division",
+            "latitude": 16.1809979,
+            "longitude": 75.6487541
+        },
+        {
+            "officeName": "Simikeri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Bagalkot Division",
+            "latitude": 16.185019,
+            "longitude": 75.696235
+        },
+        {
+            "officeName": "Bagalkot UHS Campus S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Bagalkot Division",
+            "latitude": 16.18125,
+            "longitude": 75.6991667
+        }
+    ]
+}

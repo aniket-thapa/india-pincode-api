@@ -1,0 +1,66 @@
+{
+    "state": "SIKKIM",
+    "district": "EAST DISTRICT",
+    "offices": [
+        {
+            "officeName": "Lumlingthyang BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sikkim Division",
+            "latitude": 27.53,
+            "longitude": 88.51
+        },
+        {
+            "officeName": "Dikchu SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sikkim Division",
+            "latitude": 27.339833,
+            "longitude": 88.655049
+        },
+        {
+            "officeName": "Gor BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sikkim Division",
+            "latitude": 27.43,
+            "longitude": 88.49
+        },
+        {
+            "officeName": "Raley Khesey BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sikkim Division",
+            "latitude": 27.53,
+            "longitude": 88.51
+        },
+        {
+            "officeName": "Samdong BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sikkim Division",
+            "latitude": 27.35,
+            "longitude": 88.49
+        },
+        {
+            "officeName": "Rakdong BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sikkim Division",
+            "latitude": 27.38,
+            "longitude": 88.52
+        }
+    ]
+}

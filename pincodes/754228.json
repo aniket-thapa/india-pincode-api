@@ -1,0 +1,36 @@
+{
+    "state": "ODISHA",
+    "district": "KENDRAPARA",
+    "offices": [
+        {
+            "officeName": "Pundalo B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "KENDRAPARA DIVISION",
+            "latitude": 20.40971,
+            "longitude": 86.390515
+        },
+        {
+            "officeName": "Akhua Dakhini B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "KENDRAPARA DIVISION",
+            "latitude": 20.39423,
+            "longitude": 86.407754
+        },
+        {
+            "officeName": "Patakura S.O (Kendrapara)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "KENDRAPARA DIVISION",
+            "latitude": 20.5041667,
+            "longitude": 86.4188889
+        }
+    ]
+}

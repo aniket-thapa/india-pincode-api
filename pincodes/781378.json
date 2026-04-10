@@ -1,0 +1,36 @@
+{
+    "state": "ASSAM",
+    "district": "NALBARI",
+    "offices": [
+        {
+            "officeName": "Haribhanga S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nalbari Division",
+            "latitude": 26.2625,
+            "longitude": 91.1711
+        },
+        {
+            "officeName": "Bali B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nalbari Division",
+            "latitude": 26.2625,
+            "longitude": 91.1711
+        },
+        {
+            "officeName": "Barpit B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nalbari Division",
+            "latitude": 26.2625,
+            "longitude": 91.1711
+        }
+    ]
+}

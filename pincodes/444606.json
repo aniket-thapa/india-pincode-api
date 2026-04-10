@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "AMRAVATI",
+    "offices": [
+        {
+            "officeName": "Gokul Market S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Amaravati Division",
+            "latitude": 20.9099722,
+            "longitude": 77.7273611
+        },
+        {
+            "officeName": "Rukhmini Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Amaravati Division",
+            "latitude": 20.9285278,
+            "longitude": 77.7516389
+        },
+        {
+            "officeName": "Congress Nagar S.O (Amravati)",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Amaravati Division",
+            "latitude": 20.93,
+            "longitude": 77.77
+        }
+    ]
+}

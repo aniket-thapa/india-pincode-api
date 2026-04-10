@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "BEED",
+    "offices": [
+        {
+            "officeName": "Kesapuri Camp S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Beed Division",
+            "latitude": 19.1757646,
+            "longitude": 76.1885591
+        },
+        {
+            "officeName": "Kittiadgaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Beed Division",
+            "latitude": 19.220023,
+            "longitude": 76.147847
+        },
+        {
+            "officeName": "Phulepimpalgoan B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Beed Division",
+            "latitude": 19.187505,
+            "longitude": 76.179059
+        }
+    ]
+}

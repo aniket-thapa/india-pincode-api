@@ -1,0 +1,36 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "BIJNOR",
+    "offices": [
+        {
+            "officeName": "Khirni Barkatpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Bijnor Division",
+            "latitude": 29.63,
+            "longitude": 78.1094
+        },
+        {
+            "officeName": "Balawali SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Bijnor Division",
+            "latitude": 29.6274444,
+            "longitude": 78.1093333
+        },
+        {
+            "officeName": "Tisotra BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Bijnor Division",
+            "latitude": 29.621571,
+            "longitude": 78.152168
+        }
+    ]
+}

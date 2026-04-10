@@ -1,0 +1,26 @@
+{
+    "state": "TAMIL NADU",
+    "district": "CHENGALPATTU",
+    "offices": [
+        {
+            "officeName": "Maraimalai Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chengalpattu Division",
+            "latitude": 13.0155833,
+            "longitude": 80.0415833
+        },
+        {
+            "officeName": "Panangottur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Chengalpattu Division",
+            "latitude": 12.7946398,
+            "longitude": 80.0017744
+        }
+    ]
+}

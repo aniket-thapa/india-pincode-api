@@ -1,0 +1,46 @@
+{
+    "state": "PUNJAB",
+    "district": "GURDASPUR",
+    "offices": [
+        {
+            "officeName": "Babri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Gurdaspur Division",
+            "latitude": 32.01,
+            "longitude": 75.37
+        },
+        {
+            "officeName": "Bhumbli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Gurdaspur Division",
+            "latitude": 31.94,
+            "longitude": 75.38
+        },
+        {
+            "officeName": "Tibber SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Gurdaspur Division",
+            "latitude": 31.9607,
+            "longitude": 75.3978
+        },
+        {
+            "officeName": "Sidhwan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Gurdaspur Division",
+            "latitude": 31.94,
+            "longitude": 75.41
+        }
+    ]
+}

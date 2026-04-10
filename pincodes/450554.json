@@ -1,0 +1,46 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "EAST NIMAR",
+    "offices": [
+        {
+            "officeName": "Mortakka B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Khandwa Division",
+            "latitude": 76.0478,
+            "longitude": 22.2125
+        },
+        {
+            "officeName": "Thapna B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Khandwa Division",
+            "latitude": 24.322,
+            "longitude": 77.2577
+        },
+        {
+            "officeName": "Bhagawa B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Khandwa Division",
+            "latitude": 21.8621,
+            "longitude": 76.6607
+        },
+        {
+            "officeName": "Mandhata Omkareshwar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Khandwa Division",
+            "latitude": 21.83,
+            "longitude": 76.33
+        }
+    ]
+}

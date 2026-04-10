@@ -1,0 +1,26 @@
+{
+    "state": "TELANGANA",
+    "district": "Jagitial",
+    "offices": [
+        {
+            "officeName": "Koratla Bazar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Karimnagar Division",
+            "latitude": 18.824403,
+            "longitude": 78.713109
+        },
+        {
+            "officeName": "Koratla S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Karimnagar Division",
+            "latitude": 18.82189,
+            "longitude": 78.707798
+        }
+    ]
+}

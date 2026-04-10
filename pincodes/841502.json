@@ -1,0 +1,36 @@
+{
+    "state": "BIHAR",
+    "district": "SIWAN",
+    "offices": [
+        {
+            "officeName": "Santhi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Siwan Division",
+            "latitude": 26.0724444,
+            "longitude": 84.2589166
+        },
+        {
+            "officeName": "Khujhwa SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Siwan Division",
+            "latitude": 26.0724444,
+            "longitude": 84.2589167
+        },
+        {
+            "officeName": "Patar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Siwan Division",
+            "latitude": 26.0724444,
+            "longitude": 84.2589166
+        }
+    ]
+}

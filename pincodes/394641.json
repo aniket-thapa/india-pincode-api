@@ -1,0 +1,36 @@
+{
+    "state": "GUJARAT",
+    "district": "TAPI",
+    "offices": [
+        {
+            "officeName": "Gandhi Vidhyapith BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bardoli Division",
+            "latitude": 21.01645,
+            "longitude": 73.3023
+        },
+        {
+            "officeName": "Ambach BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bardoli Division",
+            "latitude": 21.01645,
+            "longitude": 73.3023
+        },
+        {
+            "officeName": "Khanpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Vadodara Region",
+            "divisionName": "Bardoli Division",
+            "latitude": 21.110216,
+            "longitude": 73.396986
+        }
+    ]
+}

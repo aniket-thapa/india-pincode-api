@@ -1,0 +1,56 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "JABALPUR",
+    "offices": [
+        {
+            "officeName": "Sunderpur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Jabalpur Division",
+            "latitude": 23.237779,
+            "longitude": 80.096092
+        },
+        {
+            "officeName": "Sonpur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Jabalpur Division",
+            "latitude": 23.218408,
+            "longitude": 80.061654
+        },
+        {
+            "officeName": "Bhorha",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Jabalpur Division",
+            "latitude": 23.312373,
+            "longitude": 80.1155
+        },
+        {
+            "officeName": "Khamaria S.O (Jabalpur)",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Jabalpur Division",
+            "latitude": 23.1598056,
+            "longitude": 79.9543611
+        },
+        {
+            "officeName": "Ranjhi Azad Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Jabalpur Division",
+            "latitude": 23.201592,
+            "longitude": 80.002173
+        }
+    ]
+}

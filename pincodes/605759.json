@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "KALLAKURICHI",
+    "offices": [
+        {
+            "officeName": "Manampoondi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Vriddhachalam Division",
+            "latitude": 11.9773889,
+            "longitude": 79.2054722
+        },
+        {
+            "officeName": "T Athipakkam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Vriddhachalam Division",
+            "latitude": 11.84,
+            "longitude": 79.22
+        },
+        {
+            "officeName": "Madam B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Vriddhachalam Division",
+            "latitude": 12.01,
+            "longitude": 79.16
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "AZAMGARH",
+    "offices": [
+        {
+            "officeName": "MITTOOPUR",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Azamgarh Division",
+            "latitude": 25.68,
+            "longitude": 83.13
+        },
+        {
+            "officeName": "Balaipur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Azamgarh Division",
+            "latitude": 25.95,
+            "longitude": 83.23
+        },
+        {
+            "officeName": "Khandaura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Azamgarh Division",
+            "latitude": 25.95,
+            "longitude": 83.23
+        },
+        {
+            "officeName": "Kalafatpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Azamgarh Division",
+            "latitude": 25.95,
+            "longitude": 83.23
+        }
+    ]
+}

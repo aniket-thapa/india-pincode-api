@@ -1,0 +1,36 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "SHAJAPUR",
+    "offices": [
+        {
+            "officeName": "Maksi S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Ujjain Division",
+            "latitude": 23.2985,
+            "longitude": 76.1472778
+        },
+        {
+            "officeName": "Jhokar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Ujjain Division",
+            "latitude": 31.719652,
+            "longitude": 76.607333
+        },
+        {
+            "officeName": "Kapaliya B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Ujjain Division",
+            "latitude": 23.296935,
+            "longitude": 76.207353
+        }
+    ]
+}

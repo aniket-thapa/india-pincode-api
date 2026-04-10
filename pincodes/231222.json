@@ -1,0 +1,66 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "SONBHADRA",
+    "offices": [
+        {
+            "officeName": "Dharsari B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Mirzapur Division",
+            "latitude": 24.13864,
+            "longitude": 82.77813
+        },
+        {
+            "officeName": "Yogichaura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Mirzapur Division",
+            "latitude": 24.118177,
+            "longitude": 82.728928
+        },
+        {
+            "officeName": "Khadia Project SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Mirzapur Division",
+            "latitude": 24.0414,
+            "longitude": 82.372
+        },
+        {
+            "officeName": "Shaktinagar Thermal Power Stat SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Mirzapur Division",
+            "latitude": 24.0659,
+            "longitude": 82.415
+        },
+        {
+            "officeName": "Shaktinagar SO Sonbhadra",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Mirzapur Division",
+            "latitude": 24.447562,
+            "longitude": 82.863663
+        },
+        {
+            "officeName": "Chilka Dand B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Prayagraj Regional Office",
+            "divisionName": "Mirzapur Division",
+            "latitude": 24.1416,
+            "longitude": 82.68604
+        }
+    ]
+}

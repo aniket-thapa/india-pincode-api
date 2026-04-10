@@ -1,0 +1,46 @@
+{
+    "state": "JHARKHAND",
+    "district": "GIRIDIH",
+    "offices": [
+        {
+            "officeName": "Makatpur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Giridih Division",
+            "latitude": 24.187926,
+            "longitude": 86.307643
+        },
+        {
+            "officeName": "Giridih HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Giridih Division",
+            "latitude": 24.184713,
+            "longitude": 86.302193
+        },
+        {
+            "officeName": "Barganda SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Giridih Division",
+            "latitude": 2411.0,
+            "longitude": 8618.0
+        },
+        {
+            "officeName": "Giridih Bazar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Giridih Division",
+            "latitude": 24.21452,
+            "longitude": 86.389526
+        }
+    ]
+}

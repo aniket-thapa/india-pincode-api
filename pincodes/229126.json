@@ -1,0 +1,76 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "Amethi",
+    "offices": [
+        {
+            "officeName": "Khekharua BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Rae Bareilly Division",
+            "latitude": 26.45,
+            "longitude": 81.4
+        },
+        {
+            "officeName": "Kotwa Mohammadabad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Rae Bareilly Division",
+            "latitude": 26.43,
+            "longitude": 81.43
+        },
+        {
+            "officeName": "Rampur Pawara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Rae Bareilly Division",
+            "latitude": 28.65,
+            "longitude": 77.1
+        },
+        {
+            "officeName": "Akbarpur Pharsi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Rae Bareilly Division",
+            "latitude": 26.47,
+            "longitude": 81.4
+        },
+        {
+            "officeName": "Sikandarpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Rae Bareilly Division",
+            "latitude": 26.03,
+            "longitude": 84.3
+        },
+        {
+            "officeName": "Siwan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Rae Bareilly Division",
+            "latitude": 26.21,
+            "longitude": 84.35
+        },
+        {
+            "officeName": "Semrauta SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Rae Bareilly Division",
+            "latitude": 26.2719167,
+            "longitude": 81.24575
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "ETAWAH",
+    "offices": [
+        {
+            "officeName": "Manikpur Bissu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Etawah Division",
+            "latitude": 26.7497246,
+            "longitude": 79.0334288
+        },
+        {
+            "officeName": "Ram Lila Road SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Etawah Division",
+            "latitude": 26.770465,
+            "longitude": 79.0359474
+        },
+        {
+            "officeName": "Chitbhawan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Etawah Division",
+            "latitude": 26.7932898,
+            "longitude": 79.0793341
+        },
+        {
+            "officeName": "Musaoli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Etawah Division",
+            "latitude": 26.713797,
+            "longitude": 79.0281772
+        },
+        {
+            "officeName": "Pilkhar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Etawah Division",
+            "latitude": 26.7514831,
+            "longitude": 79.0560311
+        }
+    ]
+}

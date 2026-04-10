@@ -1,0 +1,36 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "RUDRA PRAYAG",
+    "offices": [
+        {
+            "officeName": "Chopra SO Rudraprayag",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamoli Division",
+            "latitude": 30.28452,
+            "longitude": 78.981174
+        },
+        {
+            "officeName": "Haretikhal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamoli Division",
+            "latitude": 30.436175,
+            "longitude": 79.383572
+        },
+        {
+            "officeName": "Kurjhan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Chamoli Division",
+            "latitude": 30.436285,
+            "longitude": 79.383687
+        }
+    ]
+}

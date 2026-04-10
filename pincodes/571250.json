@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "KODAGU",
+    "offices": [
+        {
+            "officeName": "Manchalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Kodagu Division",
+            "latitude": 11.9737344,
+            "longitude": 76.0141495
+        },
+        {
+            "officeName": "Kutta S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Kodagu Division",
+            "latitude": 11.97111111,
+            "longitude": 76.04327778
+        },
+        {
+            "officeName": "Nagarahole B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Kodagu Division",
+            "latitude": 11.9737344,
+            "longitude": 76.0141495
+        }
+    ]
+}

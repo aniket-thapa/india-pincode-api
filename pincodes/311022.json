@@ -1,0 +1,26 @@
+{
+    "state": "RAJASTHAN",
+    "district": "BHILWARA",
+    "offices": [
+        {
+            "officeName": "Hurda S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Bhilwara Division",
+            "latitude": 25.9038889,
+            "longitude": 74.68825
+        },
+        {
+            "officeName": "Agucha B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Bhilwara Division",
+            "latitude": 25.821137,
+            "longitude": 74.726155
+        }
+    ]
+}

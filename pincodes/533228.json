@@ -1,0 +1,46 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Konaseema",
+    "offices": [
+        {
+            "officeName": "Vanapalli S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Amalapuram Division",
+            "latitude": 16.68419444,
+            "longitude": 81.94169444
+        },
+        {
+            "officeName": "Madupalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Amalapuram Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Pasupalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Amalapuram Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Billakurru B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Visakhapatnam Region",
+            "divisionName": "Amalapuram Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

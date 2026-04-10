@@ -1,0 +1,66 @@
+{
+    "state": "RAJASTHAN",
+    "district": "UDAIPUR",
+    "offices": [
+        {
+            "officeName": "Kunda B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Udaipur Division",
+            "latitude": 24.03,
+            "longitude": 73.81
+        },
+        {
+            "officeName": "Chorai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Udaipur Division",
+            "latitude": 24.01,
+            "longitude": 73.74
+        },
+        {
+            "officeName": "Rajol B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Udaipur Division",
+            "latitude": 24.0,
+            "longitude": 73.78
+        },
+        {
+            "officeName": "Depur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Udaipur Division",
+            "latitude": 23.96,
+            "longitude": 73.74
+        },
+        {
+            "officeName": "Dhankiwara B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Udaipur Division",
+            "latitude": 24.04,
+            "longitude": 73.81
+        },
+        {
+            "officeName": "Dhelana",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Udaipur Division",
+            "latitude": 23.98,
+            "longitude": 73.73
+        }
+    ]
+}

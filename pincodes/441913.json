@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "BHANDARA",
+    "offices": [
+        {
+            "officeName": "Madgi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur Moffusil Division",
+            "latitude": 21.016897,
+            "longitude": 79.768064
+        },
+        {
+            "officeName": "Tumsar Road S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur Moffusil Division",
+            "latitude": 21.34075,
+            "longitude": 79.7481111
+        },
+        {
+            "officeName": "Devada Bzk B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Nagpur Region",
+            "divisionName": "Nagpur Moffusil Division",
+            "latitude": 19.945891,
+            "longitude": 79.197448
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "GUJARAT",
+    "district": "JUNAGADH",
+    "offices": [
+        {
+            "officeName": "Choki SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Junagadh Division",
+            "latitude": 21.65215,
+            "longitude": 70.531071
+        },
+        {
+            "officeName": "Kathrota BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Junagadh Division",
+            "latitude": 21.6277564,
+            "longitude": 70.5299667
+        }
+    ]
+}

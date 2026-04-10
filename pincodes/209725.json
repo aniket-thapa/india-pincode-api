@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "KANNAUJ",
+    "offices": [
+        {
+            "officeName": "Chhipatti SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Fatehgarh Division",
+            "latitude": 27.0567778,
+            "longitude": 79.9177778
+        },
+        {
+            "officeName": "Hari Nagar SO Kannauj",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Fatehgarh Division",
+            "latitude": 27.205325,
+            "longitude": 79.579566
+        },
+        {
+            "officeName": "Kannauj Samachar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Fatehgarh Division",
+            "latitude": 27.0561667,
+            "longitude": 79.9179722
+        },
+        {
+            "officeName": "Kannauj SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Fatehgarh Division",
+            "latitude": 27.0551667,
+            "longitude": 79.9180556
+        }
+    ]
+}

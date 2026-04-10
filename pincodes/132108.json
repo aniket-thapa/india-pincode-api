@@ -1,0 +1,56 @@
+{
+    "state": "HARYANA",
+    "district": "PANIPAT",
+    "offices": [
+        {
+            "officeName": "Dadola B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Karnal Division",
+            "latitude": 25.3,
+            "longitude": 25.3
+        },
+        {
+            "officeName": "Siwaha B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Karnal Division",
+            "latitude": 25.3,
+            "longitude": 25.3
+        },
+        {
+            "officeName": "Panipat Beas Project S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Karnal Division",
+            "latitude": 29.3473056,
+            "longitude": 76.9805
+        },
+        {
+            "officeName": "Diwana B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Karnal Division",
+            "latitude": 25.3,
+            "longitude": 25.3
+        },
+        {
+            "officeName": "Pasina Kalan BO B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Karnal Division",
+            "latitude": 25.3,
+            "longitude": 25.3
+        }
+    ]
+}

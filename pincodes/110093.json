@@ -1,0 +1,46 @@
+{
+    "state": "DELHI",
+    "district": "NORTH EAST",
+    "offices": [
+        {
+            "officeName": "Mandoli Saboli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.702185,
+            "longitude": 77.30501
+        },
+        {
+            "officeName": "Harsh Vihar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.7021944,
+            "longitude": 77.3236389
+        },
+        {
+            "officeName": "Nand Nagri C SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.6921111,
+            "longitude": 77.3042222
+        },
+        {
+            "officeName": "Housing Complex Loni Road SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.69525,
+            "longitude": 77.2953333
+        }
+    ]
+}

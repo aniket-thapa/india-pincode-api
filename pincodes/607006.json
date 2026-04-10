@@ -1,0 +1,36 @@
+{
+    "state": "TAMIL NADU",
+    "district": "CUDDALORE",
+    "offices": [
+        {
+            "officeName": "Kondur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Cuddalore Division",
+            "latitude": 11.77,
+            "longitude": 79.74
+        },
+        {
+            "officeName": "Gundu Uppalavadi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Cuddalore Division",
+            "latitude": 11.76,
+            "longitude": 79.8
+        },
+        {
+            "officeName": "Suba Uppalavadi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Cuddalore Division",
+            "latitude": 11.78,
+            "longitude": 79.78
+        }
+    ]
+}

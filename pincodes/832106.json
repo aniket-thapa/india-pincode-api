@@ -1,0 +1,36 @@
+{
+    "state": "JHARKHAND",
+    "district": "EAST SINGHBUM",
+    "offices": [
+        {
+            "officeName": "Rakha Copper Project SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Singhbhum Division",
+            "latitude": 22.64036,
+            "longitude": 86.37412
+        },
+        {
+            "officeName": "Rakha Mines BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Singhbhum Division",
+            "latitude": 22.69205,
+            "longitude": 86.3439
+        },
+        {
+            "officeName": "Matigora BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Singhbhum Division",
+            "latitude": 64.479897,
+            "longitude": 34.648947
+        }
+    ]
+}

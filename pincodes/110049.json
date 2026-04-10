@@ -1,0 +1,66 @@
+{
+    "state": "DELHI",
+    "district": "South East",
+    "offices": [
+        {
+            "officeName": "New Delhi South ExtII SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South Division",
+            "latitude": 28.566209,
+            "longitude": 77.217965
+        },
+        {
+            "officeName": "Andrewsganj SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South Division",
+            "latitude": 28.5640278,
+            "longitude": 77.2324167
+        },
+        {
+            "officeName": "Gautam Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South Division",
+            "latitude": 28.561709,
+            "longitude": 77.211224
+        },
+        {
+            "officeName": "Sahpurjat BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South Division",
+            "latitude": 28.55,
+            "longitude": 77.21
+        },
+        {
+            "officeName": "Sadiq Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South Division",
+            "latitude": 28.5571944,
+            "longitude": 77.2226667
+        },
+        {
+            "officeName": "Gulmohar Park SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi South Division",
+            "latitude": 28.5578611,
+            "longitude": 77.2131944
+        }
+    ]
+}

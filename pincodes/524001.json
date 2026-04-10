@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "SPSR NELLORE",
+    "offices": [
+        {
+            "officeName": "Trunk Road S.O (Nellore)",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Nellore Division",
+            "latitude": 14.454003,
+            "longitude": 79.983802
+        },
+        {
+            "officeName": "Pogathota S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Nellore Division",
+            "latitude": 14.4501944,
+            "longitude": 79.9846389
+        },
+        {
+            "officeName": "Nellore H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Vijayawada Region",
+            "divisionName": "Nellore Division",
+            "latitude": 14.451895,
+            "longitude": 79.980856
+        }
+    ]
+}

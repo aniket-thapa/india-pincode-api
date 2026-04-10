@@ -1,0 +1,46 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "JALGAON",
+    "offices": [
+        {
+            "officeName": "Bhusawal Kutchery S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Bhusaval Division",
+            "latitude": 21.051786,
+            "longitude": 75.781814
+        },
+        {
+            "officeName": "Bhusawal H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Bhusaval Division",
+            "latitude": 21.0450746,
+            "longitude": 75.7864589
+        },
+        {
+            "officeName": "Bhusawal Athawade Bazar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Bhusaval Division",
+            "latitude": 21.0408809,
+            "longitude": 75.7811321
+        },
+        {
+            "officeName": "Bhusawal Shivaji Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Regional Office Aurangabad",
+            "divisionName": "Bhusaval Division",
+            "latitude": 21.0431973,
+            "longitude": 75.7814287
+        }
+    ]
+}

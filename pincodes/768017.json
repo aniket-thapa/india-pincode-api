@@ -1,0 +1,26 @@
+{
+    "state": "ODISHA",
+    "district": "SAMBALPUR",
+    "offices": [
+        {
+            "officeName": "Burla S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sambalpur Division",
+            "latitude": 21.4486667,
+            "longitude": 83.9925
+        },
+        {
+            "officeName": "Medical College Burla S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Sambalpur Region",
+            "divisionName": "Sambalpur Division",
+            "latitude": 21.5094444,
+            "longitude": 83.8866666
+        }
+    ]
+}

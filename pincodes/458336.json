@@ -1,0 +1,36 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "NEEMUCH",
+    "offices": [
+        {
+            "officeName": "Jeeran S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Mandsaur Division",
+            "latitude": 24.07,
+            "longitude": 75.06
+        },
+        {
+            "officeName": "Harkia Khal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Mandsaur Division",
+            "latitude": 24.28174,
+            "longitude": 74.86571
+        },
+        {
+            "officeName": "Harwar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Indore Region",
+            "divisionName": "Mandsaur Division",
+            "latitude": 24.465291,
+            "longitude": 74.871122
+        }
+    ]
+}

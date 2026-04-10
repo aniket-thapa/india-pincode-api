@@ -1,0 +1,36 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "JHANSI",
+    "offices": [
+        {
+            "officeName": "Barwasagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Jhansi Division",
+            "latitude": 25.3745833,
+            "longitude": 78.7331944
+        },
+        {
+            "officeName": "Taindol BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Jhansi Division",
+            "latitude": 25.1234,
+            "longitude": 78.7265
+        },
+        {
+            "officeName": "Ghughuwa BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Jhansi Division",
+            "latitude": 25.37182,
+            "longitude": 78.76887
+        }
+    ]
+}

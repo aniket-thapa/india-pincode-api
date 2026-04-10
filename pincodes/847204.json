@@ -1,0 +1,56 @@
+{
+    "state": "BIHAR",
+    "district": "DARBHANGA",
+    "offices": [
+        {
+            "officeName": "Sherpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Darbhanga Division",
+            "latitude": 15.5934,
+            "longitude": 86.2448
+        },
+        {
+            "officeName": "Kakorha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Darbhanga Division",
+            "latitude": 26.0073,
+            "longitude": 87.5271
+        },
+        {
+            "officeName": "Kaithwar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Darbhanga Division",
+            "latitude": 26.1678,
+            "longitude": 86.2575
+        },
+        {
+            "officeName": "Narayanpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Darbhanga Division",
+            "latitude": 25.6023,
+            "longitude": 87.4382
+        },
+        {
+            "officeName": "Bishnupur SO Darbhanga",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "Darbhanga Division",
+            "latitude": 26.1913888,
+            "longitude": 85.7416666
+        }
+    ]
+}

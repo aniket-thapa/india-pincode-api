@@ -1,0 +1,66 @@
+{
+    "state": "GUJARAT",
+    "district": "JUNAGADH",
+    "offices": [
+        {
+            "officeName": "Junagadh Agri Campus SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Junagadh Division",
+            "latitude": 21.5073056,
+            "longitude": 70.4493611
+        },
+        {
+            "officeName": "Junagadh HO",
+            "officeType": "HO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Junagadh Division",
+            "latitude": 21.5056111,
+            "longitude": 70.4589167
+        },
+        {
+            "officeName": "Junagadh Azad Chowk SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Junagadh Division",
+            "latitude": 21.519189,
+            "longitude": 70.461366
+        },
+        {
+            "officeName": "Junagadh Station Road SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Junagadh Division",
+            "latitude": 21.51175,
+            "longitude": 70.4593333
+        },
+        {
+            "officeName": "Junagadh Mangnath Road SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Junagadh Division",
+            "latitude": 21.5176793,
+            "longitude": 70.4632323
+        },
+        {
+            "officeName": "Junagadh Sardarbag SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Junagadh Division",
+            "latitude": 21.5198611,
+            "longitude": 70.4511944
+        }
+    ]
+}

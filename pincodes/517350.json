@@ -1,0 +1,56 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Annamayya",
+    "offices": [
+        {
+            "officeName": "Matluvaripalle B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Chittoor Division",
+            "latitude": 13.6522,
+            "longitude": 78.4817
+        },
+        {
+            "officeName": "Mudivedu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Chittoor Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Kosuvaripalle B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Chittoor Division",
+            "latitude": 13.6522,
+            "longitude": 78.4817
+        },
+        {
+            "officeName": "Kurabalakota S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Chittoor Division",
+            "latitude": 13.6522,
+            "longitude": 78.4817
+        },
+        {
+            "officeName": "Pitchalvandlapalle B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Chittoor Division",
+            "latitude": 13.6522,
+            "longitude": 78.4817
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "CHHATTISGARH",
+    "district": "DURG",
+    "offices": [
+        {
+            "officeName": "New Khursipar Bhilai SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Durg Division",
+            "latitude": 21.12341,
+            "longitude": 81.24092
+        },
+        {
+            "officeName": "Khursipar Bhilai SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Chattisgarh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Durg Division",
+            "latitude": 21.239602,
+            "longitude": 81.390193
+        }
+    ]
+}

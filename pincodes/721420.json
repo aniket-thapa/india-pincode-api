@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "MEDINIPUR WEST",
+    "offices": [
+        {
+            "officeName": "Baita Bazar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Contai Division",
+            "latitude": 21.0002971,
+            "longitude": 87.0003942
+        },
+        {
+            "officeName": "Alangiri BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Contai Division",
+            "latitude": 21.850605,
+            "longitude": 87.469363
+        },
+        {
+            "officeName": "Jerthan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Contai Division",
+            "latitude": 21.843897,
+            "longitude": 87.495059
+        }
+    ]
+}

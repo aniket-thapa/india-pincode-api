@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "GHAZIPUR",
+    "offices": [
+        {
+            "officeName": "Pakari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Ghazipur Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Derhgawan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Ghazipur Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Reotipur SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Ghazipur Division",
+            "latitude": 25.5356111,
+            "longitude": 83.7142778
+        },
+        {
+            "officeName": "Gaura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Ghazipur Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

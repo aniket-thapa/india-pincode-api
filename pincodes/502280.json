@@ -1,0 +1,56 @@
+{
+    "state": "TELANGANA",
+    "district": "SIDDIPET",
+    "offices": [
+        {
+            "officeName": "Akkenapally B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.079806,
+            "longitude": 79.066944
+        },
+        {
+            "officeName": "Ankshapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.041092,
+            "longitude": 79.00464
+        },
+        {
+            "officeName": "Gatlamalyal B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.068884,
+            "longitude": 79.095117
+        },
+        {
+            "officeName": "Nangnoor S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.062,
+            "longitude": 79.0363333
+        },
+        {
+            "officeName": "Khata B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.020547,
+            "longitude": 79.06551
+        }
+    ]
+}

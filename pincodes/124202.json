@@ -1,0 +1,46 @@
+{
+    "state": "HARYANA",
+    "district": "ROHTAK",
+    "offices": [
+        {
+            "officeName": "Pilana BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rohtak Division",
+            "latitude": 28.728528,
+            "longitude": 76.437206
+        },
+        {
+            "officeName": "Majra BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rohtak Division",
+            "latitude": 28.728528,
+            "longitude": 76.910133
+        },
+        {
+            "officeName": "Sewana BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rohtak Division",
+            "latitude": 28.552824,
+            "longitude": 76.554108
+        },
+        {
+            "officeName": "Dubaldhan SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Rohtak Division",
+            "latitude": 28.6840556,
+            "longitude": 76.4869722
+        }
+    ]
+}

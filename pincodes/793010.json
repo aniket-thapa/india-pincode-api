@@ -1,0 +1,36 @@
+{
+    "state": "MEGHALAYA",
+    "district": "EAST KHASI HILLS",
+    "offices": [
+        {
+            "officeName": "Laitkor B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Meghalaya Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Pomlakrai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Meghalaya Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Laitkor Peak S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Meghalaya Division",
+            "latitude": 25.5739167,
+            "longitude": 91.8848611
+        }
+    ]
+}

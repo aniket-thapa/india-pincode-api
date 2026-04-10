@@ -1,0 +1,36 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "UDAM SINGH NAGAR",
+    "offices": [
+        {
+            "officeName": "Haldi Udham Singh Nagar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nainital Division",
+            "latitude": 29.036876,
+            "longitude": 79.447197
+        },
+        {
+            "officeName": "Pantnagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nainital Division",
+            "latitude": 29.0271944,
+            "longitude": 79.4775833
+        },
+        {
+            "officeName": "Patharchatta BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nainital Division",
+            "latitude": 29.028039,
+            "longitude": 79.41307
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "BIHAR",
+    "district": "PASHCHIM CHAMPARAN",
+    "offices": [
+        {
+            "officeName": "Lal Bazar Bettiah SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "West Champaran Division",
+            "latitude": 26.7499,
+            "longitude": 84.5038
+        },
+        {
+            "officeName": "Bettiah RS SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "West Champaran Division",
+            "latitude": 26.8039167,
+            "longitude": 84.5227222
+        },
+        {
+            "officeName": "Bettiah HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "West Champaran Division",
+            "latitude": 26.8022778,
+            "longitude": 84.5152222
+        },
+        {
+            "officeName": "Belbagh SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "West Champaran Division",
+            "latitude": 26.9434,
+            "longitude": 84.5037
+        },
+        {
+            "officeName": "Meena Bazar Bettiah SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "West Champaran Division",
+            "latitude": 26.2994167,
+            "longitude": 84.8390278
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "JHARKHAND",
+    "district": "WEST SINGHBHUM",
+    "offices": [
+        {
+            "officeName": "Bari Bazar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Singhbhum Division",
+            "latitude": 22.5585,
+            "longitude": 85.79969
+        },
+        {
+            "officeName": "Chaibasa HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Singhbhum Division",
+            "latitude": 22.54575,
+            "longitude": 85.80509
+        }
+    ]
+}

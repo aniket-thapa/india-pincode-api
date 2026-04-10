@@ -1,0 +1,26 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "SAMBHAL",
+    "offices": [
+        {
+            "officeName": "IA Babrala SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Budaun Division",
+            "latitude": 28.0232778,
+            "longitude": 79.1287778
+        },
+        {
+            "officeName": "Mehua Hasanganj BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Budaun Division",
+            "latitude": 28.2773802,
+            "longitude": 78.4127676
+        }
+    ]
+}

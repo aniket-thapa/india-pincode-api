@@ -1,0 +1,36 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "SHRAVASTI",
+    "offices": [
+        {
+            "officeName": "Mahdeiya BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Bahraich Division",
+            "latitude": 27.46715,
+            "longitude": 82.065229
+        },
+        {
+            "officeName": "Puredeen Namgarh BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Bahraich Division",
+            "latitude": 27.5378,
+            "longitude": 82.00858
+        },
+        {
+            "officeName": "Shravasti SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Bahraich Division",
+            "latitude": 27.3454722,
+            "longitude": 81.8361667
+        }
+    ]
+}

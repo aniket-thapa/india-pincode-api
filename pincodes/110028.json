@@ -1,0 +1,26 @@
+{
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "offices": [
+        {
+            "officeName": "Naraina Village S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.6305,
+            "longitude": 77.1349167
+        },
+        {
+            "officeName": "Naraina Industrial Estate H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "New Delhi West Division",
+            "latitude": 28.632141,
+            "longitude": 77.138852
+        }
+    ]
+}

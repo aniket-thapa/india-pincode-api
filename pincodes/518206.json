@@ -1,0 +1,36 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Nandyal",
+    "offices": [
+        {
+            "officeName": "Kandikayapalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Kurnool Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Cement Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Kurnool Division",
+            "latitude": 15.50013889,
+            "longitude": 78.21080556
+        },
+        {
+            "officeName": "Bugganipalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Kurnool Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

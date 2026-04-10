@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "HASSAN",
+    "offices": [
+        {
+            "officeName": "Vidyanagar (Hassan) S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Hassan Division",
+            "latitude": 13.0053333,
+            "longitude": 76.1000556
+        },
+        {
+            "officeName": "Antharikshanagar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Hassan Division",
+            "latitude": 13.04,
+            "longitude": 76.11
+        },
+        {
+            "officeName": "Hemavathinagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Hassan Division",
+            "latitude": 12.5686111,
+            "longitude": 64.3836389
+        }
+    ]
+}

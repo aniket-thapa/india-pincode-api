@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "UNNAO",
+    "offices": [
+        {
+            "officeName": "Hasanganj SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Kanpur Moffusil Division",
+            "latitude": 27.3348,
+            "longitude": 80.4146
+        },
+        {
+            "officeName": "NEOTANI BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Kanpur Moffusil Division",
+            "latitude": 26.757238,
+            "longitude": 80.656398
+        },
+        {
+            "officeName": "Chharihara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Kanpur Moffusil Division",
+            "latitude": 26.801465,
+            "longitude": 80.602083
+        },
+        {
+            "officeName": "Maula Bankipur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Kanpur Region",
+            "divisionName": "Kanpur Moffusil Division",
+            "latitude": 26.758498,
+            "longitude": 80.600991
+        }
+    ]
+}

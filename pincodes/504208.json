@@ -1,0 +1,36 @@
+{
+    "state": "TELANGANA",
+    "district": "MANCHERIAL",
+    "offices": [
+        {
+            "officeName": "Mancherial H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Adilabad Division",
+            "latitude": 18.880305,
+            "longitude": 79.442307
+        },
+        {
+            "officeName": "Mancherial Bazar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Adilabad Division",
+            "latitude": 18.8776667,
+            "longitude": 79.4468333
+        },
+        {
+            "officeName": "Grain Market S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Adilabad Division",
+            "latitude": 18.8639051,
+            "longitude": 79.4547946
+        }
+    ]
+}

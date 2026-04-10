@@ -1,0 +1,26 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "GWALIOR",
+    "offices": [
+        {
+            "officeName": "Hazira Chowk S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gwalior Division",
+            "latitude": 26.230832,
+            "longitude": 78.321936
+        },
+        {
+            "officeName": "GWALIOR CITY SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gwalior Division",
+            "latitude": 26.232276,
+            "longitude": 78.172692
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "DELHI",
+    "district": "EAST",
+    "offices": [
+        {
+            "officeName": "Govind Pura SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.6453611,
+            "longitude": 77.2871111
+        },
+        {
+            "officeName": "Azad Nagar SO East Delhi",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.69225,
+            "longitude": 77.3042222
+        },
+        {
+            "officeName": "Ram Nagar SO East Delhi",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.65925,
+            "longitude": 77.2742222
+        },
+        {
+            "officeName": "Krishna Nagar HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi East Division",
+            "latitude": 28.645733,
+            "longitude": 77.2997737
+        }
+    ]
+}

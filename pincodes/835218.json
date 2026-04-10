@@ -1,0 +1,46 @@
+{
+    "state": "JHARKHAND",
+    "district": "LATEHAR",
+    "offices": [
+        {
+            "officeName": "Netarhat SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gumla Division",
+            "latitude": 23.468612,
+            "longitude": 84.266974
+        },
+        {
+            "officeName": "Dumarapath BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gumla Division",
+            "latitude": 23.4833,
+            "longitude": 84.2667
+        },
+        {
+            "officeName": "Jobhipath BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gumla Division",
+            "latitude": 23.4833,
+            "longitude": 84.2667
+        },
+        {
+            "officeName": "Kujam",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gumla Division",
+            "latitude": 23.286997,
+            "longitude": 84.294704
+        }
+    ]
+}

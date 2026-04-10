@@ -1,0 +1,26 @@
+{
+    "state": "RAJASTHAN",
+    "district": "DUNGARPUR",
+    "offices": [
+        {
+            "officeName": "Galiakot S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Dungarpur Division",
+            "latitude": 23.5231667,
+            "longitude": 74.0020833
+        },
+        {
+            "officeName": "Silohi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Ajmer Region",
+            "divisionName": "Dungarpur Division",
+            "latitude": 23.561458,
+            "longitude": 74.013948
+        }
+    ]
+}

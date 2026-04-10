@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "SATARA",
+    "offices": [
+        {
+            "officeName": "Kaledhon S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Karad Division",
+            "latitude": 17.4321389,
+            "longitude": 74.6452778
+        },
+        {
+            "officeName": "Pachvad B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Karad Division",
+            "latitude": 17.486315,
+            "longitude": 74.651971
+        },
+        {
+            "officeName": "Vikhale B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Pune Region",
+            "divisionName": "Karad Division",
+            "latitude": 17.461263,
+            "longitude": 74.6209
+        }
+    ]
+}

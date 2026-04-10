@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "MORADABAD",
+    "offices": [
+        {
+            "officeName": "Vikas Bhawan Moradabad SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Moradabad Division",
+            "latitude": 28.88,
+            "longitude": 78.73
+        },
+        {
+            "officeName": "Bhatawali S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Moradabad Division",
+            "latitude": 28.8981147,
+            "longitude": 78.7227801
+        },
+        {
+            "officeName": "Mahlakpur Nizampur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Moradabad Division",
+            "latitude": 28.83,
+            "longitude": 78.77
+        },
+        {
+            "officeName": "Qazipura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Bareilly Region",
+            "divisionName": "Moradabad Division",
+            "latitude": 28.83,
+            "longitude": 78.77
+        }
+    ]
+}

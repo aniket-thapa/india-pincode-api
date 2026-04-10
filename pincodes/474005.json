@@ -1,0 +1,76 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "GWALIOR",
+    "offices": [
+        {
+            "officeName": "Bhadroli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gwalior Division",
+            "latitude": 26.256627,
+            "longitude": 78.262565
+        },
+        {
+            "officeName": "Jamahar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gwalior Division",
+            "latitude": 26.280136,
+            "longitude": 78.173188
+        },
+        {
+            "officeName": "Gwalior Residency S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gwalior Division",
+            "latitude": 26.230832,
+            "longitude": 78.321936
+        },
+        {
+            "officeName": "Baraua B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gwalior Division",
+            "latitude": 26.314105,
+            "longitude": 78.1315
+        },
+        {
+            "officeName": "Susera B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gwalior Division",
+            "latitude": 26.323945,
+            "longitude": 78.153593
+        },
+        {
+            "officeName": "Dharamshala (D.D. Nagar) S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gwalior Division",
+            "latitude": 26.230832,
+            "longitude": 78.321936
+        },
+        {
+            "officeName": "Gwalior Residency Nodal Delivery Center",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gwalior Division",
+            "latitude": 26.234382,
+            "longitude": 78.208398
+        }
+    ]
+}

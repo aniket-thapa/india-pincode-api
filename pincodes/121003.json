@@ -1,0 +1,56 @@
+{
+    "state": "HARYANA",
+    "district": "FARIDABAD",
+    "offices": [
+        {
+            "officeName": "Tilpat BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Faridabad Division",
+            "latitude": 28.463698,
+            "longitude": 77.333878
+        },
+        {
+            "officeName": "Mathura Road Faridabad SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Faridabad Division",
+            "latitude": 28.4513611,
+            "longitude": 77.3079444
+        },
+        {
+            "officeName": "Amarnagar SO Faridabad",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Faridabad Division",
+            "latitude": 28.3917778,
+            "longitude": 77.3021389
+        },
+        {
+            "officeName": "Anangpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Faridabad Division",
+            "latitude": 28.4625,
+            "longitude": 77.264444
+        },
+        {
+            "officeName": "Gurukul Indraprashtha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Faridabad Division",
+            "latitude": 28.359866,
+            "longitude": 77.359719
+        }
+    ]
+}

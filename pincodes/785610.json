@@ -1,0 +1,26 @@
+{
+    "state": "ASSAM",
+    "district": "GOLAGHAT",
+    "offices": [
+        {
+            "officeName": "Borjan B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Sibsagar Division",
+            "latitude": 26.2739,
+            "longitude": 94.012
+        },
+        {
+            "officeName": "Furkating S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Sibsagar Division",
+            "latitude": 26.2739,
+            "longitude": 94.012
+        }
+    ]
+}

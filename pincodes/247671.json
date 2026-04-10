@@ -1,0 +1,66 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "offices": [
+        {
+            "officeName": "Maharajpur Kalan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehradun Division",
+            "latitude": 30.19,
+            "longitude": 78.04
+        },
+        {
+            "officeName": "Podowali BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehradun Division",
+            "latitude": 29.6994,
+            "longitude": 78.0803
+        },
+        {
+            "officeName": "Bhikampur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehradun Division",
+            "latitude": 29.7341,
+            "longitude": 78.1572
+        },
+        {
+            "officeName": "Niranjanpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehradun Division",
+            "latitude": 30.2974,
+            "longitude": 78.0101
+        },
+        {
+            "officeName": "Raisi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehradun Division",
+            "latitude": 29.7573056,
+            "longitude": 78.0323611
+        },
+        {
+            "officeName": "Brahmpur Khanpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Dehradun Division",
+            "latitude": 29.9457,
+            "longitude": 78.1642
+        }
+    ]
+}

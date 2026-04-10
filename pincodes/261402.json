@@ -1,0 +1,36 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "SITAPUR",
+    "offices": [
+        {
+            "officeName": "Naimisharanya SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Sitapur Division",
+            "latitude": 27.2141,
+            "longitude": 80.2846
+        },
+        {
+            "officeName": "Bhithauli Chitrakoot BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Sitapur Division",
+            "latitude": 27.4293,
+            "longitude": 80.53
+        },
+        {
+            "officeName": "Atwa BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Sitapur Division",
+            "latitude": 27.4293,
+            "longitude": 80.53
+        }
+    ]
+}

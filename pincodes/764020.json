@@ -1,0 +1,26 @@
+{
+    "state": "ODISHA",
+    "district": "KORAPUT",
+    "offices": [
+        {
+            "officeName": "Koraput H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Koraput Division",
+            "latitude": 18.826,
+            "longitude": 82.695059
+        },
+        {
+            "officeName": "Koraput Collectorate S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Koraput Division",
+            "latitude": 18.8099445,
+            "longitude": 82.7149981
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "JHARKHAND",
+    "district": "PALAMU",
+    "offices": [
+        {
+            "officeName": "Hamidganj SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Palamau Division",
+            "latitude": 24.033525,
+            "longitude": 84.050222
+        },
+        {
+            "officeName": "Belwatikar Nd SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Palamau Division",
+            "latitude": 24.05149,
+            "longitude": 84.019119
+        },
+        {
+            "officeName": "Daltonganj HO",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Palamau Division",
+            "latitude": 24.03749,
+            "longitude": 84.06387
+        },
+        {
+            "officeName": "Daltonganj Kutchary SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Palamau Division",
+            "latitude": 24.0409167,
+            "longitude": 84.0693611
+        }
+    ]
+}

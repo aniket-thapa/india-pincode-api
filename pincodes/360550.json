@@ -1,0 +1,66 @@
+{
+    "state": "GUJARAT",
+    "district": "PORBANDAR",
+    "offices": [
+        {
+            "officeName": "Dharampur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Porbandar Division",
+            "latitude": 21.666146,
+            "longitude": 69.675076
+        },
+        {
+            "officeName": "Ranavav Railway Station SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Porbandar Division",
+            "latitude": 21.6978,
+            "longitude": 69.76062
+        },
+        {
+            "officeName": "Amardad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Porbandar Division",
+            "latitude": 21.697194,
+            "longitude": 69.72348
+        },
+        {
+            "officeName": "Bhod BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Porbandar Division",
+            "latitude": 21.669856,
+            "longitude": 69.79422
+        },
+        {
+            "officeName": "Bileshwar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Porbandar Division",
+            "latitude": 21.780085,
+            "longitude": 69.786808
+        },
+        {
+            "officeName": "Ranavav SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Rajkot Region",
+            "divisionName": "Porbandar Division",
+            "latitude": 21.6854722,
+            "longitude": 69.74425
+        }
+    ]
+}

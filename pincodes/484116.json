@@ -1,0 +1,46 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "ANUPPUR",
+    "offices": [
+        {
+            "officeName": "Kelhauri B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Shahdol Division",
+            "latitude": 23.19,
+            "longitude": 81.64
+        },
+        {
+            "officeName": "Patnakalan B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Shahdol Division",
+            "latitude": 23.12,
+            "longitude": 81.6
+        },
+        {
+            "officeName": "Amai Colliery S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Shahdol Division",
+            "latitude": 22.9734,
+            "longitude": 78.6538
+        },
+        {
+            "officeName": "Batura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Shahdol Division",
+            "latitude": 23.2,
+            "longitude": 81.63
+        }
+    ]
+}

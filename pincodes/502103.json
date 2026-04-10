@@ -1,0 +1,56 @@
+{
+    "state": "TELANGANA",
+    "district": "SIDDIPET",
+    "offices": [
+        {
+            "officeName": "Siddipet Busstand S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.1802778,
+            "longitude": 78.1454444
+        },
+        {
+            "officeName": "Prashanthnagar Town S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.0315,
+            "longitude": 78.878035
+        },
+        {
+            "officeName": "Nehru Road Town S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.10782,
+            "longitude": 78.85348
+        },
+        {
+            "officeName": "Siddipet H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 18.105264,
+            "longitude": 78.843662
+        },
+        {
+            "officeName": "Bharathnagar Town S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad City Region",
+            "divisionName": "Medak Division",
+            "latitude": 10.1690833,
+            "longitude": 78.1464722
+        }
+    ]
+}

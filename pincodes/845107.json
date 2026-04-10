@@ -1,0 +1,46 @@
+{
+    "state": "BIHAR",
+    "district": "PASHCHIM CHAMPARAN",
+    "offices": [
+        {
+            "officeName": "Champapur Gonauli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "West Champaran Division",
+            "latitude": 27.3423591,
+            "longitude": 83.98104
+        },
+        {
+            "officeName": "Laxmipur Bherihari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "West Champaran Division",
+            "latitude": 27.4047021,
+            "longitude": 83.9003021
+        },
+        {
+            "officeName": "Rampurwa BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "West Champaran Division",
+            "latitude": 27.3784845,
+            "longitude": 83.902951
+        },
+        {
+            "officeName": "Valmiki Nagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "West Champaran Division",
+            "latitude": 27.4493611,
+            "longitude": 83.9240556
+        }
+    ]
+}

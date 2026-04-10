@@ -1,0 +1,36 @@
+{
+    "state": "TELANGANA",
+    "district": "BHADRADRI KOTHAGUDEM",
+    "offices": [
+        {
+            "officeName": "Chandrugonda S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Khammam Division",
+            "latitude": 17.389,
+            "longitude": 80.6411
+        },
+        {
+            "officeName": "Bendalapadu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Khammam Division",
+            "latitude": 17.356384,
+            "longitude": 80.626504
+        },
+        {
+            "officeName": "seethaigudem B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Khammam Division",
+            "latitude": 17.400722,
+            "longitude": 80.676485
+        }
+    ]
+}

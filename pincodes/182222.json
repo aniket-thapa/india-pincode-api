@@ -1,0 +1,46 @@
+{
+    "state": "JAMMU AND KASHMIR",
+    "district": "DODA",
+    "offices": [
+        {
+            "officeName": "Chanichinta BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Udhampur Division",
+            "latitude": 1.0,
+            "longitude": 1.0
+        },
+        {
+            "officeName": "Katyara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Udhampur Division",
+            "latitude": 1.0,
+            "longitude": 1.0
+        },
+        {
+            "officeName": "Bhaderwah SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Udhampur Division",
+            "latitude": 32.5848,
+            "longitude": 75.4305
+        },
+        {
+            "officeName": "Sungli Sartingal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Udhampur Division",
+            "latitude": 1.0,
+            "longitude": 1.0
+        }
+    ]
+}

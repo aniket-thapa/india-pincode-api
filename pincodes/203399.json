@@ -1,0 +1,46 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "BULANDSHAHR",
+    "offices": [
+        {
+            "officeName": "Dharakpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Bulandshahar Division",
+            "latitude": 28.1378859,
+            "longitude": 78.3700704
+        },
+        {
+            "officeName": "Ramghat SO Bulandshahr",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Bulandshahar Division",
+            "latitude": 28.1480842,
+            "longitude": 78.433628
+        },
+        {
+            "officeName": "Chiroury BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Bulandshahar Division",
+            "latitude": 28.1124142,
+            "longitude": 78.4097242
+        },
+        {
+            "officeName": "Jargawan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Bulandshahar Division",
+            "latitude": 28.1259267,
+            "longitude": 78.3831167
+        }
+    ]
+}

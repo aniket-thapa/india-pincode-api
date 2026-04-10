@@ -1,0 +1,36 @@
+{
+    "state": "WEST BENGAL",
+    "district": "NADIA",
+    "offices": [
+        {
+            "officeName": "Aluipara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Nadia North Division",
+            "latitude": 23.31,
+            "longitude": 88.4
+        },
+        {
+            "officeName": "Joania Bhaluka SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Nadia North Division",
+            "latitude": 23.3568056,
+            "longitude": 88.4029167
+        },
+        {
+            "officeName": "Joania BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "Kolkata Region",
+            "divisionName": "Nadia North Division",
+            "latitude": 23.34,
+            "longitude": 88.41
+        }
+    ]
+}

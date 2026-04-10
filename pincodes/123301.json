@@ -1,0 +1,36 @@
+{
+    "state": "HARYANA",
+    "district": "REWARI",
+    "offices": [
+        {
+            "officeName": "Rattanthal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gurgaon Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Jakhala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gurgaon Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Guriani SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gurgaon Division",
+            "latitude": 28.3571944,
+            "longitude": 76.5355
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "offices": [
+        {
+            "officeName": "Princess Dock S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City East Division",
+            "latitude": 18.9505278,
+            "longitude": 72.8408333
+        },
+        {
+            "officeName": "Noor Baug S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City East Division",
+            "latitude": 18.9941944,
+            "longitude": 72.8401944
+        },
+        {
+            "officeName": "CHINCHBUNDER S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City East Division",
+            "latitude": 18.9640277,
+            "longitude": 72.847
+        }
+    ]
+}

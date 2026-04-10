@@ -1,0 +1,56 @@
+{
+    "state": "GUJARAT",
+    "district": "ARVALLI",
+    "offices": [
+        {
+            "officeName": "Vatrakgadh BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Sabarkantha Division",
+            "latitude": 23.276609,
+            "longitude": 73.17331
+        },
+        {
+            "officeName": "Akrund SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Sabarkantha Division",
+            "latitude": 23.293421,
+            "longitude": 73.13546
+        },
+        {
+            "officeName": "Borditimba BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Sabarkantha Division",
+            "latitude": 23.229026,
+            "longitude": 73.21968
+        },
+        {
+            "officeName": "Rampura Kampa BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Sabarkantha Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Chandrej BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Sabarkantha Division",
+            "latitude": 23.248602,
+            "longitude": 73.067365
+        }
+    ]
+}

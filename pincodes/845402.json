@@ -1,0 +1,46 @@
+{
+    "state": "BIHAR",
+    "district": "PURBI CHAMPARAN",
+    "offices": [
+        {
+            "officeName": "Motihari Court SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "East Champaran Division",
+            "latitude": 26.6340556,
+            "longitude": 84.9039444
+        },
+        {
+            "officeName": "Hardia BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "East Champaran Division",
+            "latitude": 26.6567,
+            "longitude": 84.54441
+        },
+        {
+            "officeName": "Patjirwa BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "East Champaran Division",
+            "latitude": 26.0265,
+            "longitude": 85.15668
+        },
+        {
+            "officeName": "Ajgarhimath BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Bihar Circle",
+            "regionName": "Muzaffarpur Region",
+            "divisionName": "East Champaran Division",
+            "latitude": 26.6704,
+            "longitude": 85.13756
+        }
+    ]
+}

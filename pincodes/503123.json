@@ -1,0 +1,66 @@
+{
+    "state": "TELANGANA",
+    "district": "KAMAREDDY",
+    "offices": [
+        {
+            "officeName": "ANCHANUR B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Nizamabad Division",
+            "latitude": 18.24528,
+            "longitude": 78.4570628
+        },
+        {
+            "officeName": "Sangameshwar B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Nizamabad Division",
+            "latitude": 18.2233893,
+            "longitude": 78.4516614
+        },
+        {
+            "officeName": "Amberipet B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Nizamabad Division",
+            "latitude": 18.2673626,
+            "longitude": 78.4995897
+        },
+        {
+            "officeName": "MUTHYAMPET B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Nizamabad Division",
+            "latitude": 18.2874185,
+            "longitude": 78.4056046
+        },
+        {
+            "officeName": "Domakonda S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Nizamabad Division",
+            "latitude": 18.25395611,
+            "longitude": 78.4349546
+        },
+        {
+            "officeName": "Faridpet B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Nizamabad Division",
+            "latitude": 18.3137197,
+            "longitude": 78.4559903
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "NASHIK",
+    "offices": [
+        {
+            "officeName": "Pimpalgaon D B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Malegaon Division",
+            "latitude": 20.5822899,
+            "longitude": 74.43555
+        },
+        {
+            "officeName": "Jalgaon Galane B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Malegaon Division",
+            "latitude": 20.54984,
+            "longitude": 74.45877
+        },
+        {
+            "officeName": "G.S.S.K. S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Navi Mumbai Region",
+            "divisionName": "Malegaon Division",
+            "latitude": 20.554431,
+            "longitude": 74.512024
+        }
+    ]
+}

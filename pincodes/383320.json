@@ -1,0 +1,46 @@
+{
+    "state": "GUJARAT",
+    "district": "ARVALLI",
+    "offices": [
+        {
+            "officeName": "Shampur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Sabarkantha Division",
+            "latitude": 23.580615,
+            "longitude": 73.228617
+        },
+        {
+            "officeName": "Sardoi SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Sabarkantha Division",
+            "latitude": 23.598551,
+            "longitude": 73.237148
+        },
+        {
+            "officeName": "Gadhada BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Sabarkantha Division",
+            "latitude": 23.580578,
+            "longitude": 73.208709
+        },
+        {
+            "officeName": "Davli BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Gujarat Circle",
+            "regionName": "Ahmedabad HQ Region",
+            "divisionName": "Sabarkantha Division",
+            "latitude": 23.593231,
+            "longitude": 73.208063
+        }
+    ]
+}

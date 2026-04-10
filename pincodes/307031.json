@@ -1,0 +1,36 @@
+{
+    "state": "RAJASTHAN",
+    "district": "SIROHI",
+    "offices": [
+        {
+            "officeName": "Amli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 24.836722,
+            "longitude": 73.123493
+        },
+        {
+            "officeName": "Thandi Beri B.O.",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 24.808626,
+            "longitude": 73.188062
+        },
+        {
+            "officeName": "Adityanagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Rajasthan Circle",
+            "regionName": "Jodhpur Region",
+            "divisionName": "Sirohi Division",
+            "latitude": 24.8227,
+            "longitude": 72.6517222
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "TIRUVANNAMALAI",
+    "offices": [
+        {
+            "officeName": "Susainagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tiruvannamalai Division",
+            "latitude": 12.2351944,
+            "longitude": 79.0765833
+        },
+        {
+            "officeName": "Thatchur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tiruvannamalai Division",
+            "latitude": 12.7231,
+            "longitude": 79.5738
+        },
+        {
+            "officeName": "Arayalam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tiruvannamalai Division",
+            "latitude": 12.7231,
+            "longitude": 79.5738
+        },
+        {
+            "officeName": "Odalavadi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Tiruvannamalai Division",
+            "latitude": 12.7231,
+            "longitude": 79.5738
+        }
+    ]
+}

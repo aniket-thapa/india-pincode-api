@@ -1,0 +1,46 @@
+{
+    "state": "KARNATAKA",
+    "district": "BALLARI",
+    "offices": [
+        {
+            "officeName": "Hosapete Patel Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Ballari Division",
+            "latitude": 15.2739722,
+            "longitude": 76.3783611
+        },
+        {
+            "officeName": "Hosapete J P Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Ballari Division",
+            "latitude": 15.2663532,
+            "longitude": 76.3956667
+        },
+        {
+            "officeName": "Hosapete H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Ballari Division",
+            "latitude": 15.2713889,
+            "longitude": 76.391
+        },
+        {
+            "officeName": "Hosapete Ranipet S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Ballari Division",
+            "latitude": 15.2752222,
+            "longitude": 76.3866667
+        }
+    ]
+}

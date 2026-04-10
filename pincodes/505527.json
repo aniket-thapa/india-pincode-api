@@ -1,0 +1,36 @@
+{
+    "state": "TELANGANA",
+    "district": "KARIMNAGAR",
+    "offices": [
+        {
+            "officeName": "Algunur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Karimnagar Division",
+            "latitude": 18.401664,
+            "longitude": 79.145894
+        },
+        {
+            "officeName": "Lower Manair Dam Colony S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Karimnagar Division",
+            "latitude": 18.374613,
+            "longitude": 79.15626
+        },
+        {
+            "officeName": "Thimmapur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Telangana Circle",
+            "regionName": "Hyderabad Region",
+            "divisionName": "Karimnagar Division",
+            "latitude": 18.372061,
+            "longitude": 79.172489
+        }
+    ]
+}

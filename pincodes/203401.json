@@ -1,0 +1,36 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "BULANDSHAHR",
+    "offices": [
+        {
+            "officeName": "Aurangabad SO Bulandshahr",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Bulandshahar Division",
+            "latitude": 28.4037222,
+            "longitude": 77.8560278
+        },
+        {
+            "officeName": "Paswasara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Bulandshahar Division",
+            "latitude": 28.5148577,
+            "longitude": 77.8840541
+        },
+        {
+            "officeName": "Visundhara BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Agra Region",
+            "divisionName": "Bulandshahar Division",
+            "latitude": 28.504176,
+            "longitude": 77.896285
+        }
+    ]
+}

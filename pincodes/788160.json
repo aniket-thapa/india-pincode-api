@@ -1,0 +1,26 @@
+{
+    "state": "ASSAM",
+    "district": "HAILAKANDI",
+    "offices": [
+        {
+            "officeName": "Sudarshanpur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Cachar Division",
+            "latitude": 24.55,
+            "longitude": 92.59
+        },
+        {
+            "officeName": "Jaffirband S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Cachar Division",
+            "latitude": 24.55,
+            "longitude": 92.59
+        }
+    ]
+}

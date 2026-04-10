@@ -1,0 +1,36 @@
+{
+    "state": "KERALA",
+    "district": "WAYANAD",
+    "offices": [
+        {
+            "officeName": "Chellangode BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Calicut Division",
+            "latitude": 11.54,
+            "longitude": 76.27
+        },
+        {
+            "officeName": "Kadalmat BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Calicut Division",
+            "latitude": 11.54,
+            "longitude": 76.22
+        },
+        {
+            "officeName": "Vatuvanchal SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Kerala Circle",
+            "regionName": "Calicut Region",
+            "divisionName": "Calicut Division",
+            "latitude": 11.5565585,
+            "longitude": 76.2230296
+        }
+    ]
+}

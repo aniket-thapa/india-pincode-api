@@ -1,0 +1,56 @@
+{
+    "state": "TAMIL NADU",
+    "district": "DINDIGUL",
+    "offices": [
+        {
+            "officeName": "MVadipatti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Dindigul Division",
+            "latitude": 10.19,
+            "longitude": 77.77
+        },
+        {
+            "officeName": "Sangareddikottai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Dindigul Division",
+            "latitude": 10.21,
+            "longitude": 77.79
+        },
+        {
+            "officeName": "Ayyankottai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Dindigul Division",
+            "latitude": 10.21,
+            "longitude": 77.77
+        },
+        {
+            "officeName": "Sevugampatti BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Dindigul Division",
+            "latitude": 10.2,
+            "longitude": 77.8
+        },
+        {
+            "officeName": "Pattiveeranpatti SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Southern Region Madurai",
+            "divisionName": "Dindigul Division",
+            "latitude": 10.2090833,
+            "longitude": 77.7625833
+        }
+    ]
+}

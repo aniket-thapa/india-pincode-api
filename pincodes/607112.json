@@ -1,0 +1,46 @@
+{
+    "state": "TAMIL NADU",
+    "district": "CUDDALORE",
+    "offices": [
+        {
+            "officeName": "Maligaimedu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Cuddalore Division",
+            "latitude": 11.8,
+            "longitude": 79.58
+        },
+        {
+            "officeName": "Kilkavarappattu S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Cuddalore Division",
+            "latitude": 11.79,
+            "longitude": 79.59
+        },
+        {
+            "officeName": "Melkavrapattu B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Cuddalore Division",
+            "latitude": 11.79,
+            "longitude": 79.59
+        },
+        {
+            "officeName": "Pagandai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Central Region Trichirapalli",
+            "divisionName": "Cuddalore Division",
+            "latitude": 11.82,
+            "longitude": 79.61
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "HAVERI",
+    "offices": [
+        {
+            "officeName": "Belur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Haveri Division",
+            "latitude": 14.7195016,
+            "longitude": 75.7549223
+        },
+        {
+            "officeName": "Konanatambagi B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Haveri Division",
+            "latitude": 14.6737324,
+            "longitude": 75.7976123
+        },
+        {
+            "officeName": "Medleri S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Haveri Division",
+            "latitude": 14.6706474,
+            "longitude": 75.7324979
+        }
+    ]
+}

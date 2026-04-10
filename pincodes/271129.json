@@ -1,0 +1,56 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "GONDA",
+    "offices": [
+        {
+            "officeName": "Karnipur Deeh BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gonda Division",
+            "latitude": 26.951868,
+            "longitude": 82.146885
+        },
+        {
+            "officeName": "Chandapur SO Gonda",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gonda Division",
+            "latitude": 27.1289167,
+            "longitude": 81.9433056
+        },
+        {
+            "officeName": "Banepur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gonda Division",
+            "latitude": 22.735261,
+            "longitude": 88.1639
+        },
+        {
+            "officeName": "Kotha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gonda Division",
+            "latitude": 26.935832,
+            "longitude": 82.174083
+        },
+        {
+            "officeName": "Naipur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Gorakhpur Region",
+            "divisionName": "Gonda Division",
+            "latitude": 22.02587,
+            "longitude": 87.51238
+        }
+    ]
+}

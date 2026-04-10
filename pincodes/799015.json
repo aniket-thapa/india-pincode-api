@@ -1,0 +1,26 @@
+{
+    "state": "TRIPURA",
+    "district": "West Tripura",
+    "offices": [
+        {
+            "officeName": "Tebaria B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - I Region",
+            "divisionName": "Agartala Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Narayanpur Bazar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - I Region",
+            "divisionName": "Agartala Division",
+            "latitude": 23.909314,
+            "longitude": 91.251929
+        }
+    ]
+}

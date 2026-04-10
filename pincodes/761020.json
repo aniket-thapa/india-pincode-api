@@ -1,0 +1,36 @@
+{
+    "state": "ODISHA",
+    "district": "GANJAM",
+    "offices": [
+        {
+            "officeName": "Sitarampalli S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Berhampur Division",
+            "latitude": 19.3563733,
+            "longitude": 84.9811483
+        },
+        {
+            "officeName": "Chatrapur H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Berhampur Division",
+            "latitude": 19.360235,
+            "longitude": 84.995822
+        },
+        {
+            "officeName": "Chatrapur Bazar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Berhampur Division",
+            "latitude": 19.3600767,
+            "longitude": 84.9874933
+        }
+    ]
+}

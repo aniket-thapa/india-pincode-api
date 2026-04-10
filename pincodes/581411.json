@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "UTTARA KANNADA",
+    "offices": [
+        {
+            "officeName": "Nandikatta B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Sirsi Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Tibetan Colony S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Sirsi Division",
+            "latitude": 15.42,
+            "longitude": 75.63
+        },
+        {
+            "officeName": "Kusur B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Sirsi Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

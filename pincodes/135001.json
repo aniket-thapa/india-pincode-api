@@ -1,0 +1,76 @@
+{
+    "state": "HARYANA",
+    "district": "YAMUNANAGAR",
+    "offices": [
+        {
+            "officeName": "Bhatia Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.1339444,
+            "longitude": 77.29075
+        },
+        {
+            "officeName": "Model Town S.O (Yamuna Nagar)",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 18.6636256,
+            "longitude": 73.780869
+        },
+        {
+            "officeName": "Mud Hut Colony S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 77.26175,
+            "longitude": 30.1213889
+        },
+        {
+            "officeName": "Yamunanagar H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.136043,
+            "longitude": 77.276951
+        },
+        {
+            "officeName": "Yamuna Nagar Railway Station S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 18.6636256,
+            "longitude": 73.780869
+        },
+        {
+            "officeName": "Sugar Mill S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.1288889,
+            "longitude": 77.28975
+        },
+        {
+            "officeName": "Ram Pura Olony S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Haryana Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Ambala Division",
+            "latitude": 30.1383333,
+            "longitude": 77.29875
+        }
+    ]
+}

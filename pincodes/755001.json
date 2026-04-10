@@ -1,0 +1,46 @@
+{
+    "state": "ODISHA",
+    "district": "JAJAPUR",
+    "offices": [
+        {
+            "officeName": "Jajpur Bazar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "JAJPUR DIVISION",
+            "latitude": 20.8523333,
+            "longitude": 86.3293333
+        },
+        {
+            "officeName": "Jajpur College S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "JAJPUR DIVISION",
+            "latitude": 20.837964,
+            "longitude": 86.312179
+        },
+        {
+            "officeName": "Jajpur H.O",
+            "officeType": "HO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "JAJPUR DIVISION",
+            "latitude": 20.8523333,
+            "longitude": 86.3293333
+        },
+        {
+            "officeName": "Ankula S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Bhubaneswar HQ Region",
+            "divisionName": "JAJPUR DIVISION",
+            "latitude": 20.8798056,
+            "longitude": 86.3228333
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "WEST BENGAL",
+    "district": "BANKURA",
+    "offices": [
+        {
+            "officeName": "Ramsagar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Bankura Division",
+            "latitude": 23.31944,
+            "longitude": 87.36444
+        },
+        {
+            "officeName": "Patpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "South Bengal Region",
+            "divisionName": "Bankura Division",
+            "latitude": 23.144936,
+            "longitude": 87.204481
+        }
+    ]
+}

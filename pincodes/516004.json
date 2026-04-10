@@ -1,0 +1,46 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "Y.S.R.",
+    "offices": [
+        {
+            "officeName": "Industrial Estate B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Cuddapah Division",
+            "latitude": 14.4513106,
+            "longitude": 78.8375544
+        },
+        {
+            "officeName": "Mamillapalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Cuddapah Division",
+            "latitude": 14.4425922,
+            "longitude": 78.8345481
+        },
+        {
+            "officeName": "Chinna Musali Reddy Palli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Cuddapah Division",
+            "latitude": 14.4437259,
+            "longitude": 78.8294272
+        },
+        {
+            "officeName": "Yerramukkapalli S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Cuddapah Division",
+            "latitude": 14.4673691,
+            "longitude": 78.8241189
+        }
+    ]
+}

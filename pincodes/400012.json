@@ -1,0 +1,66 @@
+{
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "offices": [
+        {
+            "officeName": "Parel Rly Work Shop S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City East Division",
+            "latitude": 19.0009167,
+            "longitude": 72.8365
+        },
+        {
+            "officeName": "Haffkin Institute S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City East Division",
+            "latitude": 19.0016111,
+            "longitude": 72.8442222
+        },
+        {
+            "officeName": "Lal Baug S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City East Division",
+            "latitude": 18.9909167,
+            "longitude": 72.8380556
+        },
+        {
+            "officeName": "Parel S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City East Division",
+            "latitude": 18.9951667,
+            "longitude": 72.8372778
+        },
+        {
+            "officeName": "Chamarbaug S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City East Division",
+            "latitude": 19.0053611,
+            "longitude": 72.8383611
+        },
+        {
+            "officeName": "Parel Naka S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Maharashtra Circle",
+            "regionName": "Mumbai Region",
+            "divisionName": "Mumbai City East Division",
+            "latitude": 19.0056667,
+            "longitude": 72.8395278
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "state": "MIZORAM",
+    "district": "SERCHHIP",
+    "offices": [
+        {
+            "officeName": "N. Vanlaiphai S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - I Region",
+            "divisionName": "Mizoram Division",
+            "latitude": 23.7258333,
+            "longitude": 92.7190278
+        },
+        {
+            "officeName": "Chekawn B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - I Region",
+            "divisionName": "Mizoram Division",
+            "latitude": 23.1872628,
+            "longitude": 93.0167984
+        },
+        {
+            "officeName": "Lungchhuan B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - I Region",
+            "divisionName": "Mizoram Division",
+            "latitude": 23.148923,
+            "longitude": 93.0140197
+        },
+        {
+            "officeName": "Lungkawlh B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - I Region",
+            "divisionName": "Mizoram Division",
+            "latitude": 23.0807976,
+            "longitude": 93.0856991
+        },
+        {
+            "officeName": "Sialsir B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "North East - I Region",
+            "divisionName": "Mizoram Division",
+            "latitude": 23.1715958,
+            "longitude": 92.9897082
+        }
+    ]
+}

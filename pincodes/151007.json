@@ -1,0 +1,66 @@
+{
+    "state": "PUNJAB",
+    "district": "BATHINDA",
+    "offices": [
+        {
+            "officeName": "Bhisiana BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Bhatinda Division",
+            "latitude": 30.271017535403303,
+            "longitude": 74.77338503351805
+        },
+        {
+            "officeName": "Virk Kalan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Bhatinda Division",
+            "latitude": 30.25035542889424,
+            "longitude": 74.75686819329046
+        },
+        {
+            "officeName": "Burj Mehma BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Bhatinda Division",
+            "latitude": 30.264510814536603,
+            "longitude": 74.79997329158657
+        },
+        {
+            "officeName": "Mehma Bhagwana BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Bhatinda Division",
+            "latitude": 30.288886678544557,
+            "longitude": 74.81557120337054
+        },
+        {
+            "officeName": "Virk Khurd BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Bhatinda Division",
+            "latitude": 30.241728493266276,
+            "longitude": 74.74188336241598
+        },
+        {
+            "officeName": "Air Force Station Bhisiana",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "Punjab West Region",
+            "divisionName": "Bhatinda Division",
+            "latitude": 30.270952673822404,
+            "longitude": 74.77336357397677
+        }
+    ]
+}

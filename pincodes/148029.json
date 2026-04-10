@@ -1,0 +1,36 @@
+{
+    "state": "PUNJAB",
+    "district": "SANGRUR",
+    "offices": [
+        {
+            "officeName": "Shahpur kalan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sangrur Division",
+            "latitude": 30.137231,
+            "longitude": 75.677536
+        },
+        {
+            "officeName": "Jharon BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sangrur Division",
+            "latitude": 30.131501,
+            "longitude": 75.651357
+        },
+        {
+            "officeName": "Cheema SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Punjab Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sangrur Division",
+            "latitude": 30.0990278,
+            "longitude": 75.68125
+        }
+    ]
+}

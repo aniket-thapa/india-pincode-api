@@ -1,0 +1,66 @@
+{
+    "state": "TAMIL NADU",
+    "district": "VELLORE",
+    "offices": [
+        {
+            "officeName": "Vellore Collectorate S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Vellore Division",
+            "latitude": 12.9201111,
+            "longitude": 79.1280556
+        },
+        {
+            "officeName": "Alamelumangapuram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Vellore Division",
+            "latitude": 13.2281,
+            "longitude": 79.5846
+        },
+        {
+            "officeName": "Sathuvachari Extension S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Vellore Division",
+            "latitude": 12.9156111,
+            "longitude": 79.2625833
+        },
+        {
+            "officeName": "Sathuvachari S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Vellore Division",
+            "latitude": 12.9156111,
+            "longitude": 79.7650556
+        },
+        {
+            "officeName": "Perumugai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Vellore Division",
+            "latitude": 12.9462,
+            "longitude": 79.2028
+        },
+        {
+            "officeName": "Rangapuram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Vellore Division",
+            "latitude": 12.9451,
+            "longitude": 79.1714
+        }
+    ]
+}

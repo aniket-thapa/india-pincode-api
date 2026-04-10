@@ -1,0 +1,46 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "offices": [
+        {
+            "officeName": "Beltari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pithoragarh Division",
+            "latitude": 29.498365,
+            "longitude": 80.276971
+        },
+        {
+            "officeName": "Simalkote BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pithoragarh Division",
+            "latitude": 29.548666,
+            "longitude": 80.276628
+        },
+        {
+            "officeName": "Bilai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pithoragarh Division",
+            "latitude": 29.532686,
+            "longitude": 80.246201
+        },
+        {
+            "officeName": "Bharkatia SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pithoragarh Division",
+            "latitude": 29.5723611,
+            "longitude": 80.2548056
+        }
+    ]
+}

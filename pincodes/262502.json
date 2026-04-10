@@ -1,0 +1,36 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "offices": [
+        {
+            "officeName": "Bisharh BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pithoragarh Division",
+            "latitude": 29.563822,
+            "longitude": 80.195088
+        },
+        {
+            "officeName": "Degree College SO Pithoragarh",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pithoragarh Division",
+            "latitude": 29.581748,
+            "longitude": 80.1998299
+        },
+        {
+            "officeName": "Paun BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Pithoragarh Division",
+            "latitude": 29.581871,
+            "longitude": 80.188512
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "state": "PUDUCHERRY",
+    "district": "PONDICHERRY",
+    "offices": [
+        {
+            "officeName": "Ariyur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Pondicherry Division",
+            "latitude": 11.91,
+            "longitude": 79.7
+        },
+        {
+            "officeName": "Chinnababusamudram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Pondicherry Division",
+            "latitude": 11.93,
+            "longitude": 79.69
+        },
+        {
+            "officeName": "Pallithennal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Pondicherry Division",
+            "latitude": 11.9,
+            "longitude": 79.72
+        },
+        {
+            "officeName": "Kandamangalam SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Pondicherry Division",
+            "latitude": 11.9151111,
+            "longitude": 79.6873333
+        },
+        {
+            "officeName": "Periyababusamudram BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Pondicherry Division",
+            "latitude": 11.94,
+            "longitude": 79.68
+        },
+        {
+            "officeName": "Thiruvandarkoil BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Tamilnadu Circle",
+            "regionName": "Chennai City Region",
+            "divisionName": "Pondicherry Division",
+            "latitude": 11.92,
+            "longitude": 79.66
+        }
+    ]
+}

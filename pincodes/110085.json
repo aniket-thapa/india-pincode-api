@@ -1,0 +1,86 @@
+{
+    "state": "DELHI",
+    "district": "NORTH WEST",
+    "offices": [
+        {
+            "officeName": "Prashant Vihar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.7168889,
+            "longitude": 77.1380556
+        },
+        {
+            "officeName": "Rohini Courts SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.70775,
+            "longitude": 77.132
+        },
+        {
+            "officeName": "Rohini sec11 SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.728826,
+            "longitude": 77.106806
+        },
+        {
+            "officeName": "Rohini Sector7 SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.6933611,
+            "longitude": 77.1713889
+        },
+        {
+            "officeName": "Avantika SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.707962,
+            "longitude": 77.117033
+        },
+        {
+            "officeName": "Rohini Sector 5 SO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.71575,
+            "longitude": 77.11
+        },
+        {
+            "officeName": "Rohini Sector 16 PO",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.73545,
+            "longitude": 77.117477
+        },
+        {
+            "officeName": "Rithala BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Delhi Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Delhi North Division",
+            "latitude": 28.6933611,
+            "longitude": 77.1713889
+        }
+    ]
+}

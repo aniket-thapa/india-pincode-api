@@ -1,0 +1,76 @@
+{
+    "state": "JAMMU AND KASHMIR",
+    "district": "ANANTNAG",
+    "offices": [
+        {
+            "officeName": "Nambal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 33.89,
+            "longitude": 74.24
+        },
+        {
+            "officeName": "Akura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 33.89,
+            "longitude": 74.24
+        },
+        {
+            "officeName": "Hutmarah BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 33.89,
+            "longitude": 74.24
+        },
+        {
+            "officeName": "Gopal Pora BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 132.0,
+            "longitude": 195.3
+        },
+        {
+            "officeName": "Nanil BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 132.5,
+            "longitude": 123.9
+        },
+        {
+            "officeName": "Ranbirpora BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 124.8,
+            "longitude": 210.0
+        },
+        {
+            "officeName": "Martand SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "Srinagar HQ Region",
+            "divisionName": "Srinagar Division",
+            "latitude": 33.75975,
+            "longitude": 75.2766944
+        }
+    ]
+}

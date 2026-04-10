@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "DHARWAD",
+    "offices": [
+        {
+            "officeName": "Dharwad S D M E college S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Dharwad Division",
+            "latitude": 15.4306768,
+            "longitude": 75.0148165
+        },
+        {
+            "officeName": "Dharwad Saraswatpur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Dharwad Division",
+            "latitude": 15.4416071,
+            "longitude": 75.0101136
+        },
+        {
+            "officeName": "Dharwad Tejaswi Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "North Karnataka Region",
+            "divisionName": "Dharwad Division",
+            "latitude": 15.4345527,
+            "longitude": 75.009333
+        }
+    ]
+}

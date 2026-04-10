@@ -1,0 +1,46 @@
+{
+    "state": "UTTARAKHAND",
+    "district": "UDAM SINGH NAGAR",
+    "offices": [
+        {
+            "officeName": "Sarasaria BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nainital Division",
+            "latitude": 28.9341326,
+            "longitude": 79.8772834
+        },
+        {
+            "officeName": "TIKURI",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nainital Division",
+            "latitude": 28.94,
+            "longitude": 79.81
+        },
+        {
+            "officeName": "Nanakmatta SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nainital Division",
+            "latitude": 28.8959444,
+            "longitude": 79.6566389
+        },
+        {
+            "officeName": "Pratappur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttarakhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Nainital Division",
+            "latitude": 29.25,
+            "longitude": 79.01
+        }
+    ]
+}

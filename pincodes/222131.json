@@ -1,0 +1,56 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "JAUNPUR",
+    "offices": [
+        {
+            "officeName": "Shahpur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Jaunpur Division",
+            "latitude": 25.9615,
+            "longitude": 82.61252
+        },
+        {
+            "officeName": "Sherawan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Jaunpur Division",
+            "latitude": 26.1357,
+            "longitude": 81.6354
+        },
+        {
+            "officeName": "Sikrara SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Jaunpur Division",
+            "latitude": 27.0691,
+            "longitude": 78.2447
+        },
+        {
+            "officeName": "Khapraha BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Jaunpur Division",
+            "latitude": 26.58,
+            "longitude": 82.58
+        },
+        {
+            "officeName": "Rithi BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Varanasi Region",
+            "divisionName": "Jaunpur Division",
+            "latitude": 25.61,
+            "longitude": 81.48
+        }
+    ]
+}

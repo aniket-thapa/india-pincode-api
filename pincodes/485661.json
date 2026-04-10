@@ -1,0 +1,36 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "SATNA",
+    "offices": [
+        {
+            "officeName": "Unchehara S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Satna Division",
+            "latitude": 24.3933,
+            "longitude": 80.7853
+        },
+        {
+            "officeName": "Bihata B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Satna Division",
+            "latitude": 24.579,
+            "longitude": 81.832
+        },
+        {
+            "officeName": "Karhikala B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "Jabalpur Region",
+            "divisionName": "Satna Division",
+            "latitude": 24.579,
+            "longitude": 81.832
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "state": "WEST BENGAL",
+    "district": "DINAJPUR DAKSHIN",
+    "offices": [
+        {
+            "officeName": "Fatepur BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Dakshin Dinajpur Division",
+            "latitude": 25.22,
+            "longitude": 88.77
+        },
+        {
+            "officeName": "Hili Aftair BO",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Dakshin Dinajpur Division",
+            "latitude": 25.22,
+            "longitude": 88.77
+        },
+        {
+            "officeName": "Trimohini BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Dakshin Dinajpur Division",
+            "latitude": 25.22,
+            "longitude": 88.77
+        },
+        {
+            "officeName": "Hili SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "North Bengal Region",
+            "divisionName": "Dakshin Dinajpur Division",
+            "latitude": 25.27828,
+            "longitude": 88.99178
+        }
+    ]
+}

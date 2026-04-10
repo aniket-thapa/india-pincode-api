@@ -1,0 +1,26 @@
+{
+    "state": "JHARKHAND",
+    "district": "RAMGARH",
+    "offices": [
+        {
+            "officeName": "Barkakana SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hazaribagh Division",
+            "latitude": 23.624,
+            "longitude": 85.4675833
+        },
+        {
+            "officeName": "Teliyatu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hazaribagh Division",
+            "latitude": 23.62767,
+            "longitude": 85.5105
+        }
+    ]
+}

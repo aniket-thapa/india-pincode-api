@@ -1,0 +1,26 @@
+{
+    "state": "UTTAR PRADESH",
+    "district": "AYODHYA",
+    "offices": [
+        {
+            "officeName": "Jyoti Sadan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Faizabad Division",
+            "latitude": 26.713947,
+            "longitude": 82.1383
+        },
+        {
+            "officeName": "Dabha Samer SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Uttar Pradesh Circle",
+            "regionName": "Lucknow  HQ Region",
+            "divisionName": "Faizabad Division",
+            "latitude": 26.725927,
+            "longitude": 82.161845
+        }
+    ]
+}

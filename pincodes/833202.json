@@ -1,0 +1,56 @@
+{
+    "state": "JHARKHAND",
+    "district": "WEST SINGHBHUM",
+    "offices": [
+        {
+            "officeName": "Asura BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Singhbhum Division",
+            "latitude": 22.5188,
+            "longitude": 85.83595
+        },
+        {
+            "officeName": "Singhpokharia BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Singhbhum Division",
+            "latitude": 22.4521,
+            "longitude": 85.8144
+        },
+        {
+            "officeName": "Tata College Chaibasa SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Singhbhum Division",
+            "latitude": 22.52687,
+            "longitude": 85.81494
+        },
+        {
+            "officeName": "Kelende  BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Singhbhum Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Tuibir  BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Singhbhum Division",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "state": "JHARKHAND",
+    "district": "HAZARIBAGH",
+    "offices": [
+        {
+            "officeName": "Jagarnath Dham BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hazaribagh Division",
+            "latitude": 23.9938,
+            "longitude": 85.4757
+        },
+        {
+            "officeName": "BSF Meru SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hazaribagh Division",
+            "latitude": 24.026542,
+            "longitude": 85.46592
+        },
+        {
+            "officeName": "Sarauni Khurd",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jharkhand Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Hazaribagh Division",
+            "latitude": 24.05121,
+            "longitude": 84.89448
+        }
+    ]
+}

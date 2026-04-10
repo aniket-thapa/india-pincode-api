@@ -1,0 +1,36 @@
+{
+    "state": "KARNATAKA",
+    "district": "KOLAR",
+    "offices": [
+        {
+            "officeName": "ROBERTSONPET MDG",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Kolar Division",
+            "latitude": 12.9565,
+            "longitude": 78.2701667
+        },
+        {
+            "officeName": "Ganeshpuram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Kolar Division",
+            "latitude": 12.957102,
+            "longitude": 78.2766927
+        },
+        {
+            "officeName": "Parandahalli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Non Delivery",
+            "circleName": "Karnataka Circle",
+            "regionName": "South Karnataka Region",
+            "divisionName": "Kolar Division",
+            "latitude": 12.9581427,
+            "longitude": 78.283248
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "MEGHALAYA",
+    "district": "WEST JAINTIA HILLS",
+    "offices": [
+        {
+            "officeName": "Amlarem S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Meghalaya Division",
+            "latitude": 25.26,
+            "longitude": 92.08
+        },
+        {
+            "officeName": "Amlari B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Meghalaya Division",
+            "latitude": 25.200514,
+            "longitude": 92.151292
+        }
+    ]
+}

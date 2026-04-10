@@ -1,0 +1,66 @@
+{
+    "state": "MADHYA PRADESH",
+    "district": "GWALIOR",
+    "offices": [
+        {
+            "officeName": "Kalyani B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gwalior Division",
+            "latitude": 26.024777,
+            "longitude": 78.230526
+        },
+        {
+            "officeName": "Akbai B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gwalior Division",
+            "latitude": 78.204,
+            "longitude": 25.926
+        },
+        {
+            "officeName": "Ladhwaya B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gwalior Division",
+            "latitude": 25.992511,
+            "longitude": 78.227678
+        },
+        {
+            "officeName": "Chiruli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gwalior Division",
+            "latitude": 26.008004,
+            "longitude": 78.310249
+        },
+        {
+            "officeName": "Beru B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gwalior Division",
+            "latitude": 25.954536,
+            "longitude": 78.261853
+        },
+        {
+            "officeName": "Tekanpur S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Madhya Pradesh Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Gwalior Division",
+            "latitude": 26.178647,
+            "longitude": 78.144908
+        }
+    ]
+}

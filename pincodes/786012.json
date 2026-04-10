@@ -1,0 +1,36 @@
+{
+    "state": "ASSAM",
+    "district": "DIBRUGARH",
+    "offices": [
+        {
+            "officeName": "Naga Ghuli Kanaigaon B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Dibrugarh Division",
+            "latitude": 27.48,
+            "longitude": 95.02
+        },
+        {
+            "officeName": "Mohanbari Air Field S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Dibrugarh Division",
+            "latitude": 27.4767778,
+            "longitude": 95.0161944
+        },
+        {
+            "officeName": "Harabari B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Assam Circle",
+            "regionName": "Dibrugarh Region",
+            "divisionName": "Dibrugarh Division",
+            "latitude": 27.48,
+            "longitude": 95.02
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "state": "ANDHRA PRADESH",
+    "district": "KURNOOL",
+    "offices": [
+        {
+            "officeName": "Stantanpuram B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Kurnool Division",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "officeName": "Balaji Nagar S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Andhra Pradesh Circle",
+            "regionName": "Kurnool Region",
+            "divisionName": "Kurnool Division",
+            "latitude": 15.78169444,
+            "longitude": 78.06316667
+        }
+    ]
+}

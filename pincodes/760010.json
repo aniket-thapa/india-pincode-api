@@ -1,0 +1,36 @@
+{
+    "state": "ODISHA",
+    "district": "GANJAM",
+    "offices": [
+        {
+            "officeName": "Dura B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Berhampur Division",
+            "latitude": 19.2995566,
+            "longitude": 84.8516766
+        },
+        {
+            "officeName": "Ankuli B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Berhampur Division",
+            "latitude": 19.3005211,
+            "longitude": 84.8279098
+        },
+        {
+            "officeName": "Engineering School S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Odisha Circle",
+            "regionName": "Berhampur Region",
+            "divisionName": "Berhampur Division",
+            "latitude": 19.3086016,
+            "longitude": 84.8239599
+        }
+    ]
+}
