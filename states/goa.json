@@ -1,0 +1,17 @@
+{
+    "name": "GOA",
+    "slug": "goa",
+    "districtCount": 2,
+    "districts": [
+        {
+            "name": "NORTH GOA",
+            "slug": "north-goa",
+            "officeCount": 133
+        },
+        {
+            "name": "SOUTH GOA",
+            "slug": "south-goa",
+            "officeCount": 128
+        }
+    ]
+}

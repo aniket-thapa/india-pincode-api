@@ -1,0 +1,67 @@
+{
+    "name": "NAGALAND",
+    "slug": "nagaland",
+    "districtCount": 12,
+    "districts": [
+        {
+            "name": "DIMAPUR",
+            "slug": "dimapur",
+            "officeCount": 51
+        },
+        {
+            "name": "KIPHIRE",
+            "slug": "kiphire",
+            "officeCount": 21
+        },
+        {
+            "name": "KOHIMA",
+            "slug": "kohima",
+            "officeCount": 50
+        },
+        {
+            "name": "LONGLENG",
+            "slug": "longleng",
+            "officeCount": 11
+        },
+        {
+            "name": "MOKOKCHUNG",
+            "slug": "mokokchung",
+            "officeCount": 53
+        },
+        {
+            "name": "MON",
+            "slug": "mon",
+            "officeCount": 32
+        },
+        {
+            "name": "NOKLAK",
+            "slug": "noklak",
+            "officeCount": 9
+        },
+        {
+            "name": "PEREN",
+            "slug": "peren",
+            "officeCount": 25
+        },
+        {
+            "name": "PHEK",
+            "slug": "phek",
+            "officeCount": 39
+        },
+        {
+            "name": "TUENSANG",
+            "slug": "tuensang",
+            "officeCount": 41
+        },
+        {
+            "name": "WOKHA",
+            "slug": "wokha",
+            "officeCount": 29
+        },
+        {
+            "name": "ZUNHEBOTO",
+            "slug": "zunheboto",
+            "officeCount": 42
+        }
+    ]
+}

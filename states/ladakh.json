@@ -1,0 +1,17 @@
+{
+    "name": "LADAKH",
+    "slug": "ladakh",
+    "districtCount": 2,
+    "districts": [
+        {
+            "name": "KARGIL",
+            "slug": "kargil",
+            "officeCount": 58
+        },
+        {
+            "name": "LEH LADAKH",
+            "slug": "leh-ladakh",
+            "officeCount": 61
+        }
+    ]
+}

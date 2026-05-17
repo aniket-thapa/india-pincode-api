@@ -1,0 +1,72 @@
+{
+    "name": "UTTARAKHAND",
+    "slug": "uttarakhand",
+    "districtCount": 13,
+    "districts": [
+        {
+            "name": "ALMORA",
+            "slug": "almora",
+            "officeCount": 326
+        },
+        {
+            "name": "BAGESHWAR",
+            "slug": "bageshwar",
+            "officeCount": 153
+        },
+        {
+            "name": "CHAMOLI",
+            "slug": "chamoli",
+            "officeCount": 261
+        },
+        {
+            "name": "CHAMPAWAT",
+            "slug": "champawat",
+            "officeCount": 84
+        },
+        {
+            "name": "DEHRADUN",
+            "slug": "dehradun",
+            "officeCount": 247
+        },
+        {
+            "name": "HARIDWAR",
+            "slug": "haridwar",
+            "officeCount": 118
+        },
+        {
+            "name": "NAINITAL",
+            "slug": "nainital",
+            "officeCount": 165
+        },
+        {
+            "name": "PAURI GARHWAL",
+            "slug": "pauri-garhwal",
+            "officeCount": 426
+        },
+        {
+            "name": "PITHORAGARH",
+            "slug": "pithoragarh",
+            "officeCount": 322
+        },
+        {
+            "name": "RUDRA PRAYAG",
+            "slug": "rudra-prayag",
+            "officeCount": 131
+        },
+        {
+            "name": "TEHRI GARHWAL",
+            "slug": "tehri-garhwal",
+            "officeCount": 267
+        },
+        {
+            "name": "UDAM SINGH NAGAR",
+            "slug": "udam-singh-nagar",
+            "officeCount": 110
+        },
+        {
+            "name": "UTTAR KASHI",
+            "slug": "uttar-kashi",
+            "officeCount": 132
+        }
+    ]
+}

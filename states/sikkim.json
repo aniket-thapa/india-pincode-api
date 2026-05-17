@@ -1,0 +1,37 @@
+{
+    "name": "SIKKIM",
+    "slug": "sikkim",
+    "districtCount": 6,
+    "districts": [
+        {
+            "name": "EAST DISTRICT",
+            "slug": "east-district",
+            "officeCount": 51
+        },
+        {
+            "name": "NORTH DISTRICT",
+            "slug": "north-district",
+            "officeCount": 27
+        },
+        {
+            "name": "PAKYONG",
+            "slug": "pakyong",
+            "officeCount": 32
+        },
+        {
+            "name": "SORENG",
+            "slug": "soreng",
+            "officeCount": 3
+        },
+        {
+            "name": "SOUTH DISTRICT",
+            "slug": "south-district",
+            "officeCount": 51
+        },
+        {
+            "name": "WEST DISTRICT",
+            "slug": "west-district",
+            "officeCount": 48
+        }
+    ]
+}

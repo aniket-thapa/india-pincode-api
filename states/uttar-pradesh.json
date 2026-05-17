@@ -1,0 +1,382 @@
+{
+    "name": "UTTAR PRADESH",
+    "slug": "uttar-pradesh",
+    "districtCount": 75,
+    "districts": [
+        {
+            "name": "AGRA",
+            "slug": "agra",
+            "officeCount": 339
+        },
+        {
+            "name": "ALIGARH",
+            "slug": "aligarh",
+            "officeCount": 387
+        },
+        {
+            "name": "AMBEDKAR NAGAR",
+            "slug": "ambedkar-nagar",
+            "officeCount": 329
+        },
+        {
+            "name": "AMETHI",
+            "slug": "amethi",
+            "officeCount": 246
+        },
+        {
+            "name": "AMROHA",
+            "slug": "amroha",
+            "officeCount": 102
+        },
+        {
+            "name": "AURAIYA",
+            "slug": "auraiya",
+            "officeCount": 158
+        },
+        {
+            "name": "AYODHYA",
+            "slug": "ayodhya",
+            "officeCount": 367
+        },
+        {
+            "name": "AZAMGARH",
+            "slug": "azamgarh",
+            "officeCount": 412
+        },
+        {
+            "name": "BAGHPAT",
+            "slug": "baghpat",
+            "officeCount": 130
+        },
+        {
+            "name": "BAHRAICH",
+            "slug": "bahraich",
+            "officeCount": 293
+        },
+        {
+            "name": "BALLIA",
+            "slug": "ballia",
+            "officeCount": 356
+        },
+        {
+            "name": "BALRAMPUR",
+            "slug": "balrampur",
+            "officeCount": 185
+        },
+        {
+            "name": "BANDA",
+            "slug": "banda",
+            "officeCount": 210
+        },
+        {
+            "name": "BARABANKI",
+            "slug": "barabanki",
+            "officeCount": 365
+        },
+        {
+            "name": "BAREILLY",
+            "slug": "bareilly",
+            "officeCount": 289
+        },
+        {
+            "name": "BASTI",
+            "slug": "basti",
+            "officeCount": 277
+        },
+        {
+            "name": "BHADOHI",
+            "slug": "bhadohi",
+            "officeCount": 103
+        },
+        {
+            "name": "BIJNOR",
+            "slug": "bijnor",
+            "officeCount": 280
+        },
+        {
+            "name": "BUDAUN",
+            "slug": "budaun",
+            "officeCount": 252
+        },
+        {
+            "name": "BULANDSHAHR",
+            "slug": "bulandshahr",
+            "officeCount": 311
+        },
+        {
+            "name": "CHANDAULI",
+            "slug": "chandauli",
+            "officeCount": 204
+        },
+        {
+            "name": "CHITRAKOOT",
+            "slug": "chitrakoot",
+            "officeCount": 92
+        },
+        {
+            "name": "DEORIA",
+            "slug": "deoria",
+            "officeCount": 293
+        },
+        {
+            "name": "ETAH",
+            "slug": "etah",
+            "officeCount": 201
+        },
+        {
+            "name": "ETAWAH",
+            "slug": "etawah",
+            "officeCount": 175
+        },
+        {
+            "name": "FARRUKHABAD",
+            "slug": "farrukhabad",
+            "officeCount": 155
+        },
+        {
+            "name": "FATEHPUR",
+            "slug": "fatehpur",
+            "officeCount": 256
+        },
+        {
+            "name": "FIROZABAD",
+            "slug": "firozabad",
+            "officeCount": 164
+        },
+        {
+            "name": "GAUTAM BUDDHA NAGAR",
+            "slug": "gautam-buddha-nagar",
+            "officeCount": 123
+        },
+        {
+            "name": "GHAZIABAD",
+            "slug": "ghaziabad",
+            "officeCount": 118
+        },
+        {
+            "name": "GHAZIPUR",
+            "slug": "ghazipur",
+            "officeCount": 381
+        },
+        {
+            "name": "GONDA",
+            "slug": "gonda",
+            "officeCount": 351
+        },
+        {
+            "name": "GORAKHPUR",
+            "slug": "gorakhpur",
+            "officeCount": 415
+        },
+        {
+            "name": "HAMIRPUR",
+            "slug": "hamirpur",
+            "officeCount": 144
+        },
+        {
+            "name": "HAPUR",
+            "slug": "hapur",
+            "officeCount": 102
+        },
+        {
+            "name": "HARDOI",
+            "slug": "hardoi",
+            "officeCount": 334
+        },
+        {
+            "name": "HATHRAS",
+            "slug": "hathras",
+            "officeCount": 153
+        },
+        {
+            "name": "JALAUN",
+            "slug": "jalaun",
+            "officeCount": 242
+        },
+        {
+            "name": "JAUNPUR",
+            "slug": "jaunpur",
+            "officeCount": 426
+        },
+        {
+            "name": "JHANSI",
+            "slug": "jhansi",
+            "officeCount": 215
+        },
+        {
+            "name": "KANNAUJ",
+            "slug": "kannauj",
+            "officeCount": 145
+        },
+        {
+            "name": "KANPUR DEHAT",
+            "slug": "kanpur-dehat",
+            "officeCount": 199
+        },
+        {
+            "name": "KANPUR NAGAR",
+            "slug": "kanpur-nagar",
+            "officeCount": 282
+        },
+        {
+            "name": "KASGANJ",
+            "slug": "kasganj",
+            "officeCount": 109
+        },
+        {
+            "name": "KAUSHAMBI",
+            "slug": "kaushambi",
+            "officeCount": 122
+        },
+        {
+            "name": "KHERI",
+            "slug": "kheri",
+            "officeCount": 377
+        },
+        {
+            "name": "KUSHI NAGAR",
+            "slug": "kushi-nagar",
+            "officeCount": 216
+        },
+        {
+            "name": "LALITPUR",
+            "slug": "lalitpur",
+            "officeCount": 162
+        },
+        {
+            "name": "LUCKNOW",
+            "slug": "lucknow",
+            "officeCount": 288
+        },
+        {
+            "name": "MAHARAJGANJ",
+            "slug": "maharajganj",
+            "officeCount": 205
+        },
+        {
+            "name": "MAHOBA",
+            "slug": "mahoba",
+            "officeCount": 98
+        },
+        {
+            "name": "MAINPURI",
+            "slug": "mainpuri",
+            "officeCount": 182
+        },
+        {
+            "name": "MATHURA",
+            "slug": "mathura",
+            "officeCount": 216
+        },
+        {
+            "name": "MAU",
+            "slug": "mau",
+            "officeCount": 196
+        },
+        {
+            "name": "MEERUT",
+            "slug": "meerut",
+            "officeCount": 270
+        },
+        {
+            "name": "MIRZAPUR",
+            "slug": "mirzapur",
+            "officeCount": 263
+        },
+        {
+            "name": "MORADABAD",
+            "slug": "moradabad",
+            "officeCount": 143
+        },
+        {
+            "name": "MUZAFFARNAGAR",
+            "slug": "muzaffarnagar",
+            "officeCount": 228
+        },
+        {
+            "name": "PILIBHIT",
+            "slug": "pilibhit",
+            "officeCount": 166
+        },
+        {
+            "name": "PRATAPGARH",
+            "slug": "pratapgarh",
+            "officeCount": 363
+        },
+        {
+            "name": "PRAYAGRAJ",
+            "slug": "prayagraj",
+            "officeCount": 424
+        },
+        {
+            "name": "RAE BARELI",
+            "slug": "rae-bareli",
+            "officeCount": 375
+        },
+        {
+            "name": "RAMPUR",
+            "slug": "rampur",
+            "officeCount": 127
+        },
+        {
+            "name": "SAHARANPUR",
+            "slug": "saharanpur",
+            "officeCount": 211
+        },
+        {
+            "name": "SAMBHAL",
+            "slug": "sambhal",
+            "officeCount": 185
+        },
+        {
+            "name": "SANT KABEER NAGAR",
+            "slug": "sant-kabeer-nagar",
+            "officeCount": 192
+        },
+        {
+            "name": "SHAHJAHANPUR",
+            "slug": "shahjahanpur",
+            "officeCount": 294
+        },
+        {
+            "name": "SHAMLI",
+            "slug": "shamli",
+            "officeCount": 97
+        },
+        {
+            "name": "SHRAVASTI",
+            "slug": "shravasti",
+            "officeCount": 102
+        },
+        {
+            "name": "SIDDHARTH NAGAR",
+            "slug": "siddharth-nagar",
+            "officeCount": 225
+        },
+        {
+            "name": "SITAPUR",
+            "slug": "sitapur",
+            "officeCount": 423
+        },
+        {
+            "name": "SONBHADRA",
+            "slug": "sonbhadra",
+            "officeCount": 288
+        },
+        {
+            "name": "SULTANPUR",
+            "slug": "sultanpur",
+            "officeCount": 327
+        },
+        {
+            "name": "UNNAO",
+            "slug": "unnao",
+            "officeCount": 270
+        },
+        {
+            "name": "VARANASI",
+            "slug": "varanasi",
+            "officeCount": 263
+        }
+    ]
+}

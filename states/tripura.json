@@ -1,0 +1,47 @@
+{
+    "name": "TRIPURA",
+    "slug": "tripura",
+    "districtCount": 8,
+    "districts": [
+        {
+            "name": "DHALAI",
+            "slug": "dhalai",
+            "officeCount": 84
+        },
+        {
+            "name": "GOMATI",
+            "slug": "gomati",
+            "officeCount": 82
+        },
+        {
+            "name": "KHOWAI",
+            "slug": "khowai",
+            "officeCount": 67
+        },
+        {
+            "name": "NORTH TRIPURA",
+            "slug": "north-tripura",
+            "officeCount": 108
+        },
+        {
+            "name": "SEPAHIJALA",
+            "slug": "sepahijala",
+            "officeCount": 92
+        },
+        {
+            "name": "SOUTH TRIPURA",
+            "slug": "south-tripura",
+            "officeCount": 86
+        },
+        {
+            "name": "UNAKOTI",
+            "slug": "unakoti",
+            "officeCount": 79
+        },
+        {
+            "name": "WEST TRIPURA",
+            "slug": "west-tripura",
+            "officeCount": 125
+        }
+    ]
+}

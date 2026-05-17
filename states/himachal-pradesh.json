@@ -1,0 +1,67 @@
+{
+    "name": "HIMACHAL PRADESH",
+    "slug": "himachal-pradesh",
+    "districtCount": 12,
+    "districts": [
+        {
+            "name": "BILASPUR",
+            "slug": "bilaspur",
+            "officeCount": 147
+        },
+        {
+            "name": "CHAMBA",
+            "slug": "chamba",
+            "officeCount": 231
+        },
+        {
+            "name": "HAMIRPUR",
+            "slug": "hamirpur",
+            "officeCount": 228
+        },
+        {
+            "name": "KANGRA",
+            "slug": "kangra",
+            "officeCount": 651
+        },
+        {
+            "name": "KINNAUR",
+            "slug": "kinnaur",
+            "officeCount": 72
+        },
+        {
+            "name": "KULLU",
+            "slug": "kullu",
+            "officeCount": 154
+        },
+        {
+            "name": "LAHUL AND SPITI",
+            "slug": "lahul-and-spiti",
+            "officeCount": 46
+        },
+        {
+            "name": "MANDI",
+            "slug": "mandi",
+            "officeCount": 374
+        },
+        {
+            "name": "SHIMLA",
+            "slug": "shimla",
+            "officeCount": 364
+        },
+        {
+            "name": "SIRMAUR",
+            "slug": "sirmaur",
+            "officeCount": 171
+        },
+        {
+            "name": "SOLAN",
+            "slug": "solan",
+            "officeCount": 183
+        },
+        {
+            "name": "UNA",
+            "slug": "una",
+            "officeCount": 186
+        }
+    ]
+}

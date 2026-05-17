@@ -1,0 +1,41 @@
+{
+    "state": "ARUNACHAL PRADESH",
+    "stateSlug": "arunachal-pradesh",
+    "district": "KRA DAADI",
+    "districtSlug": "kra-daadi",
+    "offices": [
+        {
+            "officeName": "Chambang B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Arunachal Pradesh Division",
+            "latitude": 27.775673,
+            "longitude": 93.7797182,
+            "pincode": "791118"
+        },
+        {
+            "officeName": "Tali B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Arunachal Pradesh Division",
+            "latitude": 28.0253352,
+            "longitude": 93.7494406,
+            "pincode": "791118"
+        },
+        {
+            "officeName": "Palin S.O",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Arunachal Pradesh Division",
+            "latitude": 27.961068,
+            "longitude": 93.455524,
+            "pincode": "791118"
+        }
+    ]
+}

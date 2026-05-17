@@ -1,0 +1,22 @@
+{
+    "name": "ANDAMAN AND NICOBAR ISLANDS",
+    "slug": "andaman-and-nicobar-islands",
+    "districtCount": 3,
+    "districts": [
+        {
+            "name": "NICOBARS",
+            "slug": "nicobars",
+            "officeCount": 18
+        },
+        {
+            "name": "NORTH AND MIDDLE ANDAMAN",
+            "slug": "north-and-middle-andaman",
+            "officeCount": 34
+        },
+        {
+            "name": "SOUTH ANDAMANS",
+            "slug": "south-andamans",
+            "officeCount": 48
+        }
+    ]
+}

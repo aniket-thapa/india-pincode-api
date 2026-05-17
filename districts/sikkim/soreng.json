@@ -1,0 +1,41 @@
+{
+    "state": "SIKKIM",
+    "stateSlug": "sikkim",
+    "district": "SORENG",
+    "districtSlug": "soreng",
+    "offices": [
+        {
+            "officeName": "Bermiok BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sikkim Division",
+            "latitude": 27.25,
+            "longitude": 88.23,
+            "pincode": "737113"
+        },
+        {
+            "officeName": "Kaluk BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sikkim Division",
+            "latitude": 27.23,
+            "longitude": 88.25,
+            "pincode": "737113"
+        },
+        {
+            "officeName": "Hee Gaon BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "West Bengal Circle",
+            "regionName": "DivReportingCircle",
+            "divisionName": "Sikkim Division",
+            "latitude": 27.25,
+            "longitude": 88.19,
+            "pincode": "737113"
+        }
+    ]
+}

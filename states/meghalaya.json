@@ -1,0 +1,62 @@
+{
+    "name": "MEGHALAYA",
+    "slug": "meghalaya",
+    "districtCount": 11,
+    "districts": [
+        {
+            "name": "EAST GARO HILLS",
+            "slug": "east-garo-hills",
+            "officeCount": 81
+        },
+        {
+            "name": "EAST JAINTIA HILLS",
+            "slug": "east-jaintia-hills",
+            "officeCount": 49
+        },
+        {
+            "name": "EAST KHASI HILLS",
+            "slug": "east-khasi-hills",
+            "officeCount": 161
+        },
+        {
+            "name": "NORTH GARO HILLS",
+            "slug": "north-garo-hills",
+            "officeCount": 28
+        },
+        {
+            "name": "RI BHOI",
+            "slug": "ri-bhoi",
+            "officeCount": 76
+        },
+        {
+            "name": "SOUTH GARO HILLS",
+            "slug": "south-garo-hills",
+            "officeCount": 85
+        },
+        {
+            "name": "SOUTH WEST GARO HILLS",
+            "slug": "south-west-garo-hills",
+            "officeCount": 28
+        },
+        {
+            "name": "SOUTH WEST KHASI HILLS",
+            "slug": "south-west-khasi-hills",
+            "officeCount": 36
+        },
+        {
+            "name": "WEST GARO HILLS",
+            "slug": "west-garo-hills",
+            "officeCount": 181
+        },
+        {
+            "name": "WEST JAINTIA HILLS",
+            "slug": "west-jaintia-hills",
+            "officeCount": 110
+        },
+        {
+            "name": "WEST KHASI HILLS",
+            "slug": "west-khasi-hills",
+            "officeCount": 94
+        }
+    ]
+}

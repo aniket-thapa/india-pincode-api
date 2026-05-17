@@ -1,0 +1,62 @@
+{
+    "name": "DELHI",
+    "slug": "delhi",
+    "districtCount": 11,
+    "districts": [
+        {
+            "name": "CENTRAL",
+            "slug": "central",
+            "officeCount": 32
+        },
+        {
+            "name": "EAST",
+            "slug": "east",
+            "officeCount": 23
+        },
+        {
+            "name": "NEW DELHI",
+            "slug": "new-delhi",
+            "officeCount": 84
+        },
+        {
+            "name": "NORTH",
+            "slug": "north",
+            "officeCount": 73
+        },
+        {
+            "name": "NORTH EAST",
+            "slug": "north-east",
+            "officeCount": 21
+        },
+        {
+            "name": "NORTH WEST",
+            "slug": "north-west",
+            "officeCount": 54
+        },
+        {
+            "name": "SHAHDARA",
+            "slug": "shahdara",
+            "officeCount": 28
+        },
+        {
+            "name": "SOUTH",
+            "slug": "south",
+            "officeCount": 72
+        },
+        {
+            "name": "SOUTH EAST",
+            "slug": "south-east",
+            "officeCount": 35
+        },
+        {
+            "name": "SOUTH WEST",
+            "slug": "south-west",
+            "officeCount": 34
+        },
+        {
+            "name": "WEST",
+            "slug": "west",
+            "officeCount": 94
+        }
+    ]
+}

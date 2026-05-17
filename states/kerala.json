@@ -1,0 +1,77 @@
+{
+    "name": "KERALA",
+    "slug": "kerala",
+    "districtCount": 14,
+    "districts": [
+        {
+            "name": "ALAPPUZHA",
+            "slug": "alappuzha",
+            "officeCount": 298
+        },
+        {
+            "name": "ERNAKULAM",
+            "slug": "ernakulam",
+            "officeCount": 394
+        },
+        {
+            "name": "IDUKKI",
+            "slug": "idukki",
+            "officeCount": 296
+        },
+        {
+            "name": "KANNUR",
+            "slug": "kannur",
+            "officeCount": 383
+        },
+        {
+            "name": "KASARAGOD",
+            "slug": "kasaragod",
+            "officeCount": 233
+        },
+        {
+            "name": "KOLLAM",
+            "slug": "kollam",
+            "officeCount": 367
+        },
+        {
+            "name": "KOTTAYAM",
+            "slug": "kottayam",
+            "officeCount": 406
+        },
+        {
+            "name": "KOZHIKODE",
+            "slug": "kozhikode",
+            "officeCount": 409
+        },
+        {
+            "name": "MALAPPURAM",
+            "slug": "malappuram",
+            "officeCount": 436
+        },
+        {
+            "name": "PALAKKAD",
+            "slug": "palakkad",
+            "officeCount": 456
+        },
+        {
+            "name": "PATHANAMTHITTA",
+            "slug": "pathanamthitta",
+            "officeCount": 318
+        },
+        {
+            "name": "THIRUVANANTHAPURAM",
+            "slug": "thiruvananthapuram",
+            "officeCount": 413
+        },
+        {
+            "name": "THRISSUR",
+            "slug": "thrissur",
+            "officeCount": 485
+        },
+        {
+            "name": "WAYANAD",
+            "slug": "wayanad",
+            "officeCount": 163
+        }
+    ]
+}

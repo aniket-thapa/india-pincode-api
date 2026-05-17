@@ -1,0 +1,27 @@
+{
+    "name": "PUDUCHERRY",
+    "slug": "puducherry",
+    "districtCount": 4,
+    "districts": [
+        {
+            "name": "KARAIKAL",
+            "slug": "karaikal",
+            "officeCount": 27
+        },
+        {
+            "name": "MAHE",
+            "slug": "mahe",
+            "officeCount": 4
+        },
+        {
+            "name": "PONDICHERRY",
+            "slug": "pondicherry",
+            "officeCount": 63
+        },
+        {
+            "name": "YANAM",
+            "slug": "yanam",
+            "officeCount": 1
+        }
+    ]
+}

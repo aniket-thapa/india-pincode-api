@@ -1,0 +1,30 @@
+{
+    "state": "ARUNACHAL PRADESH",
+    "stateSlug": "arunachal-pradesh",
+    "district": "KAMLE",
+    "districtSlug": "kamle",
+    "offices": [
+        {
+            "officeName": "Raga B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Arunachal Pradesh Division",
+            "latitude": 27.8001495,
+            "longitude": 94.073395,
+            "pincode": "791120"
+        },
+        {
+            "officeName": "Boasimla B.O",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "North Eastern Circle",
+            "regionName": "Shillong HQ Region",
+            "divisionName": "Arunachal Pradesh Division",
+            "latitude": 27.734364,
+            "longitude": 93.9922298,
+            "pincode": "791120"
+        }
+    ]
+}
