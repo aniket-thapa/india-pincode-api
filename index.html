@@ -2514,6 +2514,8 @@ document.addEventListener("DOMContentLoaded", async () => {
             result = await counterClient.get(counterName);
         }
 
+        console.log(result);
+
         // EDGE CASE 3: Validate payload to prevent 'undefined' rendering
         if (result && typeof result.value === 'number') {
             // Format number cleanly (e.g., 1234 -> 1,234) based on the user's locale
@@ -2528,7 +2530,7 @@ document.addEventListener("DOMContentLoaded", async () => {
         console.error("Failed to fetch visitor count:", error);
         counterEl.textContent = "--";
     }
-});
-</script>
+  });
+  </script>
   </body>
 </html>
