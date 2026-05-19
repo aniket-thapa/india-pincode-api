@@ -2475,5 +2475,60 @@ data = <span class="line-func">bulk_lookup</span>([<span class="line-string">"11
         { passive: true },
       );
     </script>
+    <!-- Load the library with 'defer' so it doesn't block HTML parsing -->
+<script src="https://cdn.jsdelivr.net/npm/counterapi/dist/counter.browser.min.js" defer></script>
+
+<script defer>
+document.addEventListener("DOMContentLoaded", async () => {
+    const counterEl = document.getElementById("visit-count");
+    if (!counterEl) return;
+
+    // EDGE CASE 1: Ad-blockers or network failures blocking the CDN script.
+    // If the library fails to load, gracefully degrade the UI.
+    if (typeof Counter === 'undefined') {
+        console.warn("CounterAPI library blocked or failed to load.");
+        counterEl.textContent = "--";
+        return;
+    }
+
+    try {
+        // Initialize the Client
+        // Replace 'your-github-username' with a unique string to avoid namespace collisions.
+        const counterClient = new Counter({ 
+            workspace: 'your-github-username' 
+        });
+        
+        const counterName = 'homepage-visits';
+        const sessionKey = `visited_${counterName}`;
+        let result;
+
+        // EDGE CASE 2: Prevent F5 / Refresh Spam
+        // sessionStorage (which clears when the tab closes) ensures 
+        // a user only increments the counter once per active browsing session.
+        if (!sessionStorage.getItem(sessionKey)) {
+            // First time visiting in this session -> Increment the database
+            result = await counterClient.up(counterName);
+            sessionStorage.setItem(sessionKey, 'true');
+        } else {
+            // Refreshing the page -> Just fetch the current count without incrementing
+            result = await counterClient.get(counterName);
+        }
+
+        // EDGE CASE 3: Validate payload to prevent 'undefined' rendering
+        if (result && typeof result.value === 'number') {
+            // Format number cleanly (e.g., 1234 -> 1,234) based on the user's locale
+            counterEl.textContent = result.value.toLocaleString(); 
+        } else {
+            throw new Error("Invalid API payload");
+        }
+
+    } catch (error) {
+        // EDGE CASE 4: API Outage or Rate Limits
+        // Never let the user see a broken state or exposed error trace.
+        console.error("Failed to fetch visitor count:", error);
+        counterEl.textContent = "--";
+    }
+});
+</script>
   </body>
 </html>
