@@ -2514,12 +2514,10 @@ document.addEventListener("DOMContentLoaded", async () => {
             result = await counterClient.get(counterName);
         }
 
-        console.log(result);
-
         // EDGE CASE 3: Validate payload to prevent 'undefined' rendering
-        if (result && typeof result.value === 'number') {
+        if (result && result.code === '200') {
             // Format number cleanly (e.g., 1234 -> 1,234) based on the user's locale
-            counterEl.textContent = result.value.toLocaleString(); 
+            counterEl.textContent = result.data.up_count.toLocaleString(); 
         } else {
             throw new Error("Invalid API payload");
         }
