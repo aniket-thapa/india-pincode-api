@@ -10,7 +10,9 @@
             "regionName": "Kochi Region",
             "divisionName": "Trichur Division",
             "latitude": 10.5760547,
-            "longitude": 76.0563766
+            "longitude": 76.0563766,
+            "stateName": "KERALA",
+            "districtName": "THRISSUR"
         },
         {
             "officeName": "Chakkumkandam BO",
@@ -20,7 +22,9 @@
             "regionName": "Kochi Region",
             "divisionName": "Trichur Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "KERALA",
+            "districtName": "THRISSUR"
         }
     ]
 }

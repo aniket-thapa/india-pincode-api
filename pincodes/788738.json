@@ -10,7 +10,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Cachar Division",
             "latitude": 24.5,
-            "longitude": 92.43
+            "longitude": 92.43,
+            "stateName": "ASSAM",
+            "districtName": "KARIMGANJ"
         },
         {
             "officeName": "BIDYANAGAR S.O",
@@ -20,7 +22,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Cachar Division",
             "latitude": 16.0144,
-            "longitude": 40.5751
+            "longitude": null,
+            "stateName": "ASSAM",
+            "districtName": "HAILAKANDI"
         }
     ]
 }

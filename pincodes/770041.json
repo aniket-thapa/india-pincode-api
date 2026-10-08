@@ -10,7 +10,9 @@
             "regionName": "Sambalpur Region",
             "divisionName": "Rourkela Division",
             "latitude": 21.8662166,
-            "longitude": 85.113125
+            "longitude": 85.113125,
+            "stateName": "ODISHA",
+            "districtName": "SUNDARGARH"
         },
         {
             "officeName": "Barsuan S.O",
@@ -20,7 +22,9 @@
             "regionName": "Sambalpur Region",
             "divisionName": "Rourkela Division",
             "latitude": 21.8661383,
-            "longitude": 85.1129716
+            "longitude": 85.1129716,
+            "stateName": "ODISHA",
+            "districtName": "SUNDARGARH"
         },
         {
             "officeName": "Bhutuda B.O",
@@ -30,7 +34,9 @@
             "regionName": "Sambalpur Region",
             "divisionName": "Rourkela Division",
             "latitude": 21.8688316,
-            "longitude": 21.8688316
+            "longitude": null,
+            "stateName": "ODISHA",
+            "districtName": "SUNDARGARH"
         },
         {
             "officeName": "Uskuda B.O",
@@ -40,7 +46,9 @@
             "regionName": "Sambalpur Region",
             "divisionName": "Rourkela Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "ODISHA",
+            "districtName": "SUNDARGARH"
         }
     ]
 }

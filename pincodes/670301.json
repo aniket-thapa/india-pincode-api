@@ -10,7 +10,9 @@
             "regionName": "Calicut Region",
             "divisionName": "Cannanore Division",
             "latitude": 11.9994447,
-            "longitude": 75.3275442
+            "longitude": 75.3275442,
+            "stateName": "KERALA",
+            "districtName": "KANNUR"
         },
         {
             "officeName": "Thekkumbad BO",
@@ -20,7 +22,9 @@
             "regionName": "Calicut Region",
             "divisionName": "Cannanore Division",
             "latitude": 11.9765134,
-            "longitude": 75.290924
+            "longitude": 75.290924,
+            "stateName": "KERALA",
+            "districtName": "KANNUR"
         },
         {
             "officeName": "Madakkara B.O",
@@ -30,7 +34,9 @@
             "regionName": "Calicut Region",
             "divisionName": "Cannanore Division",
             "latitude": 11.9610706,
-            "longitude": 75.2976672
+            "longitude": 75.2976672,
+            "stateName": "KERALA",
+            "districtName": "KANNUR"
         },
         {
             "officeName": "Thavam BO",
@@ -39,8 +45,10 @@
             "circleName": "Kerala Circle",
             "regionName": "Calicut Region",
             "divisionName": "Cannanore Division",
-            "latitude": 44.0667072,
-            "longitude": 103.20089
+            "latitude": null,
+            "longitude": null,
+            "stateName": "KERALA",
+            "districtName": "KANNUR"
         },
         {
             "officeName": "Cherukunnu RS BO",
@@ -50,7 +58,9 @@
             "regionName": "Calicut Region",
             "divisionName": "Cannanore Division",
             "latitude": 11.986539,
-            "longitude": 75.310826
+            "longitude": 75.310826,
+            "stateName": "KERALA",
+            "districtName": "KANNUR"
         },
         {
             "officeName": "Irinavu BO",
@@ -60,7 +70,9 @@
             "regionName": "Calicut Region",
             "divisionName": "Cannanore Division",
             "latitude": 11.9601648,
-            "longitude": 75.3186392
+            "longitude": 75.3186392,
+            "stateName": "KERALA",
+            "districtName": "KANNUR"
         },
         {
             "officeName": "Cherukunnu SO",
@@ -70,7 +82,9 @@
             "regionName": "Calicut Region",
             "divisionName": "Cannanore Division",
             "latitude": 11.874535,
-            "longitude": 75.37019
+            "longitude": 75.37019,
+            "stateName": "KERALA",
+            "districtName": "KANNUR"
         }
     ]
 }

@@ -10,17 +10,9 @@
             "regionName": "Kurnool Region",
             "divisionName": "Tirupati Division",
             "latitude": null,
-            "longitude": null
-        },
-        {
-            "officeName": "Oteru B.O",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "Andhra Pradesh Circle",
-            "regionName": "Kurnool Region",
-            "divisionName": "Tirupati Division",
-            "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "ANDHRA PRADESH",
+            "districtName": "TIRUPATI"
         },
         {
             "officeName": "AVILALA SO",
@@ -30,17 +22,9 @@
             "regionName": "Kurnool Region",
             "divisionName": "Tirupati Division",
             "latitude": 13.6116168,
-            "longitude": 79.4210401
-        },
-        {
-            "officeName": "Vedanthapuram Agraharam BO",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "Andhra Pradesh Circle",
-            "regionName": "Kurnool Region",
-            "divisionName": "Tirupati Division",
-            "latitude": 13.3554,
-            "longitude": 79.24586
+            "longitude": 79.4210401,
+            "stateName": "ANDHRA PRADESH",
+            "districtName": "TIRUPATI"
         }
     ]
 }

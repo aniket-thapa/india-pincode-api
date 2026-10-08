@@ -10,7 +10,9 @@
             "regionName": "Kochi Region",
             "divisionName": "Trichur Division",
             "latitude": 10.7141393,
-            "longitude": 76.0643165
+            "longitude": 76.0643165,
+            "stateName": "KERALA",
+            "districtName": "THRISSUR"
         },
         {
             "officeName": "Korattikkara BO",
@@ -20,7 +22,9 @@
             "regionName": "Kochi Region",
             "divisionName": "Trichur Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "KERALA",
+            "districtName": "THRISSUR"
         }
     ]
 }

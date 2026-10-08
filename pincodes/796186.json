@@ -10,17 +10,9 @@
             "regionName": "North East - I Region",
             "divisionName": "Mizoram Division",
             "latitude": 23.2187953,
-            "longitude": 92.7280039
-        },
-        {
-            "officeName": "BUANGPUI",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "North Eastern Circle",
-            "regionName": "North East - I Region",
-            "divisionName": "Mizoram Division",
-            "latitude": null,
-            "longitude": null
+            "longitude": 92.7280039,
+            "stateName": "MIZORAM",
+            "districtName": "SERCHHIP"
         },
         {
             "officeName": "Ramlaitui B.O",
@@ -30,7 +22,9 @@
             "regionName": "North East - I Region",
             "divisionName": "Mizoram Division",
             "latitude": 23.182095,
-            "longitude": 92.7370333
+            "longitude": 92.7370333,
+            "stateName": "MIZORAM",
+            "districtName": "LUNGLEI"
         },
         {
             "officeName": "Thenzawl S.O",
@@ -40,7 +34,9 @@
             "regionName": "North East - I Region",
             "divisionName": "Mizoram Division",
             "latitude": 23.341457,
-            "longitude": 92.85018
+            "longitude": 92.85018,
+            "stateName": "MIZORAM",
+            "districtName": "SERCHHIP"
         },
         {
             "officeName": "NEIHLOH",
@@ -50,7 +46,9 @@
             "regionName": "North East - I Region",
             "divisionName": "Mizoram Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "MIZORAM",
+            "districtName": "LUNGLEI"
         },
         {
             "officeName": "Chhipphir B.O",
@@ -60,7 +58,9 @@
             "regionName": "North East - I Region",
             "divisionName": "Mizoram Division",
             "latitude": 22.4302473,
-            "longitude": 93.0939449
+            "longitude": 93.0939449,
+            "stateName": "MIZORAM",
+            "districtName": "SERCHHIP"
         },
         {
             "officeName": "Zote S B.O",
@@ -70,7 +70,9 @@
             "regionName": "North East - I Region",
             "divisionName": "Mizoram Division",
             "latitude": 23.2166289,
-            "longitude": 92.7954625
+            "longitude": 92.7954625,
+            "stateName": "MIZORAM",
+            "districtName": "SERCHHIP"
         }
     ]
 }

@@ -10,7 +10,9 @@
             "regionName": "Calicut Region",
             "divisionName": "Calicut Division",
             "latitude": 11.27,
-            "longitude": 75.8
+            "longitude": 75.8,
+            "stateName": "KERALA",
+            "districtName": "KOZHIKODE"
         },
         {
             "officeName": "Vengeri BO",
@@ -20,17 +22,9 @@
             "regionName": "Calicut Region",
             "divisionName": "Calicut Division",
             "latitude": 11.3,
-            "longitude": 75.8
-        },
-        {
-            "officeName": "Thanneerpanthal BO",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "Kerala Circle",
-            "regionName": "Calicut Region",
-            "divisionName": "Calicut Division",
-            "latitude": 11.305845,
-            "longitude": 75.795902
+            "longitude": 75.8,
+            "stateName": "KERALA",
+            "districtName": "KOZHIKODE"
         },
         {
             "officeName": "Karaparamba SO",
@@ -40,7 +34,9 @@
             "regionName": "Calicut Region",
             "divisionName": "Calicut Division",
             "latitude": 11.2871726,
-            "longitude": 75.7831814
+            "longitude": 75.7831814,
+            "stateName": "KERALA",
+            "districtName": "KOZHIKODE"
         },
         {
             "officeName": "Nedungottur BO",
@@ -50,7 +46,9 @@
             "regionName": "Calicut Region",
             "divisionName": "Calicut Division",
             "latitude": 11.27,
-            "longitude": 75.8
+            "longitude": 75.8,
+            "stateName": "KERALA",
+            "districtName": "KOZHIKODE"
         }
     ]
 }

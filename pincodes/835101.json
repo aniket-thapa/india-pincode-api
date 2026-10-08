@@ -10,7 +10,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Ranchi Division",
             "latitude": 23.435802,
-            "longitude": 85.784604
+            "longitude": 85.784604,
+            "stateName": "JHARKHAND",
+            "districtName": "RANCHI"
         },
         {
             "officeName": "Tetebandrampur BO",
@@ -20,7 +22,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Ranchi Division",
             "latitude": 23.3441,
-            "longitude": 85.309562
+            "longitude": 85.309562,
+            "stateName": "JHARKHAND",
+            "districtName": "RANCHI"
         },
         {
             "officeName": "Kuchu BO",
@@ -30,7 +34,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Ranchi Division",
             "latitude": 23.502619,
-            "longitude": 85.414341
+            "longitude": 85.414341,
+            "stateName": "JHARKHAND",
+            "districtName": "RANCHI"
         },
         {
             "officeName": "Chotamuri SO",
@@ -39,8 +45,10 @@
             "circleName": "Jharkhand Circle",
             "regionName": "DivReportingCircle",
             "divisionName": "Ranchi Division",
-            "latitude": 47.271904,
-            "longitude": 8.341769
+            "latitude": null,
+            "longitude": null,
+            "stateName": "JHARKHAND",
+            "districtName": "RANCHI"
         },
         {
             "officeName": "Lagam BO",
@@ -50,7 +58,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Ranchi Division",
             "latitude": 23.362182,
-            "longitude": 85.865256
+            "longitude": 85.865256,
+            "stateName": "JHARKHAND",
+            "districtName": "RANCHI"
         },
         {
             "officeName": "Halmad BO",
@@ -60,7 +70,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Ranchi Division",
             "latitude": 23.450034,
-            "longitude": 85.761538
+            "longitude": 85.761538,
+            "stateName": "JHARKHAND",
+            "districtName": "RANCHI"
         }
     ]
 }

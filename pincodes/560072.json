@@ -10,7 +10,9 @@
             "regionName": "Bengaluru HQ Region",
             "divisionName": "Bengaluru West Division",
             "latitude": 12.955172,
-            "longitude": 77.515643
+            "longitude": 77.515643,
+            "stateName": "KARNATAKA",
+            "districtName": "BENGALURU URBAN"
         },
         {
             "officeName": "Nagarbhavi II Stage PO",
@@ -20,7 +22,9 @@
             "regionName": "Bengaluru HQ Region",
             "divisionName": "Bengaluru West Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "KARNATAKA",
+            "districtName": "BENGALURU URBAN"
         }
     ]
 }

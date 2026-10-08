@@ -10,7 +10,9 @@
             "regionName": "North Karnataka Region",
             "divisionName": "Sirsi Division",
             "latitude": 12.6155,
-            "longitude": 74.8345
+            "longitude": 74.8345,
+            "stateName": "KARNATAKA",
+            "districtName": "UTTARA KANNADA"
         },
         {
             "officeName": "Hosalli B.O",
@@ -20,7 +22,9 @@
             "regionName": "North Karnataka Region",
             "divisionName": "Sirsi Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "KARNATAKA",
+            "districtName": "UTTARA KANNADA"
         },
         {
             "officeName": "Madnoor B.O",
@@ -30,7 +34,9 @@
             "regionName": "North Karnataka Region",
             "divisionName": "Sirsi Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "KARNATAKA",
+            "districtName": "UTTARA KANNADA"
         }
     ]
 }

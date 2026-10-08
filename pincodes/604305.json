@@ -10,7 +10,9 @@
             "regionName": "Chennai City Region",
             "divisionName": "Pondicherry Division",
             "latitude": 12.03,
-            "longitude": 11.069
+            "longitude": null,
+            "stateName": "TAMIL NADU",
+            "districtName": "VILLUPURAM"
         },
         {
             "officeName": "Olakkur SO",
@@ -20,7 +22,9 @@
             "regionName": "Chennai City Region",
             "divisionName": "Pondicherry Division",
             "latitude": 12.3115278,
-            "longitude": 79.7168889
+            "longitude": 79.7168889,
+            "stateName": "TAMIL NADU",
+            "districtName": "VILLUPURAM"
         },
         {
             "officeName": "Ongur BO",
@@ -30,7 +34,9 @@
             "regionName": "Chennai City Region",
             "divisionName": "Pondicherry Division",
             "latitude": 12.394224,
-            "longitude": 79.191376
+            "longitude": 79.191376,
+            "stateName": "TAMIL NADU",
+            "districtName": "VILLUPURAM"
         },
         {
             "officeName": "Kiladanur BO",
@@ -40,7 +46,9 @@
             "regionName": "Chennai City Region",
             "divisionName": "Pondicherry Division",
             "latitude": 12.275759,
-            "longitude": 79.725966
+            "longitude": 79.725966,
+            "stateName": "TAMIL NADU",
+            "districtName": "VILLUPURAM"
         }
     ]
 }

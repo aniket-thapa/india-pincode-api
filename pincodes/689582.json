@@ -10,7 +10,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Tiruvalla Division",
             "latitude": 9.419183,
-            "longitude": 76.598637
+            "longitude": 76.598637,
+            "stateName": "KERALA",
+            "districtName": "PATHANAMTHITTA"
         },
         {
             "officeName": "Kaviyoor SO",
@@ -20,7 +22,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Tiruvalla Division",
             "latitude": 9.41,
-            "longitude": 76.35
+            "longitude": 76.35,
+            "stateName": "KERALA",
+            "districtName": "PATHANAMTHITTA"
         },
         {
             "officeName": "Kottoor BO",
@@ -30,7 +34,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Tiruvalla Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "KERALA",
+            "districtName": "PATHANAMTHITTA"
         }
     ]
 }

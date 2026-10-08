@@ -10,7 +10,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Tiruvalla Division",
             "latitude": 9.49,
-            "longitude": 76.36
+            "longitude": 76.36,
+            "stateName": "KERALA",
+            "districtName": "PATHANAMTHITTA"
         },
         {
             "officeName": "Karakkal BO",
@@ -20,7 +22,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Tiruvalla Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "KERALA",
+            "districtName": "PATHANAMTHITTA"
         }
     ]
 }

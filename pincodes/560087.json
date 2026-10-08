@@ -10,7 +10,9 @@
             "regionName": "Bengaluru HQ Region",
             "divisionName": "Bengaluru East Division",
             "latitude": 12.977,
-            "longitude": 77.568
+            "longitude": 77.568,
+            "stateName": "KARNATAKA",
+            "districtName": "BENGALURU RURAL"
         },
         {
             "officeName": "Vartur S.O",
@@ -20,7 +22,9 @@
             "regionName": "Bengaluru HQ Region",
             "divisionName": "Bengaluru East Division",
             "latitude": 12.9413333,
-            "longitude": 77.7465556
+            "longitude": 77.7465556,
+            "stateName": "KARNATAKA",
+            "districtName": "BENGALURU URBAN"
         },
         {
             "officeName": "Gunjur S.O",
@@ -30,7 +34,9 @@
             "regionName": "Bengaluru HQ Region",
             "divisionName": "Bengaluru East Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "KARNATAKA",
+            "districtName": "BENGALURU URBAN"
         },
         {
             "officeName": "Panathur S.O",
@@ -40,7 +46,9 @@
             "regionName": "Bengaluru HQ Region",
             "divisionName": "Bengaluru East Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "KARNATAKA",
+            "districtName": "BENGALURU URBAN"
         }
     ]
 }

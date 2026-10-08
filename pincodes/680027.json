@@ -10,7 +10,9 @@
             "regionName": "Kochi Region",
             "divisionName": "Trichur Division",
             "latitude": 10.484081,
-            "longitude": 76.214813
+            "longitude": 76.214813,
+            "stateName": "KERALA",
+            "districtName": "THRISSUR"
         },
         {
             "officeName": "Chovvur BO",
@@ -20,7 +22,9 @@
             "regionName": "Kochi Region",
             "divisionName": "Trichur Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "KERALA",
+            "districtName": "THRISSUR"
         },
         {
             "officeName": "Palissery BO",
@@ -30,7 +34,9 @@
             "regionName": "Kochi Region",
             "divisionName": "Trichur Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "KERALA",
+            "districtName": "THRISSUR"
         }
     ]
 }

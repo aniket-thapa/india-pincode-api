@@ -10,7 +10,9 @@
             "regionName": "Vijayawada Region",
             "divisionName": "Tadepalligudem Division",
             "latitude": 16.9774714,
-            "longitude": 81.4160364
+            "longitude": 81.4160364,
+            "stateName": "ANDHRA PRADESH",
+            "districtName": "WEST GODAVARI"
         },
         {
             "officeName": "Kavuluru BO",
@@ -20,7 +22,9 @@
             "regionName": "Vijayawada Region",
             "divisionName": "Tadepalligudem Division",
             "latitude": 16.6286,
-            "longitude": 80.5841
+            "longitude": 80.5841,
+            "stateName": "ANDHRA PRADESH",
+            "districtName": "WEST GODAVARI"
         },
         {
             "officeName": "Pothineedipalem B.O",
@@ -29,8 +33,10 @@
             "circleName": "Andhra Pradesh Circle",
             "regionName": "Vijayawada Region",
             "divisionName": "Tadepalligudem Division",
-            "latitude": 81.3855815,
-            "longitude": 17.0175271
+            "latitude": null,
+            "longitude": null,
+            "stateName": "ANDHRA PRADESH",
+            "districtName": "WEST GODAVARI"
         },
         {
             "officeName": "Nabipeta B.O",
@@ -40,7 +46,9 @@
             "regionName": "Vijayawada Region",
             "divisionName": "Tadepalligudem Division",
             "latitude": 16.991376,
-            "longitude": 81.421573
+            "longitude": 81.421573,
+            "stateName": "ANDHRA PRADESH",
+            "districtName": "WEST GODAVARI"
         },
         {
             "officeName": "Pothavaram S.O",
@@ -50,7 +58,9 @@
             "regionName": "Vijayawada Region",
             "divisionName": "Tadepalligudem Division",
             "latitude": 17.0185278,
-            "longitude": 81.4127778
+            "longitude": 81.4127778,
+            "stateName": "ANDHRA PRADESH",
+            "districtName": "WEST GODAVARI"
         }
     ]
 }

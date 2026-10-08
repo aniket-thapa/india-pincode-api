@@ -10,7 +10,9 @@
             "regionName": "South Karnataka Region",
             "divisionName": "Puttur Division",
             "latitude": 12.9356234,
-            "longitude": 75.330166
+            "longitude": 75.330166,
+            "stateName": "KARNATAKA",
+            "districtName": "DAKSHINA KANNADA"
         },
         {
             "officeName": "S.D.M.C.Ujire S.O",
@@ -20,7 +22,9 @@
             "regionName": "South Karnataka Region",
             "divisionName": "Puttur Division",
             "latitude": 12.9908662,
-            "longitude": 75.3320972
+            "longitude": 75.3320972,
+            "stateName": "KARNATAKA",
+            "districtName": "DAKSHINA KANNADA"
         },
         {
             "officeName": "Ujire S.O",
@@ -30,7 +34,9 @@
             "regionName": "South Karnataka Region",
             "divisionName": "Puttur Division",
             "latitude": 12.9970278,
-            "longitude": 75.3280556
+            "longitude": 75.3280556,
+            "stateName": "KARNATAKA",
+            "districtName": "DAKSHINA KANNADA"
         },
         {
             "officeName": "Kanyadi B.O",
@@ -40,17 +46,9 @@
             "regionName": "South Karnataka Region",
             "divisionName": "Puttur Division",
             "latitude": 13.0184393,
-            "longitude": 75.3479866
-        },
-        {
-            "officeName": "PERLA BAIPADY B.O",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "Karnataka Circle",
-            "regionName": "South Karnataka Region",
-            "divisionName": "Puttur Division",
-            "latitude": 12.909344,
-            "longitude": 75.315411
+            "longitude": 75.3479866,
+            "stateName": "KARNATAKA",
+            "districtName": "DAKSHINA KANNADA"
         },
         {
             "officeName": "Old Town Ujire B.O",
@@ -60,7 +58,9 @@
             "regionName": "South Karnataka Region",
             "divisionName": "Puttur Division",
             "latitude": 12.9959838,
-            "longitude": 75.3178171
+            "longitude": 75.3178171,
+            "stateName": "KARNATAKA",
+            "districtName": "DAKSHINA KANNADA"
         }
     ]
 }

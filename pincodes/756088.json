@@ -10,7 +10,9 @@
             "regionName": "Bhubaneswar HQ Region",
             "divisionName": "Balasore Division",
             "latitude": 21.7330416,
-            "longitude": 87.233885
+            "longitude": 87.233885,
+            "stateName": "ODISHA",
+            "districtName": "BALESHWAR"
         },
         {
             "officeName": "Paiksida B.O",
@@ -20,7 +22,9 @@
             "regionName": "Bhubaneswar HQ Region",
             "divisionName": "Balasore Division",
             "latitude": 21.7207066,
-            "longitude": 87.2381516
+            "longitude": 87.2381516,
+            "stateName": "ODISHA",
+            "districtName": "BALESHWAR"
         },
         {
             "officeName": "Chormara S.O",
@@ -29,8 +33,10 @@
             "circleName": "Odisha Circle",
             "regionName": "Bhubaneswar HQ Region",
             "divisionName": "Balasore Division",
-            "latitude": 87.227075,
-            "longitude": 87.227075
+            "latitude": null,
+            "longitude": 87.227075,
+            "stateName": "ODISHA",
+            "districtName": "BALESHWAR"
         }
     ]
 }

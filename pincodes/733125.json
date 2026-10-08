@@ -10,7 +10,9 @@
             "regionName": "North Bengal Region",
             "divisionName": "Dakshin Dinajpur Division",
             "latitude": 25.38,
-            "longitude": 88.27
+            "longitude": 88.27,
+            "stateName": "WEST BENGAL",
+            "districtName": "DINAJPUR DAKSHIN"
         },
         {
             "officeName": "Bagichapur BO",
@@ -20,7 +22,9 @@
             "regionName": "North Bengal Region",
             "divisionName": "Dakshin Dinajpur Division",
             "latitude": 25.38,
-            "longitude": 88.27
+            "longitude": 88.27,
+            "stateName": "WEST BENGAL",
+            "districtName": "DINAJPUR DAKSHIN"
         },
         {
             "officeName": "Bartakigram BO",
@@ -30,7 +34,9 @@
             "regionName": "North Bengal Region",
             "divisionName": "Dakshin Dinajpur Division",
             "latitude": 25.36,
-            "longitude": 88.73
+            "longitude": 88.73,
+            "stateName": "WEST BENGAL",
+            "districtName": "DINAJPUR DAKSHIN"
         },
         {
             "officeName": "Daulatpur South DinajpurBO",
@@ -40,7 +46,9 @@
             "regionName": "North Bengal Region",
             "divisionName": "Dakshin Dinajpur Division",
             "latitude": 25.38,
-            "longitude": 88.27
+            "longitude": 88.27,
+            "stateName": "WEST BENGAL",
+            "districtName": "DINAJPUR DAKSHIN"
         },
         {
             "officeName": "Maliandighi BO",
@@ -50,7 +58,9 @@
             "regionName": "North Bengal Region",
             "divisionName": "Dakshin Dinajpur Division",
             "latitude": 25.36,
-            "longitude": 88.52
+            "longitude": 88.52,
+            "stateName": "WEST BENGAL",
+            "districtName": "DINAJPUR DAKSHIN"
         },
         {
             "officeName": "Pundari BO",
@@ -59,8 +69,10 @@
             "circleName": "West Bengal Circle",
             "regionName": "North Bengal Region",
             "divisionName": "Dakshin Dinajpur Division",
-            "latitude": 88.27,
-            "longitude": 88.27
+            "latitude": null,
+            "longitude": 88.27,
+            "stateName": "WEST BENGAL",
+            "districtName": "DINAJPUR DAKSHIN"
         },
         {
             "officeName": "Sandhiya BO",
@@ -70,17 +82,9 @@
             "regionName": "North Bengal Region",
             "divisionName": "Dakshin Dinajpur Division",
             "latitude": 25.38,
-            "longitude": 88.27
-        },
-        {
-            "officeName": "PATUN",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "West Bengal Circle",
-            "regionName": "North Bengal Region",
-            "divisionName": "Dakshin Dinajpur Division",
-            "latitude": 25.4378,
-            "longitude": 88.2679
+            "longitude": 88.27,
+            "stateName": "WEST BENGAL",
+            "districtName": "DINAJPUR UTTAR"
         },
         {
             "officeName": "Bairhatta BO",
@@ -90,7 +94,9 @@
             "regionName": "North Bengal Region",
             "divisionName": "Dakshin Dinajpur Division",
             "latitude": 25.38,
-            "longitude": 88.27
+            "longitude": 88.27,
+            "stateName": "WEST BENGAL",
+            "districtName": "DINAJPUR DAKSHIN"
         },
         {
             "officeName": "Danagram BO",
@@ -100,7 +106,9 @@
             "regionName": "North Bengal Region",
             "divisionName": "Dakshin Dinajpur Division",
             "latitude": 25.36,
-            "longitude": 88.52
+            "longitude": 88.52,
+            "stateName": "WEST BENGAL",
+            "districtName": "DINAJPUR DAKSHIN"
         },
         {
             "officeName": "Kanaipur BO",
@@ -110,7 +118,9 @@
             "regionName": "North Bengal Region",
             "divisionName": "Dakshin Dinajpur Division",
             "latitude": 25.36,
-            "longitude": 88.52
+            "longitude": 88.52,
+            "stateName": "WEST BENGAL",
+            "districtName": "DINAJPUR DAKSHIN"
         },
         {
             "officeName": "Saiyadpur Nayapara BO",
@@ -120,7 +130,9 @@
             "regionName": "North Bengal Region",
             "divisionName": "Dakshin Dinajpur Division",
             "latitude": 25.38,
-            "longitude": 88.27
+            "longitude": 88.27,
+            "stateName": "WEST BENGAL",
+            "districtName": "DINAJPUR DAKSHIN"
         },
         {
             "officeName": "Singadaha BO",
@@ -130,7 +142,9 @@
             "regionName": "North Bengal Region",
             "divisionName": "Dakshin Dinajpur Division",
             "latitude": 25.38,
-            "longitude": 88.27
+            "longitude": 88.27,
+            "stateName": "WEST BENGAL",
+            "districtName": "DINAJPUR DAKSHIN"
         },
         {
             "officeName": "Harirampur SO",
@@ -140,7 +154,9 @@
             "regionName": "North Bengal Region",
             "divisionName": "Dakshin Dinajpur Division",
             "latitude": 25.382389,
-            "longitude": 88.270095
+            "longitude": 88.270095,
+            "stateName": "WEST BENGAL",
+            "districtName": "DINAJPUR DAKSHIN"
         }
     ]
 }

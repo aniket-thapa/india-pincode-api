@@ -10,7 +10,9 @@
             "regionName": "Kochi Region",
             "divisionName": "Trichur Division",
             "latitude": 10.654728,
-            "longitude": 75.979006
+            "longitude": 75.979006,
+            "stateName": "KERALA",
+            "districtName": "THRISSUR"
         },
         {
             "officeName": "EdakkaraThrissur BO",
@@ -20,7 +22,9 @@
             "regionName": "Kochi Region",
             "divisionName": "Trichur Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "KERALA",
+            "districtName": "THRISSUR"
         },
         {
             "officeName": "Mannalamkunnu BO",
@@ -30,7 +34,9 @@
             "regionName": "Kochi Region",
             "divisionName": "Trichur Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "KERALA",
+            "districtName": "THRISSUR"
         }
     ]
 }

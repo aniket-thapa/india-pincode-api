@@ -1,17 +1,7 @@
 {
-    "state": "NA",
-    "district": "NA",
+    "state": "JHARKHAND",
+    "district": "HAZARIBAGH",
     "offices": [
-        {
-            "officeName": "Pindarkon",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "Jharkhand Circle",
-            "regionName": "DivReportingCircle",
-            "divisionName": "Hazaribagh Division",
-            "latitude": null,
-            "longitude": null
-        },
         {
             "officeName": "Barhi SO Hazaribag",
             "officeType": "PO",
@@ -20,7 +10,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Hazaribagh Division",
             "latitude": 23.9926667,
-            "longitude": 85.366
+            "longitude": 85.366,
+            "stateName": "JHARKHAND",
+            "districtName": "HAZARIBAGH"
         },
         {
             "officeName": "Deochanda BO",
@@ -30,7 +22,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Hazaribagh Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "JHARKHAND",
+            "districtName": "HAZARIBAGH"
         },
         {
             "officeName": "khodahar BO",
@@ -40,7 +34,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Hazaribagh Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "JHARKHAND",
+            "districtName": "HAZARIBAGH"
         },
         {
             "officeName": "MALKOLA BO",
@@ -50,7 +46,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Hazaribagh Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "JHARKHAND",
+            "districtName": "HAZARIBAGH"
         },
         {
             "officeName": "DAPOK BO",
@@ -60,7 +58,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Hazaribagh Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "JHARKHAND",
+            "districtName": "HAZARIBAGH"
         },
         {
             "officeName": "Gouriakarma BO",
@@ -70,7 +70,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Hazaribagh Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "JHARKHAND",
+            "districtName": "HAZARIBAGH"
         },
         {
             "officeName": "karso BO",
@@ -80,7 +82,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Hazaribagh Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "JHARKHAND",
+            "districtName": "HAZARIBAGH"
         },
         {
             "officeName": "KEDARUT B.O",
@@ -90,7 +94,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Hazaribagh Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "JHARKHAND",
+            "districtName": "HAZARIBAGH"
         },
         {
             "officeName": "Kewal BO",
@@ -100,7 +106,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Hazaribagh Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "JHARKHAND",
+            "districtName": "HAZARIBAGH"
         },
         {
             "officeName": "Padaria BO",
@@ -110,7 +118,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Hazaribagh Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "JHARKHAND",
+            "districtName": "HAZARIBAGH"
         },
         {
             "officeName": "Rasoiyadhamna BO",
@@ -120,7 +130,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Hazaribagh Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "JHARKHAND",
+            "districtName": "HAZARIBAGH"
         },
         {
             "officeName": "konra BO",
@@ -130,7 +142,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Hazaribagh Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "JHARKHAND",
+            "districtName": "HAZARIBAGH"
         },
         {
             "officeName": "Ranichuhan BO",
@@ -140,7 +154,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Hazaribagh Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "JHARKHAND",
+            "districtName": "HAZARIBAGH"
         },
         {
             "officeName": "Jhurjhuri BO",
@@ -150,7 +166,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Hazaribagh Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "JHARKHAND",
+            "districtName": "HAZARIBAGH"
         },
         {
             "officeName": "Nagarbarsot BO",
@@ -160,7 +178,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Hazaribagh Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "JHARKHAND",
+            "districtName": "HAZARIBAGH"
         },
         {
             "officeName": "Dulmaha  BO",
@@ -170,7 +190,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Hazaribagh Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "JHARKHAND",
+            "districtName": "HAZARIBAGH"
         }
     ]
 }

@@ -10,7 +10,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Giridih Division",
             "latitude": 24.187926,
-            "longitude": 86.307643
+            "longitude": 86.307643,
+            "stateName": "JHARKHAND",
+            "districtName": "GIRIDIH"
         },
         {
             "officeName": "Giridih HO",
@@ -20,7 +22,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Giridih Division",
             "latitude": 24.184713,
-            "longitude": 86.302193
+            "longitude": 86.302193,
+            "stateName": "JHARKHAND",
+            "districtName": "GIRIDIH"
         },
         {
             "officeName": "Barganda SO",
@@ -29,8 +33,10 @@
             "circleName": "Jharkhand Circle",
             "regionName": "DivReportingCircle",
             "divisionName": "Giridih Division",
-            "latitude": 2411,
-            "longitude": 8618
+            "latitude": null,
+            "longitude": null,
+            "stateName": "JHARKHAND",
+            "districtName": "GIRIDIH"
         },
         {
             "officeName": "Giridih Bazar SO",
@@ -40,7 +46,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Giridih Division",
             "latitude": 24.21452,
-            "longitude": 86.389526
+            "longitude": 86.389526,
+            "stateName": "JHARKHAND",
+            "districtName": "GIRIDIH"
         }
     ]
 }

@@ -10,7 +10,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Singhbhum Division",
             "latitude": 22.64036,
-            "longitude": 86.37412
+            "longitude": 86.37412,
+            "stateName": "JHARKHAND",
+            "districtName": "EAST SINGHBUM"
         },
         {
             "officeName": "Rakha Mines BO",
@@ -20,7 +22,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Singhbhum Division",
             "latitude": 22.69205,
-            "longitude": 86.3439
+            "longitude": 86.3439,
+            "stateName": "JHARKHAND",
+            "districtName": "EAST SINGHBUM"
         },
         {
             "officeName": "Matigora BO",
@@ -29,8 +33,10 @@
             "circleName": "Jharkhand Circle",
             "regionName": "DivReportingCircle",
             "divisionName": "Singhbhum Division",
-            "latitude": 64.479897,
-            "longitude": 34.648947
+            "latitude": null,
+            "longitude": null,
+            "stateName": "JHARKHAND",
+            "districtName": "EAST SINGHBUM"
         }
     ]
 }

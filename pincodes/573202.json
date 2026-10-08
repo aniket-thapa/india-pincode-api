@@ -10,7 +10,9 @@
             "regionName": "South Karnataka Region",
             "divisionName": "Hassan Division",
             "latitude": 13.0053333,
-            "longitude": 76.1000556
+            "longitude": 76.1000556,
+            "stateName": "KARNATAKA",
+            "districtName": "HASSAN"
         },
         {
             "officeName": "Antharikshanagar B.O",
@@ -20,7 +22,9 @@
             "regionName": "South Karnataka Region",
             "divisionName": "Hassan Division",
             "latitude": 13.04,
-            "longitude": 76.11
+            "longitude": 76.11,
+            "stateName": "KARNATAKA",
+            "districtName": "HASSAN"
         },
         {
             "officeName": "Hemavathinagar S.O",
@@ -30,7 +34,9 @@
             "regionName": "South Karnataka Region",
             "divisionName": "Hassan Division",
             "latitude": 12.5686111,
-            "longitude": 64.3836389
+            "longitude": null,
+            "stateName": "KARNATAKA",
+            "districtName": "HASSAN"
         }
     ]
 }

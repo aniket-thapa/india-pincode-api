@@ -10,7 +10,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Tiruvalla Division",
             "latitude": 9.305421,
-            "longitude": 76.624601
+            "longitude": 76.624601,
+            "stateName": "KERALA",
+            "districtName": "ALAPPUZHA"
         },
         {
             "officeName": "Neervilakom BO",
@@ -20,7 +22,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Tiruvalla Division",
             "latitude": 9.316116,
-            "longitude": 76.649935
+            "longitude": 76.649935,
+            "stateName": "KERALA",
+            "districtName": "PATHANAMTHITTA"
         },
         {
             "officeName": "Piralassery BO",
@@ -30,7 +34,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Tiruvalla Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "KERALA",
+            "districtName": "ALAPPUZHA"
         }
     ]
 }

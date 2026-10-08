@@ -10,7 +10,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Goalpara Division",
             "latitude": 26.0247222,
-            "longitude": 89.9754444
+            "longitude": 89.9754444,
+            "stateName": "ASSAM",
+            "districtName": "DHUBRI"
         },
         {
             "officeName": "Howrarpar B.O",
@@ -20,7 +22,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Goalpara Division",
             "latitude": 26.012136,
-            "longitude": 89.912741
+            "longitude": 89.912741,
+            "stateName": "ASSAM",
+            "districtName": "DHUBRI"
         },
         {
             "officeName": "Patamari B.O",
@@ -29,8 +33,10 @@
             "circleName": "Assam Circle",
             "regionName": "DivReportingCircle",
             "divisionName": "Goalpara Division",
-            "latitude": 58.955595,
-            "longitude": 89.852842
+            "latitude": null,
+            "longitude": 89.852842,
+            "stateName": "ASSAM",
+            "districtName": "DHUBRI"
         },
         {
             "officeName": "Tistarpar B.O",
@@ -40,7 +46,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Goalpara Division",
             "latitude": 25.955594,
-            "longitude": 89.852845
+            "longitude": 89.852845,
+            "stateName": "ASSAM",
+            "districtName": "DHUBRI"
         },
         {
             "officeName": "Chagalchara B.O",
@@ -50,7 +58,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Goalpara Division",
             "latitude": 26.028078,
-            "longitude": 89.942839
+            "longitude": 89.942839,
+            "stateName": "ASSAM",
+            "districtName": "DHUBRI"
         },
         {
             "officeName": "Dharmasala B.O",
@@ -60,7 +70,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Goalpara Division",
             "latitude": 26.0233,
-            "longitude": 89.886477
+            "longitude": 89.886477,
+            "stateName": "ASSAM",
+            "districtName": "DHUBRI"
         }
     ]
 }

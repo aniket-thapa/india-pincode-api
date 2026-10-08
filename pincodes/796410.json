@@ -10,7 +10,9 @@
             "regionName": "North East - I Region",
             "divisionName": "Mizoram Division",
             "latitude": 23.8989038,
-            "longitude": 92.6743769
+            "longitude": 92.6743769,
+            "stateName": "MIZORAM",
+            "districtName": "KOLASIB"
         },
         {
             "officeName": "Rawpuichhip B.O",
@@ -20,17 +22,9 @@
             "regionName": "North East - I Region",
             "divisionName": "Mizoram Division",
             "latitude": 23.7858354,
-            "longitude": 92.558484
-        },
-        {
-            "officeName": "SIHHMUI",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "North Eastern Circle",
-            "regionName": "North East - I Region",
-            "divisionName": "Mizoram Division",
-            "latitude": null,
-            "longitude": null
+            "longitude": 92.558484,
+            "stateName": "MIZORAM",
+            "districtName": "MAMIT"
         },
         {
             "officeName": "Ptc Lungverh B.O",
@@ -40,7 +34,9 @@
             "regionName": "North East - I Region",
             "divisionName": "Mizoram Division",
             "latitude": 23.7873376,
-            "longitude": 92.6687872
+            "longitude": 92.6687872,
+            "stateName": "MIZORAM",
+            "districtName": "AIZAWL"
         },
         {
             "officeName": "Dapchhuah B.O",
@@ -50,7 +46,9 @@
             "regionName": "North East - I Region",
             "divisionName": "Mizoram Division",
             "latitude": 23.7703712,
-            "longitude": 92.5204384
+            "longitude": 92.5204384,
+            "stateName": "MIZORAM",
+            "districtName": "MAMIT"
         },
         {
             "officeName": "Sairang S.O",
@@ -60,7 +58,9 @@
             "regionName": "North East - I Region",
             "divisionName": "Mizoram Division",
             "latitude": 23.93323,
-            "longitude": 92.489224
+            "longitude": 92.489224,
+            "stateName": "MIZORAM",
+            "districtName": "AIZAWL"
         }
     ]
 }

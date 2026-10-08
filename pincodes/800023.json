@@ -10,7 +10,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Patna Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "BIHAR",
+            "districtName": "PATNA"
         },
         {
             "officeName": "LBS Nagar SO",
@@ -20,7 +22,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Patna Division",
             "latitude": 25.590052,
-            "longitude": 85.149233
+            "longitude": 85.149233,
+            "stateName": "BIHAR",
+            "districtName": "PATNA"
         }
     ]
 }

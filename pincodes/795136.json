@@ -10,7 +10,9 @@
             "regionName": "North East - II Region",
             "divisionName": "Manipur Division",
             "latitude": 24.977417,
-            "longitude": 93.889771
+            "longitude": 93.889771,
+            "stateName": "MANIPUR",
+            "districtName": "IMPHAL WEST"
         },
         {
             "officeName": "Awang Leikinthabi B.O",
@@ -20,7 +22,9 @@
             "regionName": "North East - II Region",
             "divisionName": "Manipur Division",
             "latitude": 24.927983,
-            "longitude": 93.894898
+            "longitude": 93.894898,
+            "stateName": "MANIPUR",
+            "districtName": "IMPHAL WEST"
         },
         {
             "officeName": "Luwangsangol B.O",
@@ -29,8 +33,10 @@
             "circleName": "North Eastern Circle",
             "regionName": "North East - II Region",
             "divisionName": "Manipur Division",
-            "latitude": 93.901472,
-            "longitude": 24.971823
+            "latitude": null,
+            "longitude": null,
+            "stateName": "MANIPUR",
+            "districtName": "KANGPOKPI"
         },
         {
             "officeName": "Potsangbam Khoirou B.O",
@@ -40,7 +46,9 @@
             "regionName": "North East - II Region",
             "divisionName": "Manipur Division",
             "latitude": 24.916863,
-            "longitude": 93.89948
+            "longitude": 93.89948,
+            "stateName": "MANIPUR",
+            "districtName": "IMPHAL WEST"
         },
         {
             "officeName": "Sekmai S.O",
@@ -50,7 +58,9 @@
             "regionName": "North East - II Region",
             "divisionName": "Manipur Division",
             "latitude": 24.816532,
-            "longitude": 93.952827
+            "longitude": 93.952827,
+            "stateName": "MANIPUR",
+            "districtName": "IMPHAL WEST"
         },
         {
             "officeName": "Ch. Khongnangpokpi B.O",
@@ -60,7 +70,9 @@
             "regionName": "North East - II Region",
             "divisionName": "Manipur Division",
             "latitude": 24.95388,
-            "longitude": 93.91392
+            "longitude": 93.91392,
+            "stateName": "MANIPUR",
+            "districtName": "KANGPOKPI"
         },
         {
             "officeName": "Makhan B.O",
@@ -70,7 +82,9 @@
             "regionName": "North East - II Region",
             "divisionName": "Manipur Division",
             "latitude": 24.984223,
-            "longitude": 93.869925
+            "longitude": 93.869925,
+            "stateName": "MANIPUR",
+            "districtName": "KANGPOKPI"
         }
     ]
 }

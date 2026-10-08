@@ -10,7 +10,9 @@
             "regionName": "Kolkata Region",
             "divisionName": "Kolkata North Division",
             "latitude": 22.608757,
-            "longitude": 88.38936
+            "longitude": 88.38936,
+            "stateName": "WEST BENGAL",
+            "districtName": "KOLKATA"
         },
         {
             "officeName": "Northern Avenue SO",
@@ -20,7 +22,9 @@
             "regionName": "Kolkata Region",
             "divisionName": "Kolkata North Division",
             "latitude": 22.6118889,
-            "longitude": 22.3861944
+            "longitude": null,
+            "stateName": "WEST BENGAL",
+            "districtName": "KOLKATA"
         },
         {
             "officeName": "Belgachia SO",
@@ -30,7 +34,9 @@
             "regionName": "Kolkata Region",
             "divisionName": "Kolkata North Division",
             "latitude": 22.606,
-            "longitude": 88.3837778
+            "longitude": 88.3837778,
+            "stateName": "WEST BENGAL",
+            "districtName": "KOLKATA"
         }
     ]
 }

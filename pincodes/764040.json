@@ -10,7 +10,9 @@
             "regionName": "Berhampur Region",
             "divisionName": "Koraput Division",
             "latitude": 18.45889,
-            "longitude": 82.2233546
+            "longitude": 82.2233546,
+            "stateName": "ODISHA",
+            "districtName": "KORAPUT"
         },
         {
             "officeName": "Guneipada B.O",
@@ -20,7 +22,9 @@
             "regionName": "Berhampur Region",
             "divisionName": "Koraput Division",
             "latitude": 18.234621,
-            "longitude": 82.0579428
+            "longitude": 82.0579428,
+            "stateName": "ODISHA",
+            "districtName": "KORAPUT"
         },
         {
             "officeName": "Machhkund S.O",
@@ -30,7 +34,9 @@
             "regionName": "Berhampur Region",
             "divisionName": "Koraput Division",
             "latitude": 18.5810316,
-            "longitude": 82.6088133
+            "longitude": 82.6088133,
+            "stateName": "ODISHA",
+            "districtName": "KORAPUT"
         },
         {
             "officeName": "Badigada B.O",
@@ -39,8 +45,10 @@
             "circleName": "Odisha Circle",
             "regionName": "Berhampur Region",
             "divisionName": "Koraput Division",
-            "latitude": 82.4343218,
-            "longitude": 18.7526666
+            "latitude": null,
+            "longitude": null,
+            "stateName": "ODISHA",
+            "districtName": "KORAPUT"
         }
     ]
 }

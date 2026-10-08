@@ -10,7 +10,9 @@
             "regionName": "Chennai City Region",
             "divisionName": "Chennai City North Division",
             "latitude": 13.0745081,
-            "longitude": 80.2698109
+            "longitude": 80.2698109,
+            "stateName": "TAMIL NADU",
+            "districtName": "CHENNAI"
         },
         {
             "officeName": "Anna Road H.O",
@@ -20,17 +22,9 @@
             "regionName": "Chennai City Region",
             "divisionName": "Anna Road H.O Division",
             "latitude": 13.08472222,
-            "longitude": 80.27269444
-        },
-        {
-            "officeName": "CPRC Chennai",
-            "officeType": "HO",
-            "deliveryStatus": "Non Delivery",
-            "circleName": "Tamilnadu Circle",
-            "regionName": "Chennai City Region",
-            "divisionName": "Anna Road H.O Division",
-            "latitude": 13.06772,
-            "longitude": 80.26992
+            "longitude": 80.27269444,
+            "stateName": "TAMIL NADU",
+            "districtName": "CHENNAI"
         },
         {
             "officeName": "MADRAS ELECTRICITY SYSTEM",
@@ -40,7 +34,9 @@
             "regionName": "Chennai City Region",
             "divisionName": "Chennai City North Division",
             "latitude": 13.0650224,
-            "longitude": 80.2648457
+            "longitude": 80.2648457,
+            "stateName": "TAMIL NADU",
+            "districtName": "CHENNAI"
         }
     ]
 }

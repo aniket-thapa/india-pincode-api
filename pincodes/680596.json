@@ -10,7 +10,9 @@
             "regionName": "Kochi Region",
             "divisionName": "Trichur Division",
             "latitude": 10.613309,
-            "longitude": 76.195413
+            "longitude": 76.195413,
+            "stateName": "KERALA",
+            "districtName": "THRISSUR"
         },
         {
             "officeName": "Thangalur BO",
@@ -20,7 +22,9 @@
             "regionName": "Kochi Region",
             "divisionName": "Trichur Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "KERALA",
+            "districtName": "THRISSUR"
         }
     ]
 }

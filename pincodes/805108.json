@@ -10,7 +10,9 @@
             "regionName": "East Region Bhagalpur",
             "divisionName": "Nawadha Division",
             "latitude": 25.09405,
-            "longitude": 85.636231
+            "longitude": 85.636231,
+            "stateName": "BIHAR",
+            "districtName": "NAWADA"
         },
         {
             "officeName": "Bajitpur BO",
@@ -20,17 +22,9 @@
             "regionName": "East Region Bhagalpur",
             "divisionName": "Nawadha Division",
             "latitude": 25.09405,
-            "longitude": 85.636231
-        },
-        {
-            "officeName": "Bali BO",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "Bihar Circle",
-            "regionName": "East Region Bhagalpur",
-            "divisionName": "Nawadha Division",
-            "latitude": 25.081328,
-            "longitude": 85.684559
+            "longitude": 85.636231,
+            "stateName": "BIHAR",
+            "districtName": "NAWADA"
         },
         {
             "officeName": "Lalbigha SO",
@@ -40,7 +34,9 @@
             "regionName": "East Region Bhagalpur",
             "divisionName": "Nawadha Division",
             "latitude": 25.0163,
-            "longitude": 85.6342
+            "longitude": 85.6342,
+            "stateName": "BIHAR",
+            "districtName": "NAWADA"
         },
         {
             "officeName": "Parwati BO",
@@ -50,17 +46,9 @@
             "regionName": "East Region Bhagalpur",
             "divisionName": "Nawadha Division",
             "latitude": 25.09405,
-            "longitude": 85.636231
-        },
-        {
-            "officeName": "Rewra Mahrath BO",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "Bihar Circle",
-            "regionName": "East Region Bhagalpur",
-            "divisionName": "Nawadha Division",
-            "latitude": 25.103016,
-            "longitude": 85.680188
+            "longitude": 85.636231,
+            "stateName": "BIHAR",
+            "districtName": "NAWADA"
         }
     ]
 }

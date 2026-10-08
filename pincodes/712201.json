@@ -10,7 +10,9 @@
             "regionName": "South Bengal Region",
             "divisionName": "Hooghly South Division",
             "latitude": 22.7336086,
-            "longitude": 88.3335194
+            "longitude": 88.3335194,
+            "stateName": "WEST BENGAL",
+            "districtName": "HOOGHLY"
         },
         {
             "officeName": "Kalbazar SO",
@@ -19,8 +21,10 @@
             "circleName": "West Bengal Circle",
             "regionName": "South Bengal Region",
             "divisionName": "Hooghly South Division",
-            "latitude": 50.214307,
-            "longitude": 8.649774
+            "latitude": null,
+            "longitude": null,
+            "stateName": "WEST BENGAL",
+            "districtName": "HOOGHLY"
         },
         {
             "officeName": "Manicktala Bazar SO",
@@ -30,7 +34,9 @@
             "regionName": "South Bengal Region",
             "divisionName": "Hooghly South Division",
             "latitude": 22.7468,
-            "longitude": 88.3488333
+            "longitude": 88.3488333,
+            "stateName": "WEST BENGAL",
+            "districtName": "HOOGHLY"
         },
         {
             "officeName": "Serampore HO",
@@ -40,7 +46,9 @@
             "regionName": "South Bengal Region",
             "divisionName": "Hooghly South Division",
             "latitude": 22.7573056,
-            "longitude": 88.3423611
+            "longitude": 88.3423611,
+            "stateName": "WEST BENGAL",
+            "districtName": "HOOGHLY"
         }
     ]
 }

@@ -10,7 +10,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Giridih Division",
             "latitude": 24.9,
-            "longitude": 86.16
+            "longitude": 86.16,
+            "stateName": "JHARKHAND",
+            "districtName": "GIRIDIH"
         },
         {
             "officeName": "Karharbari BO",
@@ -20,7 +22,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Giridih Division",
             "latitude": 24.1,
-            "longitude": 86.14
+            "longitude": 86.14,
+            "stateName": "JHARKHAND",
+            "districtName": "GIRIDIH"
         },
         {
             "officeName": "Beniadih SO",
@@ -29,8 +33,10 @@
             "circleName": "Jharkhand Circle",
             "regionName": "DivReportingCircle",
             "divisionName": "Giridih Division",
-            "latitude": 256,
-            "longitude": 8719
+            "latitude": null,
+            "longitude": null,
+            "stateName": "JHARKHAND",
+            "districtName": "GIRIDIH"
         },
         {
             "officeName": "Matrukha BO",
@@ -40,7 +46,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Giridih Division",
             "latitude": 25.6,
-            "longitude": 87.19
+            "longitude": 87.19,
+            "stateName": "JHARKHAND",
+            "districtName": "GIRIDIH"
         }
     ]
 }

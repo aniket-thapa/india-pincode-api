@@ -1,17 +1,7 @@
 {
-    "state": "NA",
-    "district": "NA",
+    "state": "WEST BENGAL",
+    "district": "DARJEELING",
     "offices": [
-        {
-            "officeName": "TUMBAJOTE",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "West Bengal Circle",
-            "regionName": "North Bengal Region",
-            "divisionName": "Darjeeling Division",
-            "latitude": 26.7166,
-            "longitude": 88.3833
-        },
         {
             "officeName": "Matigara SO",
             "officeType": "PO",
@@ -20,7 +10,9 @@
             "regionName": "North Bengal Region",
             "divisionName": "Darjeeling Division",
             "latitude": 26.7196389,
-            "longitude": 88.3856944
+            "longitude": 88.3856944,
+            "stateName": "WEST BENGAL",
+            "districtName": "DARJEELING"
         },
         {
             "officeName": "Nemai BO",
@@ -30,7 +22,9 @@
             "regionName": "North Bengal Region",
             "divisionName": "Darjeeling Division",
             "latitude": 26.7083868,
-            "longitude": 88.4268691
+            "longitude": 88.4268691,
+            "stateName": "WEST BENGAL",
+            "districtName": "DARJEELING"
         }
     ]
 }

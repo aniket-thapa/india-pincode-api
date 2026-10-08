@@ -10,7 +10,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Hazaribagh Division",
             "latitude": 23.57988,
-            "longitude": 85.17579
+            "longitude": 85.17579,
+            "stateName": "JHARKHAND",
+            "districtName": "BOKARO"
         },
         {
             "officeName": "Digwar BO",
@@ -20,7 +22,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Hazaribagh Division",
             "latitude": 23.6912346,
-            "longitude": 85.5347424
+            "longitude": 85.5347424,
+            "stateName": "JHARKHAND",
+            "districtName": "RAMGARH"
         },
         {
             "officeName": "CHHOTKI TUNDI B.O",
@@ -30,7 +34,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Hazaribagh Division",
             "latitude": 23.561567,
-            "longitude": 85.17487
+            "longitude": 85.17487,
+            "stateName": "JHARKHAND",
+            "districtName": "BOKARO"
         },
         {
             "officeName": "Marar SO",
@@ -40,7 +46,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Hazaribagh Division",
             "latitude": 23.6599722,
-            "longitude": 85.5134444
+            "longitude": 85.5134444,
+            "stateName": "JHARKHAND",
+            "districtName": "RAMGARH"
         },
         {
             "officeName": "Bharechnagar BO",
@@ -50,7 +58,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Hazaribagh Division",
             "latitude": 23.76562,
-            "longitude": 85.84267
+            "longitude": 85.84267,
+            "stateName": "JHARKHAND",
+            "districtName": "RAMGARH"
         },
         {
             "officeName": "Kander BO",
@@ -60,7 +70,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Hazaribagh Division",
             "latitude": 24.4782,
-            "longitude": 83.7941
+            "longitude": 83.7941,
+            "stateName": "JHARKHAND",
+            "districtName": "BOKARO"
         },
         {
             "officeName": "Karma BO",
@@ -70,7 +82,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Hazaribagh Division",
             "latitude": 23.66335,
-            "longitude": 85.5138
+            "longitude": 85.5138,
+            "stateName": "JHARKHAND",
+            "districtName": "RAMGARH"
         },
         {
             "officeName": "UTTRI KARMA B.O",
@@ -80,17 +94,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Hazaribagh Division",
             "latitude": 23.56848,
-            "longitude": 85.17369
-        },
-        {
-            "officeName": "Dhawaiya",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "Jharkhand Circle",
-            "regionName": "DivReportingCircle",
-            "divisionName": "Hazaribagh Division",
-            "latitude": 24.76597,
-            "longitude": 85.84175
+            "longitude": 85.17369,
+            "stateName": "JHARKHAND",
+            "districtName": "BOKARO"
         }
     ]
 }

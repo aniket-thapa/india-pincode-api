@@ -10,7 +10,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Tiruvalla Division",
             "latitude": 9.352097,
-            "longitude": 76.550246
+            "longitude": 76.550246,
+            "stateName": "KERALA",
+            "districtName": "PATHANAMTHITTA"
         },
         {
             "officeName": "Venpala BO",
@@ -20,7 +22,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Tiruvalla Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "KERALA",
+            "districtName": "PATHANAMTHITTA"
         },
         {
             "officeName": "Kavumbhagom SO",
@@ -30,7 +34,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Tiruvalla Division",
             "latitude": 9.91,
-            "longitude": 76.9
+            "longitude": 76.9,
+            "stateName": "KERALA",
+            "districtName": "PATHANAMTHITTA"
         }
     ]
 }

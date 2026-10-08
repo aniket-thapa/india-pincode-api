@@ -10,7 +10,9 @@
             "regionName": "North East - II Region",
             "divisionName": "Manipur Division",
             "latitude": 25.184706,
-            "longitude": 93.98124
+            "longitude": 93.98124,
+            "stateName": "MANIPUR",
+            "districtName": "KANGPOKPI"
         },
         {
             "officeName": "Senapati S.O",
@@ -20,7 +22,9 @@
             "regionName": "North East - II Region",
             "divisionName": "Manipur Division",
             "latitude": 25.325855,
-            "longitude": 94.12465
+            "longitude": 94.12465,
+            "stateName": "MANIPUR",
+            "districtName": "SENAPATI"
         },
         {
             "officeName": "Oklong B.O",
@@ -30,17 +34,9 @@
             "regionName": "North East - II Region",
             "divisionName": "Manipur Division",
             "latitude": 25.392983,
-            "longitude": 94.00543
-        },
-        {
-            "officeName": "Khamsom B.O",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "North Eastern Circle",
-            "regionName": "North East - II Region",
-            "divisionName": "Manipur Division",
-            "latitude": 25.182595,
-            "longitude": 94.154297
+            "longitude": 94.00543,
+            "stateName": "MANIPUR",
+            "districtName": "SENAPATI"
         }
     ]
 }

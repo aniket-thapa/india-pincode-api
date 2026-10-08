@@ -10,7 +10,9 @@
             "regionName": "Bengaluru HQ Region",
             "divisionName": "Bengaluru South Division",
             "latitude": 12.920649,
-            "longitude": 77.510796
+            "longitude": 77.510796,
+            "stateName": "KARNATAKA",
+            "districtName": "BENGALURU URBAN"
         },
         {
             "officeName": "Rajarajeshwarinagar S.O",
@@ -20,7 +22,9 @@
             "regionName": "Bengaluru HQ Region",
             "divisionName": "Bengaluru South Division",
             "latitude": 12.9143199,
-            "longitude": 77.5207962
+            "longitude": 77.5207962,
+            "stateName": "KARNATAKA",
+            "districtName": "BENGALURU URBAN"
         },
         {
             "officeName": "Channasandra PO",
@@ -30,17 +34,9 @@
             "regionName": "Bengaluru HQ Region",
             "divisionName": "Bengaluru South Division",
             "latitude": 12.903983,
-            "longitude": 77.514601
-        },
-        {
-            "officeName": "Rajarajeshwarinagar Parcel Processing Center",
-            "officeType": "PO",
-            "deliveryStatus": "Non Delivery",
-            "circleName": "Karnataka Circle",
-            "regionName": "Bengaluru HQ Region",
-            "divisionName": "Bengaluru South Division",
-            "latitude": 12.914,
-            "longitude": 77.52
+            "longitude": 77.514601,
+            "stateName": "KARNATAKA",
+            "districtName": "BENGALURU URBAN"
         }
     ]
 }

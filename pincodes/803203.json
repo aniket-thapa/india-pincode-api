@@ -10,7 +10,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "PATNA SAHIB DIVISION",
             "latitude": 25.610471,
-            "longitude": 85.141656
+            "longitude": 85.141656,
+            "stateName": "BIHAR",
+            "districtName": "PATNA"
         },
         {
             "officeName": "RUKUNPUR BO",
@@ -20,7 +22,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "PATNA SAHIB DIVISION",
             "latitude": 25.594095,
-            "longitude": 85.137565
+            "longitude": 85.137565,
+            "stateName": "BIHAR",
+            "districtName": "PATNA"
         },
         {
             "officeName": "DGTOLA BO",
@@ -30,7 +34,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "PATNA SAHIB DIVISION",
             "latitude": 25.3333658,
-            "longitude": 85.2588888
+            "longitude": 85.2588888,
+            "stateName": "BIHAR",
+            "districtName": "PATNA"
         },
         {
             "officeName": "USFA BO",
@@ -39,8 +45,10 @@
             "circleName": "Bihar Circle",
             "regionName": "DivReportingCircle",
             "divisionName": "PATNA SAHIB DIVISION",
-            "latitude": 85.141663,
-            "longitude": 25.610464
+            "latitude": null,
+            "longitude": null,
+            "stateName": "BIHAR",
+            "districtName": "PATNA"
         },
         {
             "officeName": "ALAWALPUR SO",
@@ -50,7 +58,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "PATNA SAHIB DIVISION",
             "latitude": 25.4937937,
-            "longitude": 85.1048962
+            "longitude": 85.1048962,
+            "stateName": "BIHAR",
+            "districtName": "PATNA"
         }
     ]
 }

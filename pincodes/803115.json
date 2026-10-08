@@ -10,7 +10,9 @@
             "regionName": "East Region Bhagalpur",
             "divisionName": "Nalanda Division",
             "latitude": 23.52,
-            "longitude": 87.32
+            "longitude": 87.32,
+            "stateName": "BIHAR",
+            "districtName": "NALANDA"
         },
         {
             "officeName": "Ghorsrawan BO",
@@ -20,7 +22,9 @@
             "regionName": "East Region Bhagalpur",
             "divisionName": "Nalanda Division",
             "latitude": 25.09,
-            "longitude": 85.57
+            "longitude": 85.57,
+            "stateName": "BIHAR",
+            "districtName": "NALANDA"
         },
         {
             "officeName": "Pawa BO",
@@ -29,8 +33,10 @@
             "circleName": "Bihar Circle",
             "regionName": "East Region Bhagalpur",
             "divisionName": "Nalanda Division",
-            "latitude": 40.12,
-            "longitude": 74.28
+            "latitude": null,
+            "longitude": 74.28,
+            "stateName": "BIHAR",
+            "districtName": "NALANDA"
         },
         {
             "officeName": "Nanand BO",
@@ -40,7 +46,9 @@
             "regionName": "East Region Bhagalpur",
             "divisionName": "Nalanda Division",
             "latitude": 25.09,
-            "longitude": 85.5
+            "longitude": 85.5,
+            "stateName": "BIHAR",
+            "districtName": "NALANDA"
         },
         {
             "officeName": "Chorsua BO",
@@ -50,7 +58,9 @@
             "regionName": "East Region Bhagalpur",
             "divisionName": "Nalanda Division",
             "latitude": 25.11,
-            "longitude": 85.52
+            "longitude": 85.52,
+            "stateName": "BIHAR",
+            "districtName": "NALANDA"
         },
         {
             "officeName": "Nepura BO",
@@ -60,7 +70,9 @@
             "regionName": "East Region Bhagalpur",
             "divisionName": "Nalanda Division",
             "latitude": 25.12,
-            "longitude": 85.54
+            "longitude": 85.54,
+            "stateName": "BIHAR",
+            "districtName": "NALANDA"
         },
         {
             "officeName": "Pyarepur BO",
@@ -70,7 +82,9 @@
             "regionName": "East Region Bhagalpur",
             "divisionName": "Nalanda Division",
             "latitude": 26.41,
-            "longitude": 84.56
+            "longitude": 84.56,
+            "stateName": "BIHAR",
+            "districtName": "NALANDA"
         },
         {
             "officeName": "Pawapuri SO",
@@ -80,7 +94,9 @@
             "regionName": "East Region Bhagalpur",
             "divisionName": "Nalanda Division",
             "latitude": 25.27755,
-            "longitude": 85.42405
+            "longitude": 85.42405,
+            "stateName": "BIHAR",
+            "districtName": "NALANDA"
         }
     ]
 }

@@ -1,17 +1,7 @@
 {
-    "state": "NA",
-    "district": "NA",
+    "state": "ANDHRA PRADESH",
+    "district": "KRISHNA",
     "offices": [
-        {
-            "officeName": "ALINAKHIPALEM",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "Andhra Pradesh Circle",
-            "regionName": "Vijayawada Region",
-            "divisionName": "Vijayawada Division",
-            "latitude": null,
-            "longitude": null
-        },
         {
             "officeName": "Aminapuram B.O",
             "officeType": "BO",
@@ -20,7 +10,9 @@
             "regionName": "Vijayawada Region",
             "divisionName": "Vijayawada Division",
             "latitude": 16.308284,
-            "longitude": 80.846702
+            "longitude": 80.846702,
+            "stateName": "ANDHRA PRADESH",
+            "districtName": "KRISHNA"
         },
         {
             "officeName": "Choragudi B.O",
@@ -30,7 +22,9 @@
             "regionName": "Vijayawada Region",
             "divisionName": "Vijayawada Division",
             "latitude": 16.242415,
-            "longitude": 80.874728
+            "longitude": 80.874728,
+            "stateName": "ANDHRA PRADESH",
+            "districtName": "KRISHNA"
         },
         {
             "officeName": "Penumatcha B.O",
@@ -40,7 +34,9 @@
             "regionName": "Vijayawada Region",
             "divisionName": "Vijayawada Division",
             "latitude": 16.245711,
-            "longitude": 80.883097
+            "longitude": 80.883097,
+            "stateName": "ANDHRA PRADESH",
+            "districtName": "KRISHNA"
         },
         {
             "officeName": "Agniparru B.O",
@@ -50,7 +46,9 @@
             "regionName": "Vijayawada Region",
             "divisionName": "Vijayawada Division",
             "latitude": 16.270278,
-            "longitude": 80.884492
+            "longitude": 80.884492,
+            "stateName": "ANDHRA PRADESH",
+            "districtName": "KRISHNA"
         },
         {
             "officeName": "Virankilock S.O",
@@ -60,7 +58,9 @@
             "regionName": "Vijayawada Region",
             "divisionName": "Vijayawada Division",
             "latitude": 16.2933611,
-            "longitude": 80.8670556
+            "longitude": 80.8670556,
+            "stateName": "ANDHRA PRADESH",
+            "districtName": "KRISHNA"
         },
         {
             "officeName": "Krishnapuram B.O",
@@ -70,7 +70,9 @@
             "regionName": "Vijayawada Region",
             "divisionName": "Vijayawada Division",
             "latitude": 16.255847,
-            "longitude": 80.868377
+            "longitude": 80.868377,
+            "stateName": "ANDHRA PRADESH",
+            "districtName": "KRISHNA"
         },
         {
             "officeName": "Pamidimukkala B.O",
@@ -80,7 +82,9 @@
             "regionName": "Vijayawada Region",
             "divisionName": "Vijayawada Division",
             "latitude": 16.279831,
-            "longitude": 80.866502
+            "longitude": 80.866502,
+            "stateName": "ANDHRA PRADESH",
+            "districtName": "KRISHNA"
         }
     ]
 }

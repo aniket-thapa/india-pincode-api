@@ -10,7 +10,9 @@
             "regionName": "Chennai City Region",
             "divisionName": "Chengalpattu Division",
             "latitude": 12.6840072,
-            "longitude": 79.9833363
+            "longitude": 79.9833363,
+            "stateName": "TAMIL NADU",
+            "districtName": "CHENGALPATTU"
         },
         {
             "officeName": "Madambakkam BO",
@@ -20,7 +22,9 @@
             "regionName": "Chennai City Region",
             "divisionName": "Chengalpattu Division",
             "latitude": 12.6840062,
-            "longitude": 79.9833373
+            "longitude": 79.9833373,
+            "stateName": "TAMIL NADU",
+            "districtName": "KANCHIPURAM"
         },
         {
             "officeName": "Kannivakkam BO",
@@ -30,7 +34,9 @@
             "regionName": "Chennai City Region",
             "divisionName": "Chengalpattu Division",
             "latitude": 12.84275,
-            "longitude": 80.0556
+            "longitude": 80.0556,
+            "stateName": "TAMIL NADU",
+            "districtName": "CHENGALPATTU"
         },
         {
             "officeName": "Thangappapuram BO",
@@ -40,7 +46,9 @@
             "regionName": "Chennai City Region",
             "divisionName": "Chengalpattu Division",
             "latitude": 12.6840072,
-            "longitude": 79.9833363
+            "longitude": 79.9833363,
+            "stateName": "TAMIL NADU",
+            "districtName": "CHENGALPATTU"
         },
         {
             "officeName": "Guduvancheri SO",
@@ -50,7 +58,9 @@
             "regionName": "Chennai City Region",
             "divisionName": "Chengalpattu Division",
             "latitude": 13.0015556,
-            "longitude": 80.1
+            "longitude": 80.1,
+            "stateName": "TAMIL NADU",
+            "districtName": "CHENGALPATTU"
         },
         {
             "officeName": "Karanaipuduchery BO",
@@ -60,7 +70,9 @@
             "regionName": "Chennai City Region",
             "divisionName": "Chengalpattu Division",
             "latitude": 12.6840112,
-            "longitude": 79.9833323
+            "longitude": 79.9833323,
+            "stateName": "TAMIL NADU",
+            "districtName": "CHENGALPATTU"
         },
         {
             "officeName": "Adhanur B.O",
@@ -70,17 +82,9 @@
             "regionName": "Chennai City Region",
             "divisionName": "Chengalpattu Division",
             "latitude": null,
-            "longitude": null
-        },
-        {
-            "officeName": "KUMIZHI BO",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "Tamilnadu Circle",
-            "regionName": "Chennai City Region",
-            "divisionName": "Chengalpattu Division",
-            "latitude": 12.802763,
-            "longitude": 80.120115
+            "longitude": null,
+            "stateName": "TAMIL NADU",
+            "districtName": "CHENGALPATTU"
         }
     ]
 }

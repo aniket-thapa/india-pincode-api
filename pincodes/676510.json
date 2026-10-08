@@ -1,17 +1,7 @@
 {
-    "state": "NA",
-    "district": "NA",
+    "state": "KERALA",
+    "district": "MALAPPURAM",
     "offices": [
-        {
-            "officeName": "Poovanchina BO",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "Kerala Circle",
-            "regionName": "Calicut Region",
-            "divisionName": "Tirur Division",
-            "latitude": 10.961519,
-            "longitude": 76.007872
-        },
         {
             "officeName": "Randathani SO",
             "officeType": "PO",
@@ -20,7 +10,9 @@
             "regionName": "Calicut Region",
             "divisionName": "Tirur Division",
             "latitude": 10.9619321,
-            "longitude": 76.0075808
+            "longitude": 76.0075808,
+            "stateName": "KERALA",
+            "districtName": "MALAPPURAM"
         },
         {
             "officeName": "Cherushola BO",
@@ -30,7 +22,9 @@
             "regionName": "Calicut Region",
             "divisionName": "Tirur Division",
             "latitude": 10.9742785,
-            "longitude": 75.9925195
+            "longitude": 75.9925195,
+            "stateName": "KERALA",
+            "districtName": "MALAPPURAM"
         }
     ]
 }

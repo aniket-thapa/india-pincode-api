@@ -10,7 +10,9 @@
             "regionName": "North East - I Region",
             "divisionName": "Mizoram Division",
             "latitude": 23.9763919,
-            "longitude": 93.2139931
+            "longitude": 93.2139931,
+            "stateName": "MIZORAM",
+            "districtName": "SAITUAL"
         },
         {
             "officeName": "Kawlbem B.O",
@@ -20,7 +22,9 @@
             "regionName": "North East - I Region",
             "divisionName": "Mizoram Division",
             "latitude": 23.8707478,
-            "longitude": 93.3071523
+            "longitude": 93.3071523,
+            "stateName": "MIZORAM",
+            "districtName": "SAITUAL"
         },
         {
             "officeName": "Ngopa S.O",
@@ -30,7 +34,9 @@
             "regionName": "North East - I Region",
             "divisionName": "Mizoram Division",
             "latitude": 23.470632,
-            "longitude": 93.322124
+            "longitude": 93.322124,
+            "stateName": "MIZORAM",
+            "districtName": "SAITUAL"
         },
         {
             "officeName": "Khawkawn B.O",
@@ -40,7 +46,9 @@
             "regionName": "North East - I Region",
             "divisionName": "Mizoram Division",
             "latitude": 24.0200355,
-            "longitude": 93.2216649
+            "longitude": 93.2216649,
+            "stateName": "MIZORAM",
+            "districtName": "SAITUAL"
         },
         {
             "officeName": "Lamzawl B.O",
@@ -50,17 +58,9 @@
             "regionName": "North East - I Region",
             "divisionName": "Mizoram Division",
             "latitude": 23.8166974,
-            "longitude": 93.2052181
-        },
-        {
-            "officeName": "MIMBUNG",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "North Eastern Circle",
-            "regionName": "North East - I Region",
-            "divisionName": "Mizoram Division",
-            "latitude": null,
-            "longitude": null
+            "longitude": 93.2052181,
+            "stateName": "MIZORAM",
+            "districtName": "SAITUAL"
         }
     ]
 }

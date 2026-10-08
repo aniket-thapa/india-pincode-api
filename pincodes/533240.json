@@ -10,7 +10,9 @@
             "regionName": "Visakhapatnam Region",
             "divisionName": "Amalapuram Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "ANDHRA PRADESH",
+            "districtName": "KONASEEMA"
         },
         {
             "officeName": "D.Gannavaram S.O",
@@ -20,7 +22,9 @@
             "regionName": "Visakhapatnam Region",
             "divisionName": "Amalapuram Division",
             "latitude": 16.57463889,
-            "longitude": 81.88463889
+            "longitude": 81.88463889,
+            "stateName": "ANDHRA PRADESH",
+            "districtName": "KONASEEMA"
         },
         {
             "officeName": "L.Gannavaram B.O",
@@ -30,7 +34,9 @@
             "regionName": "Visakhapatnam Region",
             "divisionName": "Amalapuram Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "ANDHRA PRADESH",
+            "districtName": "KONASEEMA"
         },
         {
             "officeName": "Yenugupalli B.O",
@@ -40,17 +46,9 @@
             "regionName": "Visakhapatnam Region",
             "divisionName": "Amalapuram Division",
             "latitude": null,
-            "longitude": null
-        },
-        {
-            "officeName": "Bellampudi B.O",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "Andhra Pradesh Circle",
-            "regionName": "Visakhapatnam Region",
-            "divisionName": "Amalapuram Division",
-            "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "ANDHRA PRADESH",
+            "districtName": "KONASEEMA"
         }
     ]
 }

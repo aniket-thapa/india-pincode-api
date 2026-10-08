@@ -9,8 +9,10 @@
             "circleName": "Tamilnadu Circle",
             "regionName": "Central Region Trichirapalli",
             "divisionName": "Kumbakonam Division",
-            "latitude": 79.5,
-            "longitude": 10.75
+            "latitude": null,
+            "longitude": null,
+            "stateName": "TAMIL NADU",
+            "districtName": "THIRUVARUR"
         },
         {
             "officeName": "Tiruvidavasal B.O",
@@ -20,7 +22,9 @@
             "regionName": "Central Region Trichirapalli",
             "divisionName": "Kumbakonam Division",
             "latitude": 10.76,
-            "longitude": 79.51
+            "longitude": 79.51,
+            "stateName": "TAMIL NADU",
+            "districtName": "THIRUVARUR"
         }
     ]
 }

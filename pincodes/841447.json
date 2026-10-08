@@ -10,7 +10,9 @@
             "regionName": "Muzaffarpur Region",
             "divisionName": "Siwan Division",
             "latitude": 26.219622,
-            "longitude": 84.356659
+            "longitude": 84.356659,
+            "stateName": "BIHAR",
+            "districtName": "SIWAN"
         },
         {
             "officeName": "Khajuhatti BO",
@@ -20,7 +22,9 @@
             "regionName": "Muzaffarpur Region",
             "divisionName": "Siwan Division",
             "latitude": 26.219622,
-            "longitude": 84.356659
+            "longitude": 84.356659,
+            "stateName": "BIHAR",
+            "districtName": "GOPALGANJ"
         },
         {
             "officeName": "Lakrinabiganj S.O",
@@ -30,7 +34,9 @@
             "regionName": "Muzaffarpur Region",
             "divisionName": "Siwan Division",
             "latitude": 26.2328,
-            "longitude": 84.7109
+            "longitude": 84.7109,
+            "stateName": "BIHAR",
+            "districtName": "SIWAN"
         },
         {
             "officeName": "Gopalpur BO",
@@ -40,7 +46,9 @@
             "regionName": "Muzaffarpur Region",
             "divisionName": "Siwan Division",
             "latitude": 26.219622,
-            "longitude": 84.356659
+            "longitude": 84.356659,
+            "stateName": "BIHAR",
+            "districtName": "GOPALGANJ"
         },
         {
             "officeName": "Safiabad BO",
@@ -50,17 +58,9 @@
             "regionName": "Muzaffarpur Region",
             "divisionName": "Siwan Division",
             "latitude": 26.219622,
-            "longitude": 84.356659
-        },
-        {
-            "officeName": "UJJAINA BO",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "Bihar Circle",
-            "regionName": "Muzaffarpur Region",
-            "divisionName": "Siwan Division",
-            "latitude": null,
-            "longitude": null
+            "longitude": 84.356659,
+            "stateName": "BIHAR",
+            "districtName": "GOPALGANJ"
         },
         {
             "officeName": "Dabchhu BO",
@@ -70,7 +70,9 @@
             "regionName": "Muzaffarpur Region",
             "divisionName": "Siwan Division",
             "latitude": 26.219622,
-            "longitude": 84.356659
+            "longitude": 84.356659,
+            "stateName": "BIHAR",
+            "districtName": "GOPALGANJ"
         },
         {
             "officeName": "Parauli BO",
@@ -80,7 +82,9 @@
             "regionName": "Muzaffarpur Region",
             "divisionName": "Siwan Division",
             "latitude": 26.219622,
-            "longitude": 84.356659
+            "longitude": 84.356659,
+            "stateName": "BIHAR",
+            "districtName": "SIWAN"
         }
     ]
 }

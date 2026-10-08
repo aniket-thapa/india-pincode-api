@@ -10,7 +10,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Trivandrum North Division",
             "latitude": 8.5667778,
-            "longitude": 76.8840833
+            "longitude": 76.8840833,
+            "stateName": "KERALA",
+            "districtName": "THIRUVANANTHAPURAM"
         },
         {
             "officeName": "Thundathil BO",
@@ -20,7 +22,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Trivandrum North Division",
             "latitude": 8.58,
-            "longitude": 76.9
+            "longitude": 76.9,
+            "stateName": "KERALA",
+            "districtName": "THIRUVANANTHAPURAM"
         },
         {
             "officeName": "Pangappara BO",
@@ -30,17 +34,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Trivandrum North Division",
             "latitude": 8.55,
-            "longitude": 76.93
-        },
-        {
-            "officeName": "Tehnopark",
-            "officeType": "BO",
-            "deliveryStatus": "Non Delivery",
-            "circleName": "Kerala Circle",
-            "regionName": "DivReportingCircle",
-            "divisionName": "Trivandrum North Division",
-            "latitude": 8.556889,
-            "longitude": 76.881114
+            "longitude": 76.93,
+            "stateName": "KERALA",
+            "districtName": "THIRUVANANTHAPURAM"
         }
     ]
 }

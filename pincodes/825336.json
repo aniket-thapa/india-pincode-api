@@ -10,7 +10,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Hazaribagh Division",
             "latitude": 23.853605,
-            "longitude": 85.440856
+            "longitude": 85.440856,
+            "stateName": "JHARKHAND",
+            "districtName": "HAZARIBAGH"
         },
         {
             "officeName": "Hendegarha BO",
@@ -20,7 +22,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Hazaribagh Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "JHARKHAND",
+            "districtName": "HAZARIBAGH"
         },
         {
             "officeName": "Jarwa BO",
@@ -30,7 +34,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Hazaribagh Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "JHARKHAND",
+            "districtName": "HAZARIBAGH"
         }
     ]
 }

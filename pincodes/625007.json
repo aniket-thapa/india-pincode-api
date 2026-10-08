@@ -10,7 +10,9 @@
             "regionName": "Southern Region Madurai",
             "divisionName": "Madurai Division",
             "latitude": 9.9433889,
-            "longitude": 78.1465
+            "longitude": 78.1465,
+            "stateName": "TAMIL NADU",
+            "districtName": "MADURAI"
         },
         {
             "officeName": "Surveyor Colony SO",
@@ -19,8 +21,10 @@
             "circleName": "Tamilnadu Circle",
             "regionName": "Southern Region Madurai",
             "divisionName": "Madurai Division",
-            "latitude": 45.5535278,
-            "longitude": 78.2571111
+            "latitude": null,
+            "longitude": 78.2571111,
+            "stateName": "TAMIL NADU",
+            "districtName": "MADURAI"
         },
         {
             "officeName": "KPudur SO",
@@ -30,7 +34,9 @@
             "regionName": "Southern Region Madurai",
             "divisionName": "Madurai Division",
             "latitude": 9.943368,
-            "longitude": 78.148401
+            "longitude": 78.148401,
+            "stateName": "TAMIL NADU",
+            "districtName": "MADURAI"
         }
     ]
 }

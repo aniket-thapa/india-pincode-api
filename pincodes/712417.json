@@ -10,7 +10,9 @@
             "regionName": "South Bengal Region",
             "divisionName": "Hooghly North Division",
             "latitude": 22.64,
-            "longitude": 87.84
+            "longitude": 87.84,
+            "stateName": "WEST BENGAL",
+            "districtName": "HOOGHLY"
         },
         {
             "officeName": "Nandanpur BO",
@@ -20,7 +22,9 @@
             "regionName": "South Bengal Region",
             "divisionName": "Hooghly North Division",
             "latitude": 22.67,
-            "longitude": 87.83
+            "longitude": 87.83,
+            "stateName": "WEST BENGAL",
+            "districtName": "HOOGHLY"
         },
         {
             "officeName": "Sabalsingpur BO",
@@ -30,7 +34,9 @@
             "regionName": "South Bengal Region",
             "divisionName": "Hooghly North Division",
             "latitude": 22.65,
-            "longitude": 87.85
+            "longitude": 87.85,
+            "stateName": "WEST BENGAL",
+            "districtName": "HOOGHLY"
         },
         {
             "officeName": "Rajhati Bandar SO",
@@ -40,17 +46,9 @@
             "regionName": "South Bengal Region",
             "divisionName": "Hooghly North Division",
             "latitude": 22.78858,
-            "longitude": 88.03445
-        },
-        {
-            "officeName": "SOSAPOTA B.O",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "West Bengal Circle",
-            "regionName": "South Bengal Region",
-            "divisionName": "Hooghly North Division",
-            "latitude": 22.624523,
-            "longitude": 87.868787
+            "longitude": 88.03445,
+            "stateName": "WEST BENGAL",
+            "districtName": "HOOGHLY"
         },
         {
             "officeName": "Jagatpur BO",
@@ -60,7 +58,9 @@
             "regionName": "South Bengal Region",
             "divisionName": "Hooghly North Division",
             "latitude": 22.65,
-            "longitude": 87.81
+            "longitude": 87.81,
+            "stateName": "WEST BENGAL",
+            "districtName": "HOOGHLY"
         },
         {
             "officeName": "Mar0khana BO",
@@ -70,7 +70,9 @@
             "regionName": "South Bengal Region",
             "divisionName": "Hooghly North Division",
             "latitude": 22.64,
-            "longitude": 87.84
+            "longitude": 87.84,
+            "stateName": "WEST BENGAL",
+            "districtName": "HOOGHLY"
         }
     ]
 }

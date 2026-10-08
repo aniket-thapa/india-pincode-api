@@ -10,7 +10,9 @@
             "regionName": "North East - I Region",
             "divisionName": "Agartala Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "TELANGANA",
+            "districtName": "NIRMAL"
         },
         {
             "officeName": "Agartala H.O",
@@ -20,7 +22,9 @@
             "regionName": "North East - I Region",
             "divisionName": "Agartala Division",
             "latitude": 23.82975,
-            "longitude": 91.27883333
+            "longitude": 91.27883333,
+            "stateName": "TELANGANA",
+            "districtName": "NIRMAL"
         },
         {
             "officeName": "Agartala Bazar S.O",
@@ -30,7 +34,9 @@
             "regionName": "North East - I Region",
             "divisionName": "Agartala Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "TELANGANA",
+            "districtName": "NIRMAL"
         },
         {
             "officeName": "Agartala Court S.O",
@@ -40,17 +46,9 @@
             "regionName": "North East - I Region",
             "divisionName": "Agartala Division",
             "latitude": null,
-            "longitude": null
-        },
-        {
-            "officeName": "IDC Agartala",
-            "officeType": "PO",
-            "deliveryStatus": "Delivery",
-            "circleName": "North Eastern Circle",
-            "regionName": "North East - I Region",
-            "divisionName": "Agartala Division",
-            "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "TELANGANA",
+            "districtName": "NIRMAL"
         }
     ]
 }

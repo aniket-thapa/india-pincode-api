@@ -1,17 +1,7 @@
 {
-    "state": "NA",
-    "district": "NA",
+    "state": "KERALA",
+    "district": "ALAPPUZHA",
     "offices": [
-        {
-            "officeName": "PONNITTUSSERY",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "Kerala Circle",
-            "regionName": "Kochi Region",
-            "divisionName": "Alleppey Division",
-            "latitude": 9.601079,
-            "longitude": 76.33471
-        },
         {
             "officeName": "Sethulekshmipuram SO",
             "officeType": "PO",
@@ -20,7 +10,9 @@
             "regionName": "Kochi Region",
             "divisionName": "Alleppey Division",
             "latitude": 9.61408,
-            "longitude": 76.31877
+            "longitude": 76.31877,
+            "stateName": "KERALA",
+            "districtName": "ALAPPUZHA"
         },
         {
             "officeName": "Mararikulam North BO",
@@ -30,7 +22,9 @@
             "regionName": "Kochi Region",
             "divisionName": "Alleppey Division",
             "latitude": 9.599,
-            "longitude": 76.312
+            "longitude": 76.312,
+            "stateName": "KERALA",
+            "districtName": "ALAPPUZHA"
         }
     ]
 }

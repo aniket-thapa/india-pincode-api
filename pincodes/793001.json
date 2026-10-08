@@ -10,7 +10,9 @@
             "regionName": "Shillong HQ Region",
             "divisionName": "Meghalaya Division",
             "latitude": 25.57391667,
-            "longitude": 91.88486111
+            "longitude": 91.88486111,
+            "stateName": "MEGHALAYA",
+            "districtName": "EAST KHASI HILLS"
         },
         {
             "officeName": "Oakland S.O",
@@ -20,7 +22,9 @@
             "regionName": "Shillong HQ Region",
             "divisionName": "Meghalaya Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "MEGHALAYA",
+            "districtName": "EAST KHASI HILLS"
         },
         {
             "officeName": "Meghalaya Secretariat S.O",
@@ -30,7 +34,9 @@
             "regionName": "Shillong HQ Region",
             "divisionName": "Meghalaya Division",
             "latitude": 25.5787,
-            "longitude": 91.8932
+            "longitude": 91.8932,
+            "stateName": "MEGHALAYA",
+            "districtName": "EAST KHASI HILLS"
         }
     ]
 }

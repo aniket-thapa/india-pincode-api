@@ -10,7 +10,9 @@
             "regionName": "Calicut Region",
             "divisionName": "Ottapalam Division",
             "latitude": 10.73588949,
-            "longitude": 76.0887076
+            "longitude": 76.0887076,
+            "stateName": "KERALA",
+            "districtName": "PALAKKAD"
         },
         {
             "officeName": "Perumannur BO",
@@ -20,7 +22,9 @@
             "regionName": "Calicut Region",
             "divisionName": "Ottapalam Division",
             "latitude": 9,
-            "longitude": 9
+            "longitude": null,
+            "stateName": "KERALA",
+            "districtName": "PALAKKAD"
         },
         {
             "officeName": "Thanneercode BO",
@@ -30,7 +34,9 @@
             "regionName": "Calicut Region",
             "divisionName": "Ottapalam Division",
             "latitude": 15.5934,
-            "longitude": 75.976
+            "longitude": 75.976,
+            "stateName": "KERALA",
+            "districtName": "PALAKKAD"
         }
     ]
 }

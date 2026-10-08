@@ -10,7 +10,9 @@
             "regionName": "South Karnataka Region",
             "divisionName": "Shivamogga Division",
             "latitude": 13.89,
-            "longitude": 74.86
+            "longitude": 74.86,
+            "stateName": "KARNATAKA",
+            "districtName": "SHIVAMOGGA"
         },
         {
             "officeName": "Nittur S.O (Shivamogga)",
@@ -20,7 +22,9 @@
             "regionName": "South Karnataka Region",
             "divisionName": "Shivamogga Division",
             "latitude": 14.1675833,
-            "longitude": 75.0266389
+            "longitude": 75.0266389,
+            "stateName": "KARNATAKA",
+            "districtName": "SHIVAMOGGA"
         },
         {
             "officeName": "Hebbige B.O",
@@ -29,8 +33,10 @@
             "circleName": "Karnataka Circle",
             "regionName": "South Karnataka Region",
             "divisionName": "Shivamogga Division",
-            "latitude": 1395,
-            "longitude": 74.86
+            "latitude": null,
+            "longitude": 74.86,
+            "stateName": "KARNATAKA",
+            "districtName": "SHIVAMOGGA"
         },
         {
             "officeName": "K.B.Circle B.O",
@@ -40,7 +46,9 @@
             "regionName": "South Karnataka Region",
             "divisionName": "Shivamogga Division",
             "latitude": 13.95,
-            "longitude": 74.86
+            "longitude": 74.86,
+            "stateName": "KARNATAKA",
+            "districtName": "SHIVAMOGGA"
         },
         {
             "officeName": "Nagodi B.O",
@@ -50,7 +58,9 @@
             "regionName": "South Karnataka Region",
             "divisionName": "Shivamogga Division",
             "latitude": 13.91,
-            "longitude": 75.85
+            "longitude": 75.85,
+            "stateName": "KARNATAKA",
+            "districtName": "SHIVAMOGGA"
         }
     ]
 }

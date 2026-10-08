@@ -10,7 +10,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Trivandrum South Division",
             "latitude": 8.340639,
-            "longitude": 77.116875
+            "longitude": 77.116875,
+            "stateName": "KERALA",
+            "districtName": "THIRUVANANTHAPURAM"
         },
         {
             "officeName": "Chaikkottukonam BO",
@@ -19,8 +21,10 @@
             "circleName": "Kerala Circle",
             "regionName": "DivReportingCircle",
             "divisionName": "Trivandrum South Division",
-            "latitude": 77.106087,
-            "longitude": 77.106087
+            "latitude": null,
+            "longitude": 77.106087,
+            "stateName": "KERALA",
+            "districtName": "THIRUVANANTHAPURAM"
         },
         {
             "officeName": "Arayur BO",
@@ -30,7 +34,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Trivandrum South Division",
             "latitude": 8.3571,
-            "longitude": 77.128382
+            "longitude": 77.128382,
+            "stateName": "KERALA",
+            "districtName": "THIRUVANANTHAPURAM"
         },
         {
             "officeName": "Mariyapuram BO",
@@ -40,7 +46,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Trivandrum South Division",
             "latitude": 9.858025,
-            "longitude": 77.013264
+            "longitude": 77.013264,
+            "stateName": "KERALA",
+            "districtName": "THIRUVANANTHAPURAM"
         },
         {
             "officeName": "Amaravila SO",
@@ -50,7 +58,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Trivandrum South Division",
             "latitude": 8.3876111,
-            "longitude": 77.1124167
+            "longitude": 77.1124167,
+            "stateName": "KERALA",
+            "districtName": "THIRUVANANTHAPURAM"
         }
     ]
 }
