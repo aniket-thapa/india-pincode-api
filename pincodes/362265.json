@@ -10,7 +10,9 @@
             "regionName": "Rajkot Region",
             "divisionName": "Junagadh Division",
             "latitude": 20.9469742,
-            "longitude": 70.323299
+            "longitude": 70.323299,
+            "stateName": "GUJARAT",
+            "districtName": "GIR SOMNATH"
         },
         {
             "officeName": "Veraval Rayon Factory SO",
@@ -20,7 +22,9 @@
             "regionName": "Rajkot Region",
             "divisionName": "Junagadh Division",
             "latitude": 20.9181944,
-            "longitude": 70.3580833
+            "longitude": 70.3580833,
+            "stateName": "GUJARAT",
+            "districtName": "GIR SOMNATH"
         },
         {
             "officeName": "Veraval SO",
@@ -30,7 +34,9 @@
             "regionName": "Rajkot Region",
             "divisionName": "Junagadh Division",
             "latitude": 20.911308,
-            "longitude": 70.365808
+            "longitude": 70.365808,
+            "stateName": "GUJARAT",
+            "districtName": "GIR SOMNATH"
         },
         {
             "officeName": "Dabhor BO",
@@ -40,7 +46,9 @@
             "regionName": "Rajkot Region",
             "divisionName": "Junagadh Division",
             "latitude": 20.9437283,
-            "longitude": 70.3612965
+            "longitude": 70.3612965,
+            "stateName": "GUJARAT",
+            "districtName": "GIR SOMNATH"
         },
         {
             "officeName": "Veraval Postal Colony ND TSO",
@@ -49,8 +57,10 @@
             "circleName": "Gujarat Circle",
             "regionName": "Rajkot Region",
             "divisionName": "Junagadh Division",
-            "latitude": 70.35543879,
-            "longitude": 20.91346309
+            "latitude": null,
+            "longitude": null,
+            "stateName": "GUJARAT",
+            "districtName": "GIR SOMNATH"
         }
     ]
 }

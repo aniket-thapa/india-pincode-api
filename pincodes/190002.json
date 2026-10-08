@@ -10,7 +10,9 @@
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
             "latitude": 34.0893611,
-            "longitude": 74.8056388
+            "longitude": 74.8056388,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "SRINAGAR"
         },
         {
             "officeName": "SR Gunj SO",
@@ -20,7 +22,9 @@
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
             "latitude": 34.097,
-            "longitude": 74.80475
+            "longitude": 74.80475,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "SRINAGAR"
         },
         {
             "officeName": "Safa Kadal SO",
@@ -29,8 +33,10 @@
             "circleName": "Jammu Kashmir Circle",
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
-            "latitude": 2.5,
-            "longitude": 3.6
+            "latitude": null,
+            "longitude": null,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "SRINAGAR"
         },
         {
             "officeName": "Jamia Masjid SO",
@@ -40,7 +46,9 @@
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
             "latitude": 34.0833611,
-            "longitude": 74.8080556
+            "longitude": 74.8080556,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "SRINAGAR"
         }
     ]
 }

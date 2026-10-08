@@ -10,7 +10,9 @@
             "regionName": "Jodhpur Region",
             "divisionName": "Nagaur Division",
             "latitude": 27.55,
-            "longitude": 73.666
+            "longitude": 73.666,
+            "stateName": "RAJASTHAN",
+            "districtName": "NAGAUR"
         },
         {
             "officeName": "Chiloo B.O",
@@ -20,7 +22,9 @@
             "regionName": "Jodhpur Region",
             "divisionName": "Nagaur Division",
             "latitude": 27.5407,
-            "longitude": 73.6708
+            "longitude": 73.6708,
+            "stateName": "RAJASTHAN",
+            "districtName": "NAGAUR"
         },
         {
             "officeName": "Sewari B.O",
@@ -30,17 +34,9 @@
             "regionName": "Jodhpur Region",
             "divisionName": "Nagaur Division",
             "latitude": 27.5044,
-            "longitude": 73.6544
-        },
-        {
-            "officeName": "Hanuman Nagar",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "Rajasthan Circle",
-            "regionName": "Jodhpur Region",
-            "divisionName": "Nagaur Division",
-            "latitude": null,
-            "longitude": null
+            "longitude": 73.6544,
+            "stateName": "RAJASTHAN",
+            "districtName": "NAGAUR"
         },
         {
             "officeName": "Sribalaji S.O",
@@ -50,7 +46,9 @@
             "regionName": "Jodhpur Region",
             "divisionName": "Nagaur Division",
             "latitude": 27.5578611,
-            "longitude": 74.9216111
+            "longitude": 74.9216111,
+            "stateName": "RAJASTHAN",
+            "districtName": "NAGAUR"
         }
     ]
 }

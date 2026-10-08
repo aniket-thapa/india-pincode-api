@@ -10,7 +10,9 @@
             "regionName": "Hyderabad Region",
             "divisionName": "Nizamabad Division",
             "latitude": 18.44509,
-            "longitude": 78.240281
+            "longitude": 78.240281,
+            "stateName": "TELANGANA",
+            "districtName": "KAMAREDDY"
         },
         {
             "officeName": "Adloor B.O",
@@ -20,7 +22,9 @@
             "regionName": "Hyderabad Region",
             "divisionName": "Nizamabad Division",
             "latitude": 18.3716726,
-            "longitude": 78.3090759
+            "longitude": 78.3090759,
+            "stateName": "TELANGANA",
+            "districtName": "KAMAREDDY"
         },
         {
             "officeName": "Markal B.O",
@@ -30,7 +34,9 @@
             "regionName": "Hyderabad Region",
             "divisionName": "Nizamabad Division",
             "latitude": 18.4101118,
-            "longitude": 78.2721116
+            "longitude": 78.2721116,
+            "stateName": "TELANGANA",
+            "districtName": "KAMAREDDY"
         },
         {
             "officeName": "Padmajiwadi B.O",
@@ -40,7 +46,9 @@
             "regionName": "Hyderabad Region",
             "divisionName": "Nizamabad Division",
             "latitude": 18.441034,
-            "longitude": 78.237848
+            "longitude": 78.237848,
+            "stateName": "TELANGANA",
+            "districtName": "KAMAREDDY"
         },
         {
             "officeName": "Sadasivanagar S.O",
@@ -50,7 +58,9 @@
             "regionName": "Hyderabad Region",
             "divisionName": "Nizamabad Division",
             "latitude": 18.405818,
-            "longitude": 78.26977
+            "longitude": 78.26977,
+            "stateName": "TELANGANA",
+            "districtName": "KAMAREDDY"
         },
         {
             "officeName": "Bhoompalli B.O",
@@ -60,7 +70,9 @@
             "regionName": "Hyderabad Region",
             "divisionName": "Nizamabad Division",
             "latitude": 18.4101118,
-            "longitude": 78.2721116
+            "longitude": 78.2721116,
+            "stateName": "TELANGANA",
+            "districtName": "KAMAREDDY"
         },
         {
             "officeName": "Kupriyal B.O",
@@ -70,7 +82,9 @@
             "regionName": "Hyderabad Region",
             "divisionName": "Nizamabad Division",
             "latitude": 18.3661903,
-            "longitude": 78.2836704
+            "longitude": 78.2836704,
+            "stateName": "TELANGANA",
+            "districtName": "KAMAREDDY"
         },
         {
             "officeName": "DHARMARAOPET B.O",
@@ -80,7 +94,9 @@
             "regionName": "Hyderabad Region",
             "divisionName": "Nizamabad Division",
             "latitude": 18.3972836,
-            "longitude": 78.2416071
+            "longitude": 78.2416071,
+            "stateName": "TELANGANA",
+            "districtName": "KAMAREDDY"
         },
         {
             "officeName": "Kottakki B.O",
@@ -89,8 +105,10 @@
             "circleName": "Andhra Pradesh Circle",
             "regionName": "Visakhapatnam Region",
             "divisionName": "Parvathipuram Division",
-            "latitude": 83.2359,
-            "longitude": 18.5153
+            "latitude": null,
+            "longitude": null,
+            "stateName": "ANDHRA PRADESH",
+            "districtName": "VIZIANAGARAM"
         },
         {
             "officeName": "UTNOOR B.O",
@@ -100,7 +118,9 @@
             "regionName": "Hyderabad Region",
             "divisionName": "Nizamabad Division",
             "latitude": 18.4101118,
-            "longitude": 78.2721116
+            "longitude": 78.2721116,
+            "stateName": "TELANGANA",
+            "districtName": "KAMAREDDY"
         }
     ]
 }

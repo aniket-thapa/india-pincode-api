@@ -10,7 +10,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Jaipur Moffusil Division",
             "latitude": 27.0628056,
-            "longitude": 76.4805833
+            "longitude": 76.4805833,
+            "stateName": "RAJASTHAN",
+            "districtName": "DAUSA"
         },
         {
             "officeName": "Chandera BO",
@@ -20,7 +22,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Jaipur Moffusil Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "RAJASTHAN",
+            "districtName": "DAUSA"
         },
         {
             "officeName": "Ancheri BO",
@@ -30,7 +34,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Jaipur Moffusil Division",
             "latitude": 10.514149,
-            "longitude": 76.223288
+            "longitude": 76.223288,
+            "stateName": "RAJASTHAN",
+            "districtName": "DAUSA"
         },
         {
             "officeName": "Muhi BO",
@@ -40,7 +46,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Jaipur Moffusil Division",
             "latitude": 22.266032,
-            "longitude": 113.994744
+            "longitude": null,
+            "stateName": "RAJASTHAN",
+            "districtName": "DAUSA"
         }
     ]
 }

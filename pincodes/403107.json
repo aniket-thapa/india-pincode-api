@@ -10,7 +10,9 @@
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
             "latitude": 15.5146543,
-            "longitude": 73.9510709
+            "longitude": 73.9510709,
+            "stateName": "GOA",
+            "districtName": "SOUTH GOA"
         },
         {
             "officeName": "Cumbharjua B.O",
@@ -19,8 +21,10 @@
             "circleName": "Maharashtra Circle",
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
-            "latitude": 74.07,
-            "longitude": 15.77
+            "latitude": null,
+            "longitude": null,
+            "stateName": "GOA",
+            "districtName": "NORTH GOA"
         },
         {
             "officeName": "Amona B.O",
@@ -29,8 +33,10 @@
             "circleName": "Maharashtra Circle",
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
-            "latitude": 73.97,
-            "longitude": 15.54
+            "latitude": null,
+            "longitude": null,
+            "stateName": "GOA",
+            "districtName": "SOUTH GOA"
         },
         {
             "officeName": "Betki B.O",
@@ -39,8 +45,10 @@
             "circleName": "Maharashtra Circle",
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
-            "latitude": 72.63,
-            "longitude": 14.99
+            "latitude": null,
+            "longitude": null,
+            "stateName": "GOA",
+            "districtName": "SOUTH GOA"
         },
         {
             "officeName": "Banastarim B.O",
@@ -49,8 +57,10 @@
             "circleName": "Maharashtra Circle",
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
-            "latitude": 73.02,
-            "longitude": 16.03
+            "latitude": null,
+            "longitude": null,
+            "stateName": "GOA",
+            "districtName": "SOUTH GOA"
         }
     ]
 }

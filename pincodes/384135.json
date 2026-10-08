@@ -10,7 +10,9 @@
             "regionName": "Ahmedabad HQ Region",
             "divisionName": "Mahesana Division",
             "latitude": 23.861727,
-            "longitude": 72.334825
+            "longitude": 72.334825,
+            "stateName": "GUJARAT",
+            "districtName": "MAHESANA"
         },
         {
             "officeName": "Varvada BO",
@@ -20,7 +22,9 @@
             "regionName": "Ahmedabad HQ Region",
             "divisionName": "Mahesana Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "GUJARAT",
+            "districtName": "MAHESANA"
         },
         {
             "officeName": "Brahmanwada SO",
@@ -30,7 +34,9 @@
             "regionName": "Ahmedabad HQ Region",
             "divisionName": "Mahesana Division",
             "latitude": 23.862593,
-            "longitude": 72.362755
+            "longitude": 72.362755,
+            "stateName": "GUJARAT",
+            "districtName": "MAHESANA"
         }
     ]
 }

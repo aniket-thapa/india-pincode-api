@@ -10,7 +10,9 @@
             "regionName": "Hyderabad City Region",
             "divisionName": "Secunderabad Division",
             "latitude": 17.44128087456386,
-            "longitude": 78.49522379805465
+            "longitude": 78.49522379805465,
+            "stateName": "TELANGANA",
+            "districtName": "HYDERABAD"
         },
         {
             "officeName": "Rail Nilayam S.O",
@@ -20,7 +22,9 @@
             "regionName": "Hyderabad City Region",
             "divisionName": "Secunderabad Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "TELANGANA",
+            "districtName": "HYDERABAD"
         }
     ]
 }

@@ -10,7 +10,9 @@
             "regionName": "Jabalpur Region",
             "divisionName": "Jabalpur Division",
             "latitude": 23.150164,
-            "longitude": 80.190296
+            "longitude": 80.190296,
+            "stateName": "MADHYA PRADESH",
+            "districtName": "JABALPUR"
         },
         {
             "officeName": "Umaria Kudari B.O",
@@ -20,7 +22,9 @@
             "regionName": "Jabalpur Region",
             "divisionName": "Jabalpur Division",
             "latitude": 23.095804,
-            "longitude": 80.052095
+            "longitude": 80.052095,
+            "stateName": "MADHYA PRADESH",
+            "districtName": "JABALPUR"
         },
         {
             "officeName": "Dhanpuri B.O",
@@ -30,7 +34,9 @@
             "regionName": "Jabalpur Region",
             "divisionName": "Jabalpur Division",
             "latitude": 23.095044,
-            "longitude": 80.155498
+            "longitude": 80.155498,
+            "stateName": "MADHYA PRADESH",
+            "districtName": "JABALPUR"
         },
         {
             "officeName": "Hinotia Bhoi B.O",
@@ -39,8 +45,10 @@
             "circleName": "Madhya Pradesh Circle",
             "regionName": "Jabalpur Region",
             "divisionName": "Jabalpur Division",
-            "latitude": 80.052095,
-            "longitude": 23.095804
+            "latitude": null,
+            "longitude": null,
+            "stateName": "MADHYA PRADESH",
+            "districtName": "JABALPUR"
         },
         {
             "officeName": "Padwar B.O",
@@ -50,7 +58,9 @@
             "regionName": "Jabalpur Region",
             "divisionName": "Jabalpur Division",
             "latitude": 23.09154,
-            "longitude": 80.050814
+            "longitude": 80.050814,
+            "stateName": "MADHYA PRADESH",
+            "districtName": "JABALPUR"
         },
         {
             "officeName": "Deori Patpara B.O",
@@ -60,7 +70,9 @@
             "regionName": "Jabalpur Region",
             "divisionName": "Jabalpur Division",
             "latitude": 23.095804,
-            "longitude": 80.052095
+            "longitude": 80.052095,
+            "stateName": "MADHYA PRADESH",
+            "districtName": "JABALPUR"
         },
         {
             "officeName": "Barela S.O",
@@ -70,7 +82,9 @@
             "regionName": "Jabalpur Region",
             "divisionName": "Jabalpur Division",
             "latitude": 23.9,
-            "longitude": 80.05
+            "longitude": 80.05,
+            "stateName": "MADHYA PRADESH",
+            "districtName": "JABALPUR"
         }
     ]
 }

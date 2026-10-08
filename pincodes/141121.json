@@ -9,8 +9,10 @@
             "circleName": "Punjab Circle",
             "regionName": "DivReportingCircle",
             "divisionName": "Ludhiana Moffusil Division",
-            "latitude": 46.188722,
-            "longitude": 6.044457
+            "latitude": null,
+            "longitude": null,
+            "stateName": "PUNJAB",
+            "districtName": "LUDHIANA"
         },
         {
             "officeName": "Pawat BO",
@@ -20,7 +22,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Ludhiana Moffusil Division",
             "latitude": 26.154589,
-            "longitude": 84.463862
+            "longitude": 84.463862,
+            "stateName": "PUNJAB",
+            "districtName": "LUDHIANA"
         },
         {
             "officeName": "Sherpur Bet BO",
@@ -30,7 +34,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Ludhiana Moffusil Division",
             "latitude": 30.938202,
-            "longitude": 76.305109
+            "longitude": 76.305109,
+            "stateName": "PUNJAB",
+            "districtName": "LUDHIANA"
         },
         {
             "officeName": "Behlolpur SO",
@@ -40,7 +46,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Ludhiana Moffusil Division",
             "latitude": 30.9000138,
-            "longitude": 76.3109722
+            "longitude": 76.3109722,
+            "stateName": "PUNJAB",
+            "districtName": "LUDHIANA"
         }
     ]
 }

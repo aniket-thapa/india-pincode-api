@@ -10,17 +10,9 @@
             "regionName": "Pune Region",
             "divisionName": "Pune Moffusil Division",
             "latitude": 18.652252,
-            "longitude": 73.741902
-        },
-        {
-            "officeName": "Cod Dehu Road",
-            "officeType": "BO",
-            "deliveryStatus": "Non Delivery",
-            "circleName": "Maharashtra Circle",
-            "regionName": "Pune Region",
-            "divisionName": "Pune Moffusil Division",
-            "latitude": null,
-            "longitude": null
+            "longitude": 73.741902,
+            "stateName": "MAHARASHTRA",
+            "districtName": "PUNE"
         },
         {
             "officeName": "Ordnance Factory Dehu Road S.O",
@@ -30,7 +22,9 @@
             "regionName": "Pune Region",
             "divisionName": "Pune Moffusil Division",
             "latitude": 18.6797778,
-            "longitude": 73.7398333
+            "longitude": 73.7398333,
+            "stateName": "MAHARASHTRA",
+            "districtName": "PUNE"
         },
         {
             "officeName": "Dehu Road Cantt S.O",
@@ -40,7 +34,9 @@
             "regionName": "Pune Region",
             "divisionName": "Pune Moffusil Division",
             "latitude": 18.681939,
-            "longitude": 73.733706
+            "longitude": 73.733706,
+            "stateName": "MAHARASHTRA",
+            "districtName": "PUNE"
         },
         {
             "officeName": "Kiwale B.O",
@@ -50,7 +46,9 @@
             "regionName": "Pune Region",
             "divisionName": "Pune Moffusil Division",
             "latitude": 18.661162,
-            "longitude": 73.728662
+            "longitude": 73.728662,
+            "stateName": "MAHARASHTRA",
+            "districtName": "PUNE"
         },
         {
             "officeName": "Salumbre B.O",
@@ -60,7 +58,9 @@
             "regionName": "Pune Region",
             "divisionName": "Pune Moffusil Division",
             "latitude": 18.7693514,
-            "longitude": 73.4041588
+            "longitude": 73.4041588,
+            "stateName": "MAHARASHTRA",
+            "districtName": "PUNE"
         }
     ]
 }

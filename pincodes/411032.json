@@ -10,7 +10,9 @@
             "regionName": "Pune Region",
             "divisionName": "Pune City East Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "MAHARASHTRA",
+            "districtName": "PUNE"
         },
         {
             "officeName": "Iaf Station S.O",
@@ -20,7 +22,9 @@
             "regionName": "Pune Region",
             "divisionName": "Pune City East Division",
             "latitude": 18.589195,
-            "longitude": 73.92
+            "longitude": 73.92,
+            "stateName": "MAHARASHTRA",
+            "districtName": "PUNE"
         },
         {
             "officeName": "Vidyanagar S.O (Pune)",
@@ -30,7 +34,9 @@
             "regionName": "Pune Region",
             "divisionName": "Pune City East Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "MAHARASHTRA",
+            "districtName": "PUNE"
         }
     ]
 }

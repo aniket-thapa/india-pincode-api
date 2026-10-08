@@ -10,7 +10,9 @@
             "regionName": "Jabalpur Region",
             "divisionName": "Chhatarpur Division",
             "latitude": 24.6288,
-            "longitude": 78.8115
+            "longitude": 78.8115,
+            "stateName": "MADHYA PRADESH",
+            "districtName": "TIKAMGARH"
         },
         {
             "officeName": "Aston B.O",
@@ -19,8 +21,10 @@
             "circleName": "Madhya Pradesh Circle",
             "regionName": "Jabalpur Region",
             "divisionName": "Chhatarpur Division",
-            "latitude": 78.8115,
-            "longitude": 24.6288
+            "latitude": null,
+            "longitude": null,
+            "stateName": "MADHYA PRADESH",
+            "districtName": "TIKAMGARH"
         },
         {
             "officeName": "Khiriya Naka B.O",
@@ -30,7 +34,9 @@
             "regionName": "Jabalpur Region",
             "divisionName": "Chhatarpur Division",
             "latitude": 24.6288,
-            "longitude": 78.8115
+            "longitude": 78.8115,
+            "stateName": "MADHYA PRADESH",
+            "districtName": "TIKAMGARH"
         },
         {
             "officeName": "Pahadi Tilwaran B.O",
@@ -40,7 +46,9 @@
             "regionName": "Jabalpur Region",
             "divisionName": "Chhatarpur Division",
             "latitude": 24.6288,
-            "longitude": 78.8115
+            "longitude": 78.8115,
+            "stateName": "MADHYA PRADESH",
+            "districtName": "TIKAMGARH"
         },
         {
             "officeName": "Kundeshwar S.O",
@@ -50,7 +58,9 @@
             "regionName": "Jabalpur Region",
             "divisionName": "Chhatarpur Division",
             "latitude": 22.9734,
-            "longitude": 78.656894
+            "longitude": 78.656894,
+            "stateName": "MADHYA PRADESH",
+            "districtName": "TIKAMGARH"
         }
     ]
 }

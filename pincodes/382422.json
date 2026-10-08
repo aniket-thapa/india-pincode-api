@@ -10,7 +10,9 @@
             "regionName": "Ahmedabad HQ Region",
             "divisionName": "Gandhinagar Division",
             "latitude": 23.159851,
-            "longitude": 72.614177
+            "longitude": 72.614177,
+            "stateName": "GUJARAT",
+            "districtName": "GANDHINAGAR"
         },
         {
             "officeName": "Bhoyan Rathod BO",
@@ -20,7 +22,9 @@
             "regionName": "Ahmedabad HQ Region",
             "divisionName": "Gandhinagar Division",
             "latitude": 23.24,
-            "longitude": 72.54
+            "longitude": 72.54,
+            "stateName": "GUJARAT",
+            "districtName": "GANDHINAGAR"
         },
         {
             "officeName": "Pundrasan BO",
@@ -30,7 +34,9 @@
             "regionName": "Ahmedabad HQ Region",
             "divisionName": "Gandhinagar Division",
             "latitude": 23.24,
-            "longitude": 72.58
+            "longitude": 72.58,
+            "stateName": "GUJARAT",
+            "districtName": "GANDHINAGAR"
         },
         {
             "officeName": "Tintoda BO",
@@ -40,7 +46,9 @@
             "regionName": "Ahmedabad HQ Region",
             "divisionName": "Gandhinagar Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "GUJARAT",
+            "districtName": "GANDHINAGAR"
         }
     ]
 }

@@ -10,7 +10,9 @@
             "regionName": "Hyderabad City Region",
             "divisionName": "Medak Division",
             "latitude": 17.868644,
-            "longitude": 78.45714
+            "longitude": 78.45714,
+            "stateName": "TELANGANA",
+            "districtName": "MEDAK"
         },
         {
             "officeName": "Malkapur BO",
@@ -20,7 +22,9 @@
             "regionName": "Hyderabad City Region",
             "divisionName": "Medak Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "TELANGANA",
+            "districtName": "MEDAK"
         },
         {
             "officeName": "Islampur B.O",
@@ -30,17 +34,9 @@
             "regionName": "Hyderabad City Region",
             "divisionName": "Medak Division",
             "latitude": 17.5224,
-            "longitude": 78.2844
-        },
-        {
-            "officeName": "Venkataipally B.O",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "Telangana Circle",
-            "regionName": "Hyderabad City Region",
-            "divisionName": "Medak Division",
-            "latitude": 17.8480055,
-            "longitude": 78.5229745
+            "longitude": 78.2844,
+            "stateName": "TELANGANA",
+            "districtName": "MEDAK"
         },
         {
             "officeName": "Kunthanpally B.O",
@@ -50,7 +46,9 @@
             "regionName": "Hyderabad City Region",
             "divisionName": "Medak Division",
             "latitude": 17.858538,
-            "longitude": 78.426106
+            "longitude": 78.426106,
+            "stateName": "TELANGANA",
+            "districtName": "MEDAK"
         },
         {
             "officeName": "Gunreddipally B.O",
@@ -60,7 +58,9 @@
             "regionName": "Hyderabad City Region",
             "divisionName": "Medak Division",
             "latitude": 17.8657,
-            "longitude": 78.508676
+            "longitude": 78.508676,
+            "stateName": "TELANGANA",
+            "districtName": "MEDAK"
         },
         {
             "officeName": "Masaipet S.O",
@@ -70,7 +70,9 @@
             "regionName": "Hyderabad City Region",
             "divisionName": "Medak Division",
             "latitude": 17.9052222,
-            "longitude": 78.4611111
+            "longitude": 78.4611111,
+            "stateName": "TELANGANA",
+            "districtName": "MEDAK"
         }
     ]
 }

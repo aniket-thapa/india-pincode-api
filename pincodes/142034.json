@@ -10,7 +10,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Ludhiana Moffusil Division",
             "latitude": 30.6756944,
-            "longitude": 75.4573138
+            "longitude": 75.4573138,
+            "stateName": "PUNJAB",
+            "districtName": "LUDHIANA"
         },
         {
             "officeName": "Bhamipura BO",
@@ -20,7 +22,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Ludhiana Moffusil Division",
             "latitude": 30.900974,
-            "longitude": 75.8572668
+            "longitude": 75.8572668,
+            "stateName": "PUNJAB",
+            "districtName": "LUDHIANA"
         },
         {
             "officeName": "Lamme BO",
@@ -29,8 +33,10 @@
             "circleName": "Punjab Circle",
             "regionName": "DivReportingCircle",
             "divisionName": "Ludhiana Moffusil Division",
-            "latitude": 52.030533,
-            "longitude": 10.024546
+            "latitude": null,
+            "longitude": null,
+            "stateName": "PUNJAB",
+            "districtName": "LUDHIANA"
         },
         {
             "officeName": "Akhara BO",
@@ -40,7 +46,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Ludhiana Moffusil Division",
             "latitude": 30.745431,
-            "longitude": 75.483991
+            "longitude": 75.483991,
+            "stateName": "PUNJAB",
+            "districtName": "LUDHIANA"
         },
         {
             "officeName": "Daherka BO",
@@ -50,7 +58,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Ludhiana Moffusil Division",
             "latitude": 30.700519,
-            "longitude": 75.447582
+            "longitude": 75.447582,
+            "stateName": "PUNJAB",
+            "districtName": "LUDHIANA"
         }
     ]
 }

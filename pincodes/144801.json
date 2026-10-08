@@ -10,7 +10,9 @@
             "regionName": "Punjab West Region",
             "divisionName": "Kapurthala Division",
             "latitude": 31.4364,
-            "longitude": 75.4956
+            "longitude": 75.4956,
+            "stateName": "PUNJAB",
+            "districtName": "JALANDHAR"
         },
         {
             "officeName": "Mustafapur BO",
@@ -20,7 +22,9 @@
             "regionName": "Punjab West Region",
             "divisionName": "Kapurthala Division",
             "latitude": 31.37493,
-            "longitude": 75.384206
+            "longitude": 75.384206,
+            "stateName": "PUNJAB",
+            "districtName": "JALANDHAR"
         },
         {
             "officeName": "Rahimpur BO",
@@ -30,7 +34,9 @@
             "regionName": "Punjab West Region",
             "divisionName": "Kapurthala Division",
             "latitude": 31.37493,
-            "longitude": 75.384206
+            "longitude": 75.384206,
+            "stateName": "PUNJAB",
+            "districtName": "JALANDHAR"
         },
         {
             "officeName": "Kala Khera BO",
@@ -39,8 +45,10 @@
             "circleName": "Punjab Circle",
             "regionName": "Punjab West Region",
             "divisionName": "Kapurthala Division",
-            "latitude": 41.4838,
-            "longitude": 75.5189
+            "latitude": null,
+            "longitude": 75.5189,
+            "stateName": "PUNJAB",
+            "districtName": "JALANDHAR"
         }
     ]
 }

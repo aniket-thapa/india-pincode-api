@@ -10,7 +10,9 @@
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
             "latitude": 34.0709444,
-            "longitude": 74.8016111
+            "longitude": 74.8016111,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "SRINAGAR"
         },
         {
             "officeName": "Rambagh SO Srinagar",
@@ -20,7 +22,9 @@
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
             "latitude": 36.9,
-            "longitude": 25.9
+            "longitude": null,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "SRINAGAR"
         },
         {
             "officeName": "New Secretariat Srinagar SO",
@@ -30,7 +34,9 @@
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
             "latitude": 34.0746388,
-            "longitude": 74.8010833
+            "longitude": 74.8010833,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "SRINAGAR"
         }
     ]
 }

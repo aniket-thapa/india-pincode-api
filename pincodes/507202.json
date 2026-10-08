@@ -10,7 +10,9 @@
             "regionName": "Hyderabad Region",
             "divisionName": "Khammam Division",
             "latitude": 16.8834787,
-            "longitude": 80.4785212
+            "longitude": 80.4785212,
+            "stateName": "TELANGANA",
+            "districtName": "KHAMMAM"
         },
         {
             "officeName": "Guntupalli Gopavaram B.O",
@@ -20,7 +22,9 @@
             "regionName": "Hyderabad Region",
             "divisionName": "Khammam Division",
             "latitude": 16.5686426,
-            "longitude": 80.5479918
+            "longitude": 80.5479918,
+            "stateName": "TELANGANA",
+            "districtName": "KHAMMAM"
         },
         {
             "officeName": "Mamnoor B.O",
@@ -30,7 +34,9 @@
             "regionName": "Hyderabad Region",
             "divisionName": "Khammam Division",
             "latitude": 16.89345,
-            "longitude": 80.54017
+            "longitude": 80.54017,
+            "stateName": "TELANGANA",
+            "districtName": "KHAMMAM"
         },
         {
             "officeName": "Buchireddypalem",
@@ -40,7 +46,9 @@
             "regionName": "Hyderabad Region",
             "divisionName": "Khammam Division",
             "latitude": 16.876828,
-            "longitude": 80.525891
+            "longitude": 80.525891,
+            "stateName": "TELANGANA",
+            "districtName": "KHAMMAM"
         },
         {
             "officeName": "Kachavaram",
@@ -50,7 +58,9 @@
             "regionName": "Hyderabad Region",
             "divisionName": "Khammam Division",
             "latitude": 17.2472,
-            "longitude": 80.1514
+            "longitude": 80.1514,
+            "stateName": "TELANGANA",
+            "districtName": "KHAMMAM"
         },
         {
             "officeName": "Ayyavarigudem B.O",
@@ -60,7 +70,9 @@
             "regionName": "Hyderabad Region",
             "divisionName": "Khammam Division",
             "latitude": 17.6062996,
-            "longitude": 81.2160679
+            "longitude": 81.2160679,
+            "stateName": "TELANGANA",
+            "districtName": "KHAMMAM"
         },
         {
             "officeName": "Banigandlapahad S.O",
@@ -70,7 +82,9 @@
             "regionName": "Hyderabad Region",
             "divisionName": "Khammam Division",
             "latitude": 16.89345,
-            "longitude": 80.54017
+            "longitude": 80.54017,
+            "stateName": "TELANGANA",
+            "districtName": "KHAMMAM"
         },
         {
             "officeName": "Bhimavaram B.O",
@@ -80,7 +94,9 @@
             "regionName": "Hyderabad Region",
             "divisionName": "Khammam Division",
             "latitude": 17.524255,
-            "longitude": 81.37227
+            "longitude": 81.37227,
+            "stateName": "TELANGANA",
+            "districtName": "KHAMMAM"
         },
         {
             "officeName": "Pedagopavaram B.O",
@@ -89,8 +105,10 @@
             "circleName": "Telangana Circle",
             "regionName": "Hyderabad Region",
             "divisionName": "Khammam Division",
-            "latitude": 80.54017,
-            "longitude": 80.54017
+            "latitude": null,
+            "longitude": 80.54017,
+            "stateName": "TELANGANA",
+            "districtName": "KHAMMAM"
         }
     ]
 }

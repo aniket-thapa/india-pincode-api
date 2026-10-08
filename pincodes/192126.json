@@ -10,7 +10,9 @@
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
             "latitude": 34.04608,
-            "longitude": 75.295105
+            "longitude": 75.295105,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "ANANTNAG"
         },
         {
             "officeName": "Pahalgam SO",
@@ -20,7 +22,9 @@
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
             "latitude": 34.0335,
-            "longitude": 75.3235277
+            "longitude": 75.3235277,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "ANANTNAG"
         },
         {
             "officeName": "Laripora BO",
@@ -29,8 +33,10 @@
             "circleName": "Jammu Kashmir Circle",
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
-            "latitude": 236.52,
-            "longitude": 725.3
+            "latitude": null,
+            "longitude": null,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "ANANTNAG"
         }
     ]
 }

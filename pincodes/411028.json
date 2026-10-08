@@ -10,7 +10,9 @@
             "regionName": "Pune Region",
             "divisionName": "Pune City East Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "MAHARASHTRA",
+            "districtName": "PUNE"
         },
         {
             "officeName": "Sasanenagar S.O",
@@ -20,7 +22,9 @@
             "regionName": "Pune Region",
             "divisionName": "Pune City East Division",
             "latitude": 18.49308333,
-            "longitude": 73.93041667
+            "longitude": 73.93041667,
+            "stateName": "MAHARASHTRA",
+            "districtName": "PUNE"
         },
         {
             "officeName": "Hadapsar S.O",
@@ -30,7 +34,9 @@
             "regionName": "Pune Region",
             "divisionName": "Pune City East Division",
             "latitude": 18.503051,
-            "longitude": 73.931462
+            "longitude": 73.931462,
+            "stateName": "MAHARASHTRA",
+            "districtName": "PUNE"
         }
     ]
 }

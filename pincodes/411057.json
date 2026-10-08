@@ -10,7 +10,9 @@
             "regionName": "Pune Region",
             "divisionName": "Pune City East Division",
             "latitude": 31.077707,
-            "longitude": 74.489196
+            "longitude": 74.489196,
+            "stateName": "MAHARASHTRA",
+            "districtName": "PUNE"
         },
         {
             "officeName": "Infotech  Park (Hinjawadi) S.O",
@@ -20,7 +22,9 @@
             "regionName": "Pune Region",
             "divisionName": "Pune City East Division",
             "latitude": 18.586398,
-            "longitude": 73.736792
+            "longitude": 73.736792,
+            "stateName": "MAHARASHTRA",
+            "districtName": "PUNE"
         },
         {
             "officeName": "Wakad B.O",
@@ -30,7 +34,9 @@
             "regionName": "Pune Region",
             "divisionName": "Pune City East Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "MAHARASHTRA",
+            "districtName": "PUNE"
         },
         {
             "officeName": "Marunji B.O",
@@ -40,7 +46,9 @@
             "regionName": "Pune Region",
             "divisionName": "Pune City East Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "MAHARASHTRA",
+            "districtName": "PUNE"
         }
     ]
 }

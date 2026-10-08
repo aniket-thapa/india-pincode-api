@@ -9,8 +9,10 @@
             "circleName": "Haryana Circle",
             "regionName": "DivReportingCircle",
             "divisionName": "Gurgaon Division",
-            "latitude": 0,
-            "longitude": 0
+            "latitude": null,
+            "longitude": null,
+            "stateName": "HARYANA",
+            "districtName": "GURUGRAM"
         },
         {
             "officeName": "Gurgaon South City II SO",
@@ -20,7 +22,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Gurgaon Division",
             "latitude": 28.462,
-            "longitude": 77.0316389
+            "longitude": 77.0316389,
+            "stateName": "HARYANA",
+            "districtName": "GURUGRAM"
         }
     ]
 }

@@ -10,7 +10,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "New Delhi South Division",
             "latitude": 28.5376667,
-            "longitude": 77.2381389
+            "longitude": 77.2381389,
+            "stateName": "DELHI",
+            "districtName": "SOUTH"
         },
         {
             "officeName": "Kailash Colony SO",
@@ -20,7 +22,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "New Delhi South Division",
             "latitude": 28.5471667,
-            "longitude": 77.2438056
+            "longitude": 77.2438056,
+            "stateName": "DELHI",
+            "districtName": "SOUTH EAST"
         },
         {
             "officeName": "Masjid Moth SO",
@@ -30,7 +34,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "New Delhi South Division",
             "latitude": 28.5404722,
-            "longitude": 77.2346667
+            "longitude": 77.2346667,
+            "stateName": "DELHI",
+            "districtName": "SOUTH EAST"
         }
     ]
 }

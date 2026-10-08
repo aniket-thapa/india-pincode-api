@@ -10,7 +10,9 @@
             "regionName": "Navi Mumbai Region",
             "divisionName": "Palghar Division",
             "latitude": 19.4945979,
-            "longitude": 72.8604097
+            "longitude": 72.8604097,
+            "stateName": "MAHARASHTRA",
+            "districtName": "PALGHAR"
         },
         {
             "officeName": "Mandvi B.O",
@@ -20,7 +22,9 @@
             "regionName": "Navi Mumbai Region",
             "divisionName": "Palghar Division",
             "latitude": 19.4563596,
-            "longitude": 72.7924612
+            "longitude": 72.7924612,
+            "stateName": "MAHARASHTRA",
+            "districtName": "PALGHAR"
         },
         {
             "officeName": "Parol B.O",
@@ -30,7 +34,9 @@
             "regionName": "Navi Mumbai Region",
             "divisionName": "Palghar Division",
             "latitude": 19.4613178,
-            "longitude": 72.9422172
+            "longitude": 72.9422172,
+            "stateName": "MAHARASHTRA",
+            "districtName": "PALGHAR"
         },
         {
             "officeName": "Saiwan B.O",
@@ -40,17 +46,9 @@
             "regionName": "Navi Mumbai Region",
             "divisionName": "Palghar Division",
             "latitude": 19.4772391,
-            "longitude": 72.9785353
-        },
-        {
-            "officeName": "Sakwar",
-            "officeType": "BO",
-            "deliveryStatus": "Non Delivery",
-            "circleName": "Maharashtra Circle",
-            "regionName": "Navi Mumbai Region",
-            "divisionName": "Palghar Division",
-            "latitude": 19.545638,
-            "longitude": 72.91579
+            "longitude": 72.9785353,
+            "stateName": "MAHARASHTRA",
+            "districtName": "PALGHAR"
         },
         {
             "officeName": "Bhatane B.O",
@@ -60,7 +58,9 @@
             "regionName": "Navi Mumbai Region",
             "divisionName": "Palghar Division",
             "latitude": 19.4863689,
-            "longitude": 72.9278253
+            "longitude": 72.9278253,
+            "stateName": "MAHARASHTRA",
+            "districtName": "PALGHAR"
         },
         {
             "officeName": "Bolinj B.O",
@@ -70,7 +70,9 @@
             "regionName": "Navi Mumbai Region",
             "divisionName": "Palghar Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "MAHARASHTRA",
+            "districtName": "PALGHAR"
         },
         {
             "officeName": "Khaniwade B.O",
@@ -80,7 +82,9 @@
             "regionName": "Navi Mumbai Region",
             "divisionName": "Palghar Division",
             "latitude": 19.4986714,
-            "longitude": 72.9098819
+            "longitude": 72.9098819,
+            "stateName": "MAHARASHTRA",
+            "districtName": "PALGHAR"
         },
         {
             "officeName": "Tilher B.O",
@@ -90,7 +94,9 @@
             "regionName": "Navi Mumbai Region",
             "divisionName": "Palghar Division",
             "latitude": 19.4300605,
-            "longitude": 72.9667254
+            "longitude": 72.9667254,
+            "stateName": "MAHARASHTRA",
+            "districtName": "PALGHAR"
         },
         {
             "officeName": "Virar S.O",
@@ -100,7 +106,9 @@
             "regionName": "Navi Mumbai Region",
             "divisionName": "Palghar Division",
             "latitude": 19.4572778,
-            "longitude": 72.8111111
+            "longitude": 72.8111111,
+            "stateName": "MAHARASHTRA",
+            "districtName": "PALGHAR"
         }
     ]
 }

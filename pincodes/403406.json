@@ -9,8 +9,10 @@
             "circleName": "Maharashtra Circle",
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
-            "latitude": 74.12,
-            "longitude": 15.38
+            "latitude": null,
+            "longitude": null,
+            "stateName": "GOA",
+            "districtName": "SOUTH GOA"
         },
         {
             "officeName": "Pillem B.O",
@@ -19,8 +21,10 @@
             "circleName": "Maharashtra Circle",
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
-            "latitude": 74.1,
-            "longitude": 15.4
+            "latitude": null,
+            "longitude": null,
+            "stateName": "GOA",
+            "districtName": "SOUTH GOA"
         },
         {
             "officeName": "Usgao B.O",
@@ -29,8 +33,10 @@
             "circleName": "Maharashtra Circle",
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
-            "latitude": 74.32,
-            "longitude": 15.91
+            "latitude": null,
+            "longitude": null,
+            "stateName": "GOA",
+            "districtName": "SOUTH GOA"
         },
         {
             "officeName": "Sancordem B.O",
@@ -39,18 +45,10 @@
             "circleName": "Maharashtra Circle",
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
-            "latitude": 74.17,
-            "longitude": 15.41
-        },
-        {
-            "officeName": "Bolkarne B.O",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "Maharashtra Circle",
-            "regionName": "Goa-Panaji Region",
-            "divisionName": "Goa Division",
-            "latitude": 15.430696,
-            "longitude": 74.195253
+            "latitude": null,
+            "longitude": null,
+            "stateName": "GOA",
+            "districtName": "SOUTH GOA"
         },
         {
             "officeName": "Tisca S.O",
@@ -60,7 +58,9 @@
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
             "latitude": 15.4187778,
-            "longitude": 74.0798056
+            "longitude": 74.0798056,
+            "stateName": "GOA",
+            "districtName": "SOUTH GOA"
         },
         {
             "officeName": "Candepar B.O",
@@ -69,8 +69,10 @@
             "circleName": "Maharashtra Circle",
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
-            "latitude": 74.03,
-            "longitude": 15.44
+            "latitude": null,
+            "longitude": null,
+            "stateName": "GOA",
+            "districtName": "SOUTH GOA"
         }
     ]
 }

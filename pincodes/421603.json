@@ -10,17 +10,9 @@
             "regionName": "Navi Mumbai Region",
             "divisionName": "Thane Division",
             "latitude": 19.5524,
-            "longitude": 73.7624
-        },
-        {
-            "officeName": "Lahe B.O",
-            "officeType": "BO",
-            "deliveryStatus": "Non Delivery",
-            "circleName": "Maharashtra Circle",
-            "regionName": "Navi Mumbai Region",
-            "divisionName": "Thane Division",
-            "latitude": 19.545009,
-            "longitude": 73.366778
+            "longitude": 73.7624,
+            "stateName": "MAHARASHTRA",
+            "districtName": "THANE"
         },
         {
             "officeName": "Bhatsanagar S.O",
@@ -30,7 +22,9 @@
             "regionName": "Navi Mumbai Region",
             "divisionName": "Thane Division",
             "latitude": 19.5176389,
-            "longitude": 73.4047222
+            "longitude": 73.4047222,
+            "stateName": "MAHARASHTRA",
+            "districtName": "THANE"
         }
     ]
 }

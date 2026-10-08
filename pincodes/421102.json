@@ -10,7 +10,9 @@
             "regionName": "Navi Mumbai Region",
             "divisionName": "Thane Division",
             "latitude": 19.27405,
-            "longitude": 73.2195
+            "longitude": 73.2195,
+            "stateName": "MAHARASHTRA",
+            "districtName": "THANE"
         },
         {
             "officeName": "Manivali B.O",
@@ -20,7 +22,9 @@
             "regionName": "Navi Mumbai Region",
             "divisionName": "Thane Division",
             "latitude": 19.27405,
-            "longitude": 19.2531659
+            "longitude": null,
+            "stateName": "MAHARASHTRA",
+            "districtName": "THANE"
         },
         {
             "officeName": "Mohone S.O",
@@ -30,7 +34,9 @@
             "regionName": "Navi Mumbai Region",
             "divisionName": "Thane Division",
             "latitude": 19.2654722,
-            "longitude": 73.173
+            "longitude": 73.173,
+            "stateName": "MAHARASHTRA",
+            "districtName": "THANE"
         }
     ]
 }

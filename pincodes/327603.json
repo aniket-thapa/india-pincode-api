@@ -1,27 +1,7 @@
 {
-    "state": "NA",
-    "district": "NA",
+    "state": "RAJASTHAN",
+    "district": "BANSWARA",
     "offices": [
-        {
-            "officeName": "Naugama B.O",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "Rajasthan Circle",
-            "regionName": "Ajmer Region",
-            "divisionName": "Dungarpur Division",
-            "latitude": null,
-            "longitude": null
-        },
-        {
-            "officeName": "Pindarama B.O",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "Rajasthan Circle",
-            "regionName": "Ajmer Region",
-            "divisionName": "Dungarpur Division",
-            "latitude": null,
-            "longitude": null
-        },
         {
             "officeName": "Balawara B.O",
             "officeType": "BO",
@@ -30,7 +10,9 @@
             "regionName": "Ajmer Region",
             "divisionName": "Dungarpur Division",
             "latitude": 23.424634,
-            "longitude": 74.281019
+            "longitude": 74.281019,
+            "stateName": "RAJASTHAN",
+            "districtName": "BANSWARA"
         },
         {
             "officeName": "Bansala B.O",
@@ -40,7 +22,9 @@
             "regionName": "Ajmer Region",
             "divisionName": "Dungarpur Division",
             "latitude": 23.419048,
-            "longitude": 74.297154
+            "longitude": 74.297154,
+            "stateName": "RAJASTHAN",
+            "districtName": "BANSWARA"
         },
         {
             "officeName": "Bodigama B.O",
@@ -50,7 +34,9 @@
             "regionName": "Ajmer Region",
             "divisionName": "Dungarpur Division",
             "latitude": 23.47976,
-            "longitude": 74.267817
+            "longitude": 74.267817,
+            "stateName": "RAJASTHAN",
+            "districtName": "BANSWARA"
         },
         {
             "officeName": "Patan B.O",
@@ -60,7 +46,9 @@
             "regionName": "Ajmer Region",
             "divisionName": "Dungarpur Division",
             "latitude": 23.486577,
-            "longitude": 74.305955
+            "longitude": 74.305955,
+            "stateName": "RAJASTHAN",
+            "districtName": "BANSWARA"
         },
         {
             "officeName": "Chhinch S.O",
@@ -70,7 +58,9 @@
             "regionName": "Ajmer Region",
             "divisionName": "Dungarpur Division",
             "latitude": 23.4661667,
-            "longitude": 74.3085556
+            "longitude": 74.3085556,
+            "stateName": "RAJASTHAN",
+            "districtName": "BANSWARA"
         }
     ]
 }

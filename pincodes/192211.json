@@ -9,8 +9,10 @@
             "circleName": "Jammu Kashmir Circle",
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
-            "latitude": 256.2,
-            "longitude": 284.2
+            "latitude": null,
+            "longitude": null,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "ANANTNAG"
         },
         {
             "officeName": "Obindora BO",
@@ -19,8 +21,10 @@
             "circleName": "Jammu Kashmir Circle",
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
-            "latitude": 75.158101,
-            "longitude": 77.14259
+            "latitude": null,
+            "longitude": 77.14259,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "ANANTNAG"
         },
         {
             "officeName": "Dooru SO",
@@ -30,7 +34,9 @@
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
             "latitude": 33.5711667,
-            "longitude": 75.22325
+            "longitude": 75.22325,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "ANANTNAG"
         },
         {
             "officeName": "Kriri Nowpora BO",
@@ -40,7 +46,9 @@
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
             "latitude": 32.5,
-            "longitude": 12.5
+            "longitude": null,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "ANANTNAG"
         }
     ]
 }

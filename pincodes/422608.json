@@ -10,7 +10,9 @@
             "regionName": "Pune Region",
             "divisionName": "Shrirampur Division",
             "latitude": 19.60798029755143,
-            "longitude": 74.19011315020444
+            "longitude": 74.19011315020444,
+            "stateName": "MAHARASHTRA",
+            "districtName": "AHMEDNAGAR"
         },
         {
             "officeName": "Maldad B.O",
@@ -20,7 +22,9 @@
             "regionName": "Pune Region",
             "divisionName": "Shrirampur Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "MAHARASHTRA",
+            "districtName": "AHMEDNAGAR"
         }
     ]
 }

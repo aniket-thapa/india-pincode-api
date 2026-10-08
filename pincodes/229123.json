@@ -10,7 +10,9 @@
             "regionName": "Lucknow  HQ Region",
             "divisionName": "Rae Bareilly Division",
             "latitude": 26.722,
-            "longitude": 81.463
+            "longitude": 81.463,
+            "stateName": "UTTAR PRADESH",
+            "districtName": "RAE BARELI"
         },
         {
             "officeName": "Hardoi SO",
@@ -20,7 +22,9 @@
             "regionName": "Lucknow  HQ Region",
             "divisionName": "Rae Bareilly Division",
             "latitude": 26.4091111,
-            "longitude": 81.1829722
+            "longitude": 81.1829722,
+            "stateName": "UTTAR PRADESH",
+            "districtName": "RAE BARELI"
         },
         {
             "officeName": "Bala BO",
@@ -29,8 +33,10 @@
             "circleName": "Uttar Pradesh Circle",
             "regionName": "Lucknow  HQ Region",
             "divisionName": "Rae Bareilly Division",
-            "latitude": 52.9,
-            "longitude": 3.6
+            "latitude": null,
+            "longitude": null,
+            "stateName": "UTTAR PRADESH",
+            "districtName": "RAE BARELI"
         },
         {
             "officeName": "Salethu BO",
@@ -40,7 +46,9 @@
             "regionName": "Lucknow  HQ Region",
             "divisionName": "Rae Bareilly Division",
             "latitude": 26.4,
-            "longitude": 74.7
+            "longitude": 74.7,
+            "stateName": "UTTAR PRADESH",
+            "districtName": "RAE BARELI"
         },
         {
             "officeName": "Raghaupur BO",
@@ -50,7 +58,9 @@
             "regionName": "Lucknow  HQ Region",
             "divisionName": "Rae Bareilly Division",
             "latitude": 26.441,
-            "longitude": 81.462
+            "longitude": 81.462,
+            "stateName": "UTTAR PRADESH",
+            "districtName": "RAE BARELI"
         },
         {
             "officeName": "Ghurauna BO",
@@ -60,7 +70,9 @@
             "regionName": "Lucknow  HQ Region",
             "divisionName": "Rae Bareilly Division",
             "latitude": 26.453,
-            "longitude": 74.763
+            "longitude": 74.763,
+            "stateName": "UTTAR PRADESH",
+            "districtName": "RAE BARELI"
         }
     ]
 }

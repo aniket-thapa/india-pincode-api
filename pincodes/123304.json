@@ -10,7 +10,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Gurgaon Division",
             "latitude": 28.409434,
-            "longitude": 76.397007
+            "longitude": 76.397007,
+            "stateName": "HARYANA",
+            "districtName": "REWARI"
         },
         {
             "officeName": "Sadat Nagar BO",
@@ -20,7 +22,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Gurgaon Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "HARYANA",
+            "districtName": "REWARI"
         },
         {
             "officeName": "Surehli BO",
@@ -30,7 +34,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Gurgaon Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "HARYANA",
+            "districtName": "REWARI"
         },
         {
             "officeName": "Dakhora BO",
@@ -40,7 +46,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Gurgaon Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "HARYANA",
+            "districtName": "REWARI"
         },
         {
             "officeName": "Lula Ahir BO",
@@ -50,17 +58,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Gurgaon Division",
             "latitude": null,
-            "longitude": null
-        },
-        {
-            "officeName": "Kheri Ramgarh",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "Haryana Circle",
-            "regionName": "NA",
-            "divisionName": "Gurgaon Division",
-            "latitude": 28.33723,
-            "longitude": 76.43018
+            "longitude": null,
+            "stateName": "HARYANA",
+            "districtName": "REWARI"
         },
         {
             "officeName": "Jharoda BO",
@@ -70,7 +70,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Gurgaon Division",
             "latitude": 28.409434,
-            "longitude": 76.397007
+            "longitude": 76.397007,
+            "stateName": "HARYANA",
+            "districtName": "REWARI"
         },
         {
             "officeName": "Nehrugarh SO",
@@ -80,7 +82,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Gurgaon Division",
             "latitude": 28.2248,
-            "longitude": 76.2446
+            "longitude": 76.2446,
+            "stateName": "HARYANA",
+            "districtName": "MAHENDRAGARH"
         },
         {
             "officeName": "Jhal BO",
@@ -90,7 +94,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Gurgaon Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "HARYANA",
+            "districtName": "REWARI"
         }
     ]
 }

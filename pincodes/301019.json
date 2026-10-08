@@ -1,17 +1,7 @@
 {
-    "state": "NA",
-    "district": "NA",
+    "state": "RAJASTHAN",
+    "district": "ALWAR",
     "offices": [
-        {
-            "officeName": "EXTENSION COUNTER BHIWARI I.A. POST OFFICE",
-            "officeType": "PO",
-            "deliveryStatus": "Non Delivery",
-            "circleName": "Rajasthan Circle",
-            "regionName": "NA",
-            "divisionName": "Alwar Division",
-            "latitude": 28.2093,
-            "longitude": 76.8542
-        },
         {
             "officeName": "Bhiwari Ind. Area. Alwar S.O",
             "officeType": "PO",
@@ -20,7 +10,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Alwar Division",
             "latitude": 28.2171667,
-            "longitude": 76.8646944
+            "longitude": 76.8646944,
+            "stateName": "RAJASTHAN",
+            "districtName": "ALWAR"
         },
         {
             "officeName": "R.H.B. Bhiwari S.O",
@@ -30,7 +22,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Alwar Division",
             "latitude": 28.2119167,
-            "longitude": 76.8533611
+            "longitude": 76.8533611,
+            "stateName": "RAJASTHAN",
+            "districtName": "ALWAR"
         },
         {
             "officeName": "Shahdod B.O",
@@ -40,7 +34,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Alwar Division",
             "latitude": 28.198962,
-            "longitude": 76.892273
+            "longitude": 76.892273,
+            "stateName": "RAJASTHAN",
+            "districtName": "ALWAR"
         }
     ]
 }

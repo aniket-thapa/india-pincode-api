@@ -10,7 +10,9 @@
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
             "latitude": 15.3375833,
-            "longitude": 74.2428611
+            "longitude": 74.2428611,
+            "stateName": "GOA",
+            "districtName": "SOUTH GOA"
         },
         {
             "officeName": "Mollem B.O",
@@ -19,8 +21,10 @@
             "circleName": "Maharashtra Circle",
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
-            "latitude": 72.2,
-            "longitude": 15.55
+            "latitude": null,
+            "longitude": null,
+            "stateName": "GOA",
+            "districtName": "SOUTH GOA"
         },
         {
             "officeName": "Sigao B.O",
@@ -29,8 +33,10 @@
             "circleName": "Maharashtra Circle",
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
-            "latitude": 72.2,
-            "longitude": 15.55
+            "latitude": null,
+            "longitude": null,
+            "stateName": "GOA",
+            "districtName": "SOUTH GOA"
         }
     ]
 }

@@ -10,7 +10,9 @@
             "regionName": "Lucknow  HQ Region",
             "divisionName": "Lucknow Division",
             "latitude": 26.8731462,
-            "longitude": 81.0121783
+            "longitude": 81.0121783,
+            "stateName": "UTTAR PRADESH",
+            "districtName": "LUCKNOW"
         },
         {
             "officeName": "Vishwas Khand SO",
@@ -20,17 +22,9 @@
             "regionName": "Lucknow  HQ Region",
             "divisionName": "Lucknow Division",
             "latitude": 26.8625555,
-            "longitude": 80.9909444
-        },
-        {
-            "officeName": "Gomti Nagar Extension SO Lucknow",
-            "officeType": "PO",
-            "deliveryStatus": "Non Delivery",
-            "circleName": "Uttar Pradesh Circle",
-            "regionName": "Lucknow  HQ Region",
-            "divisionName": "Lucknow GPO Division",
-            "latitude": 26.867149,
-            "longitude": 81.003078
+            "longitude": 80.9909444,
+            "stateName": "UTTAR PRADESH",
+            "districtName": "LUCKNOW"
         },
         {
             "officeName": "Gomti Nagar Extension SO Lucknow",
@@ -40,7 +34,9 @@
             "regionName": "Lucknow  HQ Region",
             "divisionName": "Lucknow Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "UTTAR PRADESH",
+            "districtName": "LUCKNOW"
         },
         {
             "officeName": "Vinay Khand SO",
@@ -50,7 +46,9 @@
             "regionName": "Lucknow  HQ Region",
             "divisionName": "Lucknow Division",
             "latitude": 26.8488055,
-            "longitude": 80.9916111
+            "longitude": 80.9916111,
+            "stateName": "UTTAR PRADESH",
+            "districtName": "LUCKNOW"
         },
         {
             "officeName": "Maleshemau BO",
@@ -60,7 +58,9 @@
             "regionName": "Lucknow  HQ Region",
             "divisionName": "Lucknow Division",
             "latitude": 26.867149,
-            "longitude": 80.003078
+            "longitude": 80.003078,
+            "stateName": "UTTAR PRADESH",
+            "districtName": "LUCKNOW"
         },
         {
             "officeName": "VISHAL KHAND SO",
@@ -70,7 +70,9 @@
             "regionName": "Lucknow  HQ Region",
             "divisionName": "Lucknow Division",
             "latitude": 26.86717,
-            "longitude": 81.002978
+            "longitude": 81.002978,
+            "stateName": "UTTAR PRADESH",
+            "districtName": "LUCKNOW"
         },
         {
             "officeName": "Gomti Nagar SO",
@@ -80,7 +82,9 @@
             "regionName": "Lucknow  HQ Region",
             "divisionName": "Lucknow Division",
             "latitude": 26.867149,
-            "longitude": 81.003078
+            "longitude": 81.003078,
+            "stateName": "UTTAR PRADESH",
+            "districtName": "LUCKNOW"
         }
     ]
 }

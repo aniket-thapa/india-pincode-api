@@ -10,17 +10,9 @@
             "regionName": "Bareilly Region",
             "divisionName": "Meerut Division",
             "latitude": 29.3114,
-            "longitude": 77.1324
-        },
-        {
-            "officeName": "I E Partapur Ext",
-            "officeType": "PO",
-            "deliveryStatus": "Non Delivery",
-            "circleName": "Uttar Pradesh Circle",
-            "regionName": "Bareilly Region",
-            "divisionName": "Meerut Division",
-            "latitude": 28.899451,
-            "longitude": 77.652629
+            "longitude": 77.1324,
+            "stateName": "UTTAR PRADESH",
+            "districtName": "MEERUT"
         },
         {
             "officeName": "Bhoor Baral BO",
@@ -30,7 +22,9 @@
             "regionName": "Bareilly Region",
             "divisionName": "Meerut Division",
             "latitude": 28.9056,
-            "longitude": 77.6274
+            "longitude": 77.6274,
+            "stateName": "UTTAR PRADESH",
+            "districtName": "MEERUT"
         },
         {
             "officeName": "Rithani BO",
@@ -40,7 +34,9 @@
             "regionName": "Bareilly Region",
             "divisionName": "Meerut Division",
             "latitude": 28.936971,
-            "longitude": 77.6634595
+            "longitude": 77.6634595,
+            "stateName": "UTTAR PRADESH",
+            "districtName": "MEERUT"
         },
         {
             "officeName": "Partapur BO",
@@ -50,7 +46,9 @@
             "regionName": "Bareilly Region",
             "divisionName": "Meerut Division",
             "latitude": 28.9301595,
-            "longitude": 77.6450135
+            "longitude": 77.6450135,
+            "stateName": "UTTAR PRADESH",
+            "districtName": "MEERUT"
         }
     ]
 }

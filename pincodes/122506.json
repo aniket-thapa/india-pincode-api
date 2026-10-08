@@ -10,7 +10,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Gurgaon Division",
             "latitude": 28.446796,
-            "longitude": 76.825692
+            "longitude": 76.825692,
+            "stateName": "HARYANA",
+            "districtName": "GURUGRAM"
         },
         {
             "officeName": "TAJ NAGAR BO",
@@ -20,7 +22,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Gurgaon Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "HARYANA",
+            "districtName": "GURUGRAM"
         },
         {
             "officeName": "Khera Khurampur BO",
@@ -30,17 +34,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Gurgaon Division",
             "latitude": 28.446796,
-            "longitude": 76.825692
-        },
-        {
-            "officeName": "Jhanjrola Khera",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "Haryana Circle",
-            "regionName": "DivReportingCircle",
-            "divisionName": "Gurgaon Division",
-            "latitude": 28.46698,
-            "longitude": 77.05641
+            "longitude": 76.825692,
+            "stateName": "HARYANA",
+            "districtName": "GURUGRAM"
         },
         {
             "officeName": "Patil RS BO",
@@ -50,7 +46,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Gurgaon Division",
             "latitude": 28.446796,
-            "longitude": 76.825692
+            "longitude": 76.825692,
+            "stateName": "HARYANA",
+            "districtName": "GURUGRAM"
         },
         {
             "officeName": "Farrukh Nagar SO",
@@ -60,7 +58,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Gurgaon Division",
             "latitude": 28.4493056,
-            "longitude": 76.8216111
+            "longitude": 76.8216111,
+            "stateName": "HARYANA",
+            "districtName": "GURUGRAM"
         },
         {
             "officeName": "Sewari BO",
@@ -70,7 +70,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Gurgaon Division",
             "latitude": 28.446796,
-            "longitude": 76.825692
+            "longitude": 76.825692,
+            "stateName": "HARYANA",
+            "districtName": "GURUGRAM"
         }
     ]
 }

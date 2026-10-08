@@ -10,7 +10,9 @@
             "regionName": "Hyderabad Region",
             "divisionName": "Khammam Division",
             "latitude": 17.4879696,
-            "longitude": 17.4879696
+            "longitude": null,
+            "stateName": "TELANGANA",
+            "districtName": "MAHABUBABAD"
         },
         {
             "officeName": "Gopalapuram B.O",
@@ -20,7 +22,9 @@
             "regionName": "Hyderabad Region",
             "divisionName": "Khammam Division",
             "latitude": 17.48585,
-            "longitude": 80.14456
+            "longitude": 80.14456,
+            "stateName": "TELANGANA",
+            "districtName": "MAHABUBABAD"
         },
         {
             "officeName": "Rampuram B.O",
@@ -30,7 +34,9 @@
             "regionName": "Hyderabad Region",
             "divisionName": "Khammam Division",
             "latitude": 17.48585,
-            "longitude": 80.14456
+            "longitude": 80.14456,
+            "stateName": "TELANGANA",
+            "districtName": "MAHABUBABAD"
         },
         {
             "officeName": "Ponnekal B.O",
@@ -40,7 +46,9 @@
             "regionName": "Hyderabad Region",
             "divisionName": "Khammam Division",
             "latitude": 17.4879696,
-            "longitude": 80.1428143
+            "longitude": 80.1428143,
+            "stateName": "TELANGANA",
+            "districtName": "MAHABUBABAD"
         },
         {
             "officeName": "Seethampeta B.O",
@@ -50,7 +58,9 @@
             "regionName": "Hyderabad Region",
             "divisionName": "Khammam Division",
             "latitude": 17.1246902,
-            "longitude": 80.2084163
+            "longitude": 80.2084163,
+            "stateName": "TELANGANA",
+            "districtName": "MAHABUBABAD"
         },
         {
             "officeName": "Garla S.O",
@@ -60,7 +70,9 @@
             "regionName": "Hyderabad Region",
             "divisionName": "Khammam Division",
             "latitude": 17.4881389,
-            "longitude": 80.1426944
+            "longitude": 80.1426944,
+            "stateName": "TELANGANA",
+            "districtName": "MAHABUBABAD"
         },
         {
             "officeName": "Garedipalli",
@@ -70,7 +82,9 @@
             "regionName": "Hyderabad Region",
             "divisionName": "Khammam Division",
             "latitude": 17.4879,
-            "longitude": 80.1428
+            "longitude": 80.1428,
+            "stateName": "TELANGANA",
+            "districtName": "MAHABUBABAD"
         },
         {
             "officeName": "Peddakistapuram B.O",
@@ -80,7 +94,9 @@
             "regionName": "Hyderabad Region",
             "divisionName": "Khammam Division",
             "latitude": 17.52426,
-            "longitude": 80.126301
+            "longitude": 80.126301,
+            "stateName": "TELANGANA",
+            "districtName": "MAHABUBABAD"
         },
         {
             "officeName": "Dubbagudem B.O",
@@ -90,7 +106,9 @@
             "regionName": "Hyderabad Region",
             "divisionName": "Khammam Division",
             "latitude": 17.48585,
-            "longitude": 80.14456
+            "longitude": 80.14456,
+            "stateName": "TELANGANA",
+            "districtName": "MAHABUBABAD"
         },
         {
             "officeName": "Pullur B.O",
@@ -100,7 +118,9 @@
             "regionName": "Hyderabad Region",
             "divisionName": "Khammam Division",
             "latitude": 17.48585,
-            "longitude": 80.14456
+            "longitude": 80.14456,
+            "stateName": "TELANGANA",
+            "districtName": "MAHABUBABAD"
         },
         {
             "officeName": "Seripuram",
@@ -110,17 +130,9 @@
             "regionName": "Hyderabad Region",
             "divisionName": "Khammam Division",
             "latitude": 17.526119,
-            "longitude": 80.18227
-        },
-        {
-            "officeName": "Marrigudem B.O",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "Telangana Circle",
-            "regionName": "Hyderabad Region",
-            "divisionName": "Khammam Division",
-            "latitude": null,
-            "longitude": null
+            "longitude": 80.18227,
+            "stateName": "TELANGANA",
+            "districtName": "MAHABUBABAD"
         },
         {
             "officeName": "Kamalapuram B.O",
@@ -130,7 +142,9 @@
             "regionName": "Hyderabad Region",
             "divisionName": "Khammam Division",
             "latitude": 17.4879726,
-            "longitude": 80.1428113
+            "longitude": 80.1428113,
+            "stateName": "TELANGANA",
+            "districtName": "MAHABUBABAD"
         },
         {
             "officeName": "Mulkanoor B.O",
@@ -140,7 +154,9 @@
             "regionName": "Hyderabad Region",
             "divisionName": "Khammam Division",
             "latitude": 17.4879706,
-            "longitude": 80.1428133
+            "longitude": 80.1428133,
+            "stateName": "TELANGANA",
+            "districtName": "MAHABUBABAD"
         }
     ]
 }

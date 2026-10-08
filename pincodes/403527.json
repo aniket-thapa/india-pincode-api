@@ -9,8 +9,10 @@
             "circleName": "Maharashtra Circle",
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
-            "latitude": 73.91,
-            "longitude": 15.7
+            "latitude": null,
+            "longitude": null,
+            "stateName": "GOA",
+            "districtName": "NORTH GOA"
         },
         {
             "officeName": "Mandrem S.O",
@@ -20,7 +22,9 @@
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
             "latitude": 15.6632819,
-            "longitude": 73.7260894
+            "longitude": 73.7260894,
+            "stateName": "GOA",
+            "districtName": "NORTH GOA"
         }
     ]
 }

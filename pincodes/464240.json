@@ -10,7 +10,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Vidisha Division",
             "latitude": 27.150129,
-            "longitude": 78.398534
+            "longitude": 78.398534,
+            "stateName": "MADHYA PRADESH",
+            "districtName": "VIDISHA"
         },
         {
             "officeName": "Serwasa B.O",
@@ -20,7 +22,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Vidisha Division",
             "latitude": 17.410463,
-            "longitude": 78.506908
+            "longitude": 78.506908,
+            "stateName": "MADHYA PRADESH",
+            "districtName": "VIDISHA"
         },
         {
             "officeName": "Kulhar B.O",
@@ -30,7 +34,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Vidisha Division",
             "latitude": 29.926253,
-            "longitude": 78.676748
+            "longitude": 78.676748,
+            "stateName": "MADHYA PRADESH",
+            "districtName": "VIDISHA"
         },
         {
             "officeName": "Sanai B.O",
@@ -39,8 +45,10 @@
             "circleName": "Madhya Pradesh Circle",
             "regionName": "DivReportingCircle",
             "divisionName": "Vidisha Division",
-            "latitude": 40.731268,
-            "longitude": 74.060309
+            "latitude": null,
+            "longitude": 74.060309,
+            "stateName": "MADHYA PRADESH",
+            "districtName": "SAGAR"
         },
         {
             "officeName": "Gitola B.O",
@@ -50,7 +58,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Vidisha Division",
             "latitude": 24.026134,
-            "longitude": 78.046422
+            "longitude": 78.046422,
+            "stateName": "MADHYA PRADESH",
+            "districtName": "SAGAR"
         },
         {
             "officeName": "Bamora R.S S.O",
@@ -60,7 +70,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Vidisha Division",
             "latitude": 23.84575,
-            "longitude": 78.7613611
+            "longitude": 78.7613611,
+            "stateName": "MADHYA PRADESH",
+            "districtName": "SAGAR"
         }
     ]
 }

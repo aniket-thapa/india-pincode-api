@@ -10,7 +10,9 @@
             "regionName": "Lucknow  HQ Region",
             "divisionName": "Rae Bareilly Division",
             "latitude": 26.1958333,
-            "longitude": 80.55575
+            "longitude": 80.55575,
+            "stateName": "UTTAR PRADESH",
+            "districtName": "RAE BARELI"
         },
         {
             "officeName": "Sheopuri BO",
@@ -19,8 +21,10 @@
             "circleName": "Uttar Pradesh Circle",
             "regionName": "Lucknow  HQ Region",
             "divisionName": "Rae Bareilly Division",
-            "latitude": 40.4,
-            "longitude": 93.66
+            "latitude": null,
+            "longitude": 93.66,
+            "stateName": "UTTAR PRADESH",
+            "districtName": "RAE BARELI"
         }
     ]
 }

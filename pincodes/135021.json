@@ -10,7 +10,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Ambala Division",
             "latitude": 30.31587,
-            "longitude": 77.52009
+            "longitude": 77.52009,
+            "stateName": "HARYANA",
+            "districtName": "YAMUNANAGAR"
         },
         {
             "officeName": "Partap Nagar S.O",
@@ -19,8 +21,10 @@
             "circleName": "Haryana Circle",
             "regionName": "DivReportingCircle",
             "divisionName": "Ambala Division",
-            "latitude": 77.4979167,
-            "longitude": 30.2894444
+            "latitude": null,
+            "longitude": null,
+            "stateName": "HARYANA",
+            "districtName": "YAMUNANAGAR"
         },
         {
             "officeName": "Deodhar B.O",
@@ -30,7 +34,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Ambala Division",
             "latitude": 30.3781858,
-            "longitude": 76.77669
+            "longitude": 76.77669,
+            "stateName": "HARYANA",
+            "districtName": "YAMUNANAGAR"
         },
         {
             "officeName": "Muzafatkalan B.O",
@@ -40,7 +46,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Ambala Division",
             "latitude": 30.37819,
-            "longitude": 76.776685
+            "longitude": 76.776685,
+            "stateName": "HARYANA",
+            "districtName": "YAMUNANAGAR"
         }
     ]
 }

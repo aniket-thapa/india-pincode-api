@@ -10,7 +10,9 @@
             "regionName": "Regional Office Aurangabad",
             "divisionName": "Chhatrapati Sambhajinagar Division",
             "latitude": 19.904718,
-            "longitude": 75.313549
+            "longitude": 75.313549,
+            "stateName": "MAHARASHTRA",
+            "districtName": "AURANGABAD"
         },
         {
             "officeName": "Begumpura S.O",
@@ -20,7 +22,9 @@
             "regionName": "Regional Office Aurangabad",
             "divisionName": "Chhatrapati Sambhajinagar Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "MAHARASHTRA",
+            "districtName": "AURANGABAD"
         }
     ]
 }

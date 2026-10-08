@@ -10,17 +10,9 @@
             "regionName": "Hyderabad City Region",
             "divisionName": "Secunderabad Division",
             "latitude": 17.5245,
-            "longitude": 78.6603
-        },
-        {
-            "officeName": "Godhumkunta BO",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "Telangana Circle",
-            "regionName": "Hyderabad City Region",
-            "divisionName": "Secunderabad Division",
-            "latitude": 17.50381,
-            "longitude": 78.65234
+            "longitude": 78.6603,
+            "stateName": "TELANGANA",
+            "districtName": "MEDCHAL MALKAJGIRI"
         },
         {
             "officeName": "RAMPALLY SO",
@@ -30,7 +22,9 @@
             "regionName": "Hyderabad City Region",
             "divisionName": "Secunderabad Division",
             "latitude": 17.469013340376854,
-            "longitude": 78.64441389730341
+            "longitude": 78.64441389730341,
+            "stateName": "TELANGANA",
+            "districtName": "MEDCHAL MALKAJGIRI"
         }
     ]
 }

@@ -10,7 +10,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Jaipur Moffusil Division",
             "latitude": 26.803213,
-            "longitude": 75.990071
+            "longitude": 75.990071,
+            "stateName": "RAJASTHAN",
+            "districtName": "JAIPUR"
         },
         {
             "officeName": "Kanota SO",
@@ -20,7 +22,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Jaipur Moffusil Division",
             "latitude": 26.8718333,
-            "longitude": 75.9474167
+            "longitude": 75.9474167,
+            "stateName": "RAJASTHAN",
+            "districtName": "JAIPUR"
         },
         {
             "officeName": "Kunthada Khurd BO",
@@ -30,7 +34,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Jaipur Moffusil Division",
             "latitude": 19.288078,
-            "longitude": 78.472353
+            "longitude": 78.472353,
+            "stateName": "RAJASTHAN",
+            "districtName": "JAIPUR"
         },
         {
             "officeName": "Jeetawal BO",
@@ -40,7 +46,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Jaipur Moffusil Division",
             "latitude": 24.800533,
-            "longitude": 74.555116
+            "longitude": 74.555116,
+            "stateName": "RAJASTHAN",
+            "districtName": "JAIPUR"
         },
         {
             "officeName": "Papad BO",
@@ -50,7 +58,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Jaipur Moffusil Division",
             "latitude": 28.029802,
-            "longitude": 79.377529
+            "longitude": 79.377529,
+            "stateName": "RAJASTHAN",
+            "districtName": "JAIPUR"
         },
         {
             "officeName": "Nayla BO",
@@ -60,7 +70,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Jaipur Moffusil Division",
             "latitude": 26.936194,
-            "longitude": 75.995667
+            "longitude": 75.995667,
+            "stateName": "RAJASTHAN",
+            "districtName": "JAIPUR"
         },
         {
             "officeName": "Burthal BO",
@@ -69,8 +81,10 @@
             "circleName": "Rajasthan Circle",
             "regionName": "DivReportingCircle",
             "divisionName": "Jaipur Moffusil Division",
-            "latitude": 48.632452,
-            "longitude": 7.737629
+            "latitude": null,
+            "longitude": null,
+            "stateName": "RAJASTHAN",
+            "districtName": "JAIPUR"
         }
     ]
 }

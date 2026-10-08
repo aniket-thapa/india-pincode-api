@@ -10,7 +10,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Hamirpur Division",
             "latitude": 31.624449,
-            "longitude": 76.682308
+            "longitude": 76.682308,
+            "stateName": "HIMACHAL PRADESH",
+            "districtName": "HAMIRPUR"
         },
         {
             "officeName": "Lagmanwin BO",
@@ -19,8 +21,10 @@
             "circleName": "Himachal Pradesh Circle",
             "regionName": "DivReportingCircle",
             "divisionName": "Hamirpur Division",
-            "latitude": 76.673,
-            "longitude": 31.6167
+            "latitude": null,
+            "longitude": null,
+            "stateName": "HIMACHAL PRADESH",
+            "districtName": "HAMIRPUR"
         }
     ]
 }

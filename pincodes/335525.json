@@ -10,7 +10,9 @@
             "regionName": "Jodhpur Region",
             "divisionName": "Sriganganagar Division",
             "latitude": 29.515,
-            "longitude": 74.5888611
+            "longitude": 74.5888611,
+            "stateName": "RAJASTHAN",
+            "districtName": "HANUMANGARH"
         },
         {
             "officeName": "Silwala Kalan B.O",
@@ -20,7 +22,9 @@
             "regionName": "Jodhpur Region",
             "divisionName": "Sriganganagar Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "RAJASTHAN",
+            "districtName": "HANUMANGARH"
         }
     ]
 }

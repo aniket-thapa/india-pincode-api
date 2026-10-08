@@ -10,7 +10,9 @@
             "regionName": "JAMMU RN",
             "divisionName": "Udhampur Division",
             "latitude": 33.305413,
-            "longitude": 75.061222
+            "longitude": 75.061222,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "UDHAMPUR"
         },
         {
             "officeName": "Madha BO",
@@ -19,8 +21,10 @@
             "circleName": "Jammu Kashmir Circle",
             "regionName": "JAMMU RN",
             "divisionName": "Udhampur Division",
-            "latitude": 1,
-            "longitude": 1
+            "latitude": null,
+            "longitude": null,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "UDHAMPUR"
         },
         {
             "officeName": "Karlah BO",
@@ -29,8 +33,10 @@
             "circleName": "Jammu Kashmir Circle",
             "regionName": "JAMMU RN",
             "divisionName": "Udhampur Division",
-            "latitude": 1,
-            "longitude": 1
+            "latitude": null,
+            "longitude": null,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "UDHAMPUR"
         },
         {
             "officeName": "Sangote BO",
@@ -39,8 +45,10 @@
             "circleName": "Jammu Kashmir Circle",
             "regionName": "JAMMU RN",
             "divisionName": "Udhampur Division",
-            "latitude": 1,
-            "longitude": 1
+            "latitude": null,
+            "longitude": null,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "UDHAMPUR"
         },
         {
             "officeName": "Kud SO",
@@ -50,7 +58,9 @@
             "regionName": "JAMMU RN",
             "divisionName": "Udhampur Division",
             "latitude": 33.0768889,
-            "longitude": 75.2934167
+            "longitude": 75.2934167,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "UDHAMPUR"
         }
     ]
 }

@@ -9,8 +9,10 @@
             "circleName": "Rajasthan Circle",
             "regionName": "Jodhpur Region",
             "divisionName": "Pali Division",
-            "latitude": 73.5211226,
-            "longitude": 25.6263711
+            "latitude": null,
+            "longitude": null,
+            "stateName": "RAJASTHAN",
+            "districtName": "PALI"
         },
         {
             "officeName": "Lambiya B.O",
@@ -20,7 +22,9 @@
             "regionName": "Jodhpur Region",
             "divisionName": "Pali Division",
             "latitude": 26.2022267,
-            "longitude": 73.9444255
+            "longitude": 73.9444255,
+            "stateName": "RAJASTHAN",
+            "districtName": "PALI"
         },
         {
             "officeName": "Khairwa S.O",
@@ -30,7 +34,9 @@
             "regionName": "Jodhpur Region",
             "divisionName": "Pali Division",
             "latitude": 25.6649444,
-            "longitude": 73.4588889
+            "longitude": 73.4588889,
+            "stateName": "RAJASTHAN",
+            "districtName": "PALI"
         },
         {
             "officeName": "Hingola Khurd B.O",
@@ -40,7 +46,9 @@
             "regionName": "Jodhpur Region",
             "divisionName": "Pali Division",
             "latitude": 25.3931796,
-            "longitude": 65.5291854
+            "longitude": null,
+            "stateName": "RAJASTHAN",
+            "districtName": "PALI"
         },
         {
             "officeName": "Sapooni B.O",
@@ -50,7 +58,9 @@
             "regionName": "Jodhpur Region",
             "divisionName": "Pali Division",
             "latitude": 25.74605,
-            "longitude": 73.4197
+            "longitude": 73.4197,
+            "stateName": "RAJASTHAN",
+            "districtName": "PALI"
         }
     ]
 }

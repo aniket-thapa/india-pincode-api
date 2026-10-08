@@ -10,7 +10,9 @@
             "regionName": "Ahmedabad HQ Region",
             "divisionName": "Gandhinagar Division",
             "latitude": 23.12411,
-            "longitude": 72.41121
+            "longitude": 72.41121,
+            "stateName": "GUJARAT",
+            "districtName": "GANDHINAGAR"
         },
         {
             "officeName": "Palaj BO",
@@ -20,7 +22,9 @@
             "regionName": "Ahmedabad HQ Region",
             "divisionName": "Gandhinagar Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "GUJARAT",
+            "districtName": "GANDHINAGAR"
         }
     ]
 }

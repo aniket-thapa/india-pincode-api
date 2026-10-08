@@ -10,7 +10,9 @@
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
             "latitude": 15.5919443,
-            "longitude": 73.8086383
+            "longitude": 73.8086383,
+            "stateName": "GOA",
+            "districtName": "NORTH GOA"
         },
         {
             "officeName": "Canca B.O",
@@ -19,8 +21,10 @@
             "circleName": "Maharashtra Circle",
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
-            "latitude": 73.12,
-            "longitude": 16.41
+            "latitude": null,
+            "longitude": null,
+            "stateName": "GOA",
+            "districtName": "NORTH GOA"
         }
     ]
 }

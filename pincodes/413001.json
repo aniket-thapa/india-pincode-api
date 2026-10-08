@@ -10,7 +10,9 @@
             "regionName": "Pune Region",
             "divisionName": "Solapur Division",
             "latitude": 17.6703333,
-            "longitude": 75.9004444
+            "longitude": 75.9004444,
+            "stateName": "MAHARASHTRA",
+            "districtName": "SOLAPUR"
         },
         {
             "officeName": "Navi Peth Solapur S.O",
@@ -20,7 +22,9 @@
             "regionName": "Pune Region",
             "divisionName": "Solapur Division",
             "latitude": 17.6743611,
-            "longitude": 75.89825
+            "longitude": 75.89825,
+            "stateName": "MAHARASHTRA",
+            "districtName": "SOLAPUR"
         },
         {
             "officeName": "Sidheswar Peth S.O",
@@ -29,8 +33,10 @@
             "circleName": "Maharashtra Circle",
             "regionName": "Pune Region",
             "divisionName": "Solapur Division",
-            "latitude": 75.906401,
-            "longitude": 17.669376
+            "latitude": null,
+            "longitude": null,
+            "stateName": "MAHARASHTRA",
+            "districtName": "SOLAPUR"
         },
         {
             "officeName": "Solapur H.O",
@@ -40,7 +46,9 @@
             "regionName": "Pune Region",
             "divisionName": "Solapur Division",
             "latitude": 17.6659167,
-            "longitude": 75.8943333
+            "longitude": 75.8943333,
+            "stateName": "MAHARASHTRA",
+            "districtName": "SOLAPUR"
         }
     ]
 }

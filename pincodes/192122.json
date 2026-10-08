@@ -10,7 +10,9 @@
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
             "latitude": 32.5,
-            "longitude": 26.5
+            "longitude": null,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "PULWAMA"
         },
         {
             "officeName": "Anantnag City SO",
@@ -20,7 +22,9 @@
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
             "latitude": 30.0733056,
-            "longitude": 74.8165556
+            "longitude": 74.8165556,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "ANANTNAG"
         },
         {
             "officeName": "Awantipora SO",
@@ -30,7 +34,9 @@
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
             "latitude": 33.9175,
-            "longitude": 75.0164444
+            "longitude": 75.0164444,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "PULWAMA"
         },
         {
             "officeName": "Barsoo BO",
@@ -39,8 +45,10 @@
             "circleName": "Jammu Kashmir Circle",
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
-            "latitude": 235.6,
-            "longitude": 112.6
+            "latitude": null,
+            "longitude": null,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "PULWAMA"
         },
         {
             "officeName": "Chandhara BO",
@@ -49,8 +57,10 @@
             "circleName": "Jammu Kashmir Circle",
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
-            "latitude": 235.6,
-            "longitude": 112.6
+            "latitude": null,
+            "longitude": null,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "PULWAMA"
         },
         {
             "officeName": "Gairoo BO",
@@ -59,8 +69,10 @@
             "circleName": "Jammu Kashmir Circle",
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
-            "latitude": 235.6,
-            "longitude": 72.36
+            "latitude": null,
+            "longitude": 72.36,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "PULWAMA"
         },
         {
             "officeName": "Gouripora BO",
@@ -69,8 +81,10 @@
             "circleName": "Jammu Kashmir Circle",
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
-            "latitude": 2.5,
-            "longitude": 32.5
+            "latitude": null,
+            "longitude": null,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "PULWAMA"
         },
         {
             "officeName": "Cheersoo BO",
@@ -79,8 +93,10 @@
             "circleName": "Jammu Kashmir Circle",
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
-            "latitude": 235.6,
-            "longitude": 72.36
+            "latitude": null,
+            "longitude": 72.36,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "PULWAMA"
         }
     ]
 }

@@ -10,17 +10,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Dehradun Division",
             "latitude": 30.0588333,
-            "longitude": 78.2115278
-        },
-        {
-            "officeName": "Khadri Khadakmaf BO",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "Uttarakhand Circle",
-            "regionName": "DivReportingCircle",
-            "divisionName": "Dehradun Division",
-            "latitude": 30.05007,
-            "longitude": 78.242971
+            "longitude": 78.2115278,
+            "stateName": "UTTARAKHAND",
+            "districtName": "DEHRADUN"
         },
         {
             "officeName": "Gumaniwala BO",
@@ -30,7 +22,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Dehradun Division",
             "latitude": 30.07,
-            "longitude": 78.24
+            "longitude": 78.24,
+            "stateName": "UTTARAKHAND",
+            "districtName": "DEHRADUN"
         }
     ]
 }

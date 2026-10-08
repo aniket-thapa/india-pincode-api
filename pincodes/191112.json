@@ -10,7 +10,9 @@
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
             "latitude": 33.8614722,
-            "longitude": 74.7669444
+            "longitude": 74.7669444,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "BUDGAM"
         },
         {
             "officeName": "Keller Mastpora BO",
@@ -19,8 +21,10 @@
             "circleName": "Jammu Kashmir Circle",
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
-            "latitude": 80.5,
-            "longitude": 97.1
+            "latitude": null,
+            "longitude": 97.1,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "SHOPIAN"
         },
         {
             "officeName": "Hardudalwan BO",
@@ -29,8 +33,10 @@
             "circleName": "Jammu Kashmir Circle",
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
-            "latitude": 87.6,
-            "longitude": 98.5
+            "latitude": null,
+            "longitude": null,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "BUDGAM"
         },
         {
             "officeName": "Abhama BO",
@@ -39,8 +45,10 @@
             "circleName": "Jammu Kashmir Circle",
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
-            "latitude": 60.5,
-            "longitude": 53.2
+            "latitude": null,
+            "longitude": null,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "PULWAMA"
         },
         {
             "officeName": "Darwan Nawgam BO",
@@ -49,8 +57,10 @@
             "circleName": "Jammu Kashmir Circle",
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
-            "latitude": 88.6,
-            "longitude": 99.1
+            "latitude": null,
+            "longitude": null,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "BUDGAM"
         },
         {
             "officeName": "Kenidajan BO",
@@ -59,8 +69,10 @@
             "circleName": "Jammu Kashmir Circle",
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
-            "latitude": 69.111,
-            "longitude": 54.999
+            "latitude": null,
+            "longitude": null,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "BUDGAM"
         },
         {
             "officeName": "Pakherpora BO",
@@ -69,8 +81,10 @@
             "circleName": "Jammu Kashmir Circle",
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
-            "latitude": 63.111,
-            "longitude": 44.8888
+            "latitude": null,
+            "longitude": null,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "BUDGAM"
         }
     ]
 }

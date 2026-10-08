@@ -9,8 +9,10 @@
             "circleName": "Himachal Pradesh Circle",
             "regionName": "DivReportingCircle",
             "divisionName": "Hamirpur Division",
-            "latitude": 41.1228,
-            "longitude": 16.8656
+            "latitude": null,
+            "longitude": null,
+            "stateName": "HIMACHAL PRADESH",
+            "districtName": "HAMIRPUR"
         },
         {
             "officeName": "Lahar BO",
@@ -20,7 +22,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Hamirpur Division",
             "latitude": 31.6481,
-            "longitude": 76.547
+            "longitude": 76.547,
+            "stateName": "HIMACHAL PRADESH",
+            "districtName": "HAMIRPUR"
         },
         {
             "officeName": "Jeehan BO",
@@ -30,7 +34,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Hamirpur Division",
             "latitude": 37.8323,
-            "longitude": 87.5434
+            "longitude": 87.5434,
+            "stateName": "HIMACHAL PRADESH",
+            "districtName": "HAMIRPUR"
         },
         {
             "officeName": "Bara SO HamirpurHP",
@@ -40,7 +46,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Hamirpur Division",
             "latitude": 31.772928,
-            "longitude": 76.396582
+            "longitude": 76.396582,
+            "stateName": "HIMACHAL PRADESH",
+            "districtName": "HAMIRPUR"
         }
     ]
 }

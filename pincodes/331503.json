@@ -10,7 +10,9 @@
             "regionName": "Jodhpur Region",
             "divisionName": "Churu Division",
             "latitude": 27.8038056,
-            "longitude": 74.4085556
+            "longitude": 74.4085556,
+            "stateName": "RAJASTHAN",
+            "districtName": "CHURU"
         },
         {
             "officeName": "Balera B.O",
@@ -20,7 +22,9 @@
             "regionName": "Jodhpur Region",
             "divisionName": "Churu Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "RAJASTHAN",
+            "districtName": "CHURU"
         },
         {
             "officeName": "Gopalpura B.O",
@@ -30,7 +34,9 @@
             "regionName": "Jodhpur Region",
             "divisionName": "Churu Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "RAJASTHAN",
+            "districtName": "CHURU"
         }
     ]
 }

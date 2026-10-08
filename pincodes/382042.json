@@ -10,7 +10,9 @@
             "regionName": "Ahmedabad HQ Region",
             "divisionName": "Gandhinagar Division",
             "latitude": 22.62,
-            "longitude": 72.41
+            "longitude": 72.41,
+            "stateName": "GUJARAT",
+            "districtName": "GANDHINAGAR"
         },
         {
             "officeName": "CRPF Campus G Nagar SO",
@@ -20,7 +22,9 @@
             "regionName": "Ahmedabad HQ Region",
             "divisionName": "Gandhinagar Division",
             "latitude": 23.342534,
-            "longitude": 72.693459
+            "longitude": 72.693459,
+            "stateName": "GUJARAT",
+            "districtName": "GANDHINAGAR"
         },
         {
             "officeName": "Alampur BO",
@@ -30,7 +34,9 @@
             "regionName": "Ahmedabad HQ Region",
             "divisionName": "Gandhinagar Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "GUJARAT",
+            "districtName": "GANDHINAGAR"
         }
     ]
 }

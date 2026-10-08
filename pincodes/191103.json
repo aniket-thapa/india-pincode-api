@@ -10,7 +10,9 @@
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
             "latitude": 34.0733056,
-            "longitude": 74.8165556
+            "longitude": 74.8165556,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "PULWAMA"
         },
         {
             "officeName": "Ludhoo BO",
@@ -20,7 +22,9 @@
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
             "latitude": 33.653266,
-            "longitude": 84.55999
+            "longitude": 84.55999,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "PULWAMA"
         },
         {
             "officeName": "Zantrag BO",
@@ -30,7 +34,9 @@
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
             "latitude": 32.5,
-            "longitude": 23.6
+            "longitude": null,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "PULWAMA"
         },
         {
             "officeName": "Mandakpal BO",
@@ -39,8 +45,10 @@
             "circleName": "Jammu Kashmir Circle",
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
-            "latitude": 89.44444,
-            "longitude": 97.8888
+            "latitude": null,
+            "longitude": 97.8888,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "PULWAMA"
         }
     ]
 }

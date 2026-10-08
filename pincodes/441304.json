@@ -10,7 +10,9 @@
             "regionName": "Nagpur Region",
             "divisionName": "Nagpur Moffusil Division",
             "latitude": 21.407261,
-            "longitude": 78.489046
+            "longitude": 78.489046,
+            "stateName": "MAHARASHTRA",
+            "districtName": "NAGPUR"
         },
         {
             "officeName": "Kharsoli B.O",
@@ -20,7 +22,9 @@
             "regionName": "Nagpur Region",
             "divisionName": "Nagpur Moffusil Division",
             "latitude": 21.040245,
-            "longitude": 79.110749
+            "longitude": 79.110749,
+            "stateName": "MAHARASHTRA",
+            "districtName": "NAGPUR"
         },
         {
             "officeName": "Mohadi Dalvi B.O",
@@ -30,7 +34,9 @@
             "regionName": "Nagpur Region",
             "divisionName": "Nagpur Moffusil Division",
             "latitude": 21.040245,
-            "longitude": 79.110749
+            "longitude": 79.110749,
+            "stateName": "MAHARASHTRA",
+            "districtName": "NAGPUR"
         },
         {
             "officeName": "Narkher S.O",
@@ -40,7 +46,9 @@
             "regionName": "Nagpur Region",
             "divisionName": "Nagpur Moffusil Division",
             "latitude": 21.4723889,
-            "longitude": 78.531
+            "longitude": 78.531,
+            "stateName": "MAHARASHTRA",
+            "districtName": "NAGPUR"
         },
         {
             "officeName": "Belona B.O",
@@ -49,8 +57,10 @@
             "circleName": "Maharashtra Circle",
             "regionName": "Nagpur Region",
             "divisionName": "Nagpur Moffusil Division",
-            "latitude": 42.757013,
-            "longitude": 77.014689
+            "latitude": null,
+            "longitude": 77.014689,
+            "stateName": "MAHARASHTRA",
+            "districtName": "NAGPUR"
         }
     ]
 }

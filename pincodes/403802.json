@@ -10,7 +10,9 @@
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
             "latitude": 15.39941367,
-            "longitude": 73.82545638
+            "longitude": 73.82545638,
+            "stateName": "GOA",
+            "districtName": "SOUTH GOA"
         },
         {
             "officeName": "Vademnagar S.O",
@@ -20,7 +22,9 @@
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
             "latitude": 15.3960108,
-            "longitude": 73.82382001
+            "longitude": 73.82382001,
+            "stateName": "GOA",
+            "districtName": "SOUTH GOA"
         },
         {
             "officeName": "Vasco Da Gama S.O",
@@ -30,7 +34,9 @@
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
             "latitude": 15.3978056,
-            "longitude": 73.8107778
+            "longitude": 73.8107778,
+            "stateName": "GOA",
+            "districtName": "SOUTH GOA"
         },
         {
             "officeName": "Mangor Hill B.O",
@@ -39,8 +45,10 @@
             "circleName": "Maharashtra Circle",
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
-            "latitude": 73.3,
-            "longitude": 15.4
+            "latitude": null,
+            "longitude": null,
+            "stateName": "GOA",
+            "districtName": "SOUTH GOA"
         },
         {
             "officeName": "Baina S.O",
@@ -50,7 +58,9 @@
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
             "latitude": 15.3913056,
-            "longitude": 73.8100278
+            "longitude": 73.8100278,
+            "stateName": "GOA",
+            "districtName": "SOUTH GOA"
         }
     ]
 }

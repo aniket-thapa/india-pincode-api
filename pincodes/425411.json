@@ -10,7 +10,9 @@
             "regionName": "Regional Office Aurangabad",
             "divisionName": "Dhule Division",
             "latitude": 21.401122,
-            "longitude": 74.476091
+            "longitude": 74.476091,
+            "stateName": "MAHARASHTRA",
+            "districtName": "NANDURBAR"
         },
         {
             "officeName": "Ranala S.O",
@@ -20,7 +22,9 @@
             "regionName": "Regional Office Aurangabad",
             "divisionName": "Dhule Division",
             "latitude": 21.347233,
-            "longitude": 74.379228
+            "longitude": 74.379228,
+            "stateName": "MAHARASHTRA",
+            "districtName": "NANDURBAR"
         },
         {
             "officeName": "Chaupale B.O",
@@ -30,7 +34,9 @@
             "regionName": "Regional Office Aurangabad",
             "divisionName": "Dhule Division",
             "latitude": 21.36475,
-            "longitude": 74.29823
+            "longitude": 74.29823,
+            "stateName": "MAHARASHTRA",
+            "districtName": "NANDURBAR"
         },
         {
             "officeName": "Manjare B.O",
@@ -40,7 +46,9 @@
             "regionName": "Regional Office Aurangabad",
             "divisionName": "Dhule Division",
             "latitude": 21.397775,
-            "longitude": 74.448155
+            "longitude": 74.448155,
+            "stateName": "MAHARASHTRA",
+            "districtName": "NANDURBAR"
         },
         {
             "officeName": "Wavad B.O",
@@ -50,7 +58,9 @@
             "regionName": "Regional Office Aurangabad",
             "divisionName": "Dhule Division",
             "latitude": 21.353571,
-            "longitude": 74.317949
+            "longitude": 74.317949,
+            "stateName": "MAHARASHTRA",
+            "districtName": "NANDURBAR"
         },
         {
             "officeName": "Koparli B.O",
@@ -59,8 +69,10 @@
             "circleName": "Maharashtra Circle",
             "regionName": "Regional Office Aurangabad",
             "divisionName": "Dhule Division",
-            "latitude": 74.426295,
-            "longitude": 74.426292
+            "latitude": null,
+            "longitude": 74.426292,
+            "stateName": "MAHARASHTRA",
+            "districtName": "NANDURBAR"
         }
     ]
 }

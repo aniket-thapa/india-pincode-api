@@ -9,8 +9,10 @@
             "circleName": "Maharashtra Circle",
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
-            "latitude": 72.98,
-            "longitude": 15.61
+            "latitude": null,
+            "longitude": null,
+            "stateName": "GOA",
+            "districtName": "NORTH GOA"
         },
         {
             "officeName": "Betim S.O",
@@ -20,7 +22,9 @@
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
             "latitude": 15.5079356,
-            "longitude": 73.823949
+            "longitude": 73.823949,
+            "stateName": "GOA",
+            "districtName": "NORTH GOA"
         },
         {
             "officeName": "Penha De France B.O",
@@ -29,8 +33,10 @@
             "circleName": "Maharashtra Circle",
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
-            "latitude": 73.83,
-            "longitude": 15.52
+            "latitude": null,
+            "longitude": null,
+            "stateName": "GOA",
+            "districtName": "NORTH GOA"
         }
     ]
 }

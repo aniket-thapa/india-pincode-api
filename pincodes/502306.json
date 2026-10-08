@@ -10,7 +10,9 @@
             "regionName": "Hyderabad City Region",
             "divisionName": "Sangareddy Division",
             "latitude": 17.55894,
-            "longitude": 78.012082
+            "longitude": 78.012082,
+            "stateName": "TELANGANA",
+            "districtName": "SANGAREDDY"
         },
         {
             "officeName": "Peddapur B.O",
@@ -20,17 +22,9 @@
             "regionName": "Hyderabad City Region",
             "divisionName": "Sangareddy Division",
             "latitude": 17.613341,
-            "longitude": 78.026873
-        },
-        {
-            "officeName": "Kambalpally BO",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "Telangana Circle",
-            "regionName": "Hyderabad City Region",
-            "divisionName": "Sangareddy Division",
-            "latitude": null,
-            "longitude": null
+            "longitude": 78.026873,
+            "stateName": "TELANGANA",
+            "districtName": "SANGAREDDY"
         },
         {
             "officeName": "Gangaram BO",
@@ -40,7 +34,9 @@
             "regionName": "Hyderabad City Region",
             "divisionName": "Sangareddy Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "TELANGANA",
+            "districtName": "SANGAREDDY"
         },
         {
             "officeName": "Nandikandi S.O",
@@ -50,7 +46,9 @@
             "regionName": "Hyderabad City Region",
             "divisionName": "Sangareddy Division",
             "latitude": 17.6121667,
-            "longitude": 77.8919444
+            "longitude": 77.8919444,
+            "stateName": "TELANGANA",
+            "districtName": "SANGAREDDY"
         },
         {
             "officeName": "ANANTHASAGAR B.O",
@@ -60,7 +58,9 @@
             "regionName": "Hyderabad City Region",
             "divisionName": "Sangareddy Division",
             "latitude": 17.5592,
-            "longitude": 77.951064
+            "longitude": 77.951064,
+            "stateName": "TELANGANA",
+            "districtName": "SANGAREDDY"
         },
         {
             "officeName": "Togarpalli B.O",
@@ -70,7 +70,9 @@
             "regionName": "Hyderabad City Region",
             "divisionName": "Sangareddy Division",
             "latitude": 17.585177,
-            "longitude": 78.025305
+            "longitude": 78.025305,
+            "stateName": "TELANGANA",
+            "districtName": "SANGAREDDY"
         },
         {
             "officeName": "Marepalli B.O",
@@ -80,7 +82,9 @@
             "regionName": "Hyderabad City Region",
             "divisionName": "Sangareddy Division",
             "latitude": 17.558387,
-            "longitude": 77.978471
+            "longitude": 77.978471,
+            "stateName": "TELANGANA",
+            "districtName": "SANGAREDDY"
         }
     ]
 }

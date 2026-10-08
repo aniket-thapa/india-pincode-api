@@ -10,7 +10,9 @@
             "regionName": "Pune Region",
             "divisionName": "Pune City East Division",
             "latitude": 18.61063889,
-            "longitude": 73.61063889
+            "longitude": 73.61063889,
+            "stateName": "MAHARASHTRA",
+            "districtName": "PUNE"
         },
         {
             "officeName": "Kalewadi B.O",
@@ -20,7 +22,9 @@
             "regionName": "Pune Region",
             "divisionName": "Pune City East Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "MAHARASHTRA",
+            "districtName": "PUNE"
         },
         {
             "officeName": "Pimpri Colony S.O",
@@ -30,7 +34,9 @@
             "regionName": "Pune Region",
             "divisionName": "Pune City East Division",
             "latitude": 18.62319444,
-            "longitude": 73.80158333
+            "longitude": 73.80158333,
+            "stateName": "MAHARASHTRA",
+            "districtName": "PUNE"
         }
     ]
 }

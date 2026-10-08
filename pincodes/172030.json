@@ -10,7 +10,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Rampur Bushahr Division",
             "latitude": 31.3207597564905,
-            "longitude": 77.4916739948093
+            "longitude": 77.4916739948093,
+            "stateName": "HIMACHAL PRADESH",
+            "districtName": "SHIMLA"
         },
         {
             "officeName": "Bhutti BO",
@@ -20,7 +22,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Rampur Bushahr Division",
             "latitude": 31.3182769,
-            "longitude": 77.4458091
+            "longitude": 77.4458091,
+            "stateName": "HIMACHAL PRADESH",
+            "districtName": "SHIMLA"
         },
         {
             "officeName": "Kirti BO",
@@ -30,7 +34,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Rampur Bushahr Division",
             "latitude": 31.3182759,
-            "longitude": 77.4458101
+            "longitude": 77.4458101,
+            "stateName": "HIMACHAL PRADESH",
+            "districtName": "SHIMLA"
         },
         {
             "officeName": "Virgarh BO",
@@ -40,7 +46,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Rampur Bushahr Division",
             "latitude": 31.43165,
-            "longitude": 78.18115
+            "longitude": 78.18115,
+            "stateName": "HIMACHAL PRADESH",
+            "districtName": "SHIMLA"
         },
         {
             "officeName": "Shamathla BO",
@@ -50,17 +58,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Rampur Bushahr Division",
             "latitude": 31.43165,
-            "longitude": 78.18115
-        },
-        {
-            "officeName": "Dalan",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "Himachal Pradesh Circle",
-            "regionName": "DivReportingCircle",
-            "divisionName": "Rampur Bushahr Division",
-            "latitude": 31.332458,
-            "longitude": 77.47814
+            "longitude": 78.18115,
+            "stateName": "HIMACHAL PRADESH",
+            "districtName": "SHIMLA"
         }
     ]
 }

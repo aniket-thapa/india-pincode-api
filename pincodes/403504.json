@@ -9,8 +9,10 @@
             "circleName": "Maharashtra Circle",
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
-            "latitude": 73.03,
-            "longitude": 15.62
+            "latitude": null,
+            "longitude": null,
+            "stateName": "GOA",
+            "districtName": "NORTH GOA"
         },
         {
             "officeName": "Pilgao B.O",
@@ -19,8 +21,10 @@
             "circleName": "Maharashtra Circle",
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
-            "latitude": 72.08,
-            "longitude": 16.04
+            "latitude": null,
+            "longitude": null,
+            "stateName": "GOA",
+            "districtName": "NORTH GOA"
         },
         {
             "officeName": "Mayem B.O",
@@ -29,8 +33,10 @@
             "circleName": "Maharashtra Circle",
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
-            "latitude": 72,
-            "longitude": 16.19
+            "latitude": null,
+            "longitude": null,
+            "stateName": "GOA",
+            "districtName": "NORTH GOA"
         },
         {
             "officeName": "Bicholim S.O",
@@ -40,7 +46,9 @@
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
             "latitude": 15.5896731,
-            "longitude": 73.9464971
+            "longitude": 73.9464971,
+            "stateName": "GOA",
+            "districtName": "NORTH GOA"
         }
     ]
 }

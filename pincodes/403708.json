@@ -9,8 +9,10 @@
             "circleName": "Maharashtra Circle",
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
-            "latitude": 72.2,
-            "longitude": 15.55
+            "latitude": null,
+            "longitude": null,
+            "stateName": "GOA",
+            "districtName": "SOUTH GOA"
         },
         {
             "officeName": "Colva S.O",
@@ -20,7 +22,9 @@
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
             "latitude": 15.2747501,
-            "longitude": 73.9575301
+            "longitude": 73.9575301,
+            "stateName": "GOA",
+            "districtName": "SOUTH GOA"
         },
         {
             "officeName": "Vanelim B.O",
@@ -29,8 +33,10 @@
             "circleName": "Maharashtra Circle",
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
-            "latitude": 72.2,
-            "longitude": 15.55
+            "latitude": null,
+            "longitude": null,
+            "stateName": "GOA",
+            "districtName": "SOUTH GOA"
         }
     ]
 }

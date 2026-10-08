@@ -10,7 +10,9 @@
             "regionName": "Nagpur Region",
             "divisionName": "Nagpur Moffusil Division",
             "latitude": 20.414655,
-            "longitude": 78.362956
+            "longitude": 78.362956,
+            "stateName": "MAHARASHTRA",
+            "districtName": "NAGPUR"
         },
         {
             "officeName": "Zamkoli",
@@ -20,7 +22,9 @@
             "regionName": "Nagpur Region",
             "divisionName": "Nagpur Moffusil Division",
             "latitude": 20.731329,
-            "longitude": 79.190367
+            "longitude": 79.190367,
+            "stateName": "MAHARASHTRA",
+            "districtName": "NAGPUR"
         },
         {
             "officeName": "Sirsi S.O (Nagpur)",
@@ -30,7 +34,9 @@
             "regionName": "Nagpur Region",
             "divisionName": "Nagpur Moffusil Division",
             "latitude": 21.1521944,
-            "longitude": 79.0691667
+            "longitude": 79.0691667,
+            "stateName": "MAHARASHTRA",
+            "districtName": "NAGPUR"
         },
         {
             "officeName": "Hiwra Hiwri B.O",
@@ -40,7 +46,9 @@
             "regionName": "Nagpur Region",
             "divisionName": "Nagpur Moffusil Division",
             "latitude": 14.617094,
-            "longitude": 74.844865
+            "longitude": 74.844865,
+            "stateName": "MAHARASHTRA",
+            "districtName": "NAGPUR"
         },
         {
             "officeName": "Besur B.O",
@@ -49,8 +57,10 @@
             "circleName": "Maharashtra Circle",
             "regionName": "Nagpur Region",
             "divisionName": "Nagpur Moffusil Division",
-            "latitude": 59.427426,
-            "longitude": 24.803984
+            "latitude": null,
+            "longitude": null,
+            "stateName": "MAHARASHTRA",
+            "districtName": "NAGPUR"
         },
         {
             "officeName": "Mahalgaon B.O",
@@ -60,7 +70,9 @@
             "regionName": "Nagpur Region",
             "divisionName": "Nagpur Moffusil Division",
             "latitude": 21.141062,
-            "longitude": 79.220443
+            "longitude": 79.220443,
+            "stateName": "MAHARASHTRA",
+            "districtName": "NAGPUR"
         },
         {
             "officeName": "Bhivi",
@@ -70,7 +82,9 @@
             "regionName": "Nagpur Region",
             "divisionName": "Nagpur Moffusil Division",
             "latitude": 20.736961,
-            "longitude": 79.184943
+            "longitude": 79.184943,
+            "stateName": "MAHARASHTRA",
+            "districtName": "NAGPUR"
         }
     ]
 }

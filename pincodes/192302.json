@@ -10,7 +10,9 @@
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
             "latitude": 33.79725,
-            "longitude": 74.8612222
+            "longitude": 74.8612222,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "PULWAMA"
         },
         {
             "officeName": "Ahagam BO",
@@ -19,8 +21,10 @@
             "circleName": "Jammu Kashmir Circle",
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
-            "latitude": 75.158101,
-            "longitude": 75.123591
+            "latitude": null,
+            "longitude": 75.123591,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "PULWAMA"
         },
         {
             "officeName": "Arihal BO",
@@ -30,7 +34,9 @@
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
             "latitude": 32.5,
-            "longitude": 26.5
+            "longitude": null,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "PULWAMA"
         },
         {
             "officeName": "Balpora BO",
@@ -40,7 +46,9 @@
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
             "latitude": 23.5,
-            "longitude": 32.5
+            "longitude": null,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "PULWAMA"
         },
         {
             "officeName": "Sindhshirmal BO",
@@ -50,7 +58,9 @@
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
             "latitude": 32.5,
-            "longitude": 23.6
+            "longitude": null,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "PULWAMA"
         },
         {
             "officeName": "Turkoo Babuar BO",
@@ -60,7 +70,9 @@
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
             "latitude": 12.5,
-            "longitude": 21.5
+            "longitude": null,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "PULWAMA"
         }
     ]
 }

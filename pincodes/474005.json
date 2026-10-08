@@ -10,7 +10,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Gwalior Division",
             "latitude": 26.256627,
-            "longitude": 78.262565
+            "longitude": 78.262565,
+            "stateName": "MADHYA PRADESH",
+            "districtName": "GWALIOR"
         },
         {
             "officeName": "Jamahar B.O",
@@ -20,7 +22,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Gwalior Division",
             "latitude": 26.280136,
-            "longitude": 78.173188
+            "longitude": 78.173188,
+            "stateName": "MADHYA PRADESH",
+            "districtName": "GWALIOR"
         },
         {
             "officeName": "Gwalior Residency S.O",
@@ -30,7 +34,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Gwalior Division",
             "latitude": 26.230832,
-            "longitude": 78.321936
+            "longitude": 78.321936,
+            "stateName": "MADHYA PRADESH",
+            "districtName": "GWALIOR"
         },
         {
             "officeName": "Baraua B.O",
@@ -40,7 +46,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Gwalior Division",
             "latitude": 26.314105,
-            "longitude": 78.1315
+            "longitude": 78.1315,
+            "stateName": "MADHYA PRADESH",
+            "districtName": "GWALIOR"
         },
         {
             "officeName": "Susera B.O",
@@ -50,7 +58,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Gwalior Division",
             "latitude": 26.323945,
-            "longitude": 78.153593
+            "longitude": 78.153593,
+            "stateName": "MADHYA PRADESH",
+            "districtName": "GWALIOR"
         },
         {
             "officeName": "Dharamshala (D.D. Nagar) S.O",
@@ -60,17 +70,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Gwalior Division",
             "latitude": 26.230832,
-            "longitude": 78.321936
-        },
-        {
-            "officeName": "Gwalior Residency Nodal Delivery Center",
-            "officeType": "PO",
-            "deliveryStatus": "Delivery",
-            "circleName": "Madhya Pradesh Circle",
-            "regionName": "DivReportingCircle",
-            "divisionName": "Gwalior Division",
-            "latitude": 26.234382,
-            "longitude": 78.208398
+            "longitude": 78.321936,
+            "stateName": "MADHYA PRADESH",
+            "districtName": "GWALIOR"
         }
     ]
 }

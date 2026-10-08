@@ -10,7 +10,9 @@
             "regionName": "Pune Region",
             "divisionName": "Solapur Division",
             "latitude": 17.662554,
-            "longitude": 75.908528
+            "longitude": 75.908528,
+            "stateName": "MAHARASHTRA",
+            "districtName": "SOLAPUR"
         },
         {
             "officeName": "Medical College S.O (Solapur)",
@@ -19,8 +21,10 @@
             "circleName": "Maharashtra Circle",
             "regionName": "Pune Region",
             "divisionName": "Solapur Division",
-            "latitude": 75.909624,
-            "longitude": 17.665263
+            "latitude": null,
+            "longitude": null,
+            "stateName": "MAHARASHTRA",
+            "districtName": "SOLAPUR"
         },
         {
             "officeName": "Gurunanak Nagar S.O",
@@ -30,7 +34,9 @@
             "regionName": "Pune Region",
             "divisionName": "Solapur Division",
             "latitude": 17.6659167,
-            "longitude": 75.8943333
+            "longitude": 75.8943333,
+            "stateName": "MAHARASHTRA",
+            "districtName": "SOLAPUR"
         }
     ]
 }

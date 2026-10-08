@@ -10,7 +10,9 @@
             "regionName": "Mumbai Region",
             "divisionName": "Mumbai City South Division",
             "latitude": 18.928414,
-            "longitude": 72.826561
+            "longitude": 72.826561,
+            "stateName": "MAHARASHTRA",
+            "districtName": "MUMBAI"
         },
         {
             "officeName": "Secretariate SO",
@@ -20,7 +22,9 @@
             "regionName": "Mumbai Region",
             "divisionName": "Mumbai City South Division",
             "latitude": 18.928493,
-            "longitude": 72.830215
+            "longitude": 72.830215,
+            "stateName": "MAHARASHTRA",
+            "districtName": "MUMBAI"
         },
         {
             "officeName": "High Court Building SO Mumbai",
@@ -29,8 +33,10 @@
             "circleName": "Maharashtra Circle",
             "regionName": "Mumbai Region",
             "divisionName": "Mumbai City South Division",
-            "latitude": 72.8302,
-            "longitude": 18.9311
+            "latitude": null,
+            "longitude": null,
+            "stateName": "MAHARASHTRA",
+            "districtName": "MUMBAI"
         }
     ]
 }

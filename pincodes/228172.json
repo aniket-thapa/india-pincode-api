@@ -10,27 +10,9 @@
             "regionName": "Prayagraj Regional Office",
             "divisionName": "Sultanpur Division",
             "latitude": 26.193,
-            "longitude": 82.638
-        },
-        {
-            "officeName": "Bangawadeeh B.O",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "Uttar Pradesh Circle",
-            "regionName": "Prayagraj Regional Office",
-            "divisionName": "Sultanpur Division",
-            "latitude": null,
-            "longitude": null
-        },
-        {
-            "officeName": "Harpur B.O",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "Uttar Pradesh Circle",
-            "regionName": "Prayagraj Regional Office",
-            "divisionName": "Sultanpur Division",
-            "latitude": 26.961202,
-            "longitude": 84.90629
+            "longitude": 82.638,
+            "stateName": "UTTAR PRADESH",
+            "districtName": "SULTANPUR"
         },
         {
             "officeName": "Belwai SO",
@@ -40,7 +22,9 @@
             "regionName": "Prayagraj Regional Office",
             "divisionName": "Sultanpur Division",
             "latitude": 26.18,
-            "longitude": 82.54
+            "longitude": 82.54,
+            "stateName": "UTTAR PRADESH",
+            "districtName": "SULTANPUR"
         },
         {
             "officeName": "BANGAWAN DEEH BO",
@@ -50,17 +34,9 @@
             "regionName": "Prayagraj Regional Office",
             "divisionName": "Sultanpur Division",
             "latitude": 25.861,
-            "longitude": 82.365
-        },
-        {
-            "officeName": "Bhelara B.O",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "Uttar Pradesh Circle",
-            "regionName": "Prayagraj Regional Office",
-            "divisionName": "Sultanpur Division",
-            "latitude": 26.218239,
-            "longitude": 82.678046
+            "longitude": 82.365,
+            "stateName": "UTTAR PRADESH",
+            "districtName": "SULTANPUR"
         },
         {
             "officeName": "BHELARA BO",
@@ -70,17 +46,9 @@
             "regionName": "Prayagraj Regional Office",
             "divisionName": "Sultanpur Division",
             "latitude": 25.602,
-            "longitude": 82.523
-        },
-        {
-            "officeName": "Rupaipur B.O",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "Uttar Pradesh Circle",
-            "regionName": "Prayagraj Regional Office",
-            "divisionName": "Sultanpur Division",
-            "latitude": 26.191281,
-            "longitude": 82.638891
+            "longitude": 82.523,
+            "stateName": "UTTAR PRADESH",
+            "districtName": "SULTANPUR"
         },
         {
             "officeName": "KALAN BO",
@@ -90,7 +58,9 @@
             "regionName": "Prayagraj Regional Office",
             "divisionName": "Sultanpur Division",
             "latitude": 25.808,
-            "longitude": 82.343
+            "longitude": 82.343,
+            "stateName": "UTTAR PRADESH",
+            "districtName": "SULTANPUR"
         },
         {
             "officeName": "HARPUR BO",
@@ -100,17 +70,9 @@
             "regionName": "Prayagraj Regional Office",
             "divisionName": "Sultanpur Division",
             "latitude": 25.602,
-            "longitude": 82.528
-        },
-        {
-            "officeName": "Kalan B.O",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "Uttar Pradesh Circle",
-            "regionName": "Prayagraj Regional Office",
-            "divisionName": "Sultanpur Division",
-            "latitude": 31.046626,
-            "longitude": 30.85453
+            "longitude": 82.528,
+            "stateName": "UTTAR PRADESH",
+            "districtName": "SULTANPUR"
         }
     ]
 }

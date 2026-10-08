@@ -10,7 +10,9 @@
             "regionName": "Hyderabad Region",
             "divisionName": "Nizamabad Division",
             "latitude": 18.4491407,
-            "longitude": 77.8153681
+            "longitude": 77.8153681,
+            "stateName": "TELANGANA",
+            "districtName": "KAMAREDDY"
         },
         {
             "officeName": "Nasrullabad B.O",
@@ -20,7 +22,9 @@
             "regionName": "Hyderabad Region",
             "divisionName": "Nizamabad Division",
             "latitude": 18.4842409,
-            "longitude": 77.86523
+            "longitude": 77.86523,
+            "stateName": "TELANGANA",
+            "districtName": "KAMAREDDY"
         },
         {
             "officeName": "Thimmapuram B.O",
@@ -30,7 +34,9 @@
             "regionName": "Hyderabad Region",
             "divisionName": "Nizamabad Division",
             "latitude": 18.4646473,
-            "longitude": 77.8019238
+            "longitude": 77.8019238,
+            "stateName": "TELANGANA",
+            "districtName": "KAMAREDDY"
         },
         {
             "officeName": "Paradi B.O",
@@ -39,8 +45,10 @@
             "circleName": "Andhra Pradesh Circle",
             "regionName": "Visakhapatnam Region",
             "divisionName": "Parvathipuram Division",
-            "latitude": 83.3069,
-            "longitude": 18.523
+            "latitude": null,
+            "longitude": null,
+            "stateName": "ANDHRA PRADESH",
+            "districtName": "VIZIANAGARAM"
         },
         {
             "officeName": "DAMARANCHA B.O",
@@ -50,7 +58,9 @@
             "regionName": "Hyderabad Region",
             "divisionName": "Nizamabad Division",
             "latitude": 18.4139975,
-            "longitude": 77.8477018
+            "longitude": 77.8477018,
+            "stateName": "TELANGANA",
+            "districtName": "KAMAREDDY"
         },
         {
             "officeName": "Barangedgi B.O",
@@ -60,7 +70,9 @@
             "regionName": "Hyderabad Region",
             "divisionName": "Nizamabad Division",
             "latitude": 18.4646473,
-            "longitude": 77.8019238
+            "longitude": 77.8019238,
+            "stateName": "TELANGANA",
+            "districtName": "KAMAREDDY"
         },
         {
             "officeName": "Birkur S.O",
@@ -70,7 +82,9 @@
             "regionName": "Hyderabad Region",
             "divisionName": "Nizamabad Division",
             "latitude": 18.460784,
-            "longitude": 77.801953
+            "longitude": 77.801953,
+            "stateName": "TELANGANA",
+            "districtName": "KAMAREDDY"
         }
     ]
 }

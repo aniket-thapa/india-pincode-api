@@ -10,17 +10,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Rampur Bushahr Division",
             "latitude": 31.445754,
-            "longitude": 77.442315
-        },
-        {
-            "officeName": "Ladhagi BO",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "Himachal Pradesh Circle",
-            "regionName": "DivReportingCircle",
-            "divisionName": "Rampur Bushahr Division",
-            "latitude": 31.4437623,
-            "longitude": 77.44422231
+            "longitude": 77.442315,
+            "stateName": "HIMACHAL PRADESH",
+            "districtName": "KULLU"
         },
         {
             "officeName": "Gad BO",
@@ -30,7 +22,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Rampur Bushahr Division",
             "latitude": 31.4581,
-            "longitude": 77.64389
+            "longitude": 77.64389,
+            "stateName": "HIMACHAL PRADESH",
+            "districtName": "KULLU"
         },
         {
             "officeName": "Jaon BO",
@@ -40,7 +34,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Rampur Bushahr Division",
             "latitude": 31.4581,
-            "longitude": 77.64389
+            "longitude": 77.64389,
+            "stateName": "HIMACHAL PRADESH",
+            "districtName": "KULLU"
         }
     ]
 }

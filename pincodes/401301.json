@@ -10,7 +10,9 @@
             "regionName": "Navi Mumbai Region",
             "divisionName": "Palghar Division",
             "latitude": 19.4609167,
-            "longitude": 72.7766667
+            "longitude": 72.7766667,
+            "stateName": "MAHARASHTRA",
+            "districtName": "PALGHAR"
         },
         {
             "officeName": "Chikhal Dongre B.O",
@@ -20,7 +22,9 @@
             "regionName": "Navi Mumbai Region",
             "divisionName": "Palghar Division",
             "latitude": 19.8971797,
-            "longitude": 72.2660064
+            "longitude": 72.2660064,
+            "stateName": "MAHARASHTRA",
+            "districtName": "PALGHAR"
         },
         {
             "officeName": "Kophrad B.O",
@@ -29,8 +33,10 @@
             "circleName": "Maharashtra Circle",
             "regionName": "Navi Mumbai Region",
             "divisionName": "Palghar Division",
-            "latitude": 40.9591597,
-            "longitude": 74.454345
+            "latitude": null,
+            "longitude": 74.454345,
+            "stateName": "MAHARASHTRA",
+            "districtName": "PALGHAR"
         },
         {
             "officeName": "Vatar B.O",
@@ -39,8 +45,10 @@
             "circleName": "Maharashtra Circle",
             "regionName": "Navi Mumbai Region",
             "divisionName": "Palghar Division",
-            "latitude": 41.1734856,
-            "longitude": 74.621887
+            "latitude": null,
+            "longitude": 74.621887,
+            "stateName": "MAHARASHTRA",
+            "districtName": "PALGHAR"
         }
     ]
 }

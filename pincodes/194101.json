@@ -10,7 +10,9 @@
             "regionName": "Srinagar HQ Region",
             "divisionName": "Leh Division",
             "latitude": 33.6029517,
-            "longitude": 78.6561795
+            "longitude": 78.6561795,
+            "stateName": "LADAKH",
+            "districtName": "LEH LADAKH"
         },
         {
             "officeName": "Spituk B.O",
@@ -20,7 +22,9 @@
             "regionName": "Srinagar HQ Region",
             "divisionName": "Leh Division",
             "latitude": 34.1152816,
-            "longitude": 77.55481
+            "longitude": 77.55481,
+            "stateName": "LADAKH",
+            "districtName": "LEH LADAKH"
         },
         {
             "officeName": "Leh City S.O",
@@ -30,7 +34,9 @@
             "regionName": "Srinagar HQ Region",
             "divisionName": "Leh Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "LADAKH",
+            "districtName": "LEH LADAKH"
         },
         {
             "officeName": "Durbuk B.O",
@@ -39,8 +45,10 @@
             "circleName": "Jammu Kashmir Circle",
             "regionName": "Srinagar HQ Region",
             "divisionName": "Leh Division",
-            "latitude": 78.228,
-            "longitude": 34.02
+            "latitude": null,
+            "longitude": null,
+            "stateName": "LADAKH",
+            "districtName": "LEH LADAKH"
         },
         {
             "officeName": "Faing B.O",
@@ -50,7 +58,9 @@
             "regionName": "Srinagar HQ Region",
             "divisionName": "Leh Division",
             "latitude": 34.1839116,
-            "longitude": 77.490315
+            "longitude": 77.490315,
+            "stateName": "LADAKH",
+            "districtName": "LEH LADAKH"
         },
         {
             "officeName": "Horzey B.O",
@@ -60,7 +70,9 @@
             "regionName": "Srinagar HQ Region",
             "divisionName": "Leh Division",
             "latitude": 34.2051016,
-            "longitude": 77.0699921
+            "longitude": 77.0699921,
+            "stateName": "LADAKH",
+            "districtName": "LEH LADAKH"
         },
         {
             "officeName": "Leh H.O",
@@ -70,7 +82,9 @@
             "regionName": "Srinagar HQ Region",
             "divisionName": "Leh Division",
             "latitude": 34.152838,
-            "longitude": 77.577038
+            "longitude": 77.577038,
+            "stateName": "LADAKH",
+            "districtName": "LEH LADAKH"
         }
     ]
 }

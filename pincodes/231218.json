@@ -10,7 +10,9 @@
             "regionName": "Prayagraj Regional Office",
             "divisionName": "Mirzapur Division",
             "latitude": 24.1059,
-            "longitude": 82.5508
+            "longitude": 82.5508,
+            "stateName": "UTTAR PRADESH",
+            "districtName": "SONBHADRA"
         },
         {
             "officeName": "Khajura BO",
@@ -20,7 +22,9 @@
             "regionName": "Prayagraj Regional Office",
             "divisionName": "Mirzapur Division",
             "latitude": 24.182517,
-            "longitude": 82.794866
+            "longitude": 82.794866,
+            "stateName": "UTTAR PRADESH",
+            "districtName": "SONBHADRA"
         },
         {
             "officeName": "Pati B.O",
@@ -29,8 +33,10 @@
             "circleName": "Uttar Pradesh Circle",
             "regionName": "Prayagraj Regional Office",
             "divisionName": "Mirzapur Division",
-            "latitude": 82.285547,
-            "longitude": 82.959538
+            "latitude": null,
+            "longitude": 82.959538,
+            "stateName": "UTTAR PRADESH",
+            "districtName": "SONBHADRA"
         }
     ]
 }

@@ -9,8 +9,10 @@
             "circleName": "Haryana Circle",
             "regionName": "DivReportingCircle",
             "divisionName": "Karnal Division",
-            "latitude": 100,
-            "longitude": 100
+            "latitude": null,
+            "longitude": null,
+            "stateName": "HARYANA",
+            "districtName": "KARNAL"
         },
         {
             "officeName": "Ballah S.O",
@@ -20,7 +22,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Karnal Division",
             "latitude": 29.5053611,
-            "longitude": 76.7852222
+            "longitude": 76.7852222,
+            "stateName": "HARYANA",
+            "districtName": "KARNAL"
         },
         {
             "officeName": "MUNAK",
@@ -30,7 +34,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Karnal Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "HARYANA",
+            "districtName": "KARNAL"
         },
         {
             "officeName": "Bal Rangan B.O",
@@ -39,8 +45,10 @@
             "circleName": "Haryana Circle",
             "regionName": "DivReportingCircle",
             "divisionName": "Karnal Division",
-            "latitude": 100,
-            "longitude": 100
+            "latitude": null,
+            "longitude": null,
+            "stateName": "HARYANA",
+            "districtName": "KARNAL"
         }
     ]
 }

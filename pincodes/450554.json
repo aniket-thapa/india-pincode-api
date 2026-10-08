@@ -9,8 +9,10 @@
             "circleName": "Madhya Pradesh Circle",
             "regionName": "Indore Region",
             "divisionName": "Khandwa Division",
-            "latitude": 76.0478,
-            "longitude": 22.2125
+            "latitude": null,
+            "longitude": null,
+            "stateName": "MADHYA PRADESH",
+            "districtName": "EAST NIMAR"
         },
         {
             "officeName": "Thapna B.O",
@@ -20,7 +22,9 @@
             "regionName": "Indore Region",
             "divisionName": "Khandwa Division",
             "latitude": 24.322,
-            "longitude": 77.2577
+            "longitude": 77.2577,
+            "stateName": "MADHYA PRADESH",
+            "districtName": "EAST NIMAR"
         },
         {
             "officeName": "Bhagawa B.O",
@@ -30,7 +34,9 @@
             "regionName": "Indore Region",
             "divisionName": "Khandwa Division",
             "latitude": 21.8621,
-            "longitude": 76.6607
+            "longitude": 76.6607,
+            "stateName": "MADHYA PRADESH",
+            "districtName": "EAST NIMAR"
         },
         {
             "officeName": "Mandhata Omkareshwar S.O",
@@ -40,7 +46,9 @@
             "regionName": "Indore Region",
             "divisionName": "Khandwa Division",
             "latitude": 21.83,
-            "longitude": 76.33
+            "longitude": 76.33,
+            "stateName": "MADHYA PRADESH",
+            "districtName": "EAST NIMAR"
         }
     ]
 }

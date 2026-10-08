@@ -9,8 +9,10 @@
             "circleName": "Jammu Kashmir Circle",
             "regionName": "JAMMU RN",
             "divisionName": "Udhampur Division",
-            "latitude": 1,
-            "longitude": 1
+            "latitude": null,
+            "longitude": null,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "REASI"
         },
         {
             "officeName": "Jyotipuram SO",
@@ -20,7 +22,9 @@
             "regionName": "JAMMU RN",
             "divisionName": "Udhampur Division",
             "latitude": 33.10625,
-            "longitude": 74.8941389
+            "longitude": 74.8941389,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "REASI"
         }
     ]
 }

@@ -10,7 +10,9 @@
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
             "latitude": 15.45,
-            "longitude": 73.8
+            "longitude": 73.8,
+            "stateName": "GOA",
+            "districtName": "NORTH GOA"
         },
         {
             "officeName": "Nio Dona Paula S.O",
@@ -20,17 +22,9 @@
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
             "latitude": 15.489703,
-            "longitude": 73.805987
-        },
-        {
-            "officeName": "Bharati Indian Antartic Station",
-            "officeType": "BO",
-            "deliveryStatus": "Non Delivery",
-            "circleName": "Maharashtra Circle",
-            "regionName": "Goa-Panaji Region",
-            "divisionName": "Goa Division",
-            "latitude": null,
-            "longitude": null
+            "longitude": 73.805987,
+            "stateName": "GOA",
+            "districtName": "NORTH GOA"
         }
     ]
 }

@@ -10,7 +10,9 @@
             "regionName": "Pune Region",
             "divisionName": "Pune City East Division",
             "latitude": 18.54363889,
-            "longitude": 73.92511111
+            "longitude": 73.92511111,
+            "stateName": "MAHARASHTRA",
+            "districtName": "PUNE"
         },
         {
             "officeName": "9 DRD B.O",
@@ -20,7 +22,9 @@
             "regionName": "Pune Region",
             "divisionName": "Pune City East Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "MAHARASHTRA",
+            "districtName": "PUNE"
         },
         {
             "officeName": "Dunkirk lines S.O",
@@ -30,7 +34,9 @@
             "regionName": "Pune Region",
             "divisionName": "Pune City East Division",
             "latitude": 18.567373,
-            "longitude": 73.926513
+            "longitude": 73.926513,
+            "stateName": "MAHARASHTRA",
+            "districtName": "PUNE"
         },
         {
             "officeName": "Viman nagar S.O",
@@ -40,7 +46,9 @@
             "regionName": "Pune Region",
             "divisionName": "Pune City East Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "MAHARASHTRA",
+            "districtName": "PUNE"
         }
     ]
 }

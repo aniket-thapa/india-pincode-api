@@ -9,8 +9,10 @@
             "circleName": "Maharashtra Circle",
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
-            "latitude": 72.46,
-            "longitude": 14.68
+            "latitude": null,
+            "longitude": null,
+            "stateName": "GOA",
+            "districtName": "SOUTH GOA"
         },
         {
             "officeName": "Curtorim S.O",
@@ -20,7 +22,9 @@
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
             "latitude": 15.2905965,
-            "longitude": 74.023293
+            "longitude": 74.023293,
+            "stateName": "GOA",
+            "districtName": "SOUTH GOA"
         },
         {
             "officeName": "St. Jose De Areal S.O",
@@ -30,7 +34,9 @@
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
             "latitude": 15.2546667,
-            "longitude": 74.0138056
+            "longitude": 74.0138056,
+            "stateName": "GOA",
+            "districtName": "SOUTH GOA"
         }
     ]
 }

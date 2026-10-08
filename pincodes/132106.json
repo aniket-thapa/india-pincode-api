@@ -10,7 +10,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Karnal Division",
             "latitude": 36.87,
-            "longitude": 25.85
+            "longitude": null,
+            "stateName": "HARYANA",
+            "districtName": "PANIPAT"
         },
         {
             "officeName": "Bursham B.O",
@@ -20,7 +22,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Karnal Division",
             "latitude": 36.39,
-            "longitude": 32.36
+            "longitude": null,
+            "stateName": "HARYANA",
+            "districtName": "PANIPAT"
         },
         {
             "officeName": "Panipat NFL S.O",
@@ -30,7 +34,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Karnal Division",
             "latitude": 29.36213889,
-            "longitude": 76.97230556
+            "longitude": 76.97230556,
+            "stateName": "HARYANA",
+            "districtName": "PANIPAT"
         }
     ]
 }

@@ -10,17 +10,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Chandigarh Division",
             "latitude": 30.7602777,
-            "longitude": 76.8024722
-        },
-        {
-            "officeName": "Khuda Ali Sher",
-            "officeType": "BO",
-            "deliveryStatus": "Non Delivery",
-            "circleName": "Punjab Circle",
-            "regionName": "DivReportingCircle",
-            "divisionName": "Chandigarh Division",
-            "latitude": 30.74,
-            "longitude": 76.78
+            "longitude": 76.8024722,
+            "stateName": "CHANDIGARH",
+            "districtName": "CHANDIGARH"
         },
         {
             "officeName": "High Court SO Chandigarh",
@@ -30,7 +22,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Chandigarh Division",
             "latitude": 30.7573,
-            "longitude": 76.8066
+            "longitude": 76.8066,
+            "stateName": "CHANDIGARH",
+            "districtName": "CHANDIGARH"
         },
         {
             "officeName": "Kaimbwala B.O",
@@ -40,7 +34,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Chandigarh Division",
             "latitude": 25.7,
-            "longitude": 94.1
+            "longitude": 94.1,
+            "stateName": "CHANDIGARH",
+            "districtName": "CHANDIGARH"
         },
         {
             "officeName": "New Sectt Chandigarh SO",
@@ -50,7 +46,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Chandigarh Division",
             "latitude": 30.7333,
-            "longitude": 76.7794
+            "longitude": 76.7794,
+            "stateName": "CHANDIGARH",
+            "districtName": "CHANDIGARH"
         }
     ]
 }

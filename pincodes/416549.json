@@ -1,17 +1,7 @@
 {
-    "state": "NA",
-    "district": "NA",
+    "state": "MAHARASHTRA",
+    "district": "SINDHUDURG",
     "offices": [
-        {
-            "officeName": "Konal Katta Colony BO",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "Maharashtra Circle",
-            "regionName": "Goa-Panaji Region",
-            "divisionName": "SINDHUDURG DIVISION",
-            "latitude": 15.75805556,
-            "longitude": 74.06733333
-        },
         {
             "officeName": "Sateli Tarf Bhedshi SO",
             "officeType": "PO",
@@ -20,7 +10,9 @@
             "regionName": "Goa-Panaji Region",
             "divisionName": "SINDHUDURG DIVISION",
             "latitude": 15.7303456,
-            "longitude": 74.0241125
+            "longitude": 74.0241125,
+            "stateName": "MAHARASHTRA",
+            "districtName": "SINDHUDURG"
         },
         {
             "officeName": "Ghotagewadi B.O",
@@ -30,7 +22,9 @@
             "regionName": "Goa-Panaji Region",
             "divisionName": "SINDHUDURG DIVISION",
             "latitude": 15.7570462,
-            "longitude": 74.0459741
+            "longitude": 74.0459741,
+            "stateName": "MAHARASHTRA",
+            "districtName": "SINDHUDURG"
         },
         {
             "officeName": "Konal B.O",
@@ -40,7 +34,9 @@
             "regionName": "Goa-Panaji Region",
             "divisionName": "SINDHUDURG DIVISION",
             "latitude": 15.7522243,
-            "longitude": 74.0618703
+            "longitude": 74.0618703,
+            "stateName": "MAHARASHTRA",
+            "districtName": "SINDHUDURG"
         },
         {
             "officeName": "Ker B.O",
@@ -50,7 +46,9 @@
             "regionName": "Goa-Panaji Region",
             "divisionName": "SINDHUDURG DIVISION",
             "latitude": 15.7791493,
-            "longitude": 74.0092304
+            "longitude": 74.0092304,
+            "stateName": "MAHARASHTRA",
+            "districtName": "SINDHUDURG"
         },
         {
             "officeName": "Tervan Medhe B.O",
@@ -60,7 +58,9 @@
             "regionName": "Goa-Panaji Region",
             "divisionName": "SINDHUDURG DIVISION",
             "latitude": 15.8162898,
-            "longitude": 74.0689251
+            "longitude": 74.0689251,
+            "stateName": "MAHARASHTRA",
+            "districtName": "SINDHUDURG"
         }
     ]
 }

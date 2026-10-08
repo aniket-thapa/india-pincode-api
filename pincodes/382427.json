@@ -10,7 +10,9 @@
             "regionName": "Ahmedabad HQ Region",
             "divisionName": "Ahmedabad City Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "GUJARAT",
+            "districtName": "AHMADABAD"
         },
         {
             "officeName": "Aslali SO",
@@ -20,7 +22,9 @@
             "regionName": "Ahmedabad HQ Region",
             "divisionName": "Ahmedabad City Division",
             "latitude": 22.915218,
-            "longitude": 72.59306
+            "longitude": 72.59306,
+            "stateName": "GUJARAT",
+            "districtName": "AHMADABAD"
         },
         {
             "officeName": "Jetalpur BO",
@@ -30,7 +34,9 @@
             "regionName": "Ahmedabad HQ Region",
             "divisionName": "Ahmedabad City Division",
             "latitude": 22.890486,
-            "longitude": 72.597387
+            "longitude": 72.597387,
+            "stateName": "GUJARAT",
+            "districtName": "AHMADABAD"
         }
     ]
 }

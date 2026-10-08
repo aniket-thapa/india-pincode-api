@@ -10,7 +10,9 @@
             "regionName": "Lucknow  HQ Region",
             "divisionName": "Faizabad Division",
             "latitude": 26.642122,
-            "longitude": 82.121032
+            "longitude": 82.121032,
+            "stateName": "UTTAR PRADESH",
+            "districtName": "AYODHYA"
         },
         {
             "officeName": "Raithua BO",
@@ -20,7 +22,9 @@
             "regionName": "Lucknow  HQ Region",
             "divisionName": "Faizabad Division",
             "latitude": 26.700509,
-            "longitude": 82.171013
+            "longitude": 82.171013,
+            "stateName": "UTTAR PRADESH",
+            "districtName": "AYODHYA"
         },
         {
             "officeName": "Naipura BO",
@@ -29,8 +33,10 @@
             "circleName": "Uttar Pradesh Circle",
             "regionName": "Lucknow  HQ Region",
             "divisionName": "Faizabad Division",
-            "latitude": 82.171013,
-            "longitude": 80.9742038
+            "latitude": null,
+            "longitude": 80.9742038,
+            "stateName": "UTTAR PRADESH",
+            "districtName": "AYODHYA"
         },
         {
             "officeName": "Kailkeshopur BO",
@@ -40,7 +46,9 @@
             "regionName": "Lucknow  HQ Region",
             "divisionName": "Faizabad Division",
             "latitude": 26.700509,
-            "longitude": 82.171013
+            "longitude": 82.171013,
+            "stateName": "UTTAR PRADESH",
+            "districtName": "AYODHYA"
         }
     ]
 }

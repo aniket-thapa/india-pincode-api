@@ -10,7 +10,9 @@
             "regionName": "Hyderabad City Region",
             "divisionName": "Hyderabad South East Division",
             "latitude": 17.30505,
-            "longitude": 78.525178
+            "longitude": 78.525178,
+            "stateName": "TELANGANA",
+            "districtName": "HYDERABAD"
         },
         {
             "officeName": "Almasguda B.O",
@@ -20,7 +22,9 @@
             "regionName": "Hyderabad City Region",
             "divisionName": "Hyderabad South East Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "TELANGANA",
+            "districtName": "RANGA REDDY"
         }
     ]
 }

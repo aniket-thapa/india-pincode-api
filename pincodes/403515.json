@@ -9,8 +9,10 @@
             "circleName": "Maharashtra Circle",
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
-            "latitude": 73.79,
-            "longitude": 15.52
+            "latitude": null,
+            "longitude": null,
+            "stateName": "GOA",
+            "districtName": "NORTH GOA"
         },
         {
             "officeName": "Candolim S.O",
@@ -20,7 +22,9 @@
             "regionName": "Goa-Panaji Region",
             "divisionName": "Goa Division",
             "latitude": 15.5187024,
-            "longitude": 73.7678728
+            "longitude": 73.7678728,
+            "stateName": "GOA",
+            "districtName": "NORTH GOA"
         }
     ]
 }

@@ -10,7 +10,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Chandigarh Division",
             "latitude": 30.6431388,
-            "longitude": 75.7233055
+            "longitude": 75.7233055,
+            "stateName": "PUNJAB",
+            "districtName": "S.A.S NAGAR"
         },
         {
             "officeName": "Dharamgarh BO",
@@ -20,7 +22,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Chandigarh Division",
             "latitude": 30.692051,
-            "longitude": 76.69841
+            "longitude": 76.69841,
+            "stateName": "PUNJAB",
+            "districtName": "S.A.S NAGAR"
         },
         {
             "officeName": "Aerocity S.O",
@@ -30,17 +34,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Chandigarh Division",
             "latitude": 30.65,
-            "longitude": 76.73
-        },
-        {
-            "officeName": "Kurari",
-            "officeType": "BO",
-            "deliveryStatus": "Non Delivery",
-            "circleName": "Punjab Circle",
-            "regionName": "DivReportingCircle",
-            "divisionName": "Chandigarh Division",
-            "latitude": 30.692051,
-            "longitude": 76.69841
+            "longitude": 76.73,
+            "stateName": "PUNJAB",
+            "districtName": "S.A.S NAGAR"
         },
         {
             "officeName": "Dhurali BO",
@@ -50,7 +46,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Chandigarh Division",
             "latitude": 30.692051,
-            "longitude": 76.69841
+            "longitude": 76.69841,
+            "stateName": "PUNJAB",
+            "districtName": "S.A.S NAGAR"
         },
         {
             "officeName": "Mote Majra BO",
@@ -60,7 +58,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Chandigarh Division",
             "latitude": 30.692051,
-            "longitude": 76.69841
+            "longitude": 76.69841,
+            "stateName": "PUNJAB",
+            "districtName": "S.A.S NAGAR"
         },
         {
             "officeName": "Raipur Kalan BO",
@@ -70,7 +70,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Chandigarh Division",
             "latitude": 30.9666111,
-            "longitude": 76.69841
+            "longitude": 76.69841,
+            "stateName": "PUNJAB",
+            "districtName": "S.A.S NAGAR"
         }
     ]
 }

@@ -10,7 +10,9 @@
             "regionName": "Ajmer Region",
             "divisionName": "Chittorgarh Division",
             "latitude": 25.11659,
-            "longitude": 74.5915
+            "longitude": 74.5915,
+            "stateName": "RAJASTHAN",
+            "districtName": "CHITTORGARH"
         },
         {
             "officeName": "Sadi B.O",
@@ -20,7 +22,9 @@
             "regionName": "Ajmer Region",
             "divisionName": "Chittorgarh Division",
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "stateName": "RAJASTHAN",
+            "districtName": "CHITTORGARH"
         }
     ]
 }

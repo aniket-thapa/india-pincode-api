@@ -9,8 +9,10 @@
             "circleName": "Gujarat Circle",
             "regionName": "Vadodara Region",
             "divisionName": "Kheda Division",
-            "latitude": 38.751001,
-            "longitude": 72.664
+            "latitude": null,
+            "longitude": 72.664,
+            "stateName": "GUJARAT",
+            "districtName": "KHEDA"
         },
         {
             "officeName": "Malavada BO",
@@ -20,7 +22,9 @@
             "regionName": "Vadodara Region",
             "divisionName": "Kheda Division",
             "latitude": 15.5934,
-            "longitude": 72.664
+            "longitude": 72.664,
+            "stateName": "GUJARAT",
+            "districtName": "KHEDA"
         },
         {
             "officeName": "Limbasi SO",
@@ -30,7 +34,9 @@
             "regionName": "Vadodara Region",
             "divisionName": "Kheda Division",
             "latitude": 22.611441,
-            "longitude": 72.591187
+            "longitude": 72.591187,
+            "stateName": "GUJARAT",
+            "districtName": "KHEDA"
         }
     ]
 }

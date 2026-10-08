@@ -1,17 +1,7 @@
 {
-    "state": "NA",
-    "district": "NA",
+    "state": "CHHATTISGARH",
+    "district": "BALODA BAZAR",
     "offices": [
-        {
-            "officeName": "OTGAN BO",
-            "officeType": "BO",
-            "deliveryStatus": "Delivery",
-            "circleName": "Chattisgarh Circle",
-            "regionName": "NA",
-            "divisionName": "Raipur Division",
-            "latitude": 21.6265,
-            "longitude": 81.7056
-        },
         {
             "officeName": "Tulsi BO",
             "officeType": "BO",
@@ -20,7 +10,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Raipur Division",
             "latitude": 21.23784,
-            "longitude": 81.70542
+            "longitude": 81.70542,
+            "stateName": "CHHATTISGARH",
+            "districtName": "BALODA BAZAR"
         },
         {
             "officeName": "Chakraway B.O",
@@ -30,7 +22,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Raipur Division",
             "latitude": 21.71793,
-            "longitude": 81.722631
+            "longitude": 81.722631,
+            "stateName": "CHHATTISGARH",
+            "districtName": "BALODA BAZAR"
         },
         {
             "officeName": "Bishrampur BO",
@@ -40,7 +34,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Raipur Division",
             "latitude": 21.23784,
-            "longitude": 81.70542
+            "longitude": 81.70542,
+            "stateName": "CHHATTISGARH",
+            "districtName": "BALODA BAZAR"
         },
         {
             "officeName": "Bansankra BO",
@@ -50,7 +46,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Raipur Division",
             "latitude": 21.23784,
-            "longitude": 81.70542
+            "longitude": 81.70542,
+            "stateName": "CHHATTISGARH",
+            "districtName": "BALODA BAZAR"
         },
         {
             "officeName": "Damakheda BO",
@@ -60,7 +58,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Raipur Division",
             "latitude": 21.23784,
-            "longitude": 81.70542
+            "longitude": 81.70542,
+            "stateName": "CHHATTISGARH",
+            "districtName": "BALODA BAZAR"
         },
         {
             "officeName": "Chaurenga BO",
@@ -70,7 +70,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Raipur Division",
             "latitude": 21.23784,
-            "longitude": 81.70542
+            "longitude": 81.70542,
+            "stateName": "CHHATTISGARH",
+            "districtName": "BALODA BAZAR"
         },
         {
             "officeName": "Kamta BO",
@@ -80,7 +82,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Raipur Division",
             "latitude": 21.23784,
-            "longitude": 81.70542
+            "longitude": 81.70542,
+            "stateName": "CHHATTISGARH",
+            "districtName": "BALODA BAZAR"
         },
         {
             "officeName": "Karhul BO",
@@ -90,7 +94,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Raipur Division",
             "latitude": 21.23784,
-            "longitude": 81.70542
+            "longitude": 81.70542,
+            "stateName": "CHHATTISGARH",
+            "districtName": "BALODA BAZAR"
         },
         {
             "officeName": "Simga SO",
@@ -100,7 +106,9 @@
             "regionName": "DivReportingCircle",
             "divisionName": "Raipur Division",
             "latitude": 21.62796,
-            "longitude": 81.70273
+            "longitude": 81.70273,
+            "stateName": "CHHATTISGARH",
+            "districtName": "BALODA BAZAR"
         }
     ]
 }

@@ -10,7 +10,9 @@
             "regionName": "Gorakhpur Region",
             "divisionName": "Gorakhpur Division",
             "latitude": 26.7875,
-            "longitude": 83.38
+            "longitude": 83.38,
+            "stateName": "UTTAR PRADESH",
+            "districtName": "GORAKHPUR"
         },
         {
             "officeName": "Ashok Nagar SO Gorakhpur",
@@ -19,8 +21,10 @@
             "circleName": "Uttar Pradesh Circle",
             "regionName": "Gorakhpur Region",
             "divisionName": "Gorakhpur Division",
-            "latitude": 39.72563,
-            "longitude": 72.006893
+            "latitude": null,
+            "longitude": 72.006893,
+            "stateName": "UTTAR PRADESH",
+            "districtName": "GORAKHPUR"
         }
     ]
 }

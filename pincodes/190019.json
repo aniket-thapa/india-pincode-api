@@ -9,8 +9,10 @@
             "circleName": "Jammu Kashmir Circle",
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
-            "latitude": 113.3,
-            "longitude": 96.33
+            "latitude": null,
+            "longitude": 96.33,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "BUDGAM"
         },
         {
             "officeName": "Bagh Mehtab SO",
@@ -20,7 +22,9 @@
             "regionName": "Srinagar HQ Region",
             "divisionName": "Srinagar Division",
             "latitude": 34.0165,
-            "longitude": 74.8125278
+            "longitude": 74.8125278,
+            "stateName": "JAMMU AND KASHMIR",
+            "districtName": "SRINAGAR"
         }
     ]
 }
