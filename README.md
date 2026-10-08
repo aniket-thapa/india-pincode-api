@@ -249,6 +249,7 @@ GET /pincodes/504273.json
 | `HO` | Head Office   | Primary post office of a region; handles sorting and dispatch |
 | `SO` | Sub Office    | Reports to a Head Office; serves a local area                 |
 | `BO` | Branch Office | Reports to a Sub Office; usually a small rural outlet         |
+| `PO` | Post Office   | General Post Office / delivery office                         |
 
 ---
 
@@ -266,7 +267,7 @@ State and district names are converted to lowercase, hyphen-separated slugs for 
 | Original Name            | Slug                     |
 | ------------------------ | ------------------------ |
 | `UTTAR PRADESH`          | `uttar-pradesh`          |
-| `JAMMU & KASHMIR`        | `jammu-kashmir`          |
+| `JAMMU AND KASHMIR`      | `jammu-and-kashmir`      |
 | `KUMURAM BHEEM ASIFABAD` | `kumuram-bheem-asifabad` |
 | `RAJANNA SIRCILLA`       | `rajanna-sircilla`       |
 | `DELHI`                  | `delhi`                  |

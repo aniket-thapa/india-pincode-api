@@ -3,11 +3,18 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📮</text></svg>"
+    />
     <title>
       India Pincode API — Free, Fast, Open-Source REST API for Indian Postal
       Data
     </title>
-    <meta name="google-site-verification" content="Jw7oLNIDuHv6m5qa4Kf165O8hwMwdY7PeK6Tv_1G1d8" />
+    <meta
+      name="google-site-verification"
+      content="Jw7oLNIDuHv6m5qa4Kf165O8hwMwdY7PeK6Tv_1G1d8"
+    />
     <meta
       name="description"
       content="A free, open-source REST API with every pin code in India. No API keys, no rate limits, no server. Built on static JSON hosted on GitHub Pages."
@@ -25,8 +32,20 @@
       property="og:description"
       content="A free, open-source REST API with every pin code in India. No API keys. No rate limits."
     />
+    <meta
+      property="og:url"
+      content="https://aniket-thapa.github.io/india-pincode-api"
+    />
+    <meta
+      property="og:image"
+      content="https://aniket-thapa.github.io/india-pincode-api/og-image.png"
+    />
     <meta property="og:type" content="website" />
     <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:image"
+      content="https://aniket-thapa.github.io/india-pincode-api/og-image.png"
+    />
     <meta name="twitter:title" content="India Pincode API" />
     <meta
       name="twitter:description"
@@ -1071,6 +1090,13 @@
       .footer-left a:hover {
         color: var(--text);
       }
+      .visitor-stats {
+        font-size: 0.82rem;
+        color: var(--text-faint);
+        display: flex;
+        align-items: center;
+        gap: 6px;
+      }
       .footer-badge {
         display: inline-flex;
         align-items: center;
@@ -1782,7 +1808,7 @@ mapped = [o <span class="line-keyword">for</span> o <span class="line-keyword">i
               <td><span class="field-type">string</span></td>
               <td class="field-desc">
                 <code>HO</code> (Head Office) · <code>SO</code> (Sub Office) ·
-                <code>BO</code> (Branch Office)
+                <code>BO</code> (Branch Office) · <code>PO</code> (Post Office)
               </td>
             </tr>
             <tr>
@@ -2253,12 +2279,12 @@ data = <span class="line-func">bulk_lookup</span>([<span class="line-string">"11
         >
       </div>
       <div class="visitor-stats">
-  <span>Page Views: </span>
-  <span id="visit-count" aria-live="polite">
-    <!-- Placeholder while loading to prevent layout shift -->
-    <span class="loading-state">...</span>
-  </span>
-</div>
+        <span>Page Views: </span>
+        <span id="visit-count" aria-live="polite">
+          <!-- Placeholder while loading to prevent layout shift -->
+          <span class="loading-state">...</span>
+        </span>
+      </div>
       <div class="footer-badge"><span>📮</span> India Pincode API</div>
     </footer>
 
@@ -2297,6 +2323,7 @@ data = <span class="line-func">bulk_lookup</span>([<span class="line-string">"11
 
       /* ── CODE TABS ── */
       document.querySelectorAll('.code-tabs').forEach((tabBar) => {
+        if (tabBar.id === 'qsTabs') return;
         tabBar.querySelectorAll('.code-tab').forEach((tab) => {
           tab.addEventListener('click', () => {
             tabBar
@@ -2336,7 +2363,10 @@ data = <span class="line-func">bulk_lookup</span>([<span class="line-string">"11
       /* ── COPY CODE ── */
       function copyCode(btn) {
         const pre = btn.closest('pre');
-        const text = pre.innerText.replace(/^copy\n/, '');
+        const code = pre.querySelector('code');
+        const text = code
+          ? code.innerText
+          : pre.innerText.replace(/^copy\n/, '');
         navigator.clipboard.writeText(text);
         btn.textContent = 'copied!';
         btn.classList.add('copied');
@@ -2380,7 +2410,12 @@ data = <span class="line-func">bulk_lookup</span>([<span class="line-string">"11
           const display = truncateForDisplay(data);
           playOutput.innerHTML = `<div class="output-json">${syntaxHighlight(JSON.stringify(display, null, 2))}</div>`;
         } catch (e) {
-          playOutput.innerHTML = `<div class="output-placeholder" style="color:var(--accent)">Error: ${e.message}</div>`;
+          playOutput.innerHTML = '';
+          const errDiv = document.createElement('div');
+          errDiv.className = 'output-placeholder';
+          errDiv.style.color = 'var(--accent)';
+          errDiv.textContent = `Error: ${e.message}`;
+          playOutput.appendChild(errDiv);
         }
         runBtn.disabled = false;
         runBtn.textContent = 'Run →';
@@ -2476,59 +2511,63 @@ data = <span class="line-func">bulk_lookup</span>([<span class="line-string">"11
       );
     </script>
     <!-- Load the library with 'defer' so it doesn't block HTML parsing -->
-<script src="https://cdn.jsdelivr.net/npm/counterapi/dist/counter.browser.min.js" defer></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/counterapi/dist/counter.browser.min.js"
+      integrity="sha384-HBUQyk5q5qw1HRncTJ+YhLoAG5fO1eF+eldNdLaQm6Ra7w7DdyVTRVkTbeIfQtMN"
+      crossorigin="anonymous"
+      defer
+    ></script>
 
-<script defer>
-document.addEventListener("DOMContentLoaded", async () => {
-    const counterEl = document.getElementById("visit-count");
-    if (!counterEl) return;
+    <script defer>
+      document.addEventListener('DOMContentLoaded', async () => {
+        const counterEl = document.getElementById('visit-count');
+        if (!counterEl) return;
 
-    // EDGE CASE 1: Ad-blockers or network failures blocking the CDN script.
-    // If the library fails to load, gracefully degrade the UI.
-    if (typeof Counter === 'undefined') {
-        console.warn("CounterAPI library blocked or failed to load.");
-        counterEl.textContent = "--";
-        return;
-    }
+        // EDGE CASE 1: Ad-blockers or network failures blocking the CDN script.
+        // If the library fails to load, gracefully degrade the UI.
+        if (typeof Counter === 'undefined') {
+          console.warn('CounterAPI library blocked or failed to load.');
+          counterEl.textContent = '--';
+          return;
+        }
 
-    try {
-        // Initialize the Client
-        // Replace 'your-github-username' with a unique string to avoid namespace collisions.
-        const counterClient = new Counter({ 
-            workspace: 'aniket-thapa-india-pincode-api' 
-        });
-        
-        const counterName = 'india-pincode-api-homepage-visits';
-        const sessionKey = `visited_${counterName}`;
-        let result;
+        try {
+          // Initialize the Client
+          // Replace 'your-github-username' with a unique string to avoid namespace collisions.
+          const counterClient = new Counter({
+            workspace: 'aniket-thapa-india-pincode-api',
+          });
 
-        // EDGE CASE 2: Prevent F5 / Refresh Spam
-        // sessionStorage (which clears when the tab closes) ensures 
-        // a user only increments the counter once per active browsing session.
-        if (!sessionStorage.getItem(sessionKey)) {
+          const counterName = 'india-pincode-api-homepage-visits';
+          const sessionKey = `visited_${counterName}`;
+          let result;
+
+          // EDGE CASE 2: Prevent F5 / Refresh Spam
+          // sessionStorage (which clears when the tab closes) ensures
+          // a user only increments the counter once per active browsing session.
+          if (!sessionStorage.getItem(sessionKey)) {
             // First time visiting in this session -> Increment the database
             result = await counterClient.up(counterName);
             sessionStorage.setItem(sessionKey, 'true');
-        } else {
+          } else {
             // Refreshing the page -> Just fetch the current count without incrementing
             result = await counterClient.get(counterName);
-        }
+          }
 
-        // EDGE CASE 3: Validate payload to prevent 'undefined' rendering
-        if (result && result.code === '200') {
+          // EDGE CASE 3: Validate payload to prevent 'undefined' rendering
+          if (result && result.code === '200') {
             // Format number cleanly (e.g., 1234 -> 1,234) based on the user's locale
-            counterEl.textContent = result.data.up_count.toLocaleString(); 
-        } else {
-            throw new Error("Invalid API payload");
+            counterEl.textContent = result.data.up_count.toLocaleString();
+          } else {
+            throw new Error('Invalid API payload');
+          }
+        } catch (error) {
+          // EDGE CASE 4: API Outage or Rate Limits
+          // Never let the user see a broken state or exposed error trace.
+          console.error('Failed to fetch visitor count:', error);
+          counterEl.textContent = '--';
         }
-
-    } catch (error) {
-        // EDGE CASE 4: API Outage or Rate Limits
-        // Never let the user see a broken state or exposed error trace.
-        console.error("Failed to fetch visitor count:", error);
-        counterEl.textContent = "--";
-    }
-  });
-  </script>
+      });
+    </script>
   </body>
 </html>
