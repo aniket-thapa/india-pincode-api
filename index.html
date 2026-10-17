@@ -1,1248 +1,1243 @@
 <!doctype html>
 <html lang="en">
-
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="icon"
-    href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📮</text></svg>" />
-  <title>
-    India Pincode API — Free REST API for Indian Postal Data
-  </title>
-  <meta name="google-site-verification" content="Jw7oLNIDuHv6m5qa4Kf165O8hwMwdY7PeK6Tv_1G1d8" />
-  <meta name="description"
-    content="Free, open-source REST API for every pin code in India. No API keys, no rate limits. Static JSON on GitHub Pages." />
-  <meta name="keywords"
-    content="India pincode API, Indian postal code API, pincode lookup, post office API, free API India" />
-  <meta name="author" content="Aniket Thapa" />
-  <meta property="og:title" content="India Pincode API — Free Postal Data for India" />
-  <meta property="og:description"
-    content="Free, open-source REST API for every pin code in India. No API keys. No rate limits." />
-  <meta property="og:url" content="https://aniket-thapa.github.io/india-pincode-api" />
-  <meta property="og:image" content="https://aniket-thapa.github.io/india-pincode-api/og-image.png" />
-  <meta property="og:type" content="website" />
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:image" content="https://aniket-thapa.github.io/india-pincode-api/og-image.png" />
-  <meta name="twitter:title" content="India Pincode API" />
-  <meta name="twitter:description" content="Free, open-source REST API for every pincode in India." />
-  <link rel="canonical" href="https://aniket-thapa.github.io/india-pincode-api" />
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link
-    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
-    rel="stylesheet" />
-
-  <style>
-    /* ── TRICOLOR BAR ── */
-    html::before {
-      content: '';
-      display: block;
-      height: 3px;
-      background: linear-gradient(to right,
-          #FF9933 33.33%,
-          #FFFFFF 33.33%,
-          #FFFFFF 66.66%,
-          #138808 66.66%);
-      position: sticky;
-      top: 0;
-      z-index: 1000;
-    }
-
-    /* ── TOKENS ── */
-    :root {
-      --bg: #ffffff;
-      --bg-subtle: #f7f7f8;
-      --bg-code: #f3f4f6;
-      --border: #e5e5e5;
-      --border-strong: #d1d1d1;
-      --text: #111111;
-      --text-secondary: #555555;
-      --text-tertiary: #888888;
-      --accent: #c2410c;
-      --accent-bg: #fff7ed;
-      --green: #16a34a;
-      --green-bg: #f0fdf4;
-      --blue: #2563eb;
-      --purple: #7c3aed;
-      --radius: 8px;
-      --font: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-      --mono: 'JetBrains Mono', 'Fira Code', monospace;
-    }
-
-    [data-theme="dark"] {
-      --bg: #0f0f0f;
-      --bg-subtle: #191919;
-      --bg-code: #1a1a1a;
-      --border: #2a2a2a;
-      --border-strong: #3a3a3a;
-      --text: #e5e5e5;
-      --text-secondary: #a0a0a0;
-      --text-tertiary: #666666;
-      --accent: #ea580c;
-      --accent-bg: #1c1008;
-      --green: #22c55e;
-      --green-bg: #0a1f0f;
-      --blue: #60a5fa;
-      --purple: #a78bfa;
-    }
-
-    /* ── RESET ── */
-    *,
-    *::before,
-    *::after {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    html {
-      scroll-behavior: smooth;
-      scroll-padding-top: 80px;
-    }
-
-    body {
-      background: var(--bg);
-      color: var(--text);
-      font-family: var(--font);
-      font-size: 15px;
-      line-height: 1.6;
-      min-height: 100vh;
-      -webkit-font-smoothing: antialiased;
-      transition: background 0.2s, color 0.2s;
-    }
-
-    ::selection {
-      background: #c2410c33;
-    }
-
-    a {
-      color: var(--accent);
-      text-decoration: none;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-
-    /* ── SCROLLBAR ── */
-    ::-webkit-scrollbar {
-      width: 6px;
-    }
-
-    ::-webkit-scrollbar-track {
-      background: var(--bg);
-    }
-
-    ::-webkit-scrollbar-thumb {
-      background: var(--border-strong);
-      border-radius: 3px;
-    }
-
-    /* ── NAV ── */
-    .nav {
-      position: sticky;
-      top: 3px;
-      z-index: 100;
-      background: var(--bg);
-      border-bottom: 1px solid var(--border);
-      transition: background 0.2s;
-    }
-
-    .nav-inner {
-      max-width: 960px;
-      margin: 0 auto;
-      padding: 0 24px;
-      height: 56px;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-    }
-
-    .nav-brand {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      text-decoration: none;
-      color: var(--text);
-      font-weight: 600;
-      font-size: 15px;
-    }
-
-    .nav-brand:hover {
-      text-decoration: none;
-    }
-
-    .nav-brand span {
-      font-size: 18px;
-      line-height: 1;
-    }
-
-    .nav-links {
-      display: flex;
-      align-items: center;
-      gap: 4px;
-    }
-
-    .nav-links a {
-      color: var(--text-secondary);
-      font-size: 13px;
-      font-weight: 500;
-      padding: 6px 10px;
-      border-radius: 6px;
-      text-decoration: none;
-      transition: color 0.15s, background 0.15s;
-    }
-
-    .nav-links a:hover {
-      color: var(--text);
-      background: var(--bg-subtle);
-      text-decoration: none;
-    }
-
-    .nav-actions {
-      display: flex;
-      align-items: center;
-      gap: 6px;
-    }
-
-    .btn-sm {
-      display: inline-flex;
-      align-items: center;
-      gap: 5px;
-      padding: 5px 12px;
-      font-size: 13px;
-      font-weight: 500;
-      font-family: var(--font);
-      border: 1px solid var(--border);
-      border-radius: 6px;
-      background: var(--bg);
-      color: var(--text-secondary);
-      cursor: pointer;
-      text-decoration: none;
-      transition: all 0.15s;
-    }
-
-    .btn-sm:hover {
-      color: var(--text);
-      border-color: var(--border-strong);
-      background: var(--bg-subtle);
-      text-decoration: none;
-    }
-
-    .theme-toggle {
-      width: 32px;
-      height: 32px;
-      border: 1px solid var(--border);
-      border-radius: 6px;
-      background: var(--bg);
-      color: var(--text-secondary);
-      cursor: pointer;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 14px;
-      transition: all 0.15s;
-    }
-
-    .theme-toggle:hover {
-      color: var(--text);
-      border-color: var(--border-strong);
-    }
-
-    /* ── LAYOUT ── */
-    .container {
-      max-width: 960px;
-      margin: 0 auto;
-      padding: 0 24px;
-    }
-
-    /* ── HERO ── */
-    .hero {
-      padding: 80px 0 64px;
-      border-bottom: 1px solid var(--border);
-    }
-
-    .hero h1 {
-      font-size: 36px;
-      font-weight: 700;
-      letter-spacing: -0.025em;
-      line-height: 1.15;
-      margin-bottom: 12px;
-    }
-
-    .hero-sub {
-      font-size: 16px;
-      color: var(--text-secondary);
-      max-width: 500px;
-      margin-bottom: 32px;
-      line-height: 1.6;
-    }
-
-    .base-url {
-      display: inline-flex;
-      align-items: center;
-      gap: 12px;
-      background: var(--bg-code);
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      padding: 10px 16px;
-      font-family: var(--mono);
-      font-size: 13px;
-      color: var(--text);
-      cursor: pointer;
-      transition: border-color 0.15s;
-      margin-bottom: 32px;
-    }
-
-    .base-url:hover {
-      border-color: var(--accent);
-    }
-
-    .base-url .copy-hint {
-      font-family: var(--font);
-      font-size: 11px;
-      color: var(--text-tertiary);
-      padding: 2px 6px;
-      border: 1px solid var(--border);
-      border-radius: 4px;
-      transition: color 0.15s;
-    }
-
-    .base-url:hover .copy-hint {
-      color: var(--accent);
-      border-color: var(--accent);
-    }
-
-    .hero-stats {
-      display: flex;
-      gap: 32px;
-      flex-wrap: wrap;
-    }
-
-    .hero-stat {
-      display: flex;
-      flex-direction: column;
-    }
-
-    .hero-stat-value {
-      font-size: 24px;
-      font-weight: 700;
-      letter-spacing: -0.02em;
-      color: var(--text);
-    }
-
-    .hero-stat-label {
-      font-size: 12px;
-      color: var(--text-tertiary);
-      font-weight: 500;
-    }
-
-    /* ── SECTIONS ── */
-    .section {
-      padding: 64px 0;
-      border-bottom: 1px solid var(--border);
-    }
-
-    .section:last-of-type {
-      border-bottom: none;
-    }
-
-    .section h2 {
-      font-size: 22px;
-      font-weight: 700;
-      letter-spacing: -0.02em;
-      margin-bottom: 6px;
-    }
-
-    .section-desc {
-      color: var(--text-secondary);
-      font-size: 14px;
-      margin-bottom: 32px;
-      max-width: 500px;
-    }
-
-    /* ── QUICK START ── */
-    .qs-tabs {
-      display: flex;
-      border-bottom: 1px solid var(--border);
-      gap: 0;
-      margin-bottom: 0;
-    }
-
-    .qs-tab {
-      font-family: var(--mono);
-      font-size: 12px;
-      font-weight: 500;
-      color: var(--text-tertiary);
-      padding: 8px 14px;
-      cursor: pointer;
-      border: none;
-      background: none;
-      border-bottom: 2px solid transparent;
-      transition: color 0.15s;
-      outline: none;
-    }
-
-    .qs-tab:hover {
-      color: var(--text-secondary);
-    }
-
-    .qs-tab.active {
-      color: var(--accent);
-      border-bottom-color: var(--accent);
-    }
-
-    .qs-panel {
-      display: none;
-    }
-
-    .qs-panel.active {
-      display: block;
-    }
-
-    /* ── CODE ── */
-    pre {
-      background: var(--bg-code);
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      padding: 16px 20px;
-      overflow-x: auto;
-      position: relative;
-      margin: 0;
-    }
-
-    pre code {
-      font-family: var(--mono);
-      font-size: 13px;
-      line-height: 1.7;
-      color: var(--text-secondary);
-      white-space: pre;
-    }
-
-    .syn-kw {
-      color: var(--purple);
-    }
-
-    .syn-str {
-      color: var(--green);
-    }
-
-    .syn-fn {
-      color: var(--blue);
-    }
-
-    .syn-cm {
-      color: var(--text-tertiary);
-    }
-
-    .syn-num {
-      color: var(--accent);
-    }
-
-    .syn-const {
-      color: var(--accent);
-    }
-
-    .copy-btn {
-      position: absolute;
-      top: 8px;
-      right: 8px;
-      font-family: var(--mono);
-      font-size: 11px;
-      background: var(--bg);
-      border: 1px solid var(--border);
-      color: var(--text-tertiary);
-      padding: 3px 8px;
-      border-radius: 4px;
-      cursor: pointer;
-      transition: all 0.15s;
-    }
-
-    .copy-btn:hover {
-      color: var(--text);
-      border-color: var(--border-strong);
-    }
-
-    .copy-btn.copied {
-      color: var(--green);
-      border-color: var(--green);
-    }
-
-    /* ── ENDPOINTS ── */
-    .endpoint-list {
-      display: flex;
-      flex-direction: column;
-      gap: 8px;
-    }
-
-    .ep-card {
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      overflow: hidden;
-      transition: border-color 0.15s;
-    }
-
-    .ep-card:hover {
-      border-color: var(--border-strong);
-    }
-
-    .ep-header {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      padding: 12px 16px;
-      cursor: pointer;
-      user-select: none;
-    }
-
-    .ep-method {
-      font-family: var(--mono);
-      font-size: 11px;
-      font-weight: 500;
-      padding: 2px 6px;
-      border-radius: 4px;
-      background: var(--green-bg);
-      color: var(--green);
-      flex-shrink: 0;
-    }
-
-    .ep-path {
-      font-family: var(--mono);
-      font-size: 13px;
-      color: var(--text);
-      flex: 1;
-    }
-
-    .ep-path .param {
-      color: var(--accent);
-    }
-
-    .ep-label {
-      font-size: 12px;
-      color: var(--text-tertiary);
-    }
-
-    .ep-chevron {
-      color: var(--text-tertiary);
-      font-size: 11px;
-      transition: transform 0.2s;
-    }
-
-    .ep-card.open .ep-chevron {
-      transform: rotate(180deg);
-    }
-
-    .ep-body {
-      display: none;
-      padding: 0 16px 16px;
-      border-top: 1px solid var(--border);
-    }
-
-    .ep-card.open .ep-body {
-      display: block;
-    }
-
-    .ep-desc {
-      color: var(--text-secondary);
-      font-size: 13px;
-      padding: 12px 0;
-      line-height: 1.6;
-    }
-
-    .note-box {
-      display: flex;
-      gap: 8px;
-      background: var(--accent-bg);
-      border: 1px solid var(--border);
-      border-radius: 6px;
-      padding: 10px 12px;
-      font-size: 12px;
-      color: var(--text-secondary);
-      line-height: 1.5;
-      margin-bottom: 12px;
-    }
-
-    .note-box strong {
-      color: var(--text);
-    }
-
-    .note-box.warn {
-      background: #fefce833;
-    }
-
-    .resp-label {
-      font-family: var(--mono);
-      font-size: 11px;
-      color: var(--text-tertiary);
-      margin-bottom: 6px;
-    }
-
-    /* ── FIELD TABLE ── */
-    .field-table {
-      width: 100%;
-      border-collapse: collapse;
-      font-size: 13px;
-    }
-
-    .field-table th {
-      text-align: left;
-      font-size: 11px;
-      font-weight: 600;
-      color: var(--text-tertiary);
-      padding: 8px 12px;
-      border-bottom: 1px solid var(--border);
-      letter-spacing: 0.03em;
-    }
-
-    .field-table td {
-      padding: 8px 12px;
-      border-bottom: 1px solid var(--border);
-      vertical-align: top;
-    }
-
-    .field-table tr:last-child td {
-      border-bottom: none;
-    }
-
-    .field-table tr:hover td {
-      background: var(--bg-subtle);
-    }
-
-    .f-name {
-      font-family: var(--mono);
-      font-size: 12px;
-      color: var(--blue);
-    }
-
-    .f-type {
-      font-family: var(--mono);
-      font-size: 12px;
-      color: var(--purple);
-    }
-
-    .f-desc {
-      color: var(--text-secondary);
-    }
-
-    .table-wrap {
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      overflow: hidden;
-    }
-
-    /* ── PLAYGROUND ── */
-    .playground-card {
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      overflow: hidden;
-    }
-
-    .pg-header {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      padding: 10px 16px;
-      border-bottom: 1px solid var(--border);
-      background: var(--bg-subtle);
-      font-size: 13px;
-      font-weight: 600;
-    }
-
-    .pg-live {
-      font-family: var(--mono);
-      font-size: 10px;
-      background: var(--green-bg);
-      color: var(--green);
-      padding: 1px 6px;
-      border-radius: 3px;
-      font-weight: 500;
-    }
-
-    .pg-body {
-      padding: 16px;
-      display: flex;
-      flex-direction: column;
-      gap: 12px;
-    }
-
-    .pg-row {
-      display: flex;
-      gap: 8px;
-      align-items: center;
-      flex-wrap: wrap;
-    }
-
-    .pg-select {
-      flex: 1;
-      min-width: 200px;
-      background: var(--bg-code);
-      border: 1px solid var(--border);
-      color: var(--text);
-      padding: 8px 10px;
-      border-radius: 6px;
-      font-family: var(--mono);
-      font-size: 12px;
-      outline: none;
-      cursor: pointer;
-      transition: border-color 0.15s;
-    }
-
-    .pg-select:focus {
-      border-color: var(--accent);
-    }
-
-    .run-btn {
-      background: var(--accent);
-      color: #fff;
-      border: none;
-      padding: 8px 18px;
-      border-radius: 6px;
-      font-size: 13px;
-      font-weight: 600;
-      cursor: pointer;
-      font-family: var(--font);
-      transition: opacity 0.15s;
-      white-space: nowrap;
-    }
-
-    .run-btn:hover {
-      opacity: 0.9;
-    }
-
-    .run-btn:disabled {
-      opacity: 0.5;
-      cursor: not-allowed;
-    }
-
-    .pg-url {
-      font-family: var(--mono);
-      font-size: 11px;
-      color: var(--text-tertiary);
-    }
-
-    .pg-output {
-      background: var(--bg-code);
-      border: 1px solid var(--border);
-      border-radius: 6px;
-      min-height: 160px;
-      max-height: 320px;
-      overflow-y: auto;
-      padding: 12px;
-    }
-
-    .pg-placeholder {
-      color: var(--text-tertiary);
-      font-family: var(--mono);
-      font-size: 12px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      height: 100%;
-      min-height: 120px;
-    }
-
-    .pg-json {
-      font-family: var(--mono);
-      font-size: 12px;
-      line-height: 1.7;
-      white-space: pre-wrap;
-      word-break: break-word;
-    }
-
-    .pg-actions {
-      display: flex;
-      gap: 6px;
-      justify-content: flex-end;
-    }
-
-    /* ── ABOUT ── */
-    .about-card {
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      padding: 24px;
-      display: flex;
-      align-items: flex-start;
-      gap: 20px;
-      flex-wrap: wrap;
-    }
-
-    .about-avatar {
-      width: 56px;
-      height: 56px;
-      border-radius: 50%;
-      background: var(--accent);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-weight: 700;
-      font-size: 20px;
-      color: #fff;
-      flex-shrink: 0;
-    }
-
-    .about-info {
-      flex: 1;
-      min-width: 200px;
-    }
-
-    .about-name {
-      font-weight: 700;
-      font-size: 16px;
-      margin-bottom: 2px;
-    }
-
-    .about-role {
-      color: var(--text-secondary);
-      font-size: 13px;
-      margin-bottom: 10px;
-    }
-
-    .about-text {
-      color: var(--text-secondary);
-      font-size: 13px;
-      line-height: 1.6;
-      max-width: 420px;
-      margin-bottom: 12px;
-    }
-
-    .about-links {
-      display: flex;
-      gap: 6px;
-      flex-wrap: wrap;
-    }
-
-    /* ── FEATURES ── */
-    .features-grid {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 12px;
-    }
-
-    .feat {
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      padding: 20px;
-      transition: border-color 0.15s;
-    }
-
-    .feat:hover {
-      border-color: var(--border-strong);
-    }
-
-    .feat-icon {
-      font-size: 18px;
-      margin-bottom: 10px;
-    }
-
-    .feat-title {
-      font-weight: 600;
-      font-size: 14px;
-      margin-bottom: 4px;
-    }
-
-    .feat-desc {
-      color: var(--text-secondary);
-      font-size: 13px;
-      line-height: 1.5;
-    }
-
-    /* ── FOOTER ── */
-    .footer {
-      border-top: 1px solid var(--border);
-      padding: 24px 0;
-    }
-
-    .footer-inner {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      flex-wrap: wrap;
-      gap: 12px;
-      font-size: 12px;
-      color: var(--text-tertiary);
-    }
-
-    .footer-inner a {
-      color: var(--text-secondary);
-    }
-
-    .footer-inner a:hover {
-      color: var(--text);
-    }
-
-    .visitor-count {
-      display: flex;
-      align-items: center;
-      gap: 4px;
-    }
-
-    /* ── INLINE CODE ── */
-    code:not(pre code) {
-      font-family: var(--mono);
-      font-size: 0.88em;
-      background: var(--bg-code);
-      border: 1px solid var(--border);
-      padding: 1px 5px;
-      border-radius: 3px;
-      color: var(--accent);
-    }
-
-    /* ── SPINNER ── */
-    .spinner {
-      display: inline-block;
-      width: 12px;
-      height: 12px;
-      border: 2px solid rgba(255, 255, 255, 0.3);
-      border-top-color: #fff;
-      border-radius: 50%;
-      animation: spin 0.6s linear infinite;
-      vertical-align: middle;
-    }
-
-    .ai-prompt-bar {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 12px;
-      flex-wrap: wrap;
-      max-width: 720px;
-      margin-top: 34px;
-      margin-bottom: -10px;
-      padding: 10px 14px;
-      border-radius: 10px;
-      background: rgba(255, 255, 255, 0.03);
-      border: 1px solid rgba(255, 255, 255, 0.1);
-      backdrop-filter: blur(8px);
-      font-family: inherit;
-    }
-
-    /* Light-mode fallback if your page uses a light theme */
-    @media (prefers-color-scheme: light) {
-      .ai-prompt-bar {
-        background: rgba(15, 23, 42, 0.03);
-        border-color: rgba(15, 23, 42, 0.1);
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📮</text></svg>"
+    />
+    <title>India Pincode API — Free REST API for Indian Postal Data</title>
+    <meta
+      name="google-site-verification"
+      content="Jw7oLNIDuHv6m5qa4Kf165O8hwMwdY7PeK6Tv_1G1d8"
+    />
+    <meta
+      name="description"
+      content="Free, open-source REST API for every pin code in India. No API keys, no rate limits. Static JSON on GitHub Pages."
+    />
+    <meta
+      name="keywords"
+      content="India pincode API, Indian postal code API, pincode lookup, post office API, free API India"
+    />
+    <meta name="author" content="Aniket Thapa" />
+    <meta
+      property="og:title"
+      content="India Pincode API — Free Postal Data for India"
+    />
+    <meta
+      property="og:description"
+      content="Free, open-source REST API for every pin code in India. No API keys. No rate limits."
+    />
+    <meta
+      property="og:url"
+      content="https://aniket-thapa.github.io/india-pincode-api"
+    />
+    <meta
+      property="og:image"
+      content="https://aniket-thapa.github.io/india-pincode-api/og-image.png"
+    />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:image"
+      content="https://aniket-thapa.github.io/india-pincode-api/og-image.png"
+    />
+    <meta name="twitter:title" content="India Pincode API" />
+    <meta
+      name="twitter:description"
+      content="Free, open-source REST API for every pincode in India."
+    />
+    <link
+      rel="canonical"
+      href="https://aniket-thapa.github.io/india-pincode-api"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+
+    <style>
+      /* ── TRICOLOR BAR ── */
+      html::before {
+        content: '';
+        display: block;
+        height: 3px;
+        background: linear-gradient(
+          to right,
+          #ff9933 33.33%,
+          #ffffff 33.33%,
+          #ffffff 66.66%,
+          #138808 66.66%
+        );
+        position: sticky;
+        top: 0;
+        z-index: 1000;
       }
-    }
 
-    .ai-prompt-bar__left {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      font-size: 0.875rem;
-      opacity: 0.9;
-    }
-
-    .ai-prompt-badge {
-      font-size: 0.68rem;
-      font-weight: 700;
-      letter-spacing: 0.06em;
-      padding: 3px 7px;
-      border-radius: 5px;
-      background: rgba(16, 185, 129, 0.15);
-      color: #10b981;
-      border: 1px solid rgba(16, 185, 129, 0.3);
-    }
-
-    .ai-prompt-bar__actions {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-    }
-
-    .ai-btn-preview {
-      background: transparent;
-      border: 1px solid rgba(148, 163, 184, 0.25);
-      color: inherit;
-      opacity: 0.75;
-      padding: 6px 11px;
-      font-size: 0.8rem;
-      font-weight: 500;
-      border-radius: 7px;
-      cursor: pointer;
-      transition: all 0.15s ease;
-    }
-
-    .ai-btn-preview:hover {
-      opacity: 1;
-      border-color: rgba(148, 163, 184, 0.5);
-    }
-
-    .ai-btn-copy {
-      display: inline-flex;
-      align-items: center;
-      gap: 7px;
-      padding: 7px 14px;
-      font-size: 0.825rem;
-      font-weight: 600;
-      border-radius: 7px;
-      border: 1px solid rgba(16, 185, 129, 0.4);
-      background: rgba(16, 185, 129, 0.12);
-      color: #10b981;
-      cursor: pointer;
-      transition: all 0.18s ease;
-      white-space: nowrap;
-    }
-
-    .ai-btn-copy:hover {
-      background: rgba(16, 185, 129, 0.22);
-      border-color: rgba(16, 185, 129, 0.65);
-      transform: translateY(-1px);
-    }
-
-    .ai-btn-copy.is-copied {
-      background: #10b981;
-      color: #06281e;
-      border-color: #10b981;
-    }
-
-    .ai-prompt-drawer {
-      max-width: 720px;
-      margin: -10px auto 20px;
-      padding: 14px;
-      border-radius: 10px;
-      background: rgba(15, 23, 42, 0.92);
-      border: 1px solid rgba(148, 163, 184, 0.2);
-      color: #e2e8f0;
-      font-size: 0.78rem;
-      line-height: 1.5;
-      max-height: 260px;
-      overflow-y: auto;
-      text-align: left;
-    }
-
-    .ai-prompt-drawer pre {
-      margin: 0;
-      white-space: pre-wrap;
-      word-break: break-word;
-      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
-    }
-
-    @keyframes spin {
-      to {
-        transform: rotate(360deg);
+      /* ── TOKENS ── */
+      :root {
+        --bg: #ffffff;
+        --bg-subtle: #f7f7f8;
+        --bg-code: #f3f4f6;
+        --border: #e5e5e5;
+        --border-strong: #d1d1d1;
+        --text: #111111;
+        --text-secondary: #555555;
+        --text-tertiary: #888888;
+        --accent: #c2410c;
+        --accent-bg: #fff7ed;
+        --green: #16a34a;
+        --green-bg: #f0fdf4;
+        --blue: #2563eb;
+        --purple: #7c3aed;
+        --radius: 8px;
+        --font: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+        --mono: 'JetBrains Mono', 'Fira Code', monospace;
       }
-    }
 
-    /* ── MOBILE ── */
-    @media (max-width: 640px) {
+      [data-theme='dark'] {
+        --bg: #0f0f0f;
+        --bg-subtle: #191919;
+        --bg-code: #1a1a1a;
+        --border: #2a2a2a;
+        --border-strong: #3a3a3a;
+        --text: #e5e5e5;
+        --text-secondary: #a0a0a0;
+        --text-tertiary: #666666;
+        --accent: #ea580c;
+        --accent-bg: #1c1008;
+        --green: #22c55e;
+        --green-bg: #0a1f0f;
+        --blue: #60a5fa;
+        --purple: #a78bfa;
+      }
+
+      /* ── RESET ── */
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+
+      html {
+        scroll-behavior: smooth;
+        scroll-padding-top: 80px;
+      }
+
+      body {
+        background: var(--bg);
+        color: var(--text);
+        font-family: var(--font);
+        font-size: 15px;
+        line-height: 1.6;
+        min-height: 100vh;
+        -webkit-font-smoothing: antialiased;
+        transition:
+          background 0.2s,
+          color 0.2s;
+      }
+
+      ::selection {
+        background: #c2410c33;
+      }
+
+      a {
+        color: var(--accent);
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      /* ── SCROLLBAR ── */
+      ::-webkit-scrollbar {
+        width: 6px;
+      }
+
+      ::-webkit-scrollbar-track {
+        background: var(--bg);
+      }
+
+      ::-webkit-scrollbar-thumb {
+        background: var(--border-strong);
+        border-radius: 3px;
+      }
+
+      /* ── NAV ── */
+      .nav {
+        position: sticky;
+        top: 3px;
+        z-index: 100;
+        background: var(--bg);
+        border-bottom: 1px solid var(--border);
+        transition: background 0.2s;
+      }
+
+      .nav-inner {
+        max-width: 960px;
+        margin: 0 auto;
+        padding: 0 24px;
+        height: 56px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+      }
+
+      .nav-brand {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        text-decoration: none;
+        color: var(--text);
+        font-weight: 600;
+        font-size: 15px;
+      }
+
+      .nav-brand:hover {
+        text-decoration: none;
+      }
+
+      .nav-brand span {
+        font-size: 18px;
+        line-height: 1;
+      }
+
       .nav-links {
-        display: none;
+        display: flex;
+        align-items: center;
+        gap: 4px;
+      }
+
+      .nav-links a {
+        color: var(--text-secondary);
+        font-size: 13px;
+        font-weight: 500;
+        padding: 6px 10px;
+        border-radius: 6px;
+        text-decoration: none;
+        transition:
+          color 0.15s,
+          background 0.15s;
+      }
+
+      .nav-links a:hover {
+        color: var(--text);
+        background: var(--bg-subtle);
+        text-decoration: none;
+      }
+
+      .nav-actions {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+      }
+
+      .btn-sm {
+        display: inline-flex;
+        align-items: center;
+        gap: 5px;
+        padding: 5px 12px;
+        font-size: 13px;
+        font-weight: 500;
+        font-family: var(--font);
+        border: 1px solid var(--border);
+        border-radius: 6px;
+        background: var(--bg);
+        color: var(--text-secondary);
+        cursor: pointer;
+        text-decoration: none;
+        transition: all 0.15s;
+      }
+
+      .btn-sm:hover {
+        color: var(--text);
+        border-color: var(--border-strong);
+        background: var(--bg-subtle);
+        text-decoration: none;
+      }
+
+      .theme-toggle {
+        width: 32px;
+        height: 32px;
+        border: 1px solid var(--border);
+        border-radius: 6px;
+        background: var(--bg);
+        color: var(--text-secondary);
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 14px;
+        transition: all 0.15s;
+      }
+
+      .theme-toggle:hover {
+        color: var(--text);
+        border-color: var(--border-strong);
+      }
+
+      /* ── LAYOUT ── */
+      .container {
+        max-width: 960px;
+        margin: 0 auto;
+        padding: 0 24px;
+      }
+
+      /* ── HERO ── */
+      .hero {
+        padding: 80px 0 64px;
+        border-bottom: 1px solid var(--border);
       }
 
       .hero h1 {
-        font-size: 28px;
+        font-size: 36px;
+        font-weight: 700;
+        letter-spacing: -0.025em;
+        line-height: 1.15;
+        margin-bottom: 12px;
       }
 
-      .hero {
-        padding: 48px 0 40px;
+      .hero-sub {
+        font-size: 16px;
+        color: var(--text-secondary);
+        max-width: 500px;
+        margin-bottom: 32px;
+        line-height: 1.6;
       }
 
-      .features-grid {
-        grid-template-columns: 1fr;
+      .base-url {
+        display: inline-flex;
+        align-items: center;
+        gap: 12px;
+        background: var(--bg-code);
+        border: 1px solid var(--border);
+        border-radius: var(--radius);
+        padding: 10px 16px;
+        font-family: var(--mono);
+        font-size: 13px;
+        color: var(--text);
+        cursor: pointer;
+        transition: border-color 0.15s;
+        margin-bottom: 32px;
+      }
+
+      .base-url:hover {
+        border-color: var(--accent);
+      }
+
+      .base-url .copy-hint {
+        font-family: var(--font);
+        font-size: 11px;
+        color: var(--text-tertiary);
+        padding: 2px 6px;
+        border: 1px solid var(--border);
+        border-radius: 4px;
+        transition: color 0.15s;
+      }
+
+      .base-url:hover .copy-hint {
+        color: var(--accent);
+        border-color: var(--accent);
       }
 
       .hero-stats {
-        gap: 20px;
-      }
-
-      .section {
-        padding: 40px 0;
-      }
-    }
-
-    @media (max-width: 768px) {
-      .features-grid {
-        grid-template-columns: 1fr 1fr;
-      }
-    }
-
-    /* ── REDUCED MOTION ── */
-    @media (prefers-reduced-motion: reduce) {
-      html {
-        scroll-behavior: auto;
-      }
-
-      .spinner {
-        animation: none;
-      }
-    }
-
-    /* ── FOCUS ── */
-    :focus-visible {
-      outline: 2px solid var(--accent);
-      outline-offset: 2px;
-    }
-
-    /* ── MOBILE MENU ── */
-    .mobile-menu-btn {
-      display: none;
-      background: none;
-      border: 1px solid var(--border);
-      border-radius: 6px;
-      width: 32px;
-      height: 32px;
-      cursor: pointer;
-      align-items: center;
-      justify-content: center;
-      color: var(--text-secondary);
-      font-size: 16px;
-    }
-
-    @media (max-width: 640px) {
-      .mobile-menu-btn {
         display: flex;
+        gap: 32px;
+        flex-wrap: wrap;
       }
-    }
-  </style>
-</head>
 
-<body>
-  <!-- ── NAV ── -->
-  <nav class="nav">
-    <div class="nav-inner">
-      <a class="nav-brand" href="#">
-        <span>📮</span>
-        India Pincode API
-      </a>
-      <div class="nav-links">
-        <a href="#quickstart">Quick start</a>
-        <a href="#endpoints">Endpoints</a>
-        <a href="#playground">Playground</a>
-        <a href="#fields">Fields</a>
-        <a href="#about">About</a>
-      </div>
-      <div class="nav-actions">
-        <a class="btn-sm" href="https://github.com/aniket-thapa/india-pincode-api" target="_blank">
-          <svg width="14" height="14" fill="currentColor" viewBox="0 0 24 24">
-            <path
-              d="M12 2C6.477 2 2 6.477 2 12c0 4.42 2.865 8.17 6.839 9.49.5.092.682-.217.682-.482 0-.237-.008-.866-.013-1.7-2.782.604-3.369-1.34-3.369-1.34-.454-1.156-1.11-1.464-1.11-1.464-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.831.092-.646.35-1.086.636-1.336-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.578 9.578 0 0112 6.836c.85.004 1.705.114 2.504.336 1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.203 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.743 0 .267.18.578.688.48C19.138 20.167 22 16.418 22 12c0-5.523-4.477-10-10-10z" />
-          </svg>
-          GitHub
+      .hero-stat {
+        display: flex;
+        flex-direction: column;
+      }
+
+      .hero-stat-value {
+        font-size: 24px;
+        font-weight: 700;
+        letter-spacing: -0.02em;
+        color: var(--text);
+      }
+
+      .hero-stat-label {
+        font-size: 12px;
+        color: var(--text-tertiary);
+        font-weight: 500;
+      }
+
+      /* ── SECTIONS ── */
+      .section {
+        padding: 64px 0;
+        border-bottom: 1px solid var(--border);
+      }
+
+      .section:last-of-type {
+        border-bottom: none;
+      }
+
+      .section h2 {
+        font-size: 22px;
+        font-weight: 700;
+        letter-spacing: -0.02em;
+        margin-bottom: 6px;
+      }
+
+      .section-desc {
+        color: var(--text-secondary);
+        font-size: 14px;
+        margin-bottom: 32px;
+        max-width: 500px;
+      }
+
+      /* ── QUICK START ── */
+      .qs-tabs {
+        display: flex;
+        border-bottom: 1px solid var(--border);
+        gap: 0;
+        margin-bottom: 0;
+      }
+
+      .qs-tab {
+        font-family: var(--mono);
+        font-size: 12px;
+        font-weight: 500;
+        color: var(--text-tertiary);
+        padding: 8px 14px;
+        cursor: pointer;
+        border: none;
+        background: none;
+        border-bottom: 2px solid transparent;
+        transition: color 0.15s;
+        outline: none;
+      }
+
+      .qs-tab:hover {
+        color: var(--text-secondary);
+      }
+
+      .qs-tab.active {
+        color: var(--accent);
+        border-bottom-color: var(--accent);
+      }
+
+      .qs-panel {
+        display: none;
+      }
+
+      .qs-panel.active {
+        display: block;
+      }
+
+      /* ── CODE ── */
+      pre {
+        background: var(--bg-code);
+        border: 1px solid var(--border);
+        border-radius: var(--radius);
+        padding: 16px 20px;
+        overflow-x: auto;
+        position: relative;
+        margin: 0;
+      }
+
+      pre code {
+        font-family: var(--mono);
+        font-size: 13px;
+        line-height: 1.7;
+        color: var(--text-secondary);
+        white-space: pre;
+      }
+
+      .syn-kw {
+        color: var(--purple);
+      }
+
+      .syn-str {
+        color: var(--green);
+      }
+
+      .syn-fn {
+        color: var(--blue);
+      }
+
+      .syn-cm {
+        color: var(--text-tertiary);
+      }
+
+      .syn-num {
+        color: var(--accent);
+      }
+
+      .syn-const {
+        color: var(--accent);
+      }
+
+      .copy-btn {
+        position: absolute;
+        top: 8px;
+        right: 8px;
+        font-family: var(--mono);
+        font-size: 11px;
+        background: var(--bg);
+        border: 1px solid var(--border);
+        color: var(--text-tertiary);
+        padding: 3px 8px;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: all 0.15s;
+      }
+
+      .copy-btn:hover {
+        color: var(--text);
+        border-color: var(--border-strong);
+      }
+
+      .copy-btn.copied {
+        color: var(--green);
+        border-color: var(--green);
+      }
+
+      /* ── AI PROMPT ── */
+      .prompt-card {
+        border: 1px solid var(--border);
+        border-radius: var(--radius);
+        overflow: hidden;
+      }
+
+      .prompt-card-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 16px;
+        padding: 12px 16px;
+        background: var(--bg-subtle);
+        border-bottom: 1px solid var(--border);
+      }
+
+      .prompt-card-label {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        font-size: 13px;
+        font-weight: 600;
+      }
+
+      .prompt-card-label span {
+        font-size: 16px;
+      }
+
+      .prompt-copy-btn {
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        background: var(--bg);
+        border: 1px solid var(--border);
+        border-radius: 5px;
+        color: var(--text-secondary);
+        cursor: pointer;
+        font-family: var(--font);
+        font-size: 12px;
+        font-weight: 500;
+        padding: 6px 10px;
+        transition: all 0.15s;
+        white-space: nowrap;
+      }
+
+      .prompt-copy-btn:hover {
+        border-color: var(--accent);
+        color: var(--accent);
+      }
+
+      .prompt-copy-btn.copied {
+        border-color: var(--green);
+        color: var(--green);
+      }
+
+      .prompt-copy-btn:focus-visible {
+        outline: 2px solid var(--accent);
+        outline-offset: 2px;
+      }
+
+      .prompt-card pre {
+        border: none;
+        border-radius: 0;
+        max-height: 360px;
+        overflow: auto;
+      }
+
+      .prompt-card code {
+        white-space: pre-wrap;
+      }
+
+      .prompt-status {
+        color: var(--text-tertiary);
+        font-size: 11px;
+        padding: 0 16px 12px;
+      }
+
+      /* ── ENDPOINTS ── */
+      .endpoint-list {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+      }
+
+      .ep-card {
+        border: 1px solid var(--border);
+        border-radius: var(--radius);
+        overflow: hidden;
+        transition: border-color 0.15s;
+      }
+
+      .ep-card:hover {
+        border-color: var(--border-strong);
+      }
+
+      .ep-header {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        padding: 12px 16px;
+        cursor: pointer;
+        user-select: none;
+      }
+
+      .ep-method {
+        font-family: var(--mono);
+        font-size: 11px;
+        font-weight: 500;
+        padding: 2px 6px;
+        border-radius: 4px;
+        background: var(--green-bg);
+        color: var(--green);
+        flex-shrink: 0;
+      }
+
+      .ep-path {
+        font-family: var(--mono);
+        font-size: 13px;
+        color: var(--text);
+        flex: 1;
+      }
+
+      .ep-path .param {
+        color: var(--accent);
+      }
+
+      .ep-label {
+        font-size: 12px;
+        color: var(--text-tertiary);
+      }
+
+      .ep-chevron {
+        color: var(--text-tertiary);
+        font-size: 11px;
+        transition: transform 0.2s;
+      }
+
+      .ep-card.open .ep-chevron {
+        transform: rotate(180deg);
+      }
+
+      .ep-body {
+        display: none;
+        padding: 0 16px 16px;
+        border-top: 1px solid var(--border);
+      }
+
+      .ep-card.open .ep-body {
+        display: block;
+      }
+
+      .ep-desc {
+        color: var(--text-secondary);
+        font-size: 13px;
+        padding: 12px 0;
+        line-height: 1.6;
+      }
+
+      .note-box {
+        display: flex;
+        gap: 8px;
+        background: var(--accent-bg);
+        border: 1px solid var(--border);
+        border-radius: 6px;
+        padding: 10px 12px;
+        font-size: 12px;
+        color: var(--text-secondary);
+        line-height: 1.5;
+        margin-bottom: 12px;
+      }
+
+      .note-box strong {
+        color: var(--text);
+      }
+
+      .note-box.warn {
+        background: #fefce833;
+      }
+
+      .resp-label {
+        font-family: var(--mono);
+        font-size: 11px;
+        color: var(--text-tertiary);
+        margin-bottom: 6px;
+      }
+
+      /* ── FIELD TABLE ── */
+      .field-table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 13px;
+      }
+
+      .field-table th {
+        text-align: left;
+        font-size: 11px;
+        font-weight: 600;
+        color: var(--text-tertiary);
+        padding: 8px 12px;
+        border-bottom: 1px solid var(--border);
+        letter-spacing: 0.03em;
+      }
+
+      .field-table td {
+        padding: 8px 12px;
+        border-bottom: 1px solid var(--border);
+        vertical-align: top;
+      }
+
+      .field-table tr:last-child td {
+        border-bottom: none;
+      }
+
+      .field-table tr:hover td {
+        background: var(--bg-subtle);
+      }
+
+      .f-name {
+        font-family: var(--mono);
+        font-size: 12px;
+        color: var(--blue);
+      }
+
+      .f-type {
+        font-family: var(--mono);
+        font-size: 12px;
+        color: var(--purple);
+      }
+
+      .f-desc {
+        color: var(--text-secondary);
+      }
+
+      .table-wrap {
+        border: 1px solid var(--border);
+        border-radius: var(--radius);
+        overflow: hidden;
+      }
+
+      /* ── PLAYGROUND ── */
+      .playground-card {
+        border: 1px solid var(--border);
+        border-radius: var(--radius);
+        overflow: hidden;
+      }
+
+      .pg-header {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        padding: 10px 16px;
+        border-bottom: 1px solid var(--border);
+        background: var(--bg-subtle);
+        font-size: 13px;
+        font-weight: 600;
+      }
+
+      .pg-live {
+        font-family: var(--mono);
+        font-size: 10px;
+        background: var(--green-bg);
+        color: var(--green);
+        padding: 1px 6px;
+        border-radius: 3px;
+        font-weight: 500;
+      }
+
+      .pg-body {
+        padding: 16px;
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+      }
+
+      .pg-row {
+        display: flex;
+        gap: 8px;
+        align-items: center;
+        flex-wrap: wrap;
+      }
+
+      .pg-select {
+        flex: 1;
+        min-width: 200px;
+        background: var(--bg-code);
+        border: 1px solid var(--border);
+        color: var(--text);
+        padding: 8px 10px;
+        border-radius: 6px;
+        font-family: var(--mono);
+        font-size: 12px;
+        outline: none;
+        cursor: pointer;
+        transition: border-color 0.15s;
+      }
+
+      .pg-select:focus {
+        border-color: var(--accent);
+      }
+
+      .run-btn {
+        background: var(--accent);
+        color: #fff;
+        border: none;
+        padding: 8px 18px;
+        border-radius: 6px;
+        font-size: 13px;
+        font-weight: 600;
+        cursor: pointer;
+        font-family: var(--font);
+        transition: opacity 0.15s;
+        white-space: nowrap;
+      }
+
+      .run-btn:hover {
+        opacity: 0.9;
+      }
+
+      .run-btn:disabled {
+        opacity: 0.5;
+        cursor: not-allowed;
+      }
+
+      .pg-url {
+        font-family: var(--mono);
+        font-size: 11px;
+        color: var(--text-tertiary);
+      }
+
+      .pg-output {
+        background: var(--bg-code);
+        border: 1px solid var(--border);
+        border-radius: 6px;
+        min-height: 160px;
+        max-height: 320px;
+        overflow-y: auto;
+        padding: 12px;
+      }
+
+      .pg-placeholder {
+        color: var(--text-tertiary);
+        font-family: var(--mono);
+        font-size: 12px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100%;
+        min-height: 120px;
+      }
+
+      .pg-json {
+        font-family: var(--mono);
+        font-size: 12px;
+        line-height: 1.7;
+        white-space: pre-wrap;
+        word-break: break-word;
+      }
+
+      .pg-actions {
+        display: flex;
+        gap: 6px;
+        justify-content: flex-end;
+      }
+
+      /* ── ABOUT ── */
+      .about-card {
+        border: 1px solid var(--border);
+        border-radius: var(--radius);
+        padding: 24px;
+        display: flex;
+        align-items: flex-start;
+        gap: 20px;
+        flex-wrap: wrap;
+      }
+
+      .about-avatar {
+        width: 56px;
+        height: 56px;
+        border-radius: 50%;
+        background: var(--accent);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 700;
+        font-size: 20px;
+        color: #fff;
+        flex-shrink: 0;
+      }
+
+      .about-info {
+        flex: 1;
+        min-width: 200px;
+      }
+
+      .about-name {
+        font-weight: 700;
+        font-size: 16px;
+        margin-bottom: 2px;
+      }
+
+      .about-role {
+        color: var(--text-secondary);
+        font-size: 13px;
+        margin-bottom: 10px;
+      }
+
+      .about-text {
+        color: var(--text-secondary);
+        font-size: 13px;
+        line-height: 1.6;
+        max-width: 420px;
+        margin-bottom: 12px;
+      }
+
+      .about-links {
+        display: flex;
+        gap: 6px;
+        flex-wrap: wrap;
+      }
+
+      /* ── FEATURES ── */
+      .features-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 12px;
+      }
+
+      .feat {
+        border: 1px solid var(--border);
+        border-radius: var(--radius);
+        padding: 20px;
+        transition: border-color 0.15s;
+      }
+
+      .feat:hover {
+        border-color: var(--border-strong);
+      }
+
+      .feat-icon {
+        font-size: 18px;
+        margin-bottom: 10px;
+      }
+
+      .feat-title {
+        font-weight: 600;
+        font-size: 14px;
+        margin-bottom: 4px;
+      }
+
+      .feat-desc {
+        color: var(--text-secondary);
+        font-size: 13px;
+        line-height: 1.5;
+      }
+
+      /* ── FOOTER ── */
+      .footer {
+        border-top: 1px solid var(--border);
+        padding: 24px 0;
+      }
+
+      .footer-inner {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        gap: 12px;
+        font-size: 12px;
+        color: var(--text-tertiary);
+      }
+
+      .footer-inner a {
+        color: var(--text-secondary);
+      }
+
+      .footer-inner a:hover {
+        color: var(--text);
+      }
+
+      .visitor-count {
+        display: flex;
+        align-items: center;
+        gap: 4px;
+      }
+
+      /* ── INLINE CODE ── */
+      code:not(pre code) {
+        font-family: var(--mono);
+        font-size: 0.88em;
+        background: var(--bg-code);
+        border: 1px solid var(--border);
+        padding: 1px 5px;
+        border-radius: 3px;
+        color: var(--accent);
+      }
+
+      /* ── SPINNER ── */
+      .spinner {
+        display: inline-block;
+        width: 12px;
+        height: 12px;
+        border: 2px solid rgba(255, 255, 255, 0.3);
+        border-top-color: #fff;
+        border-radius: 50%;
+        animation: spin 0.6s linear infinite;
+        vertical-align: middle;
+      }
+
+      @keyframes spin {
+        to {
+          transform: rotate(360deg);
+        }
+      }
+
+      /* ── MOBILE ── */
+      @media (max-width: 640px) {
+        .nav-links {
+          display: none;
+        }
+
+        .hero h1 {
+          font-size: 28px;
+        }
+
+        .hero {
+          padding: 48px 0 40px;
+        }
+
+        .features-grid {
+          grid-template-columns: 1fr;
+        }
+
+        .hero-stats {
+          gap: 20px;
+        }
+
+        .section {
+          padding: 40px 0;
+        }
+      }
+
+      @media (max-width: 768px) {
+        .features-grid {
+          grid-template-columns: 1fr 1fr;
+        }
+      }
+
+      /* ── REDUCED MOTION ── */
+      @media (prefers-reduced-motion: reduce) {
+        html {
+          scroll-behavior: auto;
+        }
+
+        .spinner {
+          animation: none;
+        }
+      }
+
+      /* ── FOCUS ── */
+      :focus-visible {
+        outline: 2px solid var(--accent);
+        outline-offset: 2px;
+      }
+
+      /* ── MOBILE MENU ── */
+      .mobile-menu-btn {
+        display: none;
+        background: none;
+        border: 1px solid var(--border);
+        border-radius: 6px;
+        width: 32px;
+        height: 32px;
+        cursor: pointer;
+        align-items: center;
+        justify-content: center;
+        color: var(--text-secondary);
+        font-size: 16px;
+      }
+
+      @media (max-width: 640px) {
+        .mobile-menu-btn {
+          display: flex;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <!-- ── NAV ── -->
+    <nav class="nav">
+      <div class="nav-inner">
+        <a class="nav-brand" href="#">
+          <span>📮</span>
+          India Pincode API
         </a>
-        <button class="theme-toggle" id="themeBtn" title="Toggle theme" aria-label="Toggle dark mode">🌙</button>
-      </div>
-    </div>
-  </nav>
-
-  <main class="container">
-
-    <!-- ── HERO ── -->
-    <section class="hero" id="top">
-      <h1>Every PIN code in India.<br>One API call away.</h1>
-      <p class="hero-sub">
-        Free, open-source REST API for Indian postal data. No keys, no sign-up, no rate limits. Static JSON served from
-        GitHub Pages.
-      </p>
-      <div class="base-url" id="copyBase" role="button" tabindex="0" title="Click to copy base URL"
-        aria-label="Copy base URL">
-        https://aniket-thapa.github.io/india-pincode-api
-        <span class="copy-hint" id="copyHint">copy</span>
-      </div>
-      <div class="hero-stats">
-        <div class="hero-stat">
-          <span class="hero-stat-value">155K+</span>
-          <span class="hero-stat-label">Post offices</span>
+        <div class="nav-links">
+          <a href="#quickstart">Quick start</a>
+          <a href="#ai-prompt">AI prompt</a>
+          <a href="#endpoints">Endpoints</a>
+          <a href="#playground">Playground</a>
+          <a href="#fields">Fields</a>
+          <a href="#about">About</a>
         </div>
-        <div class="hero-stat">
-          <span class="hero-stat-value">36</span>
-          <span class="hero-stat-label">States & UTs</span>
-        </div>
-        <div class="hero-stat">
-          <span class="hero-stat-value">700+</span>
-          <span class="hero-stat-label">Districts</span>
-        </div>
-        <div class="hero-stat">
-          <span class="hero-stat-value">0</span>
-          <span class="hero-stat-label">Setup required</span>
-        </div>
-      </div>
-
-      <!-- ===== AI PROMPT WIDGET ===== -->
-      <div class="ai-prompt-bar">
-        <div class="ai-prompt-bar__left">
-          <span class="ai-prompt-badge">AI READY</span>
-          <span class="ai-prompt-text">Using Cursor, Copilot, Claude, or Windsurf?</span>
-        </div>
-        <div class="ai-prompt-bar__actions">
-          <button type="button" class="ai-btn-preview" id="toggleAiPromptPreview" aria-expanded="false">
-            Preview
-          </button>
-          <button type="button" class="ai-btn-copy" id="copyAiPromptBtn" aria-label="Copy AI Prompt for Agents">
-            <!-- Sparkle Icon -->
-            <svg class="ai-icon ai-icon--sparkle" width="15" height="15" viewBox="0 0 24 24" fill="none"
-              stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <div class="nav-actions">
+          <a
+            class="btn-sm"
+            href="https://github.com/aniket-thapa/india-pincode-api"
+            target="_blank"
+          >
+            <svg width="14" height="14" fill="currentColor" viewBox="0 0 24 24">
               <path
-                d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z" />
+                d="M12 2C6.477 2 2 6.477 2 12c0 4.42 2.865 8.17 6.839 9.49.5.092.682-.217.682-.482 0-.237-.008-.866-.013-1.7-2.782.604-3.369-1.34-3.369-1.34-.454-1.156-1.11-1.464-1.11-1.464-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.831.092-.646.35-1.086.636-1.336-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.578 9.578 0 0112 6.836c.85.004 1.705.114 2.504.336 1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.203 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.743 0 .267.18.578.688.48C19.138 20.167 22 16.418 22 12c0-5.523-4.477-10-10-10z"
+              />
             </svg>
-            <!-- Check Icon (Hidden by default) -->
-            <svg class="ai-icon ai-icon--check" width="15" height="15" viewBox="0 0 24 24" fill="none"
-              stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"
-              style="display:none;">
-              <polyline points="20 6 9 17 4 12"></polyline>
-            </svg>
-            <span id="copyAiPromptLabel">Copy AI Prompt</span>
+            GitHub
+          </a>
+          <button
+            class="theme-toggle"
+            id="themeBtn"
+            title="Toggle theme"
+            aria-label="Toggle dark mode"
+          >
+            🌙
           </button>
         </div>
       </div>
+    </nav>
 
-      <!-- Collapsible Minimalist Preview Drawer -->
-      <div class="ai-prompt-drawer" id="aiPromptDrawer" hidden>
-        <pre id="aiPromptRawText"></pre>
-      </div>
+    <main class="container">
+      <!-- ── HERO ── -->
+      <section class="hero" id="top">
+        <h1>Every PIN code in India.<br />One API call away.</h1>
+        <p class="hero-sub">
+          Free, open-source REST API for Indian postal data. No keys, no
+          sign-up, no rate limits. Static JSON served from GitHub Pages.
+        </p>
+        <div
+          class="base-url"
+          id="copyBase"
+          role="button"
+          tabindex="0"
+          title="Click to copy base URL"
+          aria-label="Copy base URL"
+        >
+          https://aniket-thapa.github.io/india-pincode-api
+          <span class="copy-hint" id="copyHint">copy</span>
+        </div>
+        <div class="hero-stats">
+          <div class="hero-stat">
+            <span class="hero-stat-value">155K+</span>
+            <span class="hero-stat-label">Post offices</span>
+          </div>
+          <div class="hero-stat">
+            <span class="hero-stat-value">36</span>
+            <span class="hero-stat-label">States & UTs</span>
+          </div>
+          <div class="hero-stat">
+            <span class="hero-stat-value">700+</span>
+            <span class="hero-stat-label">Districts</span>
+          </div>
+          <div class="hero-stat">
+            <span class="hero-stat-value">0</span>
+            <span class="hero-stat-label">Setup required</span>
+          </div>
+        </div>
+      </section>
 
-    </section>
+      <!-- ── FEATURES ── -->
+      <section class="section" id="features">
+        <h2>Why this API</h2>
+        <p class="section-desc">
+          Designed for developers who want postal data without friction.
+        </p>
+        <div class="features-grid">
+          <div class="feat">
+            <div class="feat-icon">⚡</div>
+            <div class="feat-title">Zero setup</div>
+            <div class="feat-desc">
+              No API keys, no registration. Fetch a URL and you're done.
+            </div>
+          </div>
+          <div class="feat">
+            <div class="feat-icon">🌐</div>
+            <div class="feat-title">CORS enabled</div>
+            <div class="feat-desc">
+              Call directly from the browser. Works in any framework or vanilla
+              JS.
+            </div>
+          </div>
+          <div class="feat">
+            <div class="feat-icon">🗺️</div>
+            <div class="feat-title">GPS coordinates</div>
+            <div class="feat-desc">
+              Lat/lng included for offices where available in the source data.
+            </div>
+          </div>
+          <div class="feat">
+            <div class="feat-icon">📦</div>
+            <div class="feat-title">Official data</div>
+            <div class="feat-desc">
+              Sourced from Department of Posts via data.gov.in.
+            </div>
+          </div>
+          <div class="feat">
+            <div class="feat-icon">🚀</div>
+            <div class="feat-title">CDN-fast</div>
+            <div class="feat-desc">
+              Static JSON served via GitHub Pages — globally distributed, low
+              latency.
+            </div>
+          </div>
+          <div class="feat">
+            <div class="feat-icon">🆓</div>
+            <div class="feat-title">Free forever</div>
+            <div class="feat-desc">
+              Open source, CC BY-NC 4.0. Free for non-commercial use.
+            </div>
+          </div>
+        </div>
+      </section>
 
-    <!-- ── FEATURES ── -->
-    <section class="section" id="features">
-      <h2>Why this API</h2>
-      <p class="section-desc">Designed for developers who want postal data without friction.</p>
-      <div class="features-grid">
-        <div class="feat">
-          <div class="feat-icon">⚡</div>
-          <div class="feat-title">Zero setup</div>
-          <div class="feat-desc">No API keys, no registration. Fetch a URL and you're done.</div>
-        </div>
-        <div class="feat">
-          <div class="feat-icon">🌐</div>
-          <div class="feat-title">CORS enabled</div>
-          <div class="feat-desc">Call directly from the browser. Works in any framework or vanilla JS.</div>
-        </div>
-        <div class="feat">
-          <div class="feat-icon">🗺️</div>
-          <div class="feat-title">GPS coordinates</div>
-          <div class="feat-desc">Lat/lng included for offices where available in the source data.</div>
-        </div>
-        <div class="feat">
-          <div class="feat-icon">📦</div>
-          <div class="feat-title">Official data</div>
-          <div class="feat-desc">Sourced from Department of Posts via data.gov.in.</div>
-        </div>
-        <div class="feat">
-          <div class="feat-icon">🚀</div>
-          <div class="feat-title">CDN-fast</div>
-          <div class="feat-desc">Static JSON served via GitHub Pages — globally distributed, low latency.</div>
-        </div>
-        <div class="feat">
-          <div class="feat-icon">🆓</div>
-          <div class="feat-title">Free forever</div>
-          <div class="feat-desc">Open source, CC BY-NC 4.0. Free for non-commercial use.</div>
-        </div>
-      </div>
-    </section>
+      <!-- ── QUICK START ── -->
+      <section class="section" id="quickstart">
+        <h2>Quick start</h2>
+        <p class="section-desc">
+          Copy any snippet and start fetching postal data.
+        </p>
 
-    <!-- ── QUICK START ── -->
-    <section class="section" id="quickstart">
-      <h2>Quick start</h2>
-      <p class="section-desc">Copy any snippet and start fetching postal data.</p>
+        <div class="qs-tabs" id="qsTabs">
+          <button class="qs-tab active" data-target="qs-js">JavaScript</button>
+          <button class="qs-tab" data-target="qs-py">Python</button>
+          <button class="qs-tab" data-target="qs-curl">cURL</button>
+        </div>
 
-      <div class="qs-tabs" id="qsTabs">
-        <button class="qs-tab active" data-target="qs-js">JavaScript</button>
-        <button class="qs-tab" data-target="qs-py">Python</button>
-        <button class="qs-tab" data-target="qs-curl">cURL</button>
-      </div>
-
-      <div class="qs-panel active" id="qs-js">
-        <pre><button class="copy-btn" onclick="copyCode(this)">copy</button><code><span class="syn-kw">const</span> <span class="syn-const">BASE</span> = <span class="syn-str">'https://aniket-thapa.github.io/india-pincode-api'</span>;
+        <div class="qs-panel active" id="qs-js">
+          <pre><button class="copy-btn" onclick="copyCode(this)">copy</button><code><span class="syn-kw">const</span> <span class="syn-const">BASE</span> = <span class="syn-str">'https://aniket-thapa.github.io/india-pincode-api'</span>;
 
         <span class="syn-kw">const</span> res = <span class="syn-kw">await</span> <span class="syn-fn">fetch</span>(<span class="syn-str">`${BASE}/pincodes/110001.json`</span>);
         <span class="syn-kw">const</span> data = <span class="syn-kw">await</span> res.<span class="syn-fn">json</span>();
@@ -1250,10 +1245,10 @@
         console.<span class="syn-fn">log</span>(data.state);    <span class="syn-cm">// "DELHI"</span>
         console.<span class="syn-fn">log</span>(data.district); <span class="syn-cm">// "NEW DELHI"</span>
         console.<span class="syn-fn">log</span>(data.offices);  <span class="syn-cm">// [{officeName, officeType, ...}]</span></code></pre>
-      </div>
+        </div>
 
-      <div class="qs-panel" id="qs-py">
-        <pre><button class="copy-btn" onclick="copyCode(this)">copy</button><code><span class="syn-kw">import</span> requests
+        <div class="qs-panel" id="qs-py">
+          <pre><button class="copy-btn" onclick="copyCode(this)">copy</button><code><span class="syn-kw">import</span> requests
 
 <span class="syn-const">BASE</span> = <span class="syn-str">"https://aniket-thapa.github.io/india-pincode-api"</span>
 
@@ -1262,10 +1257,10 @@ data = res.<span class="syn-fn">json</span>()
 
 <span class="syn-fn">print</span>(data[<span class="syn-str">"state"</span>])    <span class="syn-cm"># DELHI</span>
 <span class="syn-fn">print</span>(data[<span class="syn-str">"district"</span>]) <span class="syn-cm"># NEW DELHI</span></code></pre>
-      </div>
+        </div>
 
-      <div class="qs-panel" id="qs-curl">
-        <pre><button class="copy-btn" onclick="copyCode(this)">copy</button><code><span class="syn-cm"># Pincode lookup</span>
+        <div class="qs-panel" id="qs-curl">
+          <pre><button class="copy-btn" onclick="copyCode(this)">copy</button><code><span class="syn-cm"># Pincode lookup</span>
         curl https://aniket-thapa.github.io/india-pincode-api/pincodes/110001.json
 
         <span class="syn-cm"># All states</span>
@@ -1276,28 +1271,156 @@ data = res.<span class="syn-fn">json</span>()
 
         <span class="syn-cm"># District detail</span>
         curl https://aniket-thapa.github.io/india-pincode-api/districts/rajasthan/jodhpur.json</code></pre>
-      </div>
-    </section>
+        </div>
+      </section>
 
-    <!-- ── ENDPOINTS ── -->
-    <section class="section" id="endpoints">
-      <h2>Endpoints</h2>
-      <p class="section-desc">Four endpoints. Predictable URLs. Click to expand.</p>
+      <!-- ── AI PROMPT ── -->
+      <section class="section" id="ai-prompt">
+        <h2>Build with an AI agent</h2>
+        <p class="section-desc">
+          Copy this context-rich prompt into your preferred AI coding assistant
+          to integrate the API safely.
+        </p>
 
-      <div class="endpoint-list">
-        <!-- Endpoint 1 -->
-        <div class="ep-card open">
-          <div class="ep-header" onclick="toggleEp(this)">
-            <span class="ep-method">GET</span>
-            <code class="ep-path">/states.json</code>
-            <span class="ep-label">List all states & UTs</span>
-            <span class="ep-chevron">▼</span>
+        <div class="prompt-card">
+          <div class="prompt-card-header">
+            <div class="prompt-card-label"><span>✨</span> Integration prompt</div>
+            <button
+              class="prompt-copy-btn"
+              id="copyPromptBtn"
+              type="button"
+              onclick="copyPrompt()"
+            >
+              <span aria-hidden="true">⧉</span>
+              <span id="copyPromptLabel">Copy prompt</span>
+            </button>
           </div>
-          <div class="ep-body">
-            <p class="ep-desc">Returns every state and union territory with district count and total post office count.
-            </p>
-            <div class="resp-label">Response</div>
-            <pre><button class="copy-btn" onclick="copyCode(this)">copy</button><code>[
+          <pre><code id="aiPrompt">I am integrating the India Pincode API into an existing application. Please implement the integration using the project's existing language, framework, folder structure, naming conventions, and HTTP utilities. Do not rewrite unrelated code or add unnecessary dependencies.
+
+API base URL:
+https://aniket-thapa.github.io/india-pincode-api
+
+Available read-only endpoints:
+- GET /states.json — all states and union territories
+- GET /states/{state-slug}.json — districts for a state
+- GET /districts/{state-slug}/{district-slug}.json — post offices in a district
+- GET /pincodes/{6-digit-pincode}.json — post offices for a pincode
+
+Response structures (verified against the live API):
+
+1. GET /states.json returns an array:
+[
+  {
+    "name": "ANDAMAN AND NICOBAR ISLANDS",
+    "slug": "andaman-and-nicobar-islands",
+    "districtCount": 3,
+    "officeCount": 100
+  }
+]
+
+2. GET /states/rajasthan.json returns one state object:
+{
+  "name": "RAJASTHAN",
+  "slug": "rajasthan",
+  "districtCount": 33,
+  "districts": [
+    {
+      "name": "AJMER",
+      "slug": "ajmer",
+      "officeCount": 401
+    }
+  ]
+}
+
+3. GET /districts/rajasthan/jodhpur.json returns one district object:
+{
+  "state": "RAJASTHAN",
+  "stateSlug": "rajasthan",
+  "district": "JODHPUR",
+  "districtSlug": "jodhpur",
+  "offices": [
+    {
+      "officeName": "Utwaliya BO",
+      "officeType": "BO",
+      "deliveryStatus": "Delivery",
+      "circleName": "Rajasthan Circle",
+      "regionName": "Jodhpur Region",
+      "divisionName": "Jodhpur Division",
+      "latitude": 26.9157567,
+      "longitude": 70.9083363,
+      "stateName": "RAJASTHAN",
+      "districtName": "JODHPUR",
+      "pincode": "342314"
+    }
+  ]
+}
+
+4. GET /pincodes/342001.json returns one pincode result object:
+{
+  "state": "RAJASTHAN",
+  "district": "JODHPUR",
+  "offices": [
+    {
+      "officeName": "Jodhpur HO",
+      "officeType": "HO",
+      "deliveryStatus": "Delivery",
+      "circleName": "Rajasthan Circle",
+      "regionName": "Jodhpur Region",
+      "divisionName": "Jodhpur Division",
+      "latitude": 26.273048,
+      "longitude": 73.0233764,
+      "stateName": "RAJASTHAN",
+      "districtName": "JODHPUR"
+    }
+  ]
+}
+
+Response notes:
+- The states endpoint returns an array directly; the other endpoints return an object.
+- State and district responses contain summary metadata and nested arrays.
+- District office records include pincode; pincode lookup office records do not.
+- latitude and longitude are numbers or null when unavailable. Treat offices as an array that may be empty and do not assume any optional field exists.
+
+Integration requirements:
+1. Validate and URL-encode user-provided state, district, and pincode values. A pincode must be exactly six digits.
+2. Use the API's existing slug convention for state and district paths: lowercase, replace non-alphanumeric characters with hyphens, and trim leading or trailing hyphens.
+3. Check the HTTP response before parsing JSON and show a clear, user-friendly error for network failures, non-2xx responses, invalid input, empty results, and malformed responses.
+4. Handle nullable latitude and longitude values safely; never assume coordinates are present.
+5. Keep loading, success, empty, and error states distinct. Prevent duplicate requests where appropriate and use the project's existing cancellation or request-state patterns.
+6. Parse and type each response according to the exact structures above. Do not assume every endpoint returns an array or that every office record has the same fields.
+7. Do not hard-code or invent postal data. Use only the API response, and preserve the response field names such as officeName, officeType, deliveryStatus, circleName, regionName, divisionName, latitude, longitude, and pincode.
+8. Add focused tests for validation, URL construction, each response shape, successful parsing, empty results, null coordinates, missing optional fields, and failed requests. Run the relevant existing checks and report any issue that cannot be resolved without changing unrelated behavior.
+
+Before editing, inspect the repository and explain the files you will change. Then implement the smallest complete solution and show the final usage example.</code></pre>
+          <div class="prompt-status" id="promptStatus" role="status" aria-live="polite">
+            Includes endpoint paths, validation rules, error handling, and test requirements.
+          </div>
+        </div>
+      </section>
+
+      <!-- ── ENDPOINTS ── -->
+      <section class="section" id="endpoints">
+        <h2>Endpoints</h2>
+        <p class="section-desc">
+          Four endpoints. Predictable URLs. Click to expand.
+        </p>
+
+        <div class="endpoint-list">
+          <!-- Endpoint 1 -->
+          <div class="ep-card open">
+            <div class="ep-header" onclick="toggleEp(this)">
+              <span class="ep-method">GET</span>
+              <code class="ep-path">/states.json</code>
+              <span class="ep-label">List all states & UTs</span>
+              <span class="ep-chevron">▼</span>
+            </div>
+            <div class="ep-body">
+              <p class="ep-desc">
+                Returns every state and union territory with district count and
+                total post office count.
+              </p>
+              <div class="resp-label">Response</div>
+              <pre><button class="copy-btn" onclick="copyCode(this)">copy</button><code>[
   {
     <span class="syn-str">"name"</span>: <span class="syn-str">"ANDHRA PRADESH"</span>,
     <span class="syn-str">"slug"</span>: <span class="syn-str">"andhra-pradesh"</span>,
@@ -1306,27 +1429,34 @@ data = res.<span class="syn-fn">json</span>()
   }
   <span class="syn-cm">// ... 35 more</span>
 ]</code></pre>
-          </div>
-        </div>
-
-        <!-- Endpoint 2 -->
-        <div class="ep-card">
-          <div class="ep-header" onclick="toggleEp(this)">
-            <span class="ep-method">GET</span>
-            <code class="ep-path">/states/<span class="param">{state-slug}</span>.json</code>
-            <span class="ep-label">State details & districts</span>
-            <span class="ep-chevron">▼</span>
-          </div>
-          <div class="ep-body">
-            <p class="ep-desc">Returns state metadata and all districts with their office counts.</p>
-            <div class="note-box">
-              <span>💡</span>
-              <div><strong>Example:</strong> <code>/states/maharashtra.json</code>,
-                <code>/states/uttar-pradesh.json</code>
-              </div>
             </div>
-            <div class="resp-label">Response</div>
-            <pre><button class="copy-btn" onclick="copyCode(this)">copy</button><code>{
+          </div>
+
+          <!-- Endpoint 2 -->
+          <div class="ep-card">
+            <div class="ep-header" onclick="toggleEp(this)">
+              <span class="ep-method">GET</span>
+              <code class="ep-path"
+                >/states/<span class="param">{state-slug}</span>.json</code
+              >
+              <span class="ep-label">State details & districts</span>
+              <span class="ep-chevron">▼</span>
+            </div>
+            <div class="ep-body">
+              <p class="ep-desc">
+                Returns state metadata and all districts with their office
+                counts.
+              </p>
+              <div class="note-box">
+                <span>💡</span>
+                <div>
+                  <strong>Example:</strong>
+                  <code>/states/maharashtra.json</code>,
+                  <code>/states/uttar-pradesh.json</code>
+                </div>
+              </div>
+              <div class="resp-label">Response</div>
+              <pre><button class="copy-btn" onclick="copyCode(this)">copy</button><code>{
   <span class="syn-str">"name"</span>: <span class="syn-str">"RAJASTHAN"</span>,
   <span class="syn-str">"slug"</span>: <span class="syn-str">"rajasthan"</span>,
   <span class="syn-str">"districtCount"</span>: <span class="syn-num">33</span>,
@@ -1335,29 +1465,38 @@ data = res.<span class="syn-fn">json</span>()
     <span class="syn-cm">// ... 32 more</span>
   ]
 }</code></pre>
-          </div>
-        </div>
-
-        <!-- Endpoint 3 -->
-        <div class="ep-card">
-          <div class="ep-header" onclick="toggleEp(this)">
-            <span class="ep-method">GET</span>
-            <code
-              class="ep-path">/districts/<span class="param">{state-slug}</span>/<span class="param">{district-slug}</span>.json</code>
-            <span class="ep-label">All offices in a district</span>
-            <span class="ep-chevron">▼</span>
-          </div>
-          <div class="ep-body">
-            <p class="ep-desc">Returns every post office in a district with name, type, delivery status, circle, region,
-              division, pincode, and GPS coordinates.</p>
-            <div class="note-box">
-              <span>💡</span>
-              <div><strong>Example:</strong> <code>/districts/rajasthan/jodhpur.json</code>,
-                <code>/districts/maharashtra/pune.json</code>
-              </div>
             </div>
-            <div class="resp-label">Response</div>
-            <pre><button class="copy-btn" onclick="copyCode(this)">copy</button><code>{
+          </div>
+
+          <!-- Endpoint 3 -->
+          <div class="ep-card">
+            <div class="ep-header" onclick="toggleEp(this)">
+              <span class="ep-method">GET</span>
+              <code class="ep-path"
+                >/districts/<span class="param">{state-slug}</span>/<span
+                  class="param"
+                  >{district-slug}</span
+                >.json</code
+              >
+              <span class="ep-label">All offices in a district</span>
+              <span class="ep-chevron">▼</span>
+            </div>
+            <div class="ep-body">
+              <p class="ep-desc">
+                Returns every post office in a district with name, type,
+                delivery status, circle, region, division, pincode, and GPS
+                coordinates.
+              </p>
+              <div class="note-box">
+                <span>💡</span>
+                <div>
+                  <strong>Example:</strong>
+                  <code>/districts/rajasthan/jodhpur.json</code>,
+                  <code>/districts/maharashtra/pune.json</code>
+                </div>
+              </div>
+              <div class="resp-label">Response</div>
+              <pre><button class="copy-btn" onclick="copyCode(this)">copy</button><code>{
   <span class="syn-str">"state"</span>: <span class="syn-str">"RAJASTHAN"</span>,
   <span class="syn-str">"district"</span>: <span class="syn-str">"JODHPUR"</span>,
   <span class="syn-str">"offices"</span>: [
@@ -1372,29 +1511,36 @@ data = res.<span class="syn-fn">json</span>()
     <span class="syn-cm">// ... 445 more</span>
   ]
 }</code></pre>
-          </div>
-        </div>
-
-        <!-- Endpoint 4 -->
-        <div class="ep-card">
-          <div class="ep-header" onclick="toggleEp(this)">
-            <span class="ep-method">GET</span>
-            <code class="ep-path">/pincodes/<span class="param">{6-digit-pincode}</span>.json</code>
-            <span class="ep-label">Pincode lookup</span>
-            <span class="ep-chevron">▼</span>
-          </div>
-          <div class="ep-body">
-            <p class="ep-desc">Returns all post offices under a specific pincode with state and district context. The
-              <code>pincode</code> field is omitted since it's encoded in the URL.
-            </p>
-            <div class="note-box warn">
-              <span>⚠️</span>
-              <div>A single pincode can map to multiple offices. Always iterate <code>offices[]</code> and null-check
-                <code>latitude</code>/<code>longitude</code>.
-              </div>
             </div>
-            <div class="resp-label">Response</div>
-            <pre><button class="copy-btn" onclick="copyCode(this)">copy</button><code>{
+          </div>
+
+          <!-- Endpoint 4 -->
+          <div class="ep-card">
+            <div class="ep-header" onclick="toggleEp(this)">
+              <span class="ep-method">GET</span>
+              <code class="ep-path"
+                >/pincodes/<span class="param">{6-digit-pincode}</span
+                >.json</code
+              >
+              <span class="ep-label">Pincode lookup</span>
+              <span class="ep-chevron">▼</span>
+            </div>
+            <div class="ep-body">
+              <p class="ep-desc">
+                Returns all post offices under a specific pincode with state and
+                district context. The <code>pincode</code> field is omitted
+                since it's encoded in the URL.
+              </p>
+              <div class="note-box warn">
+                <span>⚠️</span>
+                <div>
+                  A single pincode can map to multiple offices. Always iterate
+                  <code>offices[]</code> and null-check
+                  <code>latitude</code>/<code>longitude</code>.
+                </div>
+              </div>
+              <div class="resp-label">Response</div>
+              <pre><button class="copy-btn" onclick="copyCode(this)">copy</button><code>{
   <span class="syn-str">"state"</span>: <span class="syn-str">"DELHI"</span>,
   <span class="syn-str">"district"</span>: <span class="syn-str">"NEW DELHI"</span>,
   <span class="syn-str">"offices"</span>: [
@@ -1407,488 +1553,571 @@ data = res.<span class="syn-fn">json</span>()
     }
   ]
 }</code></pre>
+            </div>
           </div>
         </div>
-      </div>
-    </section>
+      </section>
 
-    <!-- ── PLAYGROUND ── -->
-    <section class="section" id="playground">
-      <h2>Playground</h2>
-      <p class="section-desc">Test endpoints with live data.</p>
+      <!-- ── PLAYGROUND ── -->
+      <section class="section" id="playground">
+        <h2>Playground</h2>
+        <p class="section-desc">Test endpoints with live data.</p>
 
-      <div class="playground-card">
-        <div class="pg-header">
-          <span>⚡</span>
-          API Explorer
-          <span class="pg-live">LIVE</span>
+        <div class="playground-card">
+          <div class="pg-header">
+            <span>⚡</span>
+            API Explorer
+            <span class="pg-live">LIVE</span>
+          </div>
+          <div class="pg-body">
+            <div class="pg-row">
+              <select class="pg-select" id="playEndpoint">
+                <option value="states.json">
+                  GET /states.json — All states
+                </option>
+                <option value="states/rajasthan.json">
+                  GET /states/rajasthan.json
+                </option>
+                <option value="states/maharashtra.json">
+                  GET /states/maharashtra.json
+                </option>
+                <option value="states/delhi.json">
+                  GET /states/delhi.json
+                </option>
+                <option value="districts/rajasthan/jodhpur.json">
+                  GET /districts/rajasthan/jodhpur.json
+                </option>
+                <option value="districts/maharashtra/pune.json">
+                  GET /districts/maharashtra/pune.json
+                </option>
+                <option value="pincodes/110001.json">
+                  GET /pincodes/110001.json — New Delhi
+                </option>
+                <option value="pincodes/400001.json">
+                  GET /pincodes/400001.json — Mumbai
+                </option>
+                <option value="pincodes/342001.json">
+                  GET /pincodes/342001.json — Jodhpur
+                </option>
+                <option value="pincodes/600001.json">
+                  GET /pincodes/600001.json — Chennai
+                </option>
+              </select>
+              <button class="run-btn" id="runBtn" onclick="runPlayground()">
+                Run
+              </button>
+            </div>
+            <div class="pg-url" id="playUrl"></div>
+            <div class="pg-output" id="playOutput">
+              <div class="pg-placeholder">Select an endpoint and click Run</div>
+            </div>
+            <div class="pg-actions">
+              <button class="btn-sm" onclick="copyPlayOutput()">
+                Copy JSON
+              </button>
+              <button class="btn-sm" onclick="clearPlay()">Clear</button>
+            </div>
+          </div>
         </div>
-        <div class="pg-body">
-          <div class="pg-row">
-            <select class="pg-select" id="playEndpoint">
-              <option value="states.json">GET /states.json — All states</option>
-              <option value="states/rajasthan.json">GET /states/rajasthan.json</option>
-              <option value="states/maharashtra.json">GET /states/maharashtra.json</option>
-              <option value="states/delhi.json">GET /states/delhi.json</option>
-              <option value="districts/rajasthan/jodhpur.json">GET /districts/rajasthan/jodhpur.json</option>
-              <option value="districts/maharashtra/pune.json">GET /districts/maharashtra/pune.json</option>
-              <option value="pincodes/110001.json">GET /pincodes/110001.json — New Delhi</option>
-              <option value="pincodes/400001.json">GET /pincodes/400001.json — Mumbai</option>
-              <option value="pincodes/342001.json">GET /pincodes/342001.json — Jodhpur</option>
-              <option value="pincodes/600001.json">GET /pincodes/600001.json — Chennai</option>
-            </select>
-            <button class="run-btn" id="runBtn" onclick="runPlayground()">Run</button>
-          </div>
-          <div class="pg-url" id="playUrl"></div>
-          <div class="pg-output" id="playOutput">
-            <div class="pg-placeholder">Select an endpoint and click Run</div>
-          </div>
-          <div class="pg-actions">
-            <button class="btn-sm" onclick="copyPlayOutput()">Copy JSON</button>
-            <button class="btn-sm" onclick="clearPlay()">Clear</button>
-          </div>
-        </div>
-      </div>
-    </section>
+      </section>
 
-    <!-- ── FIELDS ── -->
-    <section class="section" id="fields">
-      <h2>Field reference</h2>
-      <p class="section-desc">Office objects share a consistent schema across all endpoints.</p>
-
-      <div class="table-wrap">
-        <table class="field-table">
-          <thead>
-            <tr>
-              <th>Field</th>
-              <th>Type</th>
-              <th>Description</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td><span class="f-name">officeName</span></td>
-              <td><span class="f-type">string</span></td>
-              <td class="f-desc">Name of the post office</td>
-            </tr>
-            <tr>
-              <td><span class="f-name">officeType</span></td>
-              <td><span class="f-type">string</span></td>
-              <td class="f-desc"><code>HO</code> (Head), <code>SO</code> (Sub), <code>BO</code> (Branch),
-                <code>PO</code> (Post Office)
-              </td>
-            </tr>
-            <tr>
-              <td><span class="f-name">deliveryStatus</span></td>
-              <td><span class="f-type">string</span></td>
-              <td class="f-desc"><code>"Delivery"</code> or <code>"Non Delivery"</code></td>
-            </tr>
-            <tr>
-              <td><span class="f-name">circleName</span></td>
-              <td><span class="f-type">string</span></td>
-              <td class="f-desc">Postal circle (e.g. "Rajasthan Circle")</td>
-            </tr>
-            <tr>
-              <td><span class="f-name">regionName</span></td>
-              <td><span class="f-type">string</span></td>
-              <td class="f-desc">Postal region within the circle</td>
-            </tr>
-            <tr>
-              <td><span class="f-name">divisionName</span></td>
-              <td><span class="f-type">string</span></td>
-              <td class="f-desc">Postal division within the region</td>
-            </tr>
-            <tr>
-              <td><span class="f-name">latitude</span></td>
-              <td><span class="f-type">number | null</span></td>
-              <td class="f-desc">WGS-84 latitude. <code>null</code> when unavailable.</td>
-            </tr>
-            <tr>
-              <td><span class="f-name">longitude</span></td>
-              <td><span class="f-type">number | null</span></td>
-              <td class="f-desc">WGS-84 longitude. <code>null</code> when unavailable.</td>
-            </tr>
-            <tr>
-              <td><span class="f-name">pincode</span></td>
-              <td><span class="f-type">string</span></td>
-              <td class="f-desc">6-digit pincode. Only in district endpoint responses.</td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-
-      <div style="margin-top: 32px;">
-        <h3 style="font-size: 16px; font-weight: 600; margin-bottom: 6px;">Slug convention</h3>
-        <p style="color: var(--text-secondary); font-size: 13px; margin-bottom: 12px;">
-          Names are lowercased, non-alphanumeric characters replaced with hyphens, leading/trailing hyphens trimmed.
+      <!-- ── FIELDS ── -->
+      <section class="section" id="fields">
+        <h2>Field reference</h2>
+        <p class="section-desc">
+          Office objects share a consistent schema across all endpoints.
         </p>
+
         <div class="table-wrap">
           <table class="field-table">
             <thead>
               <tr>
-                <th>Official name</th>
-                <th>Slug</th>
+                <th>Field</th>
+                <th>Type</th>
+                <th>Description</th>
               </tr>
             </thead>
             <tbody>
               <tr>
-                <td class="f-desc">UTTAR PRADESH</td>
-                <td><span class="f-name">uttar-pradesh</span></td>
+                <td><span class="f-name">officeName</span></td>
+                <td><span class="f-type">string</span></td>
+                <td class="f-desc">Name of the post office</td>
               </tr>
               <tr>
-                <td class="f-desc">JAMMU AND KASHMIR</td>
-                <td><span class="f-name">jammu-and-kashmir</span></td>
+                <td><span class="f-name">officeType</span></td>
+                <td><span class="f-type">string</span></td>
+                <td class="f-desc">
+                  <code>HO</code> (Head), <code>SO</code> (Sub),
+                  <code>BO</code> (Branch), <code>PO</code> (Post Office)
+                </td>
               </tr>
               <tr>
-                <td class="f-desc">KUMURAM BHEEM ASIFABAD</td>
-                <td><span class="f-name">kumuram-bheem-asifabad</span></td>
+                <td><span class="f-name">deliveryStatus</span></td>
+                <td><span class="f-type">string</span></td>
+                <td class="f-desc">
+                  <code>"Delivery"</code> or <code>"Non Delivery"</code>
+                </td>
+              </tr>
+              <tr>
+                <td><span class="f-name">circleName</span></td>
+                <td><span class="f-type">string</span></td>
+                <td class="f-desc">Postal circle (e.g. "Rajasthan Circle")</td>
+              </tr>
+              <tr>
+                <td><span class="f-name">regionName</span></td>
+                <td><span class="f-type">string</span></td>
+                <td class="f-desc">Postal region within the circle</td>
+              </tr>
+              <tr>
+                <td><span class="f-name">divisionName</span></td>
+                <td><span class="f-type">string</span></td>
+                <td class="f-desc">Postal division within the region</td>
+              </tr>
+              <tr>
+                <td><span class="f-name">latitude</span></td>
+                <td><span class="f-type">number | null</span></td>
+                <td class="f-desc">
+                  WGS-84 latitude. <code>null</code> when unavailable.
+                </td>
+              </tr>
+              <tr>
+                <td><span class="f-name">longitude</span></td>
+                <td><span class="f-type">number | null</span></td>
+                <td class="f-desc">
+                  WGS-84 longitude. <code>null</code> when unavailable.
+                </td>
+              </tr>
+              <tr>
+                <td><span class="f-name">pincode</span></td>
+                <td><span class="f-type">string</span></td>
+                <td class="f-desc">
+                  6-digit pincode. Only in district endpoint responses.
+                </td>
               </tr>
             </tbody>
           </table>
         </div>
-      </div>
-    </section>
 
-    <!-- ── ABOUT ── -->
-    <section class="section" id="about">
-      <h2>About</h2>
-      <p class="section-desc">An open-source project to make Indian postal data accessible to every developer.</p>
-
-      <div class="about-card">
-        <div class="about-avatar">A</div>
-        <div class="about-info">
-          <div class="about-name">Aniket Thapa</div>
-          <div class="about-role">Software Engineer · Open Source</div>
-          <div class="about-text">
-            All data is sourced from the official Department of Posts dataset via
-            <a href="https://data.gov.in" target="_blank">data.gov.in</a>.
-            Free for non-commercial use with attribution.
+        <div style="margin-top: 32px">
+          <h3 style="font-size: 16px; font-weight: 600; margin-bottom: 6px">
+            Slug convention
+          </h3>
+          <p
+            style="
+              color: var(--text-secondary);
+              font-size: 13px;
+              margin-bottom: 12px;
+            "
+          >
+            Names are lowercased, non-alphanumeric characters replaced with
+            hyphens, leading/trailing hyphens trimmed.
+          </p>
+          <div class="table-wrap">
+            <table class="field-table">
+              <thead>
+                <tr>
+                  <th>Official name</th>
+                  <th>Slug</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td class="f-desc">UTTAR PRADESH</td>
+                  <td><span class="f-name">uttar-pradesh</span></td>
+                </tr>
+                <tr>
+                  <td class="f-desc">JAMMU AND KASHMIR</td>
+                  <td><span class="f-name">jammu-and-kashmir</span></td>
+                </tr>
+                <tr>
+                  <td class="f-desc">KUMURAM BHEEM ASIFABAD</td>
+                  <td><span class="f-name">kumuram-bheem-asifabad</span></td>
+                </tr>
+              </tbody>
+            </table>
           </div>
-          <div class="about-links">
-            <a class="btn-sm" href="https://github.com/aniket-thapa" target="_blank">
-              <svg width="13" height="13" fill="currentColor" viewBox="0 0 24 24">
-                <path
-                  d="M12 2C6.477 2 2 6.477 2 12c0 4.42 2.865 8.17 6.839 9.49.5.092.682-.217.682-.482 0-.237-.008-.866-.013-1.7-2.782.604-3.369-1.34-3.369-1.34-.454-1.156-1.11-1.464-1.11-1.464-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.831.092-.646.35-1.086.636-1.336-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.578 9.578 0 0112 6.836c.85.004 1.705.114 2.504.336 1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.203 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.743 0 .267.18.578.688.48C19.138 20.167 22 16.418 22 12c0-5.523-4.477-10-10-10z" />
-              </svg>
-              GitHub
-            </a>
-            <a class="btn-sm" href="https://github.com/aniket-thapa/india-pincode-api" target="_blank">
-              📦 Repository
-            </a>
-            <a class="btn-sm" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">
-              📜 CC BY-NC 4.0
-            </a>
+        </div>
+      </section>
+
+      <!-- ── ABOUT ── -->
+      <section class="section" id="about">
+        <h2>About</h2>
+        <p class="section-desc">
+          An open-source project to make Indian postal data accessible to every
+          developer.
+        </p>
+
+        <div class="about-card">
+          <div class="about-avatar">A</div>
+          <div class="about-info">
+            <div class="about-name">Aniket Thapa</div>
+            <div class="about-role">Software Engineer · Open Source</div>
+            <div class="about-text">
+              All data is sourced from the official Department of Posts dataset
+              via
+              <a href="https://data.gov.in" target="_blank">data.gov.in</a>.
+              Free for non-commercial use with attribution.
+            </div>
+            <div class="about-links">
+              <a
+                class="btn-sm"
+                href="https://github.com/aniket-thapa"
+                target="_blank"
+              >
+                <svg
+                  width="13"
+                  height="13"
+                  fill="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M12 2C6.477 2 2 6.477 2 12c0 4.42 2.865 8.17 6.839 9.49.5.092.682-.217.682-.482 0-.237-.008-.866-.013-1.7-2.782.604-3.369-1.34-3.369-1.34-.454-1.156-1.11-1.464-1.11-1.464-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.831.092-.646.35-1.086.636-1.336-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.578 9.578 0 0112 6.836c.85.004 1.705.114 2.504.336 1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.203 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.743 0 .267.18.578.688.48C19.138 20.167 22 16.418 22 12c0-5.523-4.477-10-10-10z"
+                  />
+                </svg>
+                GitHub
+              </a>
+              <a
+                class="btn-sm"
+                href="https://github.com/aniket-thapa/india-pincode-api"
+                target="_blank"
+              >
+                📦 Repository
+              </a>
+              <a
+                class="btn-sm"
+                href="https://creativecommons.org/licenses/by-nc/4.0/"
+                target="_blank"
+              >
+                📜 CC BY-NC 4.0
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div
+          style="
+            margin-top: 16px;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+          "
+        >
+          <div class="note-box">
+            <span>📊</span>
+            <div>
+              <strong>Data source:</strong> Official Department of Posts dataset
+              via data.gov.in — reproduced faithfully including any upstream
+              inconsistencies.
+            </div>
+          </div>
+          <div class="note-box warn">
+            <span>⚠️</span>
+            <div>
+              <strong>Null coordinates:</strong> Some offices have
+              <code>null</code> lat/lng — always null-check before using
+              coordinates.
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- ── FOOTER ── -->
+    <footer class="footer">
+      <div class="container">
+        <div class="footer-inner">
+          <div>
+            Built by
+            <a href="https://github.com/aniket-thapa" target="_blank"
+              >Aniket Thapa</a
+            >
+            &nbsp;·&nbsp; Data via
+            <a href="https://data.gov.in" target="_blank">data.gov.in</a>
+            &nbsp;·&nbsp;
+            <a
+              href="https://creativecommons.org/licenses/by-nc/4.0/"
+              target="_blank"
+              >CC BY-NC 4.0</a
+            >
+          </div>
+          <div class="visitor-count">
+            Views: <span id="visit-count">...</span>
           </div>
         </div>
       </div>
+    </footer>
 
-      <div style="margin-top: 16px; display: flex; flex-direction: column; gap: 8px;">
-        <div class="note-box">
-          <span>📊</span>
-          <div><strong>Data source:</strong> Official Department of Posts dataset via data.gov.in — reproduced
-            faithfully including any upstream inconsistencies.</div>
-        </div>
-        <div class="note-box warn">
-          <span>⚠️</span>
-          <div><strong>Null coordinates:</strong> Some offices have <code>null</code> lat/lng — always null-check before
-            using coordinates.</div>
-        </div>
-      </div>
-    </section>
+    <script>
+      /* ── THEME ── */
+      const themeBtn = document.getElementById('themeBtn');
+      const html = document.documentElement;
+      let theme = localStorage.getItem('theme') || 'light';
+      applyTheme(theme);
 
-  </main>
-
-  <!-- ── FOOTER ── -->
-  <footer class="footer">
-    <div class="container">
-      <div class="footer-inner">
-        <div>
-          Built by <a href="https://github.com/aniket-thapa" target="_blank">Aniket Thapa</a>
-          &nbsp;·&nbsp; Data via <a href="https://data.gov.in" target="_blank">data.gov.in</a>
-          &nbsp;·&nbsp; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>
-        </div>
-        <div class="visitor-count">
-          Views: <span id="visit-count">...</span>
-        </div>
-      </div>
-    </div>
-  </footer>
-
-  <script>
-    /* ── THEME ── */
-    const themeBtn = document.getElementById('themeBtn');
-    const html = document.documentElement;
-    let theme = localStorage.getItem('theme') || 'light';
-    applyTheme(theme);
-
-    function applyTheme(t) {
-      if (t === 'dark') {
-        html.setAttribute('data-theme', 'dark');
-      } else {
-        html.removeAttribute('data-theme');
+      function applyTheme(t) {
+        if (t === 'dark') {
+          html.setAttribute('data-theme', 'dark');
+        } else {
+          html.removeAttribute('data-theme');
+        }
+        themeBtn.textContent = t === 'dark' ? '☀️' : '🌙';
+        theme = t;
+        localStorage.setItem('theme', t);
       }
-      themeBtn.textContent = t === 'dark' ? '☀️' : '🌙';
-      theme = t;
-      localStorage.setItem('theme', t);
-    }
-    themeBtn.addEventListener('click', () =>
-      applyTheme(theme === 'dark' ? 'light' : 'dark')
-    );
-
-    /* ── COPY BASE URL ── */
-    const copyBaseEl = document.getElementById('copyBase');
-    copyBaseEl.addEventListener('click', copyBaseUrl);
-    copyBaseEl.addEventListener('keydown', e => {
-      if (e.key === 'Enter' || e.key === ' ') {
-        e.preventDefault();
-        copyBaseUrl();
-      }
-    });
-    function copyBaseUrl() {
-      navigator.clipboard.writeText(
-        'https://aniket-thapa.github.io/india-pincode-api'
+      themeBtn.addEventListener('click', () =>
+        applyTheme(theme === 'dark' ? 'light' : 'dark'),
       );
-      const hint = document.getElementById('copyHint');
-      hint.textContent = 'copied!';
-      hint.style.color = 'var(--green)';
-      hint.style.borderColor = 'var(--green)';
-      setTimeout(() => {
-        hint.textContent = 'copy';
-        hint.style.color = '';
-        hint.style.borderColor = '';
-      }, 2000);
-    }
 
-    /* ── QS TABS ── */
-    document.getElementById('qsTabs').querySelectorAll('.qs-tab').forEach(tab => {
-      tab.addEventListener('click', () => {
-        document.getElementById('qsTabs').querySelectorAll('.qs-tab').forEach(t => t.classList.remove('active'));
-        tab.classList.add('active');
-        const target = tab.dataset.target;
-        document.querySelectorAll('.qs-panel').forEach(p => {
-          p.classList.toggle('active', p.id === target);
-        });
+      /* ── COPY BASE URL ── */
+      const copyBaseEl = document.getElementById('copyBase');
+      copyBaseEl.addEventListener('click', copyBaseUrl);
+      copyBaseEl.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter' || e.key === ' ') {
+          e.preventDefault();
+          copyBaseUrl();
+        }
       });
-    });
-
-    /* ── COPY CODE ── */
-    function copyCode(btn) {
-      const pre = btn.closest('pre');
-      const code = pre.querySelector('code');
-      const text = code ? code.innerText : pre.innerText.replace(/^copy\n/, '');
-      navigator.clipboard.writeText(text);
-      btn.textContent = 'copied!';
-      btn.classList.add('copied');
-      setTimeout(() => {
-        btn.textContent = 'copy';
-        btn.classList.remove('copied');
-      }, 2000);
-    }
-
-    /* ── ENDPOINT TOGGLE ── */
-    function toggleEp(header) {
-      header.closest('.ep-card').classList.toggle('open');
-    }
-
-    /* ── PLAYGROUND ── */
-    const BASE = 'https://aniket-thapa.github.io/india-pincode-api';
-    const playEndpoint = document.getElementById('playEndpoint');
-    const playUrl = document.getElementById('playUrl');
-    const playOutput = document.getElementById('playOutput');
-    const runBtn = document.getElementById('runBtn');
-
-    async function runPlayground() {
-      const ep = playEndpoint.value;
-      const url = `${BASE}/${ep}`;
-      playUrl.textContent = url;
-      runBtn.disabled = true;
-      runBtn.innerHTML = '<span class="spinner"></span>';
-      playOutput.innerHTML = '<div class="pg-placeholder">Loading...</div>';
-
-      try {
-        const res = await fetch(url);
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        const data = await res.json();
-        const display = truncateForDisplay(data);
-        playOutput.innerHTML = `<div class="pg-json">${syntaxHL(JSON.stringify(display, null, 2))}</div>`;
-      } catch (e) {
-        playOutput.innerHTML = `<div class="pg-placeholder" style="color:var(--accent)">Error: ${e.message}</div>`;
-      }
-      runBtn.disabled = false;
-      runBtn.textContent = 'Run';
-    }
-
-    function truncateForDisplay(data) {
-      if (Array.isArray(data) && data.length > 6) {
-        return [...data.slice(0, 6), { '...': `${data.length - 6} more items` }];
-      }
-      if (data && data.offices && data.offices.length > 5) {
-        return { ...data, offices: [...data.offices.slice(0, 5), { '...': `${data.offices.length - 5} more offices` }] };
-      }
-      if (data && data.districts && data.districts.length > 8) {
-        return { ...data, districts: [...data.districts.slice(0, 8), { '...': `${data.districts.length - 8} more districts` }] };
-      }
-      return data;
-    }
-
-    function syntaxHL(json) {
-      return json
-        .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
-        .replace(
-          /("(\\u[a-zA-Z0-9]{4}|\\[^u]|[^\\"])*"(\s*:)?|\b(true|false|null)\b|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?)/g,
-          match => {
-            let cls = 'syn-num';
-            if (/^"/.test(match)) cls = /:$/.test(match) ? 'syn-fn' : 'syn-str';
-            else if (/true|false/.test(match)) cls = 'syn-kw';
-            else if (/null/.test(match)) cls = 'syn-kw';
-            return `<span class="${cls}">${match}</span>`;
-          }
+      function copyBaseUrl() {
+        navigator.clipboard.writeText(
+          'https://aniket-thapa.github.io/india-pincode-api',
         );
-    }
-
-    function copyPlayOutput() {
-      navigator.clipboard.writeText(document.getElementById('playOutput').innerText);
-    }
-    function clearPlay() {
-      playOutput.innerHTML = '<div class="pg-placeholder">Select an endpoint and click Run</div>';
-      playUrl.textContent = '';
-    }
-
-    /* ── ACTIVE NAV ── */
-    const sections = document.querySelectorAll('section[id]');
-    const navAnchors = document.querySelectorAll('.nav-links a');
-    window.addEventListener('scroll', () => {
-      let current = '';
-      sections.forEach(s => {
-        if (window.scrollY >= s.offsetTop - 100) current = s.id;
-      });
-      navAnchors.forEach(a => {
-        a.style.color = a.getAttribute('href') === `#${current}` ? 'var(--text)' : '';
-      });
-    }, { passive: true });
-  </script>
-
-  <!-- AI Agent Script -->
-  <script>
-    (function () {
-      const AI_AGENT_PROMPT = `Integrate the free, static India Pincode REST API into my project.
-
-  1. Base URL: https://aniket-thapa.github.io/india-pincode-api
-  - Static JSON hosted on GitHub Pages. No API key, no rate limits, CORS enabled, GET requests only.
-
-  2. Endpoints & Response Schemas:
-  - GET /states.json -> Array<{ name: string, slug: string, districtCount: number, officeCount: number }>
-    - GET /states/{state-slug}.json -> { state: string, slug: string, districtCount: number, officeCount: number,
-    districts: Array<{ name: string, slug: string, officeCount: number }> }
-      - GET /districts/{state-slug}/{district-slug}.json -> { state: string, stateSlug: string, district: string,
-      districtSlug: string, officeCount: number, offices: Array<Office & { pincode: string }> }
-        - GET /pincodes/{6-digit-pincode}.json -> { pincode: string, state: string, stateSlug: string, district: string,
-        districtSlug: string, officeCount: number, offices: Array<{ officeName: string, officeType: "B.O" |"S.O"|"H.O",
-          delivery: "Delivery" |"Non Delivery", division: string, region: string, circle: string, taluk: string,
-          latitude: number|null, longitude: number|null }> }
-
-          3. Mandatory Bug-Prevention Rules:
-          - Validate PIN format client-side with /^[1-9][0-9]{5}$/ BEFORE calling fetch().
-          - Check res.ok (if res.status === 404 return null) BEFORE calling res.json(), as missing PINs return a GitHub
-          Pages 404 response.
-          - Always treat offices[] as an array of multiple post offices per PIN code; never assume a single office.
-          - Guard against null latitude/longitude values before passing coordinates to maps or distance helpers.`;
-
-      const copyBtn = document.getElementById('copyAiPromptBtn');
-      const copyLabel = document.getElementById('copyAiPromptLabel');
-      const sparkleIcon = copyBtn.querySelector('.ai-icon--sparkle');
-      const checkIcon = copyBtn.querySelector('.ai-icon--check');
-      const previewBtn = document.getElementById('toggleAiPromptPreview');
-      const drawer = document.getElementById('aiPromptDrawer');
-      const rawPre = document.getElementById('aiPromptRawText');
-
-      rawPre.textContent = AI_AGENT_PROMPT;
-
-      previewBtn.addEventListener('click', () => {
-        const isHidden = drawer.hasAttribute('hidden');
-        if (isHidden) {
-          drawer.removeAttribute('hidden');
-          previewBtn.textContent = 'Hide';
-          previewBtn.setAttribute('aria-expanded', 'true');
-        } else {
-          drawer.setAttribute('hidden', '');
-          previewBtn.textContent = 'Preview';
-          previewBtn.setAttribute('aria-expanded', 'false');
-        }
-      });
-
-      copyBtn.addEventListener('click', async () => {
-        try {
-          await navigator.clipboard.writeText(AI_AGENT_PROMPT);
-        } catch {
-          const ta = document.createElement('textarea');
-          ta.value = AI_AGENT_PROMPT;
-          ta.style.position = 'fixed';
-          ta.style.opacity = '0';
-          document.body.appendChild(ta);
-          ta.select();
-          document.execCommand('copy');
-          document.body.removeChild(ta);
-        }
-
-        copyBtn.classList.add('is-copied');
-        sparkleIcon.style.display = 'none';
-        checkIcon.style.display = 'inline-block';
-        copyLabel.textContent = 'Copied for AI Agent!';
-
+        const hint = document.getElementById('copyHint');
+        hint.textContent = 'copied!';
+        hint.style.color = 'var(--green)';
+        hint.style.borderColor = 'var(--green)';
         setTimeout(() => {
-          copyBtn.classList.remove('is-copied');
-          sparkleIcon.style.display = 'inline-block';
-          checkIcon.style.display = 'none';
-          copyLabel.textContent = 'Copy AI Prompt';
-        }, 2200);
-      });
-    })();
-  </script>
-
-  <!-- Load the library with 'defer' so it doesn't block HTML parsing -->
-  <script src="https://cdn.jsdelivr.net/npm/counterapi/dist/counter.browser.min.js"
-    integrity="sha384-HBUQyk5q5qw1HRncTJ+YhLoAG5fO1eF+eldNdLaQm6Ra7w7DdyVTRVkTbeIfQtMN" crossorigin="anonymous"
-    defer></script>
-
-  <script defer>
-    document.addEventListener('DOMContentLoaded', async () => {
-      const counterEl = document.getElementById('visit-count');
-      if (!counterEl) return;
-
-      if (typeof Counter === 'undefined') {
-        console.warn('CounterAPI library blocked or failed to load.');
-        counterEl.textContent = '--';
-        return;
+          hint.textContent = 'copy';
+          hint.style.color = '';
+          hint.style.borderColor = '';
+        }, 2000);
       }
 
-      try {
-        const counterClient = new Counter({
-          workspace: 'aniket-thapa-india-pincode-api',
+      /* ── QS TABS ── */
+      document
+        .getElementById('qsTabs')
+        .querySelectorAll('.qs-tab')
+        .forEach((tab) => {
+          tab.addEventListener('click', () => {
+            document
+              .getElementById('qsTabs')
+              .querySelectorAll('.qs-tab')
+              .forEach((t) => t.classList.remove('active'));
+            tab.classList.add('active');
+            const target = tab.dataset.target;
+            document.querySelectorAll('.qs-panel').forEach((p) => {
+              p.classList.toggle('active', p.id === target);
+            });
+          });
         });
 
-        const counterName = 'india-pincode-api-homepage-visits';
-        const sessionKey = `visited_${counterName}`;
-        let result;
-
-        if (!sessionStorage.getItem(sessionKey)) {
-          result = await counterClient.up(counterName);
-          sessionStorage.setItem(sessionKey, 'true');
-        } else {
-          result = await counterClient.get(counterName);
-        }
-
-        if (result && result.code === '200') {
-          counterEl.textContent = result.data.up_count.toLocaleString();
-        } else {
-          throw new Error('Invalid API payload');
-        }
-      } catch (error) {
-        console.error('Failed to fetch visitor count:', error);
-        counterEl.textContent = '--';
+      /* ── COPY CODE ── */
+      function copyCode(btn) {
+        const pre = btn.closest('pre');
+        const code = pre.querySelector('code');
+        const text = code
+          ? code.innerText
+          : pre.innerText.replace(/^copy\n/, '');
+        navigator.clipboard.writeText(text);
+        btn.textContent = 'copied!';
+        btn.classList.add('copied');
+        setTimeout(() => {
+          btn.textContent = 'copy';
+          btn.classList.remove('copied');
+        }, 2000);
       }
-    });
-  </script>
-</body>
 
+      /* ── COPY AI PROMPT ── */
+      async function copyPrompt() {
+        const prompt = document.getElementById('aiPrompt').innerText.trim();
+        const button = document.getElementById('copyPromptBtn');
+        const label = document.getElementById('copyPromptLabel');
+        const status = document.getElementById('promptStatus');
+
+        try {
+          if (navigator.clipboard && window.isSecureContext) {
+            await navigator.clipboard.writeText(prompt);
+          } else {
+            const textArea = document.createElement('textarea');
+            textArea.value = prompt;
+            textArea.setAttribute('readonly', '');
+            textArea.style.position = 'fixed';
+            textArea.style.opacity = '0';
+            document.body.appendChild(textArea);
+            textArea.select();
+            const copied = document.execCommand('copy');
+            textArea.remove();
+            if (!copied) throw new Error('Copy command was rejected');
+          }
+
+          button.classList.add('copied');
+          label.textContent = 'Copied!';
+          status.textContent =
+            'Prompt copied. Paste it into your preferred AI coding assistant.';
+          setTimeout(() => {
+            button.classList.remove('copied');
+            label.textContent = 'Copy prompt';
+          }, 2000);
+        } catch (error) {
+          console.error('Failed to copy AI prompt:', error);
+          status.textContent =
+            'Unable to copy automatically. Select the prompt text and copy it manually.';
+        }
+      }
+
+      /* ── ENDPOINT TOGGLE ── */
+      function toggleEp(header) {
+        header.closest('.ep-card').classList.toggle('open');
+      }
+
+      /* ── PLAYGROUND ── */
+      const BASE = 'https://aniket-thapa.github.io/india-pincode-api';
+      const playEndpoint = document.getElementById('playEndpoint');
+      const playUrl = document.getElementById('playUrl');
+      const playOutput = document.getElementById('playOutput');
+      const runBtn = document.getElementById('runBtn');
+
+      async function runPlayground() {
+        const ep = playEndpoint.value;
+        const url = `${BASE}/${ep}`;
+        playUrl.textContent = url;
+        runBtn.disabled = true;
+        runBtn.innerHTML = '<span class="spinner"></span>';
+        playOutput.innerHTML = '<div class="pg-placeholder">Loading...</div>';
+
+        try {
+          const res = await fetch(url);
+          if (!res.ok) throw new Error(`HTTP ${res.status}`);
+          const data = await res.json();
+          const display = truncateForDisplay(data);
+          playOutput.innerHTML = `<div class="pg-json">${syntaxHL(JSON.stringify(display, null, 2))}</div>`;
+        } catch (e) {
+          playOutput.innerHTML = `<div class="pg-placeholder" style="color:var(--accent)">Error: ${e.message}</div>`;
+        }
+        runBtn.disabled = false;
+        runBtn.textContent = 'Run';
+      }
+
+      function truncateForDisplay(data) {
+        if (Array.isArray(data) && data.length > 6) {
+          return [
+            ...data.slice(0, 6),
+            { '...': `${data.length - 6} more items` },
+          ];
+        }
+        if (data && data.offices && data.offices.length > 5) {
+          return {
+            ...data,
+            offices: [
+              ...data.offices.slice(0, 5),
+              { '...': `${data.offices.length - 5} more offices` },
+            ],
+          };
+        }
+        if (data && data.districts && data.districts.length > 8) {
+          return {
+            ...data,
+            districts: [
+              ...data.districts.slice(0, 8),
+              { '...': `${data.districts.length - 8} more districts` },
+            ],
+          };
+        }
+        return data;
+      }
+
+      function syntaxHL(json) {
+        return json
+          .replace(/&/g, '&amp;')
+          .replace(/</g, '&lt;')
+          .replace(/>/g, '&gt;')
+          .replace(
+            /("(\\u[a-zA-Z0-9]{4}|\\[^u]|[^\\"])*"(\s*:)?|\b(true|false|null)\b|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?)/g,
+            (match) => {
+              let cls = 'syn-num';
+              if (/^"/.test(match))
+                cls = /:$/.test(match) ? 'syn-fn' : 'syn-str';
+              else if (/true|false/.test(match)) cls = 'syn-kw';
+              else if (/null/.test(match)) cls = 'syn-kw';
+              return `<span class="${cls}">${match}</span>`;
+            },
+          );
+      }
+
+      function copyPlayOutput() {
+        navigator.clipboard.writeText(
+          document.getElementById('playOutput').innerText,
+        );
+      }
+      function clearPlay() {
+        playOutput.innerHTML =
+          '<div class="pg-placeholder">Select an endpoint and click Run</div>';
+        playUrl.textContent = '';
+      }
+
+      /* ── ACTIVE NAV ── */
+      const sections = document.querySelectorAll('section[id]');
+      const navAnchors = document.querySelectorAll('.nav-links a');
+      window.addEventListener(
+        'scroll',
+        () => {
+          let current = '';
+          sections.forEach((s) => {
+            if (window.scrollY >= s.offsetTop - 100) current = s.id;
+          });
+          navAnchors.forEach((a) => {
+            a.style.color =
+              a.getAttribute('href') === `#${current}` ? 'var(--text)' : '';
+          });
+        },
+        { passive: true },
+      );
+    </script>
+
+    <!-- Load the library with 'defer' so it doesn't block HTML parsing -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/counterapi/dist/counter.browser.min.js"
+      integrity="sha384-HBUQyk5q5qw1HRncTJ+YhLoAG5fO1eF+eldNdLaQm6Ra7w7DdyVTRVkTbeIfQtMN"
+      crossorigin="anonymous"
+      defer
+    ></script>
+
+    <script defer>
+      document.addEventListener('DOMContentLoaded', async () => {
+        const counterEl = document.getElementById('visit-count');
+        if (!counterEl) return;
+
+        if (typeof Counter === 'undefined') {
+          console.warn('CounterAPI library blocked or failed to load.');
+          counterEl.textContent = '--';
+          return;
+        }
+
+        try {
+          const counterClient = new Counter({
+            workspace: 'aniket-thapa-india-pincode-api',
+          });
+
+          const counterName = 'india-pincode-api-homepage-visits';
+          const sessionKey = `visited_${counterName}`;
+          let result;
+
+          if (!sessionStorage.getItem(sessionKey)) {
+            result = await counterClient.up(counterName);
+            sessionStorage.setItem(sessionKey, 'true');
+          } else {
+            result = await counterClient.get(counterName);
+          }
+
+          if (result && result.code === '200') {
+            counterEl.textContent = result.data.up_count.toLocaleString();
+          } else {
+            throw new Error('Invalid API payload');
+          }
+        } catch (error) {
+          console.error('Failed to fetch visitor count:', error);
+          counterEl.textContent = '--';
+        }
+      });
+    </script>
+  </body>
 </html>
