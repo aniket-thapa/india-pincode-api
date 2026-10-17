@@ -899,6 +899,124 @@
       vertical-align: middle;
     }
 
+    .ai-prompt-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      flex-wrap: wrap;
+      max-width: 720px;
+      margin-top: 34px;
+      margin-bottom: -10px;
+      padding: 10px 14px;
+      border-radius: 10px;
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      backdrop-filter: blur(8px);
+      font-family: inherit;
+    }
+
+    /* Light-mode fallback if your page uses a light theme */
+    @media (prefers-color-scheme: light) {
+      .ai-prompt-bar {
+        background: rgba(15, 23, 42, 0.03);
+        border-color: rgba(15, 23, 42, 0.1);
+      }
+    }
+
+    .ai-prompt-bar__left {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-size: 0.875rem;
+      opacity: 0.9;
+    }
+
+    .ai-prompt-badge {
+      font-size: 0.68rem;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      padding: 3px 7px;
+      border-radius: 5px;
+      background: rgba(16, 185, 129, 0.15);
+      color: #10b981;
+      border: 1px solid rgba(16, 185, 129, 0.3);
+    }
+
+    .ai-prompt-bar__actions {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .ai-btn-preview {
+      background: transparent;
+      border: 1px solid rgba(148, 163, 184, 0.25);
+      color: inherit;
+      opacity: 0.75;
+      padding: 6px 11px;
+      font-size: 0.8rem;
+      font-weight: 500;
+      border-radius: 7px;
+      cursor: pointer;
+      transition: all 0.15s ease;
+    }
+
+    .ai-btn-preview:hover {
+      opacity: 1;
+      border-color: rgba(148, 163, 184, 0.5);
+    }
+
+    .ai-btn-copy {
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      padding: 7px 14px;
+      font-size: 0.825rem;
+      font-weight: 600;
+      border-radius: 7px;
+      border: 1px solid rgba(16, 185, 129, 0.4);
+      background: rgba(16, 185, 129, 0.12);
+      color: #10b981;
+      cursor: pointer;
+      transition: all 0.18s ease;
+      white-space: nowrap;
+    }
+
+    .ai-btn-copy:hover {
+      background: rgba(16, 185, 129, 0.22);
+      border-color: rgba(16, 185, 129, 0.65);
+      transform: translateY(-1px);
+    }
+
+    .ai-btn-copy.is-copied {
+      background: #10b981;
+      color: #06281e;
+      border-color: #10b981;
+    }
+
+    .ai-prompt-drawer {
+      max-width: 720px;
+      margin: -10px auto 20px;
+      padding: 14px;
+      border-radius: 10px;
+      background: rgba(15, 23, 42, 0.92);
+      border: 1px solid rgba(148, 163, 184, 0.2);
+      color: #e2e8f0;
+      font-size: 0.78rem;
+      line-height: 1.5;
+      max-height: 260px;
+      overflow-y: auto;
+      text-align: left;
+    }
+
+    .ai-prompt-drawer pre {
+      margin: 0;
+      white-space: pre-wrap;
+      word-break: break-word;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+    }
+
     @keyframes spin {
       to {
         transform: rotate(360deg);
@@ -1038,6 +1156,40 @@
           <span class="hero-stat-label">Setup required</span>
         </div>
       </div>
+
+      <!-- ===== AI PROMPT WIDGET ===== -->
+      <div class="ai-prompt-bar">
+        <div class="ai-prompt-bar__left">
+          <span class="ai-prompt-badge">AI READY</span>
+          <span class="ai-prompt-text">Using Cursor, Copilot, Claude, or Windsurf?</span>
+        </div>
+        <div class="ai-prompt-bar__actions">
+          <button type="button" class="ai-btn-preview" id="toggleAiPromptPreview" aria-expanded="false">
+            Preview
+          </button>
+          <button type="button" class="ai-btn-copy" id="copyAiPromptBtn" aria-label="Copy AI Prompt for Agents">
+            <!-- Sparkle Icon -->
+            <svg class="ai-icon ai-icon--sparkle" width="15" height="15" viewBox="0 0 24 24" fill="none"
+              stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path
+                d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z" />
+            </svg>
+            <!-- Check Icon (Hidden by default) -->
+            <svg class="ai-icon ai-icon--check" width="15" height="15" viewBox="0 0 24 24" fill="none"
+              stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"
+              style="display:none;">
+              <polyline points="20 6 9 17 4 12"></polyline>
+            </svg>
+            <span id="copyAiPromptLabel">Copy AI Prompt</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Collapsible Minimalist Preview Drawer -->
+      <div class="ai-prompt-drawer" id="aiPromptDrawer" hidden>
+        <pre id="aiPromptRawText"></pre>
+      </div>
+
     </section>
 
     <!-- ── FEATURES ── -->
@@ -1092,12 +1244,12 @@
       <div class="qs-panel active" id="qs-js">
         <pre><button class="copy-btn" onclick="copyCode(this)">copy</button><code><span class="syn-kw">const</span> <span class="syn-const">BASE</span> = <span class="syn-str">'https://aniket-thapa.github.io/india-pincode-api'</span>;
 
-<span class="syn-kw">const</span> res = <span class="syn-kw">await</span> <span class="syn-fn">fetch</span>(<span class="syn-str">`${BASE}/pincodes/110001.json`</span>);
-<span class="syn-kw">const</span> data = <span class="syn-kw">await</span> res.<span class="syn-fn">json</span>();
+        <span class="syn-kw">const</span> res = <span class="syn-kw">await</span> <span class="syn-fn">fetch</span>(<span class="syn-str">`${BASE}/pincodes/110001.json`</span>);
+        <span class="syn-kw">const</span> data = <span class="syn-kw">await</span> res.<span class="syn-fn">json</span>();
 
-console.<span class="syn-fn">log</span>(data.state);    <span class="syn-cm">// "DELHI"</span>
-console.<span class="syn-fn">log</span>(data.district); <span class="syn-cm">// "NEW DELHI"</span>
-console.<span class="syn-fn">log</span>(data.offices);  <span class="syn-cm">// [{officeName, officeType, ...}]</span></code></pre>
+        console.<span class="syn-fn">log</span>(data.state);    <span class="syn-cm">// "DELHI"</span>
+        console.<span class="syn-fn">log</span>(data.district); <span class="syn-cm">// "NEW DELHI"</span>
+        console.<span class="syn-fn">log</span>(data.offices);  <span class="syn-cm">// [{officeName, officeType, ...}]</span></code></pre>
       </div>
 
       <div class="qs-panel" id="qs-py">
@@ -1114,16 +1266,16 @@ data = res.<span class="syn-fn">json</span>()
 
       <div class="qs-panel" id="qs-curl">
         <pre><button class="copy-btn" onclick="copyCode(this)">copy</button><code><span class="syn-cm"># Pincode lookup</span>
-curl https://aniket-thapa.github.io/india-pincode-api/pincodes/110001.json
+        curl https://aniket-thapa.github.io/india-pincode-api/pincodes/110001.json
 
-<span class="syn-cm"># All states</span>
-curl https://aniket-thapa.github.io/india-pincode-api/states.json
+        <span class="syn-cm"># All states</span>
+        curl https://aniket-thapa.github.io/india-pincode-api/states.json
 
-<span class="syn-cm"># State detail</span>
-curl https://aniket-thapa.github.io/india-pincode-api/states/rajasthan.json
+        <span class="syn-cm"># State detail</span>
+        curl https://aniket-thapa.github.io/india-pincode-api/states/rajasthan.json
 
-<span class="syn-cm"># District detail</span>
-curl https://aniket-thapa.github.io/india-pincode-api/districts/rajasthan/jodhpur.json</code></pre>
+        <span class="syn-cm"># District detail</span>
+        curl https://aniket-thapa.github.io/india-pincode-api/districts/rajasthan/jodhpur.json</code></pre>
       </div>
     </section>
 
@@ -1170,7 +1322,8 @@ curl https://aniket-thapa.github.io/india-pincode-api/districts/rajasthan/jodhpu
             <div class="note-box">
               <span>💡</span>
               <div><strong>Example:</strong> <code>/states/maharashtra.json</code>,
-                <code>/states/uttar-pradesh.json</code></div>
+                <code>/states/uttar-pradesh.json</code>
+              </div>
             </div>
             <div class="resp-label">Response</div>
             <pre><button class="copy-btn" onclick="copyCode(this)">copy</button><code>{
@@ -1200,7 +1353,8 @@ curl https://aniket-thapa.github.io/india-pincode-api/districts/rajasthan/jodhpu
             <div class="note-box">
               <span>💡</span>
               <div><strong>Example:</strong> <code>/districts/rajasthan/jodhpur.json</code>,
-                <code>/districts/maharashtra/pune.json</code></div>
+                <code>/districts/maharashtra/pune.json</code>
+              </div>
             </div>
             <div class="resp-label">Response</div>
             <pre><button class="copy-btn" onclick="copyCode(this)">copy</button><code>{
@@ -1231,11 +1385,13 @@ curl https://aniket-thapa.github.io/india-pincode-api/districts/rajasthan/jodhpu
           </div>
           <div class="ep-body">
             <p class="ep-desc">Returns all post offices under a specific pincode with state and district context. The
-              <code>pincode</code> field is omitted since it's encoded in the URL.</p>
+              <code>pincode</code> field is omitted since it's encoded in the URL.
+            </p>
             <div class="note-box warn">
               <span>⚠️</span>
               <div>A single pincode can map to multiple offices. Always iterate <code>offices[]</code> and null-check
-                <code>latitude</code>/<code>longitude</code>.</div>
+                <code>latitude</code>/<code>longitude</code>.
+              </div>
             </div>
             <div class="resp-label">Response</div>
             <pre><button class="copy-btn" onclick="copyCode(this)">copy</button><code>{
@@ -1319,7 +1475,8 @@ curl https://aniket-thapa.github.io/india-pincode-api/districts/rajasthan/jodhpu
               <td><span class="f-name">officeType</span></td>
               <td><span class="f-type">string</span></td>
               <td class="f-desc"><code>HO</code> (Head), <code>SO</code> (Sub), <code>BO</code> (Branch),
-                <code>PO</code> (Post Office)</td>
+                <code>PO</code> (Post Office)
+              </td>
             </tr>
             <tr>
               <td><span class="f-name">deliveryStatus</span></td>
@@ -1609,6 +1766,84 @@ curl https://aniket-thapa.github.io/india-pincode-api/districts/rajasthan/jodhpu
         a.style.color = a.getAttribute('href') === `#${current}` ? 'var(--text)' : '';
       });
     }, { passive: true });
+  </script>
+
+  <!-- AI Agent Script -->
+  <script>
+    (function () {
+      const AI_AGENT_PROMPT = `Integrate the free, static India Pincode REST API into my project.
+
+  1. Base URL: https://aniket-thapa.github.io/india-pincode-api
+  - Static JSON hosted on GitHub Pages. No API key, no rate limits, CORS enabled, GET requests only.
+
+  2. Endpoints & Response Schemas:
+  - GET /states.json -> Array<{ name: string, slug: string, districtCount: number, officeCount: number }>
+    - GET /states/{state-slug}.json -> { state: string, slug: string, districtCount: number, officeCount: number,
+    districts: Array<{ name: string, slug: string, officeCount: number }> }
+      - GET /districts/{state-slug}/{district-slug}.json -> { state: string, stateSlug: string, district: string,
+      districtSlug: string, officeCount: number, offices: Array<Office & { pincode: string }> }
+        - GET /pincodes/{6-digit-pincode}.json -> { pincode: string, state: string, stateSlug: string, district: string,
+        districtSlug: string, officeCount: number, offices: Array<{ officeName: string, officeType: "B.O" |"S.O"|"H.O",
+          delivery: "Delivery" |"Non Delivery", division: string, region: string, circle: string, taluk: string,
+          latitude: number|null, longitude: number|null }> }
+
+          3. Mandatory Bug-Prevention Rules:
+          - Validate PIN format client-side with /^[1-9][0-9]{5}$/ BEFORE calling fetch().
+          - Check res.ok (if res.status === 404 return null) BEFORE calling res.json(), as missing PINs return a GitHub
+          Pages 404 response.
+          - Always treat offices[] as an array of multiple post offices per PIN code; never assume a single office.
+          - Guard against null latitude/longitude values before passing coordinates to maps or distance helpers.`;
+
+      const copyBtn = document.getElementById('copyAiPromptBtn');
+      const copyLabel = document.getElementById('copyAiPromptLabel');
+      const sparkleIcon = copyBtn.querySelector('.ai-icon--sparkle');
+      const checkIcon = copyBtn.querySelector('.ai-icon--check');
+      const previewBtn = document.getElementById('toggleAiPromptPreview');
+      const drawer = document.getElementById('aiPromptDrawer');
+      const rawPre = document.getElementById('aiPromptRawText');
+
+      rawPre.textContent = AI_AGENT_PROMPT;
+
+      previewBtn.addEventListener('click', () => {
+        const isHidden = drawer.hasAttribute('hidden');
+        if (isHidden) {
+          drawer.removeAttribute('hidden');
+          previewBtn.textContent = 'Hide';
+          previewBtn.setAttribute('aria-expanded', 'true');
+        } else {
+          drawer.setAttribute('hidden', '');
+          previewBtn.textContent = 'Preview';
+          previewBtn.setAttribute('aria-expanded', 'false');
+        }
+      });
+
+      copyBtn.addEventListener('click', async () => {
+        try {
+          await navigator.clipboard.writeText(AI_AGENT_PROMPT);
+        } catch {
+          const ta = document.createElement('textarea');
+          ta.value = AI_AGENT_PROMPT;
+          ta.style.position = 'fixed';
+          ta.style.opacity = '0';
+          document.body.appendChild(ta);
+          ta.select();
+          document.execCommand('copy');
+          document.body.removeChild(ta);
+        }
+
+        copyBtn.classList.add('is-copied');
+        sparkleIcon.style.display = 'none';
+        checkIcon.style.display = 'inline-block';
+        copyLabel.textContent = 'Copied for AI Agent!';
+
+        setTimeout(() => {
+          copyBtn.classList.remove('is-copied');
+          sparkleIcon.style.display = 'inline-block';
+          checkIcon.style.display = 'none';
+          copyLabel.textContent = 'Copy AI Prompt';
+        }, 2200);
+      });
+    })();
   </script>
 
   <!-- Load the library with 'defer' so it doesn't block HTML parsing -->
