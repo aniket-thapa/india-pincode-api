@@ -981,12 +981,6 @@
         color: var(--text);
       }
 
-      .visitor-count {
-        display: flex;
-        align-items: center;
-        gap: 4px;
-      }
-
       /* ── INLINE CODE ── */
       code:not(pre code) {
         font-family: var(--mono);
@@ -1850,9 +1844,6 @@ Before editing, inspect the repository and explain the files you will change. Th
               >CC BY-NC 4.0</a
             >
           </div>
-          <div class="visitor-count">
-            Views: <span id="visit-count">...</span>
-          </div>
         </div>
       </div>
     </footer>
@@ -2081,53 +2072,6 @@ Before editing, inspect the repository and explain the files you will change. Th
         },
         { passive: true },
       );
-    </script>
-
-    <!-- Load the library with 'defer' so it doesn't block HTML parsing -->
-    <script
-      src="https://cdn.jsdelivr.net/npm/counterapi/dist/counter.browser.min.js"
-      integrity="sha384-HBUQyk5q5qw1HRncTJ+YhLoAG5fO1eF+eldNdLaQm6Ra7w7DdyVTRVkTbeIfQtMN"
-      crossorigin="anonymous"
-      defer
-    ></script>
-
-    <script defer>
-      document.addEventListener('DOMContentLoaded', async () => {
-        const counterEl = document.getElementById('visit-count');
-        if (!counterEl) return;
-
-        if (typeof Counter === 'undefined') {
-          console.warn('CounterAPI library blocked or failed to load.');
-          counterEl.textContent = '--';
-          return;
-        }
-
-        try {
-          const counterClient = new Counter({
-            workspace: 'aniket-thapa-india-pincode-api',
-          });
-
-          const counterName = 'india-pincode-api-homepage-visits';
-          const sessionKey = `visited_${counterName}`;
-          let result;
-
-          if (!sessionStorage.getItem(sessionKey)) {
-            result = await counterClient.up(counterName);
-            sessionStorage.setItem(sessionKey, 'true');
-          } else {
-            result = await counterClient.get(counterName);
-          }
-
-          if (result && result.code === '200') {
-            counterEl.textContent = result.data.up_count.toLocaleString();
-          } else {
-            throw new Error('Invalid API payload');
-          }
-        } catch (error) {
-          console.error('Failed to fetch visitor count:', error);
-          counterEl.textContent = '--';
-        }
-      });
     </script>
   </body>
 </html>
